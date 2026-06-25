@@ -5,3 +5,8 @@ secrets/
 .dev.vars
 .env
 *.token
+content/*.log
+content/*.err.log
+content/inbox.md
+content/engage_state.json
+content/assets/test_card.png

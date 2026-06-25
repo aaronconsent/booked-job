@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": "pricing-pick-two",
+      "archetype": "pricing-drama",
+      "caption": "Quoting, in one sentence. What would you add to the list? 👇",
+      "image": "content/assets/pricing-pick-two.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "pricing-insurance",
+      "archetype": "pricing-drama",
+      "caption": "Every shop has had this exact conversation. 🤝",
+      "image": "content/assets/pricing-insurance.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "pricing-low-bid",
+      "archetype": "pricing-drama",
+      "caption": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
+      "image": "content/assets/pricing-low-bid.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "lastguy-worst",
+      "archetype": "hack-job",
+      "caption": "What's the worst “the last guy did it” job you've walked into? Photos absolutely encouraged. We'll feature the best (worst) ones. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "lastguy-rate",
+      "archetype": "hack-job",
+      "caption": "Found behind the drywall this week: a garden hose doing a P-trap's job. Rate the previous install 1–10. I'll start — it's on fire. 🔥",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "homeowner-lie",
+      "archetype": "homeowner-says",
+      "caption": "Drop the runner-up below. 👇",
+      "image": "content/assets/homeowner-lie.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "homeowner-drain",
+      "archetype": "homeowner-says",
+      "caption": "Plumbers, you're up first. The rest of us are not ready. 👇",
+      "image": "content/assets/homeowner-drain.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "humor-10mm",
+      "archetype": "trade-humor",
+      "caption": "It's somewhere in the truck. It's always somewhere in the truck.",
+      "image": "content/assets/humor-10mm.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "humor-that-guy",
+      "archetype": "trade-humor",
+      "caption": "Every jobsite has “that guy.” What's his signature move? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "tools-mil-vs-dewalt",
+      "archetype": "tool-wars",
+      "caption": "Settle it in the comments. We're not picking sides. (Yes we are.) 👇",
+      "image": "content/assets/tools-mil-vs-dewalt.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "biz-slow-season",
+      "archetype": "business",
+      "caption": "Slow-season survival rule #1: the time to market is when you're busy, not when the phone stops. The work you book in summer is what fills January. What are you doing now to stay booked through winter? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "biz-money-leaks",
+      "archetype": "business",
+      "caption": "Three ways shops bleed money they never see:\n\n1. Unbilled change orders\n2. “Quick favors” that aren't quick\n3. Not charging for the drive\n\nWhich one's getting you this year? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "labor-show-up",
+      "archetype": "owner-solidarity",
+      "caption": "Posted for a helper. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem — they have a “show up” problem. Who's actually hiring right now? Drop your city. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "ugc-before-after",
+      "archetype": "before-after",
+      "caption": "Drop your best before/after. Any trade — roof, panel, re-pipe, install, cleanout. Let's see the work that doesn't get enough credit. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    }
+  ]
+}
