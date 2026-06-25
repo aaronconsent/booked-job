@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Booked Job — Links</title>
+<meta name="description" content="Everything from Booked Job in one place — for plumbers, roofers, HVAC techs and electricians." />
+<meta name="robots" content="noindex" />
+<meta name="theme-color" content="#15171A" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{--hi:#FF6A00;--hi-2:#FF8A2B;--asphalt:#15171A;--htape:#FFD23F;--line:#2A2F36}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Inter,system-ui,sans-serif;background:var(--asphalt);color:#fff;min-height:100vh;
+       background-image:radial-gradient(circle at 50% -10%,rgba(255,106,0,.18),transparent 55%)}
+  .tape{height:8px;background:repeating-linear-gradient(45deg,var(--htape) 0 20px,var(--asphalt) 20px 40px)}
+  .wrap{max-width:520px;margin:0 auto;padding:36px 22px 60px;text-align:center}
+  .mark{width:64px;height:64px;border-radius:14px;background:var(--hi);display:grid;place-items:center;
+        font-family:Anton,sans-serif;color:var(--asphalt);font-size:40px;margin:8px auto 16px;transform:skewX(-6deg)}
+  h1{font-family:Anton,sans-serif;text-transform:uppercase;letter-spacing:.02em;font-size:30px}
+  h1 span{color:var(--hi)}
+  .tag{color:#A9AEB5;font-size:15px;margin-top:8px}
+  .links{margin-top:30px;display:flex;flex-direction:column;gap:13px}
+  a.link{display:flex;align-items:center;gap:14px;background:#1E2227;border:1px solid var(--line);
+         border-radius:13px;padding:16px 18px;color:#fff;text-decoration:none;font-weight:600;font-size:16px;
+         transition:border-color .15s,transform .1s}
+  a.link:hover{border-color:var(--hi);transform:translateY(-1px)}
+  a.link.primary{background:var(--hi);border-color:var(--hi)}
+  a.link.primary:hover{background:var(--hi-2)}
+  a.link .emoji{font-size:22px}
+  .foot{margin-top:34px;font-size:12px;color:#7A7F87}
+  .foot a{color:#A9AEB5}
+</style>
+</head>
+<body>
+<div class="tape"></div>
+<div class="wrap">
+  <div class="mark">B</div>
+  <h1>BOOKED<span>JOB</span></h1>
+  <p class="tag">For service pros who'd rather be working.</p>
+
+  <div class="links">
+    <a class="link primary" href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">
+      <span class="emoji">📘</span> Follow us on Facebook
+    </a>
+    <!-- GROUP_LINK: replace href once the owned FB Group is created -->
+    <a class="link" href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener" data-slot="group">
+      <span class="emoji">👷</span> Join the crew (Facebook group)
+    </a>
+    <a class="link" href="/#join">
+      <span class="emoji">✉️</span> Get the best stuff by email
+    </a>
+    <a class="link" href="/blog/">
+      <span class="emoji">📰</span> Read the latest
+    </a>
+  </div>
+
+  <p class="foot">© <span id="yr"></span> Booked Job · <a href="/">booked-job.com</a></p>
+</div>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+</body>
+</html>
