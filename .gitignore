@@ -14,3 +14,4 @@ content/assets/test_card.png
 content/reels/*.mp4
 *.wav
 *.wav.json
+content/voicelab/

@@ -16,7 +16,15 @@ from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from heygen_tts import generate_speech, DEFAULT_VOICE
+
+
+def _tts(backend):
+    """Pick the TTS backend: 'elevenlabs' (best voice) or 'heygen' (fallback)."""
+    if backend == "elevenlabs":
+        import elevenlabs_tts as m
+    else:
+        import heygen_tts as m
+    return m.generate_speech, m.DEFAULT_VOICE
 
 HI = (255, 106, 0); ASPHALT = (21, 23, 26); WHITE = (255, 255, 255)
 YELLOW = (255, 210, 63); MUTED = (150, 156, 164)
@@ -93,7 +101,9 @@ def frame(hook, caption, progress):
     return img
 
 
-def build(hook, script, out, voice):
+def build(hook, script, out, voice=None, backend="heygen"):
+    generate_speech, default_voice = _tts(backend)
+    voice = voice or default_voice
     tmp = tempfile.mkdtemp(prefix="reel_")
     wav = os.path.join(tmp, "vo.wav")
     _, dur, words = generate_speech(script, voice, wav)
@@ -135,7 +145,8 @@ if __name__ == "__main__":
     ap.add_argument("--hook", required=True)
     ap.add_argument("--script", required=True)
     ap.add_argument("--out", required=True)
-    ap.add_argument("--voice", default=DEFAULT_VOICE)
+    ap.add_argument("--voice", default=None)
+    ap.add_argument("--backend", default="heygen", choices=["heygen", "elevenlabs"])
     a = ap.parse_args()
-    out, dur = build(a.hook, a.script, a.out, a.voice)
+    out, dur = build(a.hook, a.script, a.out, a.voice, a.backend)
     print(f"built {out} ({dur:.1f}s)")
