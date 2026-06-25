@@ -10,3 +10,4 @@ content/*.err.log
 content/inbox.md
 content/engage_state.json
 content/assets/test_card.png
+!content/brand/
