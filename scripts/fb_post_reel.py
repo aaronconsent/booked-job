@@ -27,20 +27,11 @@ def _json_post(url, data):
         sys.exit(f"Reels API error {e.code}: {e.read().decode()}")
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--video", required=True)
-    ap.add_argument("--description", default="")
-    ap.add_argument("--dry-run", action="store_true")
-    a = ap.parse_args()
-
-    env = fb_post.load_env()
+def publish_reel(video, description="", env=None):
+    """Publish an MP4 as a Reel. Returns dict with video_id/status. Reusable."""
+    env = env or fb_post.load_env()
     page, token = env["FB_PAGE_ID"], env["FB_PAGE_TOKEN"]
-    size = os.path.getsize(a.video)
-
-    if a.dry_run:
-        print(json.dumps({"dry_run": True, "video": a.video, "bytes": size,
-                          "description": a.description}, indent=2)); return
+    size = os.path.getsize(video)
 
     # phase 1: start
     start = _json_post(f"{GRAPH}/{page}/video_reels",
@@ -48,7 +39,7 @@ def main():
     video_id = start["video_id"]
 
     # phase 2: upload bytes
-    with open(a.video, "rb") as f:
+    with open(video, "rb") as f:
         blob = f.read()
     req = urllib.request.Request(f"{RUPLOAD}/{video_id}", data=blob, method="POST")
     req.add_header("Authorization", f"OAuth {token}")
@@ -66,9 +57,8 @@ def main():
     fin = _json_post(f"{GRAPH}/{page}/video_reels", {
         "access_token": token, "video_id": video_id,
         "upload_phase": "finish", "video_state": "PUBLISHED",
-        "description": a.description})
+        "description": description})
 
-    # poll status briefly
     status = None
     for _ in range(10):
         time.sleep(6)
@@ -78,7 +68,22 @@ def main():
         vs = status.get("video_status") or status.get("processing_phase", {}).get("status")
         if vs in ("ready", "published", "complete"):
             break
-    print(json.dumps({"video_id": video_id, "finish": fin, "status": status}, indent=2))
+    return {"video_id": video_id, "finish": fin, "status": status}
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--video", required=True)
+    ap.add_argument("--description", default="")
+    ap.add_argument("--dry-run", action="store_true")
+    a = ap.parse_args()
+
+    if a.dry_run:
+        print(json.dumps({"dry_run": True, "video": a.video,
+                          "bytes": os.path.getsize(a.video),
+                          "description": a.description}, indent=2)); return
+
+    print(json.dumps(publish_reel(a.video, a.description), indent=2))
 
 
 if __name__ == "__main__":
