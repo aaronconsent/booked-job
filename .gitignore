@@ -11,3 +11,6 @@ content/inbox.md
 content/engage_state.json
 content/assets/test_card.png
 !content/brand/
+content/reels/*.mp4
+*.wav
+*.wav.json
