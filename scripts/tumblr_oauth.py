@@ -1,55 +1,43 @@
 #!/usr/bin/env python3
 """
-One-time Tumblr OAuth2 — captures a refresh token + your blog name, writes
-secrets/tumblr.env. Run after registering an app at tumblr.com/oauth/apps with
-OAuth2 redirect URL = http://127.0.0.1:8080.
+Tumblr OAuth2 connect. Tumblr rejects localhost redirects, so we use a hosted
+callback (https://booked-job.com/oauth/callback) that shows the code; you paste
+it back and this exchanges it for a refresh token. Writes secrets/tumblr.env.
 
-    python3 scripts/tumblr_oauth.py --client-id <KEY> --client-secret <SECRET>
+Two modes:
+  1) print the auth URL:   python3 scripts/tumblr_oauth.py --client-id <K> --auth-url
+  2) exchange the code:     python3 scripts/tumblr_oauth.py --client-id <K> --client-secret <S> --code <CODE>
 """
-import argparse, http.server, json, os, sys, threading, time, urllib.parse, urllib.request, webbrowser
+import argparse, json, os, sys, urllib.parse, urllib.request
 
-SCOPE = "basic write offline_access"
-REDIRECT = "http://127.0.0.1:8080"
+REDIRECT = "https://booked-job.com/oauth/callback"
 AUTH = "https://www.tumblr.com/oauth2/authorize"
 TOKEN = "https://api.tumblr.com/v2/oauth2/token"
-_code = {}
+SCOPE = "basic write offline_access"
 
 
-class Handler(http.server.BaseHTTPRequestHandler):
-    def do_GET(self):
-        p = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
-        _code["code"] = p.get("code", [None])[0]; _code["error"] = p.get("error", [None])[0]
-        self.send_response(200); self.send_header("Content-Type", "text/html; charset=utf-8"); self.end_headers()
-        m = "Authorized — close this tab." if _code.get("code") else f"Error: {_code.get('error')}"
-        self.wfile.write(f"<meta charset=utf-8><body style='font-family:sans-serif;background:#15171A;color:#fff;padding:60px;text-align:center'><h2>Booked Job · Tumblr</h2><p>{m}</p></body>".encode())
-
-    def log_message(self, *a):
-        pass
+def auth_url(cid):
+    return AUTH + "?" + urllib.parse.urlencode({"client_id": cid, "response_type": "code",
+        "scope": SCOPE, "redirect_uri": REDIRECT, "state": "bookedjob"})
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--client-id", required=True)
-    ap.add_argument("--client-secret", required=True)
+    ap.add_argument("--client-secret")
+    ap.add_argument("--code")
+    ap.add_argument("--auth-url", action="store_true")
     a = ap.parse_args()
 
-    url = AUTH + "?" + urllib.parse.urlencode({"client_id": a.client_id, "response_type": "code",
-        "scope": SCOPE, "redirect_uri": REDIRECT, "state": "bookedjob"})
-    srv = http.server.HTTPServer(("127.0.0.1", 8080), Handler)
-    threading.Thread(target=lambda: [srv.handle_request() for _ in iter(lambda: not (_code.get("code") or _code.get("error")), False)], daemon=True).start()
-    print(">>> Open this URL signed in as the Booked Job Tumblr:\n\n" + url + "\n")
-    try:
-        webbrowser.open(url)
-    except Exception:
-        pass
-    for _ in range(290):
-        if _code.get("code") or _code.get("error"):
-            break
-        time.sleep(1)
-    if not _code.get("code"):
-        sys.exit(f"No code ({_code.get('error') or 'timeout'}).")
+    if a.auth_url or not a.code:
+        print(auth_url(a.client_id))
+        if not a.code:
+            return
 
-    body = urllib.parse.urlencode({"grant_type": "authorization_code", "code": _code["code"],
+    if not a.client_secret:
+        sys.exit("--client-secret required to exchange the code.")
+
+    body = urllib.parse.urlencode({"grant_type": "authorization_code", "code": a.code,
         "client_id": a.client_id, "client_secret": a.client_secret, "redirect_uri": REDIRECT}).encode()
     req = urllib.request.Request(TOKEN, data=body)
     req.add_header("Content-Type", "application/x-www-form-urlencoded")
@@ -58,9 +46,8 @@ def main():
     except urllib.error.HTTPError as ex:
         sys.exit(f"token exchange failed {ex.code}: {ex.read().decode()[:300]}")
     if "refresh_token" not in tok:
-        sys.exit(f"No refresh_token returned: {tok}")
+        sys.exit(f"No refresh_token: {tok}")
 
-    # get primary blog name
     blog = ""
     try:
         r = urllib.request.Request("https://api.tumblr.com/v2/user/info")
