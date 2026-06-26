@@ -1,9 +1,11 @@
 {
-  // Serves the static site/ folder (landing, link-in-bio, dashboard) as a
-  // Cloudflare Worker with static assets. `npx wrangler deploy` publishes it.
+  // Worker serves the static site/ folder AND handles /api/subscribe (email
+  // capture -> Resend). `npx wrangler deploy` publishes it.
   "name": "booked-job",
+  "main": "src/index.js",
   "compatibility_date": "2026-06-01",
   "assets": {
-    "directory": "./site"
+    "directory": "./site",
+    "binding": "ASSETS"
   }
 }
