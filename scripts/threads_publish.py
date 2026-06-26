@@ -27,6 +27,24 @@ def _post(path, params):
         sys.exit(f"Threads error {ex.code} on {path}: {ex.read().decode()[:300]}")
 
 
+def refresh_and_save():
+    """Refresh the long-lived token (valid 60 days, refreshable after 24h) and
+    persist it. Best-effort — keeps the agent alive indefinitely across runs."""
+    e = env()
+    try:
+        url = f"https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token={e['THREADS_TOKEN']}"
+        with urllib.request.urlopen(url, timeout=30) as r:
+            new = json.loads(r.read().decode()).get("access_token")
+        if new and new != e["THREADS_TOKEN"]:
+            p = os.path.join(os.path.dirname(__file__), "..", "secrets", "threads.env")
+            lines = [(f"THREADS_TOKEN={new}\n" if l.startswith("THREADS_TOKEN=") else l) for l in open(p)]
+            open(p, "w").writelines(lines)
+            return True
+    except Exception:
+        pass
+    return False
+
+
 def publish_text(text):
     e = env()
     uid, tok = e["THREADS_USER_ID"], e["THREADS_TOKEN"]

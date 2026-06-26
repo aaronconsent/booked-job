@@ -38,6 +38,7 @@ def main():
     blurb = (nxt.get("blurb", "") or "").split(". ")[0][:220]
     text = f"{hook}\n\n{blurb}.\n\n{nxt['url']}"
     import threads_publish
+    threads_publish.refresh_and_save()  # keep the 60-day token alive
     res = threads_publish.publish_text(text[:500])
     done.add(nxt["id"]); state["done"] = list(done)
     json.dump(state, open(STATE, "w"), indent=2)
