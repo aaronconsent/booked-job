@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex" />
+<title>Leave Booked Job a review</title>
+<meta name="description" content="Got something useful out of Booked Job? A quick honest review on Google means a lot." />
+<meta name="theme-color" content="#15171A" />
+<link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root{--hi:#FF6A00;--hi2:#FF8A2B;--asphalt:#15171A;--yellow:#FFD23F;--line:#2A2F36}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Inter,system-ui,sans-serif;background:var(--asphalt);color:#fff;min-height:100vh;
+       background-image:radial-gradient(circle at 50% -10%,rgba(255,106,0,.18),transparent 55%)}
+  .tape{height:8px;background:repeating-linear-gradient(45deg,var(--yellow) 0 20px,var(--asphalt) 20px 40px)}
+  .wrap{max-width:540px;margin:0 auto;padding:44px 22px 60px;text-align:center}
+  .mark{width:64px;height:64px;border-radius:14px;background:var(--hi);display:grid;place-items:center;
+        font-family:Anton,sans-serif;color:var(--asphalt);font-size:40px;margin:0 auto 18px;transform:skewX(-6deg)}
+  h1{font-family:Anton,sans-serif;text-transform:uppercase;letter-spacing:.01em;font-size:clamp(28px,7vw,40px);line-height:1.05}
+  h1 span{color:var(--hi)}
+  p.lede{font-size:18px;color:#C7CBD1;margin:16px 0 6px;line-height:1.6}
+  .stars{font-size:30px;letter-spacing:4px;margin:22px 0 6px}
+  .btn{display:inline-flex;align-items:center;gap:10px;background:var(--hi);color:#fff;font-weight:800;font-size:18px;
+       padding:16px 30px;border-radius:12px;text-decoration:none;margin-top:22px}
+  .btn:hover{background:var(--hi2)}
+  .note{font-size:13px;color:#8A8F97;margin-top:16px}
+  .alt{margin-top:30px;font-size:14px;color:#A9AEB5}
+  .alt a{color:#C7CBD1}
+</style>
+</head>
+<body>
+<div class="tape"></div>
+<div class="wrap">
+  <div class="mark">B</div>
+  <h1>Got something useful out of <span>Booked Job?</span></h1>
+  <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+  <p class="lede">If even one post, Reel, or the Angi calculator helped you, a quick honest review on Google means a lot — and helps another shop owner find us. Takes about 30 seconds.</p>
+  <!-- REVIEW_URL: replace with the Google "writereview?placeid=…" link once the GBP is verified -->
+  <a class="btn" id="reviewBtn" href="REVIEW_URL_PLACEHOLDER" target="_blank" rel="noopener">Leave a Google review →</a>
+  <p class="note">No account hoops — opens straight to the review box.</p>
+  <div class="alt">Not a review kind of person? Just <a href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">say hi on Facebook</a> or <a href="/#join">get the newsletter</a>.</div>
+</div>
+<script>
+  // If the review link isn't wired yet, send people to Facebook so the page never dead-ends.
+  var btn=document.getElementById('reviewBtn');
+  if(btn.getAttribute('href').indexOf('PLACEHOLDER')>-1){
+    btn.setAttribute('href','https://www.facebook.com/profile.php?id=61591176670582');
+    btn.textContent='Follow on Facebook →';
+  }
+</script>
+</body>
+</html>

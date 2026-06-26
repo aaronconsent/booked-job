@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T15:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Built the Google review machine: /review page + review-ask email (review_blast.py) + link-in-bio CTA. Ready once the Booked Job GBP is verified."
+    },
+    {
       "ts": "2026-06-26T14:59",
       "kind": "site",
       "icon": "🌐",
