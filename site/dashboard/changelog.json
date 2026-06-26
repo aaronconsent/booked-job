@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T16:39",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Connected Telegraph + Bluesky + Mastodon syndication (3 more surfaces); added rel=me Mastodon verification link."
+    },
+    {
+      "ts": "2026-06-26T16:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
+    },
+    {
       "ts": "2026-06-26T16:32",
       "kind": "site",
       "icon": "🌐",

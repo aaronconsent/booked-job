@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T16:16",
+  "updated": "2026-06-26T16:39",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -233,6 +233,11 @@
       "on": true
     },
     {
+      "name": "Bluesky",
+      "schedule": "Thu \u00b7 13:00",
+      "on": true
+    },
+    {
       "name": "Engage",
       "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
       "on": true
@@ -245,6 +250,11 @@
     {
       "name": "Instagram Reels",
       "schedule": "Tue, Thu \u00b7 11:00",
+      "on": true
+    },
+    {
+      "name": "Mastodon",
+      "schedule": "Sat \u00b7 14:00",
       "on": true
     },
     {
@@ -275,6 +285,11 @@
     {
       "name": "Stats Refresh",
       "schedule": "Daily \u00b7 12:00 / 18:00 / 22:00 / 6:00",
+      "on": true
+    },
+    {
+      "name": "Telegraph",
+      "schedule": "Sat \u00b7 10:00",
       "on": true
     },
     {
