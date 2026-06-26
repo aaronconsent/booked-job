@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T18:00",
+  "updated": "2026-06-26T18:57",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -288,8 +288,18 @@
       "on": true
     },
     {
+      "name": "Telegram",
+      "schedule": "Fri \u00b7 13:00",
+      "on": true
+    },
+    {
       "name": "Telegraph",
       "schedule": "Sat \u00b7 10:00",
+      "on": true
+    },
+    {
+      "name": "Threads",
+      "schedule": "Wed \u00b7 13:00",
       "on": true
     },
     {
@@ -301,6 +311,80 @@
       "name": "YouTube Shorts",
       "schedule": "Mon, Wed, Fri \u00b7 8:30",
       "on": true
+    }
+  ],
+  "channels": [
+    {
+      "name": "Facebook",
+      "status": "live",
+      "count": 0,
+      "unit": "posts"
+    },
+    {
+      "name": "Instagram",
+      "status": "live",
+      "count": 0,
+      "unit": "reels"
+    },
+    {
+      "name": "YouTube",
+      "status": "live",
+      "count": 0,
+      "unit": "shorts"
+    },
+    {
+      "name": "Blogger",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "Tumblr",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "Telegraph",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "Bluesky",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "Mastodon",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "Threads",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "Telegram",
+      "status": "live",
+      "count": 1,
+      "unit": "posts"
+    },
+    {
+      "name": "GitHub Pages",
+      "status": "live",
+      "count": 1,
+      "unit": "mirrors"
+    },
+    {
+      "name": "Pinterest",
+      "status": "sandbox",
+      "count": 0,
+      "unit": "pins"
     }
   ]
 }

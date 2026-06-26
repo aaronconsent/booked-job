@@ -74,6 +74,31 @@ def enumerate_agents():
     return out
 
 
+def channels():
+    """Distribution panel: every channel with connection status + posts shipped."""
+    # (name, secret file, state file, state key, unit, kind-when-connected)
+    reg = [
+        ("Facebook", "fb.env", "state.json", "posted", "posts", "live"),
+        ("Instagram", "fb.env", "instagram_state.json", "done", "reels", "live"),
+        ("YouTube", "youtube.env", "youtube_state.json", "done", "shorts", "live"),
+        ("Blogger", "blogger.env", "blogger_state.json", "done", "posts", "live"),
+        ("Tumblr", "tumblr.env", "tumblr_state.json", "done", "posts", "live"),
+        ("Telegraph", "telegraph.env", "telegraph_state.json", "done", "posts", "live"),
+        ("Bluesky", "bluesky.env", "bluesky_state.json", "done", "posts", "live"),
+        ("Mastodon", "mastodon.env", "mastodon_state.json", "done", "posts", "live"),
+        ("Threads", "threads.env", "threads_state.json", "done", "posts", "live"),
+        ("Telegram", "telegram.env", "telegram_state.json", "done", "posts", "live"),
+        ("GitHub Pages", "github.env", "ghpages_state.json", "done", "mirrors", "live"),
+        ("Pinterest", "pinterest.env", "pinterest_state.json", "done", "pins", "sandbox"),
+    ]
+    out = []
+    for name, sec, stf, key, unit, kind in reg:
+        connected = os.path.exists(os.path.join(ROOT, "secrets", sec))
+        cnt = len(jload(os.path.join(ROOT, "content", stf), {}).get(key, [])) if connected else 0
+        out.append({"name": name, "status": kind if connected else "off", "count": cnt, "unit": unit})
+    return out
+
+
 def main():
     E = env()
     page, ptok, stok = E["FB_PAGE_ID"], E["FB_PAGE_TOKEN"], E.get("FB_SYSTEM_TOKEN", E["FB_LONGLIVED_USER_TOKEN"])
@@ -236,6 +261,7 @@ def main():
         "instagram": ig,
         "email": {"subscribers": email_subs},
         "agents": enumerate_agents(),
+        "channels": channels(),
     }
     out = os.path.join(ROOT, "site", "dashboard", "data.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)
