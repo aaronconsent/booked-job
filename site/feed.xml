@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booked Job — for the trades</title>
+    <link>https://booked-job.com/blog/</link>
+    <atom:link href="https://booked-job.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Real talk for service pros — more booked jobs, better pricing, getting paid, and dodging the lead-reseller traps.</description>
+    <language>en-us</language>
+    <item>
+      <title>Is Angi Worth It for Contractors? The Real Cost Per Booked Job</title>
+      <link>https://booked-job.com/blog/is-angi-worth-it/</link>
+      <guid isPermaLink="true">https://booked-job.com/blog/is-angi-worth-it/</guid>
+      <description>Is Angi worth it? The honest math: leads get shared with up to 12 pros, so your real cost per booked job runs ~$1,430–2,500 — vs ~$290 organic. Here&#x27;s the full breakdown, plus a free calculator that shows YOUR real cost per Angi lead. 👇</description>
+      <pubDate>Fri, 26 Jun 2026 16:40:01 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
