@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T08:19",
+  "updated": "2026-06-26T10:41",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -180,6 +180,11 @@
     {
       "name": "Reels",
       "schedule": "Tue & Fri \u00b7 7:30am",
+      "on": true
+    },
+    {
+      "name": "YouTube Shorts",
+      "schedule": "Mon/Wed/Fri \u00b7 8:30am",
       "on": true
     },
     {

@@ -145,6 +145,7 @@ def main():
         "agents": [
             {"name": "Publisher", "schedule": "Tue–Thu · 3 windows/day", "on": True},
             {"name": "Reels", "schedule": "Tue & Fri · 7:30am", "on": True},
+            {"name": "YouTube Shorts", "schedule": "Mon/Wed/Fri · 8:30am", "on": True},
             {"name": "Engage", "schedule": "Daily · 9 / 2:30 / 8:15", "on": True},
             {"name": "Report", "schedule": "Mon · 8am", "on": True},
             {"name": "Stats refresh", "schedule": "Daily · 6 / 12 / 6 / 10", "on": True},

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T10:41",
+      "kind": "build",
+      "icon": "🛠️",
+      "text": "Built the autonomous YouTube Shorts channel (faceless video -> Data API upload, Mon/Wed/Fri) -- our strongest AI-citation signal. Awaiting channel + OAuth connect."
+    },
+    {
       "ts": "2026-06-26T08:19",
       "kind": "site",
       "icon": "🌐",
