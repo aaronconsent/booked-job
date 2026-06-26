@@ -1,11 +1,12 @@
 {
-  "period": {"start": "2026-06-25", "end": "2026-07-25", "label": "30-day launch sprint"},
+  "period": {"start": "2026-06-25", "end": "2026-07-25", "label": "Month 1 — Launch sprint"},
+  "rationale": "From absolute zero. First 14 days are warm-up (limited cadence to avoid new-page spam flags), so growth is back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (reels shipped, ad video-views, posts) over the lagging outcome (followers). Benchmarks: research puts ~1,000 followers at weeks-to-3-months for a consistent-Reels page; month 1 from zero with $7/day realistically lands 150-250. Reels are the reach engine, so 8 (2/wk) is the non-negotiable. Recalibrated weekly against actuals.",
   "targets": [
-    {"key": "followers",        "label": "Followers",         "icon": "👥", "target": 250},
-    {"key": "likes",            "label": "Page likes",        "icon": "👍", "target": 200},
-    {"key": "engagement",       "label": "Total engagement",  "icon": "🔥", "target": 500},
-    {"key": "posts_published",  "label": "Posts published",   "icon": "📝", "target": 14},
-    {"key": "reels_published",  "label": "Reels published",   "icon": "🎬", "target": 8},
-    {"key": "video_views",      "label": "Ad video views",    "icon": "👀", "target": 5000}
+    {"key": "reels_published",  "label": "Reels shipped",      "icon": "🎬", "target": 8,    "note": "2/wk — the reach engine. Fully in my control."},
+    {"key": "posts_published",  "label": "Posts shipped",      "icon": "📝", "target": 13,   "note": "~3/wk after warm-up + the intro."},
+    {"key": "video_views",      "label": "Ad video views",     "icon": "👀", "target": 6000, "note": "$7/day builds the retarget pool. ~$0.035 blended CPV incl. learning."},
+    {"key": "engagement",       "label": "Total engagement",   "icon": "🔥", "target": 400,  "note": "Comments are weighted — discussion drives reach."},
+    {"key": "followers",        "label": "Followers",          "icon": "👥", "target": 200,  "note": "The lagging outcome. Back-loaded to weeks 3-4."},
+    {"key": "likes",            "label": "Page likes",         "icon": "👍", "target": 150,  "note": "Tracks followers; from the retarget→follow campaign."}
   ]
 }

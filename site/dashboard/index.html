@@ -129,6 +129,18 @@
   .ag .tag.post{background:rgba(138,143,151,.15);color:var(--muted)}
   .ag .tag.reel{background:rgba(255,106,0,.15);color:var(--hi)}
 
+  /* strategist read */
+  .coach{background:linear-gradient(135deg,rgba(255,106,0,.10),var(--card) 55%);border-color:rgba(255,106,0,.35)}
+  .coachtop{display:flex;gap:13px;align-items:center;margin-bottom:10px}
+  .coachtop .ce{font-size:26px}
+  .coachtop .ch{font-family:Anton,sans-serif;text-transform:uppercase;letter-spacing:.01em;font-size:19px;line-height:1.1}
+  .coachtop .cu{font-size:11px;color:var(--muted);margin-top:2px;font-family:'JetBrains Mono',monospace}
+  .coach .cr{font-size:14px;line-height:1.6;color:#d7dade}
+  .coach .nm{display:flex;gap:10px;align-items:flex-start;margin-top:14px;padding-top:14px;border-top:1px solid var(--line);font-size:14px;line-height:1.55}
+  .coach .nl{flex-shrink:0;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--hi);
+             background:rgba(255,106,0,.14);border:1px solid rgba(255,106,0,.3);padding:4px 9px;border-radius:7px}
+  .grat{font-size:12px;color:var(--muted);line-height:1.55;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+
   footer{color:var(--muted);font-size:12px;text-align:center;margin-top:34px}
 </style>
 </head>
@@ -154,6 +166,15 @@
       <span class="countdown" id="countdown">—</span>
     </div>
     <div class="goals" id="goals"></div>
+    <p class="grat" id="goalRationale"></p>
+  </div>
+
+  <div class="eyebrow">Strategist's read</div>
+  <div class="panel coach">
+    <div class="coachtop"><span class="ce">🧠</span>
+      <div><div class="ch" id="coachHead">—</div><div class="cu" id="coachUpd"></div></div></div>
+    <p class="cr" id="coachRead"></p>
+    <div class="nm"><span class="nl">Next move</span><span id="coachNext"></span></div>
   </div>
 
   <div class="cols">
@@ -266,6 +287,16 @@ async function load(){
         <div class="gfoot"><span class="gtag ${cls}">${g.on_track?'● On track':'● Behind pace'}</span>
         <span class="gpct">${g.pct}%</span></div></div>`;}).join('');
     setTimeout(()=>document.querySelectorAll('#goals .fill').forEach(f=>f.style.width=f.dataset.w+'%'),120);
+    document.getElementById('goalRationale').textContent=d.goals.rationale||'';
+  }
+
+  // strategist read
+  if(d.strategist && d.strategist.headline){
+    const s=d.strategist;
+    document.getElementById('coachHead').textContent=s.headline;
+    document.getElementById('coachUpd').textContent='Updated '+(s.updated||'')+(s.next_review?(' · next review '+s.next_review):'');
+    document.getElementById('coachRead').textContent=s.read||'';
+    document.getElementById('coachNext').textContent=s.next_move||'';
   }
 
   // agenda

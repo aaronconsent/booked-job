@@ -129,7 +129,8 @@ def main():
     data = {
         "updated": dt.datetime.now().isoformat(timespec="minutes"),
         "goals": {"label": per.get("label", "Sprint"), "end": per.get("end", ""),
-                  "days_left": days_left, "items": g_items},
+                  "days_left": days_left, "rationale": goals_cfg.get("rationale", ""), "items": g_items},
+        "strategist": jload("content/strategist.json", {}),
         "upcoming": upcoming,
         "page": {"name": pi.get("name", "Booked Job"),
                  "followers": pi.get("followers_count", 0), "likes": pi.get("fan_count", 0)},
