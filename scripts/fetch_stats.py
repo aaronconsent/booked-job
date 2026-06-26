@@ -77,8 +77,60 @@ def main():
                 ads["daily_budget"] = int(a["daily_budget"]) / 100
                 break
 
+    eng_total = rx + cm + sh
+    reels_done = len(rst.get("done", []))
+    posts_done = len(st.get("posted", [])) + 1
+
+    # ---- project the upcoming schedule from the real posting rules ----
+    created = dt.date.fromisoformat(st.get("page_created", dt.date.today().isoformat()))
+    remaining_posts = [p for p in q if p["id"] not in set(st.get("posted", []))]
+    remaining_reels = [r for r in rq if r["id"] not in set(rst.get("done", []))]
+    upcoming, pi_, ri_ = [], 0, 0
+    d = dt.date.today() + dt.timedelta(days=1)
+    for _ in range(45):
+        age = (d - created).days
+        post_days = {1, 2, 3} if age < 14 else {0, 1, 2, 3, 4}
+        if d.weekday() in post_days and pi_ < len(remaining_posts):
+            p = remaining_posts[pi_]; pi_ += 1
+            upcoming.append({"date": d.isoformat(), "type": "post", "icon": "📝",
+                             "title": p["caption"][:60].split("\n")[0],
+                             "sub": p["archetype"].replace("-", " ")})
+        if d.weekday() in {1, 4} and ri_ < len(remaining_reels):
+            r = remaining_reels[ri_]; ri_ += 1
+            upcoming.append({"date": d.isoformat(), "type": "reel", "icon": "🎬",
+                             "title": r["hook"], "sub": "Reel"})
+        if pi_ >= len(remaining_posts) and ri_ >= len(remaining_reels):
+            break
+        d += dt.timedelta(days=1)
+    upcoming.sort(key=lambda x: (x["date"], x["type"]))
+    upcoming = upcoming[:12]
+
+    # ---- goals vs target with pace ----
+    goals_cfg = jload("content/goals.json", {"period": {}, "targets": []})
+    per = goals_cfg.get("period", {})
+    today = dt.date.today()
+    actuals = {"followers": pi.get("followers_count", 0), "likes": pi.get("fan_count", 0),
+               "engagement": eng_total, "posts_published": posts_done,
+               "reels_published": reels_done, "video_views": ads["video_views"]}
+    g_items = []
+    try:
+        gs = dt.date.fromisoformat(per["start"]); ge = dt.date.fromisoformat(per["end"])
+        total_days = max(1, (ge - gs).days); elapsed = max(0, min(total_days, (today - gs).days))
+        days_left = max(0, (ge - today).days)
+    except Exception:
+        total_days, elapsed, days_left = 30, 0, 30
+    for t in goals_cfg.get("targets", []):
+        cur = actuals.get(t["key"], 0); tgt = t["target"] or 1
+        pct = min(100, round(100 * cur / tgt))
+        expected = tgt * elapsed / total_days
+        g_items.append({"label": t["label"], "icon": t["icon"], "current": cur, "target": t["target"],
+                        "pct": pct, "on_track": cur >= expected})
+
     data = {
         "updated": dt.datetime.now().isoformat(timespec="minutes"),
+        "goals": {"label": per.get("label", "Sprint"), "end": per.get("end", ""),
+                  "days_left": days_left, "items": g_items},
+        "upcoming": upcoming,
         "page": {"name": pi.get("name", "Booked Job"),
                  "followers": pi.get("followers_count", 0), "likes": pi.get("fan_count", 0)},
         "content": {

@@ -1,0 +1,11 @@
+{
+  "period": {"start": "2026-06-25", "end": "2026-07-25", "label": "30-day launch sprint"},
+  "targets": [
+    {"key": "followers",        "label": "Followers",         "icon": "👥", "target": 250},
+    {"key": "likes",            "label": "Page likes",        "icon": "👍", "target": 200},
+    {"key": "engagement",       "label": "Total engagement",  "icon": "🔥", "target": 500},
+    {"key": "posts_published",  "label": "Posts published",   "icon": "📝", "target": 14},
+    {"key": "reels_published",  "label": "Reels published",   "icon": "🎬", "target": 8},
+    {"key": "video_views",      "label": "Ad video views",    "icon": "👀", "target": 5000}
+  ]
+}
