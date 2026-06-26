@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T12:00",
+  "updated": "2026-06-26T14:08",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -188,8 +188,8 @@
     "reels_remaining": 4
   },
   "ads": {
-    "status": "ACTIVE",
-    "daily_budget": 7.0,
+    "status": "\u2014",
+    "daily_budget": null,
     "spend": "0",
     "impressions": 0,
     "reach": 0,

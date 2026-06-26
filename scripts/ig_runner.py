@@ -97,7 +97,7 @@ def main():
     subprocess.run(["git", "add", dst], cwd=ROOT, check=False)
     subprocess.run(["git", "commit", "-q", "-m", f"ig: host video {nxt['id']}"], cwd=ROOT, check=False)
     subprocess.run(["git", "push", "-q"], cwd=ROOT, check=False)
-    for _ in range(30):
+    for _ in range(75):  # ~10 min — Cloudflare deploy of the new video can lag
         if url_live(url):
             break
         time.sleep(8)
