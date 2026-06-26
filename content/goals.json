@@ -10,6 +10,8 @@
     {"key": "yt_views",         "label": "YouTube views",     "icon": "▶️", "target": 3000, "note": "Shorts + search; compounds."},
     {"key": "followers",        "label": "FB followers",      "icon": "👥", "target": 200,  "note": "Lagging; back-loaded to wks 3-4."},
     {"key": "yt_subscribers",   "label": "YouTube subs",      "icon": "🔔", "target": 50,   "note": "Lagging; small-but-real month 1."},
+    {"key": "ig_followers",     "label": "Instagram followers","icon": "📸", "target": 100,  "note": "Reels fan out here too."},
+    {"key": "email_subscribers","label": "Email subscribers", "icon": "📧", "target": 100,  "note": "Owned audience — no algorithm."},
     {"key": "likes",            "label": "FB page likes",     "icon": "👍", "target": 150,  "note": "From the retarget→follow campaign."}
   ]
 }

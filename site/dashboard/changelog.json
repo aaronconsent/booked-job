@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T14:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Dashboard self-updating: agent list now auto-derived from launchd plists; added IG followers + email subscribers stats/goals."
+    },
+    {
       "ts": "2026-06-26T14:08",
       "kind": "reel",
       "icon": "🎬",

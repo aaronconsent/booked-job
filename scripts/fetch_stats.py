@@ -35,6 +35,45 @@ def jload(p, d):
         return d
 
 
+# --- Self-updating agent list: derived from the worker/*.plist files, so any
+# --- new channel/agent automatically appears on the dashboard. (SOP: add a
+# --- channel -> add its com.bookedjob.<x>.plist -> it shows up here for free.)
+WEEKDAY = {0: "Sun", 1: "Mon", 2: "Tue", 3: "Wed", 4: "Thu", 5: "Fri", 6: "Sat", 7: "Sun"}
+AGENT_NAMES = {
+    "publisher": "Posts", "reels": "FB Reels", "youtube": "YouTube Shorts",
+    "instagram": "Instagram Reels", "engage": "Engage", "report": "Weekly Report",
+    "stats": "Stats Refresh", "blogger": "Blogger", "tumblr": "Tumblr",
+    "pinterest": "Pinterest", "newsletter": "Newsletter",
+}
+
+
+def _sched(sci):
+    if not sci:
+        return "scheduled"
+    items = sci if isinstance(sci, list) else [sci]
+    days, times = set(), []
+    for it in items:
+        if "Weekday" in it:
+            days.add(int(it["Weekday"]))
+        times.append(f"{int(it.get('Hour', 0))}:{int(it.get('Minute', 0)):02d}")
+    daystr = ", ".join(WEEKDAY[d] for d in sorted(days)) if days else "Daily"
+    return f"{daystr} · {' / '.join(sorted(set(times)))}"
+
+
+def enumerate_agents():
+    import glob, plistlib
+    out = []
+    for p in sorted(glob.glob(os.path.join(ROOT, "worker", "com.bookedjob.*.plist"))):
+        try:
+            d = plistlib.load(open(p, "rb"))
+        except Exception:
+            continue
+        key = d.get("Label", "").split(".")[-1]
+        out.append({"name": AGENT_NAMES.get(key, key.title()),
+                    "schedule": _sched(d.get("StartCalendarInterval")), "on": True})
+    return out
+
+
 def main():
     E = env()
     page, ptok, stok = E["FB_PAGE_ID"], E["FB_PAGE_TOKEN"], E.get("FB_SYSTEM_TOKEN", E["FB_LONGLIVED_USER_TOKEN"])
@@ -100,6 +139,31 @@ def main():
             pass
     yt_done = len(jload("content/yt_state.json", {"done": []}).get("done", []))
 
+    # Instagram stats (if connected)
+    ig = {"connected": False, "followers": 0, "media": 0}
+    if E.get("FB_IG_ID"):
+        d = get(E["FB_IG_ID"], {"fields": "followers_count,media_count"}, stok)
+        if "followers_count" in d or "media_count" in d:
+            ig = {"connected": True, "followers": int(d.get("followers_count", 0)),
+                  "media": int(d.get("media_count", 0))}
+
+    # Email subscribers (Resend)
+    email_subs = 0
+    rp = os.path.join(ROOT, "secrets", "resend.env")
+    if os.path.exists(rp):
+        try:
+            re_env = {}
+            for line in open(rp):
+                if "=" in line:
+                    k, v = line.strip().split("=", 1); re_env[k] = v
+            req = urllib.request.Request(
+                f"https://api.resend.com/audiences/{re_env['RESEND_AUDIENCE_ID']}/contacts")
+            req.add_header("Authorization", f"Bearer {re_env['RESEND_API_KEY']}")
+            req.add_header("User-Agent", "curl/8.4.0")
+            email_subs = len(json.loads(urllib.request.urlopen(req, timeout=30).read().decode()).get("data", []))
+        except Exception:
+            pass
+
     eng_total = rx + cm + sh
     reels_done = len(rst.get("done", []))
     posts_done = len(st.get("posted", [])) + 1
@@ -136,7 +200,8 @@ def main():
                "engagement": eng_total, "posts_published": posts_done,
                "reels_published": reels_done, "video_views": ads["video_views"],
                "yt_shorts": max(yt_done, yt["videos"]), "yt_subscribers": yt["subscribers"],
-               "yt_views": yt["views"]}
+               "yt_views": yt["views"], "ig_followers": ig["followers"],
+               "email_subscribers": email_subs}
     g_items = []
     try:
         gs = dt.date.fromisoformat(per["start"]); ge = dt.date.fromisoformat(per["end"])
@@ -168,14 +233,9 @@ def main():
         },
         "ads": ads,
         "youtube": {**yt, "shorts": max(yt_done, yt["videos"])},
-        "agents": [
-            {"name": "Publisher", "schedule": "Tue–Thu · 3 windows/day", "on": True},
-            {"name": "Reels", "schedule": "Tue & Fri · 7:30am", "on": True},
-            {"name": "YouTube Shorts", "schedule": "Mon/Wed/Fri · 8:30am", "on": True},
-            {"name": "Engage", "schedule": "Daily · 9 / 2:30 / 8:15", "on": True},
-            {"name": "Report", "schedule": "Mon · 8am", "on": True},
-            {"name": "Stats refresh", "schedule": "Daily · 6 / 12 / 6 / 10", "on": True},
-        ],
+        "instagram": ig,
+        "email": {"subscribers": email_subs},
+        "agents": enumerate_agents(),
     }
     out = os.path.join(ROOT, "site", "dashboard", "data.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)

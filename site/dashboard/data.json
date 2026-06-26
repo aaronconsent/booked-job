@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T14:08",
+  "updated": "2026-06-26T14:57",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -69,6 +69,22 @@
         "target": 50,
         "pct": 0,
         "on_track": false
+      },
+      {
+        "label": "Instagram followers",
+        "icon": "\ud83d\udcf8",
+        "current": 0,
+        "target": 100,
+        "pct": 0,
+        "on_track": false
+      },
+      {
+        "label": "Email subscribers",
+        "icon": "\ud83d\udce7",
+        "current": 5,
+        "target": 100,
+        "pct": 5,
+        "on_track": true
       },
       {
         "label": "FB page likes",
@@ -202,35 +218,68 @@
     "videos": 1,
     "shorts": 1
   },
+  "instagram": {
+    "connected": true,
+    "followers": 0,
+    "media": 1
+  },
+  "email": {
+    "subscribers": 5
+  },
   "agents": [
     {
-      "name": "Publisher",
-      "schedule": "Tue\u2013Thu \u00b7 3 windows/day",
-      "on": true
-    },
-    {
-      "name": "Reels",
-      "schedule": "Tue & Fri \u00b7 7:30am",
-      "on": true
-    },
-    {
-      "name": "YouTube Shorts",
-      "schedule": "Mon/Wed/Fri \u00b7 8:30am",
+      "name": "Blogger",
+      "schedule": "Thu \u00b7 9:00",
       "on": true
     },
     {
       "name": "Engage",
-      "schedule": "Daily \u00b7 9 / 2:30 / 8:15",
+      "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
       "on": true
     },
     {
-      "name": "Report",
-      "schedule": "Mon \u00b7 8am",
+      "name": "Instagram Reels",
+      "schedule": "Tue, Thu \u00b7 11:00",
       "on": true
     },
     {
-      "name": "Stats refresh",
-      "schedule": "Daily \u00b7 6 / 12 / 6 / 10",
+      "name": "Newsletter",
+      "schedule": "Thu \u00b7 7:30",
+      "on": true
+    },
+    {
+      "name": "Pinterest",
+      "schedule": "Wed \u00b7 14:00",
+      "on": true
+    },
+    {
+      "name": "Posts",
+      "schedule": "Daily \u00b7 12:20 / 18:40 / 7:10",
+      "on": true
+    },
+    {
+      "name": "FB Reels",
+      "schedule": "Tue, Fri \u00b7 7:30",
+      "on": true
+    },
+    {
+      "name": "Weekly Report",
+      "schedule": "Mon \u00b7 8:00",
+      "on": true
+    },
+    {
+      "name": "Stats Refresh",
+      "schedule": "Daily \u00b7 12:00 / 18:00 / 22:00 / 6:00",
+      "on": true
+    },
+    {
+      "name": "Tumblr",
+      "schedule": "Fri \u00b7 9:00",
+      "on": true
+    },
+    {
+      "name": "YouTube Shorts",
+      "schedule": "Mon, Wed, Fri \u00b7 8:30",
       "on": true
     }
   ]

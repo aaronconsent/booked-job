@@ -238,16 +238,16 @@ async function load(){
 
   document.getElementById('updated').textContent = new Date(d.updated).toLocaleString([], {month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
 
-  const c=d.content, eng=(c.reactions||0)+(c.comments||0)+(c.shares||0), yt=d.youtube||{};
+  const c=d.content, eng=(c.reactions||0)+(c.comments||0)+(c.shares||0), yt=d.youtube||{}, ig=d.instagram||{}, em=d.email||{};
   const cards=[
     ['FB Followers', d.page.followers, '👥', false, false],
-    ['FB Engagement', eng, '🔥', false, false],
-    ['Reels', c.reels_published, '🎬', false, false],
-    ['Ad Spend', d.ads.spend, '💸', true, false],
+    ['IG Followers', ig.followers||0, '📸', false, false],
     ['YT Subscribers', yt.subscribers||0, '🔔', false, true],
-    ['YT Views', yt.views||0, '▶️', false, true],
+    ['Email Subs', em.subscribers||0, '📧', false, false],
+    ['Reels', c.reels_published, '🎬', false, false],
     ['YT Shorts', yt.shorts||0, '📺', false, true],
-    ['Posts', c.posts_published, '📝', false, false],
+    ['Engagement', eng, '🔥', false, false],
+    ['Ad Spend', d.ads.spend, '💸', true, false],
   ];
   const sc=document.getElementById('stats'); sc.innerHTML='';
   cards.forEach(([label,val,ic,money,isYt])=>{
