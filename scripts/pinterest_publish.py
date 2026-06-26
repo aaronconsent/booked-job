@@ -3,9 +3,6 @@
 base64 image + a link back to the canonical article. Reads secrets/pinterest.env."""
 import base64, json, os, sys, urllib.parse, urllib.request
 
-API = "https://api.pinterest.com/v5"
-TOKEN = "https://api.pinterest.com/v5/oauth/token"
-
 
 def env():
     p = os.path.join(os.path.dirname(__file__), "..", "secrets", "pinterest.env")
@@ -18,10 +15,19 @@ def env():
     return e
 
 
+def api_base(e):
+    # Sandbox token only works against the sandbox host; production token against prod.
+    return e.get("PINTEREST_API_BASE", "https://api.pinterest.com/v5").rstrip("/")
+
+
 def access_token(e):
+    # Direct token (sandbox, or a non-expiring access token) takes precedence.
+    if e.get("PINTEREST_ACCESS_TOKEN"):
+        return e["PINTEREST_ACCESS_TOKEN"]
+    # Otherwise exchange the OAuth refresh token (production flow).
     body = urllib.parse.urlencode({"grant_type": "refresh_token", "refresh_token": e["PINTEREST_REFRESH_TOKEN"]}).encode()
     basic = base64.b64encode(f"{e['PINTEREST_CLIENT_ID']}:{e['PINTEREST_CLIENT_SECRET']}".encode()).decode()
-    req = urllib.request.Request(TOKEN, data=body)
+    req = urllib.request.Request(f"{api_base(e)}/oauth/token", data=body)
     req.add_header("Authorization", f"Basic {basic}")
     req.add_header("Content-Type", "application/x-www-form-urlencoded")
     with urllib.request.urlopen(req, timeout=30) as r:
@@ -38,7 +44,7 @@ def publish(title, description, link, image_path):
         "link": link,
         "media_source": {"source_type": "image_base64", "content_type": "image/png", "data": b64},
     }).encode()
-    req = urllib.request.Request(f"{API}/pins", data=payload, method="POST")
+    req = urllib.request.Request(f"{api_base(e)}/pins", data=payload, method="POST")
     req.add_header("Authorization", f"Bearer {tok}")
     req.add_header("Content-Type", "application/json")
     try:
