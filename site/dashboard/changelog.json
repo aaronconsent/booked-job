@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T08:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Launched SEO/AEO foundation: blog + 'Is Angi Worth It?' pillar with a True-Cost-of-an-Angi-Lead calculator, schema, robots/sitemap, and a contractor-story collector."
+    },
+    {
       "ts": "2026-06-26T07:29",
       "kind": "strategy",
       "icon": "🧭",

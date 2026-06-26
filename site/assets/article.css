@@ -1,0 +1,94 @@
+/* Booked Job — shared article / blog styling (hi-vis trades brand) */
+:root{
+  --hi:#FF6A00;--hi2:#FF8A2B;--asphalt:#15171A;--asphalt2:#1E2227;--steel:#2A2F36;
+  --concrete:#F4F2EE;--paper:#fff;--ink:#15171A;--ink2:#54585E;--line:#E4E0D9;--yellow:#FFD23F;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--paper);line-height:1.65;-webkit-font-smoothing:antialiased}
+.display{font-family:Anton,Impact,sans-serif;text-transform:uppercase;letter-spacing:.01em;line-height:1}
+.wrap{max-width:760px;margin:0 auto;padding:0 22px}
+.wide{max-width:1040px}
+a{color:var(--hi);text-decoration:none}a:hover{text-decoration:underline}
+
+/* header */
+header{background:var(--asphalt);position:sticky;top:0;z-index:30}
+.nav{display:flex;align-items:center;justify-content:space-between;height:60px;max-width:1040px;margin:0 auto;padding:0 22px}
+.logo{display:flex;align-items:center;gap:9px;color:#fff}
+.logo .mark{width:32px;height:32px;border-radius:7px;background:var(--hi);display:grid;place-items:center;font-family:Anton,sans-serif;color:var(--asphalt);font-size:21px;transform:skewX(-6deg)}
+.logo b{font-family:Anton,sans-serif;font-size:19px;letter-spacing:.02em;text-transform:uppercase}
+.logo b span{color:var(--hi)}
+.nav .cta{background:var(--hi);color:#fff;font-weight:700;font-size:14px;padding:8px 15px;border-radius:8px}
+.nav .cta:hover{background:var(--hi2);text-decoration:none}
+.tape{height:8px;background:repeating-linear-gradient(45deg,var(--yellow) 0 20px,var(--asphalt) 20px 40px)}
+
+/* article */
+article{padding:42px 0 20px}
+.crumb{font-size:13px;color:var(--ink2);margin-bottom:18px}
+.crumb a{color:var(--ink2)}
+h1{font-family:Anton,sans-serif;text-transform:uppercase;font-size:clamp(30px,5.5vw,46px);line-height:1.04;margin-bottom:14px}
+h1 em{font-style:normal;color:var(--hi)}
+.meta{display:flex;align-items:center;gap:10px;color:var(--ink2);font-size:14px;margin-bottom:26px;flex-wrap:wrap}
+.meta .av{width:30px;height:30px;border-radius:50%;background:var(--asphalt);color:var(--hi);display:grid;place-items:center;font-weight:800;font-size:13px}
+article h2{font-family:Anton,sans-serif;text-transform:uppercase;font-size:clamp(22px,4vw,30px);margin:38px 0 6px;line-height:1.1}
+article h3{font-size:20px;margin:26px 0 6px}
+article p{margin:14px 0;font-size:17px}
+article ul,article ol{margin:14px 0 14px 22px}article li{margin:7px 0;font-size:17px}
+.lead{font-size:20px;color:var(--ink2)}
+
+/* the AEO direct-answer box */
+.answer{background:var(--concrete);border-left:4px solid var(--hi);border-radius:0 12px 12px 0;padding:16px 20px;margin:18px 0;font-size:17px}
+.answer b{color:var(--ink)}
+
+/* stat callout */
+.stat{display:flex;gap:16px;align-items:center;background:var(--asphalt);color:#fff;border-radius:14px;padding:20px 24px;margin:22px 0}
+.stat .big{font-family:Anton,sans-serif;font-size:44px;color:var(--hi);line-height:1}
+.stat .lab{font-size:15px;color:#C7CBD1}
+
+/* comparison table */
+.cmp{width:100%;border-collapse:collapse;margin:22px 0;font-size:15px;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.cmp th,.cmp td{padding:12px 14px;text-align:left;border-bottom:1px solid var(--line)}
+.cmp thead th{background:var(--asphalt);color:#fff;font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+.cmp tbody tr:nth-child(even){background:var(--concrete)}
+.cmp .good{color:#15803d;font-weight:700}.cmp .bad{color:#b91c1c;font-weight:700}
+
+/* calculator */
+.calc{background:var(--asphalt);color:#fff;border-radius:18px;padding:26px;margin:30px 0}
+.calc h3{font-family:Anton,sans-serif;text-transform:uppercase;color:#fff;font-size:24px;margin:0 0 4px}
+.calc .csub{color:#C7CBD1;font-size:14px;margin-bottom:18px}
+.calc label{display:block;font-size:13px;color:#C7CBD1;margin:14px 0 5px;font-weight:600}
+.calc input[type=range]{width:100%;accent-color:var(--hi)}
+.calc .row{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:560px){.calc .row{grid-template-columns:1fr}}
+.calc .v{font-family:'JetBrains Mono',monospace;color:var(--hi);font-weight:700}
+.calc .out{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:22px}
+.calc .card{background:var(--asphalt2);border:1px solid var(--steel);border-radius:12px;padding:16px;text-align:center}
+.calc .card .n{font-family:Anton,sans-serif;font-size:34px;line-height:1}
+.calc .card.angi .n{color:#fca5a5}.calc .card.own .n{color:#22C55E}
+.calc .card .l{font-size:12px;color:#9aa0a8;text-transform:uppercase;letter-spacing:.05em;margin-top:5px}
+.calc .verdict{margin-top:18px;font-size:15px;text-align:center;color:#fff;background:rgba(255,106,0,.14);border:1px solid rgba(255,106,0,.3);border-radius:10px;padding:12px}
+
+/* CTA */
+.cta-box{background:var(--asphalt);color:#fff;border-radius:18px;padding:30px;margin:34px 0;text-align:center}
+.cta-box h3{font-family:Anton,sans-serif;text-transform:uppercase;font-size:26px;color:#fff;margin-bottom:8px}
+.cta-box p{color:#C7CBD1;max-width:48ch;margin:0 auto 16px}
+.btn{display:inline-block;background:var(--hi);color:#fff;font-weight:700;padding:13px 24px;border-radius:10px}
+.btn:hover{background:var(--hi2);text-decoration:none}
+
+/* author box */
+.author{display:flex;gap:16px;align-items:flex-start;background:var(--concrete);border:1px solid var(--line);border-radius:14px;padding:20px;margin:34px 0}
+.author .av{width:52px;height:52px;border-radius:50%;background:var(--asphalt);color:var(--hi);display:grid;place-items:center;font-family:Anton,sans-serif;font-size:22px;flex-shrink:0}
+.author .n{font-weight:800}.author .r{font-size:13px;color:var(--ink2);margin-bottom:6px}
+.author p{font-size:14px;margin:0;color:var(--ink2)}
+
+/* faq */
+.faq{margin:18px 0}
+.faq details{border-bottom:1px solid var(--line);padding:14px 0}
+.faq summary{font-weight:700;font-size:17px;cursor:pointer;list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary:before{content:"+";color:var(--hi);font-weight:800;margin-right:10px}
+.faq details[open] summary:before{content:"–"}
+.faq details p{font-size:16px}
+
+footer{background:var(--asphalt);color:#9CA1A8;padding:36px 0;font-size:14px;margin-top:30px}
+footer a{color:#C7CBD1}.foot{max-width:1040px;margin:0 auto;padding:0 22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:14px}

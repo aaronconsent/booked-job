@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Share Your Story — Booked Job</title>
+<meta name="description" content="Got an Angi, Thumbtack, or HomeAdvisor story — or real numbers from running your shop? Share it. We feature real contractor experiences in our reporting." />
+<link rel="canonical" href="https://booked-job.com/share-your-story/" />
+<meta name="theme-color" content="#15171A" />
+<link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<style>
+  form.story{margin:22px 0}
+  form.story label{display:block;font-weight:600;font-size:14px;margin:16px 0 6px}
+  form.story input,form.story select,form.story textarea{width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font-size:16px;font-family:inherit}
+  form.story textarea{min-height:130px;resize:vertical}
+  form.story .row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:560px){form.story .row{grid-template-columns:1fr}}
+  form.story button{margin-top:18px;background:var(--hi);color:#fff;border:0;font-weight:700;font-size:16px;padding:14px 26px;border-radius:10px;cursor:pointer}
+  form.story button:hover{background:var(--hi2)}
+  #ok{display:none;background:var(--concrete);border-left:4px solid #22C55E;border-radius:0 12px 12px 0;padding:18px 20px;margin:22px 0;font-size:16px}
+  .or{text-align:center;color:var(--ink2);font-size:14px;margin:18px 0}
+</style>
+</head>
+<body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">Follow</a>
+</div></header>
+<div class="tape"></div>
+
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › Share Your Story</p>
+  <h1 class="display">Been burned? <em>Or figured something out?</em></h1>
+  <p class="lead">Real stories from real shops are worth more than any "marketing tip." Tell us about a lead site that ripped you off, a pricing move that worked, or the real numbers behind your jobs. We feature the best ones (with credit, or anonymous — your call).</p>
+
+  <div id="ok">🛠️ Got it — thanks. If we feature your story, we'll reach out first. Keep stacking jobs.</div>
+
+  <form class="story" id="storyForm">
+    <div class="row">
+      <div><label>Your name (or "anonymous")</label><input name="name" placeholder="Mike R." /></div>
+      <div><label>Trade</label>
+        <select name="trade"><option>Plumbing</option><option>Roofing</option><option>HVAC</option><option>Electrical</option><option>Landscaping</option><option>General contractor</option><option>Other</option></select></div>
+    </div>
+    <div class="row">
+      <div><label>City / State (optional)</label><input name="location" placeholder="Houston, TX" /></div>
+      <div><label>Email (so we can confirm before featuring)</label><input type="email" name="email" placeholder="you@yourshop.com" /></div>
+    </div>
+    <label>Your story or numbers</label>
+    <textarea name="story" placeholder="e.g. 'I spent $1,800 on Angi in a month and closed two jobs. Here's what happened…' or 'Here's exactly how I price a service call.'" required></textarea>
+    <label><input type="checkbox" name="ok_feature" style="width:auto;margin-right:8px">It's OK to feature this (we'll confirm by email first)</label>
+    <button type="submit">Send it in →</button>
+  </form>
+
+  <p class="or">— or just message us on <a href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">Facebook</a> —</p>
+</article>
+
+<footer><div class="foot">
+  <div>© <span id="yr"></span> Booked Job · For service pros who'd rather be working.</div>
+  <div><a href="/blog/">Blog</a> · <a href="/">Home</a></div>
+</div></footer>
+
+<script>
+document.getElementById('yr').textContent=new Date().getFullYear();
+var f=document.getElementById('storyForm');
+f.addEventListener('submit',function(e){
+  e.preventDefault();
+  var data={}; new FormData(f).forEach((v,k)=>data[k]=v);
+  fetch('/api/story',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)})
+    .catch(function(){/* endpoint not live yet — still acknowledge */})
+    .finally(function(){ f.style.display='none'; document.getElementById('ok').style.display='block'; });
+});
+</script>
+</body>
+</html>
