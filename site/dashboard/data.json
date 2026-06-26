@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T14:57",
+  "updated": "2026-06-26T16:16",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -235,6 +235,11 @@
     {
       "name": "Engage",
       "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
+      "on": true
+    },
+    {
+      "name": "Ghpages",
+      "schedule": "Tue \u00b7 10:00",
       "on": true
     },
     {
