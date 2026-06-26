@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T11:52",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Launched the Booked Job podcast (ElevenLabs audio + RSS, hosted on-site). Episode 1 'Is Angi Worth It?' live; submit feed to Spotify/Apple once."
+    },
+    {
       "ts": "2026-06-26T11:48",
       "kind": "site",
       "icon": "🌐",

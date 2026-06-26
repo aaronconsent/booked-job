@@ -16,3 +16,4 @@ content/reels/*.mp4
 *.wav.json
 content/voicelab/
 content/shorts/*.mp4
+site/podcast/audio/*.json

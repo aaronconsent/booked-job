@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Booked Job</title>
+    <link>https://booked-job.com/</link>
+    <language>en-us</language>
+    <description>Real talk for service pros who'd rather be working — plumbers, roofers, HVAC techs and electricians. How to get more booked jobs, price your work, get paid, and dodge the lead-reseller traps. No fluff.</description>
+    <itunes:author>Booked Job</itunes:author>
+    <itunes:summary>Real talk for service pros — more booked jobs, better pricing, and how to stop getting ripped off by lead resellers.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://booked-job.com/podcast/cover.png"/>
+    <image><url>https://booked-job.com/podcast/cover.png</url><title>Booked Job</title><link>https://booked-job.com/</link></image>
+    <itunes:category text="Business"><itunes:category text="Entrepreneurship"/></itunes:category>
+    <itunes:owner><itunes:name>Booked Job</itunes:name><itunes:email>hello@aaron.chat</itunes:email></itunes:owner>
+    <item>
+      <title>Is Angi Worth It? The Real Cost of a Shared Lead</title>
+      <description>The honest math on Angi, Thumbtack, and HomeAdvisor — why your leads get shared with up to 12 pros, what it really costs per booked job, and what to do instead. Full breakdown + free calculator at booked-job.com.</description>
+      <itunes:summary>The honest math on Angi, Thumbtack, and HomeAdvisor — why your leads get shared with up to 12 pros, what it really costs per booked job, and what to do instead. Full breakdown + free calculator at booked-job.com.</itunes:summary>
+      <link>https://booked-job.com/blog/is-angi-worth-it/</link>
+      <guid isPermaLink="false">bookedjob-is-angi-worth-it</guid>
+      <pubDate>Fri, 26 Jun 2026 11:51:27 -0000</pubDate>
+      <enclosure url="https://booked-job.com/podcast/audio/is-angi-worth-it.mp3" length="2169252" type="audio/mpeg"/>
+      <itunes:duration>2:15</itunes:duration>
+      <itunes:author>Booked Job</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
