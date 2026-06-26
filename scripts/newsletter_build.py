@@ -33,6 +33,7 @@ def post(path, key, body):
     req = urllib.request.Request(f"{API}/{path}", data=json.dumps(body).encode(), method="POST")
     req.add_header("Authorization", f"Bearer {key}")
     req.add_header("Content-Type", "application/json")
+    req.add_header("User-Agent", "curl/8.4.0")  # Resend's CF edge blocks default python-urllib UA
     try:
         with urllib.request.urlopen(req, timeout=40) as r:
             return json.loads(r.read().decode())
