@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Booked Job — Mission Control</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Hanken+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --hi:#FF6A00; --hi2:#FF8A2B; --asphalt:#0F1113; --asphalt2:#15171A;
+    --card:#1A1E22; --card2:#202529; --line:#2A2F36; --yellow:#FFD23F;
+    --ink:#F4F2EE; --muted:#8A8F97; --green:#22C55E;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Hanken Grotesk',system-ui,sans-serif;background:var(--asphalt);color:var(--ink);
+       background-image:radial-gradient(900px 500px at 80% -10%,rgba(255,106,0,.10),transparent 60%);
+       min-height:100vh;padding-bottom:60px}
+  .mono{font-family:'JetBrains Mono',monospace}
+  .display{font-family:'Anton',sans-serif;text-transform:uppercase;letter-spacing:.01em}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 18px}
+  a{color:var(--hi)}
+
+  /* tape */
+  .tape{height:7px;background:repeating-linear-gradient(45deg,var(--yellow) 0 18px,var(--asphalt) 18px 36px)}
+
+  /* header */
+  header{padding:26px 0 10px}
+  .htop{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+  .brand{display:flex;align-items:center;gap:12px}
+  .mark{width:44px;height:44px;border-radius:10px;background:var(--hi);display:grid;place-items:center;
+        font-family:Anton,sans-serif;color:var(--asphalt);font-size:30px;transform:skewX(-6deg)}
+  .brand h1{font-family:Anton,sans-serif;font-size:26px;letter-spacing:.02em;text-transform:uppercase;line-height:1}
+  .brand h1 span{color:var(--hi)}
+  .brand .sub{color:var(--muted);font-size:13px;margin-top:2px}
+  .live{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+  .dot{width:9px;height:9px;border-radius:50%;background:var(--green);box-shadow:0 0 0 0 rgba(34,197,94,.7);animation:pulse 2s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(34,197,94,.6)}70%{box-shadow:0 0 0 9px rgba(34,197,94,0)}100%{box-shadow:0 0 0 0 rgba(34,197,94,0)}}
+
+  .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--hi);font-weight:700;margin:30px 0 12px}
+
+  /* stat grid */
+  .stats{display:grid;grid-template-columns:repeat(6,1fr);gap:14px}
+  .stat{background:linear-gradient(160deg,var(--card),var(--card2));border:1px solid var(--line);
+        border-radius:16px;padding:18px 16px;position:relative;overflow:hidden}
+  .stat:before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--hi)}
+  .stat .label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+  .stat .val{font-family:Anton,sans-serif;font-size:40px;line-height:1.05;margin-top:8px}
+  .stat .val.sm{font-size:30px}
+  .stat .ic{position:absolute;right:12px;top:14px;font-size:20px;opacity:.55}
+  @media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}}
+  @media(max-width:560px){.stats{grid-template-columns:repeat(2,1fr)} .stat .val{font-size:32px}}
+
+  /* two-col */
+  .cols{display:grid;grid-template-columns:1.3fr 1fr;gap:22px;margin-top:8px}
+  @media(max-width:860px){.cols{grid-template-columns:1fr}}
+
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}
+  .panel h3{font-size:15px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+
+  /* strategy cards */
+  .strat{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:560px){.strat{grid-template-columns:1fr}}
+  .scard{background:var(--asphalt2);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .scard .t{font-weight:800;font-size:14px;margin-bottom:4px}
+  .scard .t b{color:var(--hi)}
+  .scard .d{font-size:13px;color:var(--muted);line-height:1.5}
+
+  /* pipeline bars */
+  .bar{margin:14px 0}
+  .bar .top{display:flex;justify-content:space-between;font-size:13px;margin-bottom:6px}
+  .bar .track{height:9px;background:#0c0e10;border-radius:99px;overflow:hidden}
+  .bar .fill{height:100%;background:linear-gradient(90deg,var(--hi),var(--hi2));border-radius:99px;width:0;transition:width 1s ease}
+
+  /* agents */
+  .agent{display:flex;align-items:center;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--line)}
+  .agent:last-child{border-bottom:0}
+  .agent .n{font-weight:700;font-size:14px}
+  .agent .s{font-size:12px;color:var(--muted)}
+  .badge{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--green);font-weight:700;
+         background:rgba(34,197,94,.12);padding:4px 9px;border-radius:99px}
+
+  /* ad panel */
+  .adrow{display:flex;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--line);font-size:14px}
+  .adrow:last-child{border-bottom:0}
+  .adrow .k{color:var(--muted)}
+  .pill{font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;background:rgba(34,197,94,.15);color:var(--green)}
+  .pill.paused{background:rgba(255,106,0,.15);color:var(--hi)}
+
+  /* changelog */
+  .feed{margin-top:6px}
+  .ev{display:flex;gap:13px;padding:12px 0;border-bottom:1px solid var(--line)}
+  .ev:last-child{border-bottom:0}
+  .ev .em{font-size:18px;flex-shrink:0;width:24px;text-align:center}
+  .ev .body .tx{font-size:14px;line-height:1.45}
+  .ev .body .tm{font-size:11px;color:var(--muted);margin-top:3px}
+  footer{color:var(--muted);font-size:12px;text-align:center;margin-top:34px}
+</style>
+</head>
+<body>
+<div class="tape"></div>
+<header><div class="wrap htop">
+  <div class="brand">
+    <div class="mark">B</div>
+    <div><h1>BOOKED<span>JOB</span> · MISSION CONTROL</h1>
+      <div class="sub">Autonomous growth dashboard for the trades</div></div>
+  </div>
+  <div class="live"><span class="dot"></span> Live · updated <span id="updated">—</span></div>
+</div></header>
+
+<main class="wrap">
+  <div class="eyebrow">The scoreboard</div>
+  <div class="stats" id="stats"></div>
+
+  <div class="cols">
+    <div>
+      <div class="eyebrow">The play</div>
+      <div class="panel">
+        <h3>🧭 Strategy</h3>
+        <div class="strat">
+          <div class="scard"><div class="t">🎬 <b>Reels = the engine</b></div><div class="d">Original faceless Reels are the #1 reach lever — ~50% of FB feed is now from accounts you don't follow, so a new page can go viral. 2/week, word-synced captions.</div></div>
+          <div class="scard"><div class="t">👷 <b>Group = nurture</b></div><div class="d">An owned FB group gets ~20–40% reach vs ~1–6% for a page. Reels pull people in; the group builds trust with skeptical pros.</div></div>
+          <div class="scard"><div class="t">📝 <b>Content they love</b></div><div class="d">Lead with before/afters, "look what the last guy did", pricing-drama, tool wars, owner solidarity. No fluff, no sales pitch.</div></div>
+          <div class="scard"><div class="t">💸 <b>$7/day retargeting</b></div><div class="d">Cheap broad video-views build a warm pool, then retarget watchers into follows — far better than cold page-likes.</div></div>
+        </div>
+        <p style="font-size:13px;color:var(--muted);margin-top:14px;line-height:1.5">Independent content brand for service pros (plumbers, roofers, HVAC, electricians) → soft-funnels warm audience to Consent Resolve. Links go in the first comment; the page warms up over 2 weeks. Every move is grounded in real practitioner research.</p>
+      </div>
+
+      <div class="eyebrow">Activity log</div>
+      <div class="panel"><h3>📜 What changed</h3><div class="feed" id="feed"></div></div>
+    </div>
+
+    <div>
+      <div class="eyebrow">Content pipeline</div>
+      <div class="panel">
+        <h3>📦 Queue</h3>
+        <div class="bar"><div class="top"><span>Feed posts remaining</span><span id="pr">—</span></div><div class="track"><div class="fill" id="prf"></div></div></div>
+        <div class="bar"><div class="top"><span>Reels remaining</span><span id="rr">—</span></div><div class="track"><div class="fill" id="rrf"></div></div></div>
+        <p style="font-size:12px;color:var(--muted);margin-top:4px">Auto-refills flagged when low.</p>
+      </div>
+
+      <div class="eyebrow">Paid</div>
+      <div class="panel">
+        <h3>💸 Ad campaign</h3>
+        <div id="ads"></div>
+      </div>
+
+      <div class="eyebrow">Robots on duty</div>
+      <div class="panel"><h3>🤖 Automation</h3><div id="agents"></div></div>
+    </div>
+  </div>
+  <footer>Booked Job · Mission Control — data refreshes automatically. Built &amp; run autonomously. 🛠️</footer>
+</main>
+
+<script>
+const fmt = n => (n||0).toLocaleString();
+function countUp(el,to){let s=0,d=900,t0=null;const step=t=>{if(!t0)t0=t;const p=Math.min((t-t0)/d,1);
+  el.textContent=fmt(Math.floor((1-Math.pow(1-p,3))*to));if(p<1)requestAnimationFrame(step);};requestAnimationFrame(step);}
+
+async function load(){
+  let d,cl;
+  try{ d = await (await fetch('data.json?'+Date.now())).json(); }catch(e){ return; }
+  try{ cl = await (await fetch('changelog.json?'+Date.now())).json(); }catch(e){ cl={entries:[]}; }
+
+  document.getElementById('updated').textContent = new Date(d.updated).toLocaleString([], {month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+
+  const c=d.content, eng=(c.reactions||0)+(c.comments||0)+(c.shares||0);
+  const cards=[
+    ['Followers', d.page.followers, '👥', false],
+    ['Page Likes', d.page.likes, '👍', false],
+    ['Posts', c.posts_published, '📝', false],
+    ['Reels', c.reels_published, '🎬', false],
+    ['Engagement', eng, '🔥', false],
+    ['Ad Spend', d.ads.spend, '💸', true],
+  ];
+  const sc=document.getElementById('stats'); sc.innerHTML='';
+  cards.forEach(([label,val,ic,money])=>{
+    const el=document.createElement('div');el.className='stat';
+    el.innerHTML=`<div class="ic">${ic}</div><div class="label">${label}</div><div class="val ${money?'sm':''}"></div>`;
+    sc.appendChild(el);
+    const v=el.querySelector('.val');
+    if(money){v.textContent='$'+(parseFloat(val)||0).toFixed(2);} else {countUp(v,val);}
+  });
+
+  // pipeline
+  const pTot=c.posts_published-1+c.posts_remaining||1, rTot=c.reels_published+c.reels_remaining||1;
+  document.getElementById('pr').textContent=c.posts_remaining+' left';
+  document.getElementById('rr').textContent=c.reels_remaining+' left';
+  setTimeout(()=>{document.getElementById('prf').style.width=(100*c.posts_remaining/pTot)+'%';
+    document.getElementById('rrf').style.width=(100*c.reels_remaining/rTot)+'%';},100);
+
+  // ads
+  const a=d.ads, live=(a.status||'').toUpperCase()==='ACTIVE';
+  document.getElementById('ads').innerHTML=`
+    <div class="adrow"><span class="k">Status</span><span class="pill ${live?'':'paused'}">${a.status||'—'}</span></div>
+    <div class="adrow"><span class="k">Daily budget</span><span>${a.daily_budget?('$'+a.daily_budget.toFixed(0)+'/day'):'—'}</span></div>
+    <div class="adrow"><span class="k">Spent (total)</span><span>$${(parseFloat(a.spend)||0).toFixed(2)}</span></div>
+    <div class="adrow"><span class="k">Impressions</span><span>${fmt(a.impressions)}</span></div>
+    <div class="adrow"><span class="k">Video views</span><span>${fmt(a.video_views)}</span></div>`;
+
+  // agents
+  document.getElementById('agents').innerHTML=d.agents.map(ag=>`
+    <div class="agent"><div><div class="n">${ag.name}</div><div class="s">${ag.schedule}</div></div>
+    <div class="badge"><span class="dot"></span>LIVE</div></div>`).join('');
+
+  // feed
+  document.getElementById('feed').innerHTML=cl.entries.map(e=>`
+    <div class="ev"><div class="em">${e.icon}</div><div class="body">
+    <div class="tx">${e.text}</div>
+    <div class="tm">${new Date(e.ts).toLocaleString([], {month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})}</div>
+    </div></div>`).join('');
+}
+load(); setInterval(load, 60000);
+</script>
+</body>
+</html>

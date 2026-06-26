@@ -156,6 +156,11 @@ def main():
     state["by_date"][today.isoformat()] = state["by_date"].get(today.isoformat(), 0) + 1
     save_state(state)
     log(f"POSTED '{item['id']}' ({item['archetype']}) -> {post_id}")
+    try:
+        import log_change
+        log_change.add("post", f"Published post: {item['id'].replace('-', ' ')}")
+    except Exception:
+        pass
 
 
 if __name__ == "__main__":

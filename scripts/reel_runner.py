@@ -80,6 +80,11 @@ def main():
     state["last_iso"] = now.isoformat(timespec="seconds")
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"PUBLISHED reel '{nxt['id']}' -> {res.get('video_id')}")
+    try:
+        import log_change
+        log_change.add("reel", f"Published Reel: {nxt['hook']}")
+    except Exception:
+        pass
 
 
 if __name__ == "__main__":

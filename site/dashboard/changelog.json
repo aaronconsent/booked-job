@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {"ts": "2026-06-25T23:40", "kind": "ad", "icon": "💸", "text": "Activated the $7/day video-view campaign — live, promoting the Reel to build a retargeting pool."},
+    {"ts": "2026-06-25T23:20", "kind": "build", "icon": "🛠️", "text": "Wired a non-expiring System User token across all automation (posts, Reels, ads) — nothing expires."},
+    {"ts": "2026-06-25T23:00", "kind": "ad", "icon": "💸", "text": "Built the paid-ads manager and staged the first campaign (broad US video-views) — paused for approval."},
+    {"ts": "2026-06-25T22:30", "kind": "reel", "icon": "🎬", "text": "Published the first Reel — \"3 ways shops bleed money\" — voiced by ElevenLabs 'Torque Marshal'."},
+    {"ts": "2026-06-25T22:00", "kind": "build", "icon": "🛠️", "text": "Built the faceless Reels engine: ElevenLabs voice → word-synced captions → ffmpeg → auto-publish."},
+    {"ts": "2026-06-25T21:00", "kind": "build", "icon": "🛠️", "text": "Installed 4 autonomous agents (publisher, reels, engage, report) — running unattended on schedule."},
+    {"ts": "2026-06-25T20:30", "kind": "post", "icon": "📝", "text": "Generated a 14-post content backlog + 5 Reel scripts across the high-performing trade archetypes."},
+    {"ts": "2026-06-25T20:00", "kind": "site", "icon": "🌐", "text": "Optimized the Facebook page (About, description, link) via API + generated brand profile & cover graphics."},
+    {"ts": "2026-06-25T19:30", "kind": "post", "icon": "📝", "text": "Published the first post and verified the Graph API pipeline end-to-end."},
+    {"ts": "2026-06-25T19:00", "kind": "site", "icon": "🌐", "text": "Built & deployed the website — landing page + link-in-bio hub (hi-vis 'for the trades' identity)."},
+    {"ts": "2026-06-25T18:30", "kind": "strategy", "icon": "🧭", "text": "Locked the growth strategy from real practitioner research (Reels = engine, owned Group = nurture, $5–10/day retargeting)."},
+    {"ts": "2026-06-25T18:00", "kind": "build", "icon": "🛠️", "text": "Brand created: Booked Job — an independent content brand for service pros, soft-funneling to Consent Resolve."}
+  ]
+}

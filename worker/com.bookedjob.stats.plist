@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.bookedjob.stats</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/aaronphillips/GIT/booked-job/scripts/refresh_dashboard.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/aaronphillips/GIT/booked-job</string>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>6</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>12</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>18</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>22</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+  <key>StandardOutPath</key>
+  <string>/Users/aaronphillips/GIT/booked-job/content/stats.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/aaronphillips/GIT/booked-job/content/stats.err.log</string>
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>

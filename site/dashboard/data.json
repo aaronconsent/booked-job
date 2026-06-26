@@ -1,0 +1,52 @@
+{
+  "updated": "2026-06-26T07:11",
+  "page": {
+    "name": "Booked Job",
+    "followers": 0,
+    "likes": 0
+  },
+  "content": {
+    "posts_published": 1,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "reels_published": 1,
+    "posts_remaining": 14,
+    "reels_remaining": 4
+  },
+  "ads": {
+    "status": "ACTIVE",
+    "daily_budget": 7.0,
+    "spend": "0",
+    "impressions": 0,
+    "reach": 0,
+    "video_views": 0
+  },
+  "agents": [
+    {
+      "name": "Publisher",
+      "schedule": "Tue\u2013Thu \u00b7 3 windows/day",
+      "on": true
+    },
+    {
+      "name": "Reels",
+      "schedule": "Tue & Fri \u00b7 7:30am",
+      "on": true
+    },
+    {
+      "name": "Engage",
+      "schedule": "Daily \u00b7 9 / 2:30 / 8:15",
+      "on": true
+    },
+    {
+      "name": "Report",
+      "schedule": "Mon \u00b7 8am",
+      "on": true
+    },
+    {
+      "name": "Stats refresh",
+      "schedule": "Daily \u00b7 6 / 12 / 6 / 10",
+      "on": true
+    }
+  ]
+}
