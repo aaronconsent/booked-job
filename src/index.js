@@ -38,16 +38,8 @@ export default {
       }
     }
 
-    // Serve the RSS feed with the canonical content-type — picky validators
-    // (LinkedIn's native feed importer) reject application/xml.
-    if (url.pathname === "/feed.xml") {
-      const res = await env.ASSETS.fetch(request);
-      const headers = new Headers(res.headers);
-      headers.set("Content-Type", "application/rss+xml; charset=utf-8");
-      return new Response(res.body, { status: res.status, headers });
-    }
-
-    // static site
+    // static site (feed.xml content-type is set via site/_headers — the Worker
+    // does not run for paths that match a static asset)
     return env.ASSETS.fetch(request);
   },
 };

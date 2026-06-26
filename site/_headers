@@ -1,0 +1,5 @@
+# Serve the RSS feed with the canonical content-type. LinkedIn's native feed
+# importer (and some other validators) reject application/xml.
+/feed.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=300
