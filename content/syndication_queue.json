@@ -3,11 +3,62 @@
     {
       "id": "is-angi-worth-it",
       "title": "Is Angi Worth It for Contractors? The Real Cost Per Booked Job",
-      "labels": ["contractors", "angi", "lead generation", "trades", "small business"],
+      "labels": [
+        "contractors",
+        "angi",
+        "lead generation",
+        "trades",
+        "small business"
+      ],
       "short_title": "Is Angi Worth It?",
       "blurb": "Is Angi worth it? The honest math: leads get shared with up to 12 pros, so your real cost per booked job runs ~$1,430–2,500 — vs ~$290 organic. Here's the full breakdown, plus a free calculator that shows YOUR real cost per Angi lead. 👇",
       "url": "https://booked-job.com/blog/is-angi-worth-it/",
       "content_html": "<p>Every contractor asks the same question eventually: <em>is Angi actually worth it?</em> The honest answer, once you run the math, is that for most established shops it isn't &mdash; and the reason is the shared-lead model.</p><p>Angi (and HomeAdvisor, and Thumbtack) sells the same lead to as many as 5&ndash;12 contractors. So while an individual lead looks cheap at $15&ndash;$100, your real <strong>cost per <em>booked</em> job</strong> climbs to roughly <strong>$1,430&ndash;$2,500</strong> once you account for the low close rates on leads you're racing other trucks to win. Compare that to about <strong>$290</strong> for a job won through your own SEO or referrals.</p><p>The deeper problem isn't that Angi never produces work &mdash; it's that the day you stop paying, the leads stop. You rented an audience instead of building one.</p><p>We broke the whole thing down &mdash; including a free <strong>calculator that shows your real cost per Angi lead</strong> based on your own close rate and ticket size &mdash; over on Booked Job:</p><p>&rarr; <a href=\"https://booked-job.com/blog/is-angi-worth-it/\">Read the full breakdown: Is Angi Worth It for Contractors?</a></p><p><em>Booked Job is an independent resource for home-service business owners &mdash; plumbers, roofers, HVAC techs and electricians &mdash; on getting more booked jobs without getting ripped off.</em></p>"
+    },
+    {
+      "id": "how-to-price-a-job",
+      "title": "How to Price a Home-Service Job (Without Leaving Money on the Table)",
+      "labels": [
+        "pricing",
+        "contractors",
+        "trades",
+        "small business",
+        "margin"
+      ],
+      "short_title": "How to Price a Job",
+      "blurb": "Most contractors don't lose money on the work — they lose it on the estimate. The fix: price off margin, not markup (a 50% markup is only a 33% margin). Here's the money math nobody teaches you in the apprenticeship, plus a free calculator for what to actually charge.",
+      "url": "https://booked-job.com/blog/how-to-price-a-job/",
+      "content_html": "<p>Most contractors don't lose money because they're bad at the work. They lose it on the <strong>estimate</strong> &mdash; pricing off gut feel and doing markup math that quietly leaves profit on the table every job.</p><p>The big one: <strong>markup and margin are not the same number.</strong> A 50% markup on a $100 cost gets you a $150 price &mdash; but that's only a <strong>33% margin</strong>. To actually keep 50%, you'd charge $200. Across a year of estimates, that gap is real money.</p><p>The fix is one formula: take your direct cost (materials + labor + subs) and divide by <strong>(1 &minus; your target margin)</strong>. A $400 job at a 55% target margin should be priced around <strong>$889</strong>.</p><p>We broke down the three numbers every price is built on &mdash; plus a free <strong>margin calculator</strong> that tells you what to charge &mdash; on Booked Job:</p><p>&rarr; <a href=\"https://booked-job.com/blog/how-to-price-a-job/\">Read the full breakdown: How to Price a Job</a></p><p><em>Booked Job is an independent resource for home-service business owners on running a more profitable shop.</em></p>"
+    },
+    {
+      "id": "get-more-google-reviews",
+      "title": "How to Get More Google Reviews for Your Service Business",
+      "labels": [
+        "reviews",
+        "google business profile",
+        "local seo",
+        "trades",
+        "reputation"
+      ],
+      "short_title": "Get More Google Reviews",
+      "blurb": "Reviews decide who shows up in the map pack and who gets the call. The system: ask in person the second the job's done, then text the direct review link within the hour — one tap. Ask every customer (gating is against Google's rules), and aim for a steady trickle, not a burst.",
+      "url": "https://booked-job.com/blog/get-more-google-reviews/",
+      "content_html": "<p>Reviews are the cheapest marketing you'll ever do &mdash; they decide who shows up in the map pack and who gets the call. Yet most shops &ldquo;mean to ask&rdquo; and never do.</p><p>The fix is a system, not motivation: <strong>ask in person</strong> the second the job's done and the customer's happy, then <strong>text them the direct review link within the hour</strong>, while the goodwill is hot. Make it one tap &mdash; don't make them search for your business.</p><p>Two rules keep you out of trouble: ask <em>every</em> customer (only asking the happy ones is &ldquo;review gating,&rdquo; against Google's policy), and never offer a discount or gift for a review (incentivized reviews can get your profile suspended).</p><p>We laid out the full timing-and-tools system on Booked Job:</p><p>&rarr; <a href=\"https://booked-job.com/blog/get-more-google-reviews/\">Read it: How to Get More Google Reviews</a></p><p><em>Booked Job is an independent resource for the trades on getting found and chosen online.</em></p>"
+    },
+    {
+      "id": "surviving-the-slow-season",
+      "title": "Surviving the Slow Season: A Cash-Flow Playbook for the Trades",
+      "labels": [
+        "cash flow",
+        "slow season",
+        "trades",
+        "small business",
+        "marketing"
+      ],
+      "short_title": "Surviving the Slow Season",
+      "blurb": "The slow season is won in the busy season. Bank a 3–6 month cushion while work flows, sell maintenance plans and weather-independent jobs, re-engage past customers, and INCREASE marketing while competitors go quiet. The shops that struggle assume every good month lasts forever.",
+      "url": "https://booked-job.com/blog/surviving-the-slow-season/",
+      "content_html": "<p>Every trade has a slow stretch &mdash; the dead of winter, the post-holiday lull, the rainy run. It's not an emergency; it's a season you can see coming. The owners who sail through plan in July for what January will feel like.</p><p>The playbook: <strong>bank a 3&ndash;6 month cushion</strong> during peak months (sweep a fixed percent of every job into a separate account before it feels spendable); sell the work that ignores weather &mdash; <strong>maintenance plans</strong>, opposite-season installs, tune-ups; and mine your <strong>past customers</strong>, your cheapest pipeline by far.</p><p>And don't go dark on marketing. The slow season is exactly when to <strong>keep or increase</strong> it &mdash; competitors pull back, attention gets cheaper, and you head into the next busy stretch with a full pipeline while everyone else starts from zero.</p><p>&rarr; <a href=\"https://booked-job.com/blog/surviving-the-slow-season/\">Read the full playbook: Surviving the Slow Season</a></p><p><em>Booked Job is an independent resource for home-service business owners on building a business that doesn't panic when the phone slows down.</em></p>"
     }
   ]
 }
