@@ -1,12 +1,15 @@
 {
   "period": {"start": "2026-06-25", "end": "2026-07-25", "label": "Month 1 — Launch sprint"},
-  "rationale": "From absolute zero. First 14 days are warm-up (limited cadence to avoid new-page spam flags), so growth is back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (reels shipped, ad video-views, posts) over the lagging outcome (followers). Benchmarks: research puts ~1,000 followers at weeks-to-3-months for a consistent-Reels page; month 1 from zero with $7/day realistically lands 150-250. Reels are the reach engine, so 8 (2/wk) is the non-negotiable. Recalibrated weekly against actuals.",
+  "rationale": "Multi-channel from zero: Facebook (posts/Reels/$7-day ads) + YouTube Shorts + SEO/AEO blog, all soft-funneling to Consent Resolve. First 14 days are warm-up, so audience numbers are back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (videos shipped, posts, ad views) over lagging outcomes (followers, subs). Video is the engine on both FB and YouTube; the 'Angi/pricing/leads' content does double duty as Shorts, Reels, and AI-citable blog posts. Benchmarks: ~150-250 FB followers and a small-but-real YouTube base are realistic for month 1 from zero with this budget. Recalibrated weekly against actuals.",
   "targets": [
-    {"key": "reels_published",  "label": "Reels shipped",      "icon": "🎬", "target": 8,    "note": "2/wk — the reach engine. Fully in my control."},
-    {"key": "posts_published",  "label": "Posts shipped",      "icon": "📝", "target": 13,   "note": "~3/wk after warm-up + the intro."},
-    {"key": "video_views",      "label": "Ad video views",     "icon": "👀", "target": 6000, "note": "$7/day builds the retarget pool. ~$0.035 blended CPV incl. learning."},
-    {"key": "engagement",       "label": "Total engagement",   "icon": "🔥", "target": 400,  "note": "Comments are weighted — discussion drives reach."},
-    {"key": "followers",        "label": "Followers",          "icon": "👥", "target": 200,  "note": "The lagging outcome. Back-loaded to weeks 3-4."},
-    {"key": "likes",            "label": "Page likes",         "icon": "👍", "target": 150,  "note": "Tracks followers; from the retarget→follow campaign."}
+    {"key": "reels_published",  "label": "Reels shipped",     "icon": "🎬", "target": 8,    "note": "2/wk — FB reach engine."},
+    {"key": "yt_shorts",        "label": "YouTube Shorts",    "icon": "📺", "target": 12,   "note": "3/wk — strongest AI-citation signal."},
+    {"key": "posts_published",  "label": "Posts shipped",     "icon": "📝", "target": 13,   "note": "~3/wk after warm-up + intro."},
+    {"key": "video_views",      "label": "Ad video views",    "icon": "👀", "target": 6000, "note": "$7/day builds the retarget pool."},
+    {"key": "engagement",       "label": "FB engagement",     "icon": "🔥", "target": 400,  "note": "Comments weighted — they drive reach."},
+    {"key": "yt_views",         "label": "YouTube views",     "icon": "▶️", "target": 3000, "note": "Shorts + search; compounds."},
+    {"key": "followers",        "label": "FB followers",      "icon": "👥", "target": 200,  "note": "Lagging; back-loaded to wks 3-4."},
+    {"key": "yt_subscribers",   "label": "YouTube subs",      "icon": "🔔", "target": 50,   "note": "Lagging; small-but-real month 1."},
+    {"key": "likes",            "label": "FB page likes",     "icon": "👍", "target": 150,  "note": "From the retarget→follow campaign."}
   ]
 }

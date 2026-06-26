@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T11:19",
+  "updated": "2026-06-26T11:24",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
     "days_left": 29,
-    "rationale": "From absolute zero. First 14 days are warm-up (limited cadence to avoid new-page spam flags), so growth is back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (reels shipped, ad video-views, posts) over the lagging outcome (followers). Benchmarks: research puts ~1,000 followers at weeks-to-3-months for a consistent-Reels page; month 1 from zero with $7/day realistically lands 150-250. Reels are the reach engine, so 8 (2/wk) is the non-negotiable. Recalibrated weekly against actuals.",
+    "rationale": "Multi-channel from zero: Facebook (posts/Reels/$7-day ads) + YouTube Shorts + SEO/AEO blog, all soft-funneling to Consent Resolve. First 14 days are warm-up, so audience numbers are back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (videos shipped, posts, ad views) over lagging outcomes (followers, subs). Video is the engine on both FB and YouTube; the 'Angi/pricing/leads' content does double duty as Shorts, Reels, and AI-citable blog posts. Benchmarks: ~150-250 FB followers and a small-but-real YouTube base are realistic for month 1 from zero with this budget. Recalibrated weekly against actuals.",
     "items": [
       {
         "label": "Reels shipped",
@@ -12,6 +12,14 @@
         "current": 1,
         "target": 8,
         "pct": 12,
+        "on_track": true
+      },
+      {
+        "label": "YouTube Shorts",
+        "icon": "\ud83d\udcfa",
+        "current": 1,
+        "target": 12,
+        "pct": 8,
         "on_track": true
       },
       {
@@ -31,7 +39,7 @@
         "on_track": false
       },
       {
-        "label": "Total engagement",
+        "label": "FB engagement",
         "icon": "\ud83d\udd25",
         "current": 0,
         "target": 400,
@@ -39,7 +47,15 @@
         "on_track": false
       },
       {
-        "label": "Followers",
+        "label": "YouTube views",
+        "icon": "\u25b6\ufe0f",
+        "current": 0,
+        "target": 3000,
+        "pct": 0,
+        "on_track": false
+      },
+      {
+        "label": "FB followers",
         "icon": "\ud83d\udc65",
         "current": 0,
         "target": 200,
@@ -47,7 +63,15 @@
         "on_track": false
       },
       {
-        "label": "Page likes",
+        "label": "YouTube subs",
+        "icon": "\ud83d\udd14",
+        "current": 0,
+        "target": 50,
+        "pct": 0,
+        "on_track": false
+      },
+      {
+        "label": "FB page likes",
         "icon": "\ud83d\udc4d",
         "current": 0,
         "target": 150,
@@ -57,10 +81,10 @@
     ]
   },
   "strategist": {
-    "updated": "2026-06-25",
-    "headline": "Day 1 \u2014 warm-up phase, building the foundation.",
-    "read": "Page is in its 14-day warm-up, so I'm deliberately holding cadence down to avoid new-page spam flags \u2014 expect followers to look flat until ~mid-July, then accelerate as posting ramps and the $7/day video-view campaign matures into a retargeting pool. Nothing here is broken; this is the plan.",
-    "next_move": "Ship the first 3 Reels (reach engine), keep comment-driving questions flowing, and stand up the owned FB group as the nurture room. First real read on what's landing comes from the Monday report.",
+    "updated": "2026-06-26",
+    "headline": "Three channels live \u2014 now it's about reps and data.",
+    "read": "We went from zero to a real multi-channel machine: Facebook (posts + Reels + $7/day retargeting), YouTube Shorts, and an SEO/AEO blog led by the 'Is Angi Worth It?' pillar + calculator. Everything's still in warm-up, so the audience numbers will look small until ~mid-July \u2014 that's expected. The foundation is the win; now we need volume and the first real performance signal.",
+    "next_move": "Ship reps across all three channels and watch what lands first. Priority: expand the Angi/pricing SEO cluster (each post doubles as a Short script), keep the Reels + Shorts cadence, and start mining real contractor quotes from FB comments for the phase-2 EEAT. First hard read comes from the Monday report.",
     "next_review": "2026-06-29"
   },
   "upcoming": [
@@ -170,6 +194,13 @@
     "impressions": 0,
     "reach": 0,
     "video_views": 0
+  },
+  "youtube": {
+    "connected": true,
+    "subscribers": 0,
+    "views": 0,
+    "videos": 1,
+    "shorts": 1
   },
   "agents": [
     {

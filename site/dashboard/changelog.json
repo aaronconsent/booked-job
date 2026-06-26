@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-06-26T11:25",
+      "kind": "strategy",
+      "icon": "🧭",
+      "text": "Dashboard now multi-channel: live YouTube stats (subs/views/Shorts) + YouTube goals, and the Strategy panel rebuilt to reflect the full FB + YouTube + SEO/AEO research-backed plan."
+    },
+    {
       "ts": "2026-06-26T11:18",
       "kind": "reel",
       "icon": "🎬",

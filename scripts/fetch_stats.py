@@ -77,6 +77,29 @@ def main():
                 ads["daily_budget"] = int(a["daily_budget"]) / 100
                 break
 
+    # YouTube stats (if connected)
+    yt = {"connected": False, "subscribers": 0, "views": 0, "videos": 0}
+    yp = os.path.join(ROOT, "secrets", "youtube.env")
+    if os.path.exists(yp):
+        try:
+            ye = {}
+            for line in open(yp):
+                if "=" in line and not line.startswith("#"):
+                    k, v = line.strip().split("=", 1); ye[k] = v
+            tbody = urllib.parse.urlencode({
+                "client_id": ye["YT_CLIENT_ID"], "client_secret": ye["YT_CLIENT_SECRET"],
+                "refresh_token": ye["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
+            at = json.loads(urllib.request.urlopen(urllib.request.Request(
+                "https://oauth2.googleapis.com/token", data=tbody), timeout=30).read().decode())["access_token"]
+            cr = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=statistics&mine=true")
+            cr.add_header("Authorization", f"Bearer {at}")
+            stt = json.loads(urllib.request.urlopen(cr, timeout=30).read().decode())["items"][0]["statistics"]
+            yt = {"connected": True, "subscribers": int(stt.get("subscriberCount", 0)),
+                  "views": int(stt.get("viewCount", 0)), "videos": int(stt.get("videoCount", 0))}
+        except Exception:
+            pass
+    yt_done = len(jload("content/yt_state.json", {"done": []}).get("done", []))
+
     eng_total = rx + cm + sh
     reels_done = len(rst.get("done", []))
     posts_done = len(st.get("posted", [])) + 1
@@ -111,7 +134,9 @@ def main():
     today = dt.date.today()
     actuals = {"followers": pi.get("followers_count", 0), "likes": pi.get("fan_count", 0),
                "engagement": eng_total, "posts_published": posts_done,
-               "reels_published": reels_done, "video_views": ads["video_views"]}
+               "reels_published": reels_done, "video_views": ads["video_views"],
+               "yt_shorts": max(yt_done, yt["videos"]), "yt_subscribers": yt["subscribers"],
+               "yt_views": yt["views"]}
     g_items = []
     try:
         gs = dt.date.fromisoformat(per["start"]); ge = dt.date.fromisoformat(per["end"])
@@ -142,6 +167,7 @@ def main():
             "reels_remaining": max(0, len(rq) - len(rst.get("done", []))),
         },
         "ads": ads,
+        "youtube": {**yt, "shorts": max(yt_done, yt["videos"])},
         "agents": [
             {"name": "Publisher", "schedule": "Tue–Thu · 3 windows/day", "on": True},
             {"name": "Reels", "schedule": "Tue & Fri · 7:30am", "on": True},
