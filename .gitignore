@@ -15,3 +15,9 @@ content/reels/*.mp4
 *.wav
 *.wav.json
 content/voicelab/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
