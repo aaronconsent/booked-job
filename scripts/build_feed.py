@@ -10,8 +10,12 @@ SITE = "https://booked-job.com"
 
 def main():
     items = json.load(open(os.path.join(ROOT, "content", "syndication_queue.json")))["items"]
+    # strip emoji / non-BMP chars — some RSS importers (and LinkedIn) reject them
+    def clean(s):
+        return "".join(c for c in (s or "") if ord(c) <= 0xFFFF).strip()
     rows = ""
     for it in items:
+        it = {**it, "title": clean(it["title"]), "blurb": clean(it.get("blurb", ""))}
         rows += f"""
     <item>
       <title>{html.escape(it['title'])}</title>
