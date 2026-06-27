@@ -154,4 +154,29 @@ header{padding:26px 0 6px}
 .coach .nm{display:flex;gap:10px;align-items:flex-start;margin-top:14px;padding-top:14px;border-top:1px solid var(--line);font-size:14px;line-height:1.55}
 .coach .nl{flex-shrink:0;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--hi);background:rgba(255,106,0,.14);border:1px solid rgba(255,106,0,.3);padding:4px 9px;border-radius:7px}
 
+/* letter grades */
+.gcolor-A{color:#22c55e}.gcolor-B{color:#84cc16}.gcolor-C{color:#eab308}.gcolor-D{color:#f97316}.gcolor-F{color:#ef4444}
+.cc-grade{font-family:Anton,sans-serif;font-size:15px;line-height:1}
+
+/* mafia toggle */
+.modebar{display:flex;justify-content:flex-end;margin:18px 0 0}
+.switch{display:inline-flex;align-items:center;gap:10px;cursor:pointer;user-select:none;font-weight:700;font-size:14px}
+.switch .track{width:46px;height:26px;background:var(--line);border-radius:99px;position:relative;transition:.2s}
+.switch .knob{position:absolute;top:3px;left:3px;width:20px;height:20px;background:#fff;border-radius:50%;transition:.2s}
+.switch input{display:none}
+.switch input:checked + .track{background:var(--hi)}
+.switch input:checked + .track .knob{left:23px}
+
+/* mafia view */
+.mafia-hero{display:flex;align-items:center;gap:24px;flex-wrap:wrap}
+.mafia-grade{font-family:Anton,sans-serif;font-size:104px;line-height:.85;width:150px;text-align:center}
+.mafia-hero .ttl{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;font-weight:700;margin-bottom:6px}
+.mafia-hero p{font-size:15px;line-height:1.65;color:#d7dade}
+.mcards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:18px}
+@media(max-width:680px){.mcards{grid-template-columns:1fr 1fr}}
+.mcard{background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:18px 14px;text-align:center}
+.mcard .ml{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+.mcard .mv{font-family:Anton,sans-serif;font-size:36px;line-height:1;margin:8px 0 6px}
+.mcard .mg{font-family:Anton,sans-serif;font-size:44px;line-height:1}
+
 footer{color:var(--muted);font-size:12px;text-align:center;margin-top:34px}

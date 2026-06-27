@@ -14,7 +14,7 @@ function renderScoreboard(d){
     const unit=c.followers!=null?'followers':c.unit;
     const sub=c.status==='pending'?'Pending':(unit+' · '+c.status);
     return `<div class="ccard" style="--st:${COL[c.status]||'#9ca3af'}">
-      <div class="cc-top"><span class="cc-emo">${EMO[c.name]||'•'}</span><span class="sdot" style="background:${COL[c.status]||'#9ca3af'}"></span></div>
+      <div class="cc-top"><span class="cc-emo">${EMO[c.name]||'•'}</span><span class="cc-grade gcolor-${c.grade||'F'}">${c.grade||'—'}</span></div>
       <div class="cc-val">${fmt(big)}</div><div class="cc-lab">${c.name}</div><div class="cc-sub">${sub}</div></div>`;
   }).join('');
 }
@@ -117,12 +117,34 @@ function renderActivity(cl){
     <div class="tx">${e.text}</div><div class="tm">${new Date(e.ts).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})}</div></div></div>`).join('');
 }
 
+function renderMafia(d){
+  if(!$('mafiaMetrics')||!d.mafia) return;
+  const m=d.mafia;
+  const g=$('mafiaGrade'); g.textContent=m.overall; g.className='mafia-grade gcolor-'+m.overall;
+  $('mafiaSummary').textContent=m.summary;
+  $('mafiaMetrics').innerHTML=m.metrics.map(x=>
+    `<div class="mcard"><div class="ml">${x.label}</div><div class="mv">${fmt(x.value)}</div><div class="mg gcolor-${x.grade}">${x.grade}</div></div>`).join('');
+}
+
+function setMafia(on){
+  const mv=$('mafiaView'), nv=$('normalView'); if(!mv||!nv) return;
+  mv.style.display=on?'':'none'; nv.style.display=on?'none':'';
+  try{ localStorage.setItem('mafia',on?'1':'0'); }catch(e){}
+}
+function initMafia(){
+  const t=$('mafiaToggle'); if(!t) return;
+  let on=false; try{ on=localStorage.getItem('mafia')==='1'; }catch(e){}
+  if(location.search.indexOf('mafia=1')>=0) on=true;
+  t.checked=on; setMafia(on);
+  t.addEventListener('change',()=>setMafia(t.checked));
+}
+
 async function load(){
   let d,cl;
   try{ d=await (await fetch('data.json?'+Date.now())).json(); }catch(e){ return; }
   try{ cl=await (await fetch('changelog.json?'+Date.now())).json(); }catch(e){ cl={entries:[]}; }
   if($('updated')) $('updated').textContent=new Date(d.updated).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
-  renderScoreboard(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
+  renderScoreboard(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
   renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl);
 }
-load(); setInterval(load, 60000);
+initMafia(); load(); setInterval(load, 60000);

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T11:17",
+  "updated": "2026-06-27T11:43",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -425,109 +425,126 @@
       "name": "Blog",
       "status": "live",
       "count": 4,
-      "unit": "articles"
+      "unit": "articles",
+      "grade": "D"
     },
     {
       "name": "Facebook",
       "status": "live",
       "count": 0,
-      "unit": "posts"
+      "unit": "posts",
+      "grade": "F"
     },
     {
       "name": "Instagram",
       "status": "live",
       "count": 0,
-      "unit": "reels"
+      "unit": "reels",
+      "grade": "F"
     },
     {
       "name": "YouTube",
       "status": "live",
       "count": 0,
-      "unit": "shorts"
+      "unit": "shorts",
+      "grade": "F"
     },
     {
       "name": "Blogger",
       "status": "live",
       "count": 1,
-      "unit": "posts"
+      "unit": "posts",
+      "grade": "D"
     },
     {
       "name": "Tumblr",
       "status": "live",
       "count": 1,
-      "unit": "posts"
+      "unit": "posts",
+      "grade": "D"
     },
     {
       "name": "Telegraph",
       "status": "live",
       "count": 2,
-      "unit": "posts"
+      "unit": "posts",
+      "grade": "D"
     },
     {
       "name": "Bluesky",
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "followers": 0
+      "followers": 0,
+      "grade": "F"
     },
     {
       "name": "Mastodon",
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "followers": 0
+      "followers": 0,
+      "grade": "F"
     },
     {
       "name": "Threads",
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "followers": 0
+      "followers": 0,
+      "grade": "F"
     },
     {
       "name": "Telegram",
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "followers": 2
+      "followers": 2,
+      "grade": "D"
     },
     {
       "name": "GitHub Pages",
       "status": "live",
       "count": 1,
-      "unit": "mirrors"
+      "unit": "mirrors",
+      "grade": "D"
     },
     {
       "name": "Pinterest",
       "status": "sandbox",
       "count": 0,
-      "unit": "pins"
+      "unit": "pins",
+      "grade": "F"
     },
     {
       "name": "Email",
       "status": "live",
       "count": 5,
-      "unit": "subs"
+      "unit": "subs",
+      "grade": "D"
     },
     {
       "name": "LinkedIn",
       "status": "live",
       "count": 1,
       "unit": "posts (Buffer)",
-      "stat": "0 reach \u00b7 0 reactions"
+      "stat": "0 reach \u00b7 0 reactions",
+      "grade": "D"
     },
     {
       "name": "TikTok",
       "status": "live",
       "count": 2,
       "unit": "videos (Buffer)",
-      "stat": "0 views \u00b7 0 reactions"
+      "stat": "0 views \u00b7 0 reactions",
+      "grade": "D"
     },
     {
       "name": "Google Business",
       "status": "pending",
       "count": 0,
-      "unit": "verifying"
+      "unit": "verifying",
+      "grade": "\u2014"
     }
   ],
   "funnel": {
@@ -541,5 +558,41 @@
     "engagement": 0,
     "email": 0,
     "reach": 0
+  },
+  "mafia": {
+    "metrics": [
+      {
+        "label": "Total Views",
+        "value": 0,
+        "grade": "F"
+      },
+      {
+        "label": "Total Clicks",
+        "value": 3,
+        "grade": "D"
+      },
+      {
+        "label": "Total Posts",
+        "value": 21,
+        "grade": "D"
+      },
+      {
+        "label": "Total Reach",
+        "value": 0,
+        "grade": "F"
+      },
+      {
+        "label": "Audience Size",
+        "value": 7,
+        "grade": "F"
+      },
+      {
+        "label": "Engagement",
+        "value": 1,
+        "grade": "F"
+      }
+    ],
+    "overall": "F",
+    "summary": "Brutal truth: we're basically invisible right now. 21 posts are out the door across 15 live channels, but the audience is 7 and almost nobody's seen them yet. That's an F \u2014 and honestly normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment they land to open two more reach channels. Nothing's broken \u2014 it's a cold engine. Grades climb as the numbers do; check back weekly."
   }
 }

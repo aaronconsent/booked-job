@@ -139,6 +139,41 @@ def social_followers():
     return f
 
 
+def _grade(value, t):
+    """Letter grade from thresholds t=[D,C,B,A]."""
+    if value >= t[3]: return "A"
+    if value >= t[2]: return "B"
+    if value >= t[1]: return "C"
+    if value >= t[0]: return "D"
+    return "F"
+
+
+def mafia_summary(overall, posts, audience, clicks, live_ch):
+    """Brutally honest read keyed off the overall grade."""
+    if overall == "F":
+        return (f"Brutal truth: we're basically invisible right now. {posts} posts are out the door across {live_ch} live "
+                f"channels, but the audience is {audience} and almost nobody's seen them yet. That's an F — and honestly "
+                f"normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. "
+                f"The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon "
+                f"keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment "
+                f"they land to open two more reach channels. Nothing's broken — it's a cold engine. Grades climb as the "
+                f"numbers do; check back weekly.")
+    if overall == "D":
+        return (f"On the board, barely. {posts} posts, {audience} in the audience, {clicks} clicks toward Consent Resolve — "
+                f"real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: "
+                f"more content volume (the single biggest lever), keep the engagement daemon running, and switch on the "
+                f"gated channels (Pinterest/GBP) the moment they're approved.")
+    if overall == "C":
+        return (f"Respectable for an early-stage brand. {posts} posts, {audience} audience, {clicks} CR clicks — the flywheel "
+                f"is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video "
+                f"(the reach engine), and tighten the email nurture so more of this audience converts.")
+    if overall == "B":
+        return (f"Strong. {audience} audience and {clicks} clicks to Consent Resolve — this is working. To hit an A: scale the "
+                f"winning channels, push reach (ads + video), and fix the funnel's weakest stage.")
+    return (f"Elite. Firing across reach, audience, and conversion — {audience} audience, {clicks} CR clicks. Now defend the "
+            f"lead: keep volume high, put budget behind what converts, and protect the owned audience.")
+
+
 def channels(email_subs=0, followers=None):
     """Distribution panel: every channel with connection status + activity."""
     followers = followers or {}
@@ -195,6 +230,8 @@ def channels(email_subs=0, followers=None):
     out.append(tt)
     # Pending channels (built/ready, waiting on an external gate)
     out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
+    for e in out:
+        e["grade"] = "—" if e["status"] in ("pending", "off") else _grade(e.get("followers", e["count"]), [1, 10, 50, 200])
     return out
 
 
@@ -364,6 +401,25 @@ def main():
         return snap[m] - prior if prior is not None else 0
     trends = {m: _delta(m) for m in ("audience", "engagement", "email", "reach")}
 
+    # ---- Mafia Mode: 6 plain-English metrics, letter-graded, + brutal summary ----
+    chs = channels(email_subs, foll)
+    total_posts = sum(c.get("count", 0) for c in chs)
+    GR = [
+        ("Total Views", yt["views"] + ads["video_views"], [50, 500, 5000, 50000]),
+        ("Total Clicks", cr_clicks, [3, 20, 100, 500]),
+        ("Total Posts", total_posts, [10, 30, 80, 200]),
+        ("Total Reach", ads["reach"] + ads["impressions"], [100, 1000, 10000, 100000]),
+        ("Audience Size", total_aud, [10, 50, 250, 1000]),
+        ("Engagement", eng_total, [5, 25, 100, 500]),
+    ]
+    m_metrics = [{"label": k, "value": v, "grade": _grade(v, t)} for k, v, t in GR]
+    gpts = {"A": 4, "B": 3, "C": 2, "D": 1, "F": 0}
+    avg = sum(gpts[m["grade"]] for m in m_metrics) / len(m_metrics)
+    overall = "A" if avg >= 3.5 else "B" if avg >= 2.5 else "C" if avg >= 1.5 else "D" if avg >= 0.5 else "F"
+    live_ch = sum(1 for c in chs if c["status"] == "live")
+    mafia = {"metrics": m_metrics, "overall": overall,
+             "summary": mafia_summary(overall, total_posts, total_aud, cr_clicks, live_ch)}
+
     data = {
         "updated": dt.datetime.now().isoformat(timespec="minutes"),
         "goals": {"label": per.get("label", "Sprint"), "end": per.get("end", ""),
@@ -384,9 +440,10 @@ def main():
         "instagram": ig,
         "email": {"subscribers": email_subs},
         "agents": enumerate_agents(),
-        "channels": channels(email_subs, foll),
+        "channels": chs,
         "funnel": funnel,
         "trends": trends,
+        "mafia": mafia,
     }
     out = os.path.join(ROOT, "site", "dashboard", "data.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)

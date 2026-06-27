@@ -26,6 +26,22 @@
 </div></header>
 
 <main class="wrap">
+  <div class="modebar">
+    <label class="switch"><input type="checkbox" id="mafiaToggle" /><span class="track"><span class="knob"></span></span> 🕴️ Mafia Mode</label>
+  </div>
+
+  <div id="mafiaView" style="display:none">
+    <div class="eyebrow">Mafia Mode — the brutally honest read</div>
+    <div class="panel">
+      <div class="mafia-hero">
+        <div class="mafia-grade" id="mafiaGrade">—</div>
+        <div style="flex:1;min-width:260px"><div class="ttl">Overall grade</div><p id="mafiaSummary"></p></div>
+      </div>
+      <div class="mcards" id="mafiaMetrics"></div>
+    </div>
+  </div>
+
+  <div id="normalView">
   <div class="eyebrow">The scoreboard — every channel</div>
   <div id="scoreboard"></div>
 
@@ -40,6 +56,7 @@
     <div class="goalhead"><h3 style="margin:0">🎯 <span id="goalLabel">Sprint</span></h3><span class="countdown" id="countdown">—</span></div>
     <div class="goals" id="goals"></div>
     <p class="grat" id="goalRationale"></p>
+  </div>
   </div>
   <footer>Booked Job · Mission Control — refreshes automatically. Built &amp; run autonomously. 🛠️</footer>
 </main>
