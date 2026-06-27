@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:33",
+  "updated": "2026-06-26T19:35",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -308,6 +308,11 @@
       "on": true
     },
     {
+      "name": "Threads Surfacing",
+      "schedule": "Daily \u00b7 13:15 / 18:15 / 8:15",
+      "on": true
+    },
+    {
       "name": "Tumblr",
       "schedule": "Fri \u00b7 9:00",
       "on": true
@@ -315,6 +320,11 @@
     {
       "name": "YouTube Shorts",
       "schedule": "Mon, Wed, Fri \u00b7 8:30",
+      "on": true
+    },
+    {
+      "name": "YouTube CTA",
+      "schedule": "Daily \u00b7 10:30 / 17:30",
       "on": true
     }
   ],

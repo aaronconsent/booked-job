@@ -46,7 +46,8 @@ AGENT_NAMES = {
     "pinterest": "Pinterest", "newsletter": "Newsletter",
     "telegraph": "Telegraph", "bluesky": "Bluesky", "mastodon": "Mastodon",
     "threads": "Threads", "telegram": "Telegram", "ghpages": "GitHub Pages",
-    "blueskyengage": "Bluesky Engage",
+    "blueskyengage": "Bluesky Engage", "youtubeengage": "YouTube CTA",
+    "threadsengage": "Threads Surfacing",
 }
 
 
