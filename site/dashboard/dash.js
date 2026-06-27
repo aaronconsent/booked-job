@@ -10,8 +10,8 @@ function sortCh(ch){return [...ch].sort((a,b)=>(ORD[a.status]??9)-(ORD[b.status]
 function renderScoreboard(d){
   const el=$('scoreboard'); if(!el||!d.channels) return;
   el.innerHTML=sortCh(d.channels).map(c=>{
-    const big=c.followers!=null?c.followers:c.count;
-    const unit=c.followers!=null?'followers':c.unit;
+    const big=c.views!=null?c.views:(c.followers!=null?c.followers:c.count);
+    const unit=c.views!=null?'views':(c.followers!=null?'followers':c.unit);
     const sub=c.status==='pending'?'Pending':(unit+' · '+c.status);
     return `<div class="ccard" style="--st:${COL[c.status]||'#9ca3af'}">
       <div class="cc-top"><span class="cc-emo">${EMO[c.name]||'•'}</span><span class="cc-grade gcolor-${c.grade||'F'}">${c.grade||'—'}</span></div>

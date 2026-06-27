@@ -222,11 +222,13 @@ def channels(email_subs=0, followers=None):
           "count": len(bs.get("linkedin", [])), "unit": "posts (Buffer)"}
     if li_m:
         li["stat"] = f"{int(li_m.get('reach', 0))} reach · {int(li_m.get('reactions', 0))} reactions"
+        li["views"] = int(li_m.get("views", 0))
     out.append(li)
     tt = {"name": "TikTok", "status": "live" if buf else "off",
           "count": len(bs.get("tiktok", [])), "unit": "videos (Buffer)"}
     if tt_m:
         tt["stat"] = f"{int(tt_m.get('views', 0))} views · {int(tt_m.get('reactions', 0))} reactions"
+        tt["views"] = int(tt_m.get("views", 0))
     out.append(tt)
     # Pending channels (built/ready, waiting on an external gate)
     out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
@@ -403,6 +405,26 @@ def main():
 
     # ---- Mafia Mode: 6 plain-English metrics, letter-graded, + brutal summary ----
     chs = channels(email_subs, foll)
+    # attach views + real follower counts where the platform exposes them
+    ch_views = {"YouTube": yt["views"]}
+    thv = readenv("threads.env")
+    if thv.get("THREADS_USER_ID") and thv.get("THREADS_TOKEN"):
+        dv = _jget(f"https://graph.threads.net/v1.0/{thv['THREADS_USER_ID']}/threads_insights?metric=views&access_token={thv['THREADS_TOKEN']}")
+        try:
+            ch_views["Threads"] = dv["data"][0]["total_value"]["value"]
+        except Exception:
+            pass
+    try:
+        fv = get(f"{page}/insights", {"metric": "page_video_views", "period": "days_28"}, ptok)
+        ch_views["Facebook"] = fv["data"][0]["values"][-1]["value"]
+    except Exception:
+        pass
+    ch_foll = {"Facebook": pi.get("followers_count", 0), "Instagram": ig["followers"], "YouTube": yt["subscribers"]}
+    for c in chs:
+        if c["name"] in ch_views:
+            c["views"] = ch_views[c["name"]]
+        if c["name"] in ch_foll and "followers" not in c:
+            c["followers"] = ch_foll[c["name"]]
     total_posts = sum(c.get("count", 0) for c in chs)
     GR = [
         ("Total Views", yt["views"] + ads["video_views"], [50, 500, 5000, 50000]),
