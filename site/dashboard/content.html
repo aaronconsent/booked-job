@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="noindex, nofollow" />
-<title>Booked Job — Mission Control</title>
+<title>Booked Job — Content</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Hanken+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="dash.css" />
@@ -17,29 +17,31 @@
     <div class="live"><span class="dot"></span> Live · updated <span id="updated">—</span></div>
   </div>
   <nav class="nav">
-    <a href="index.html" class="active">Home</a>
+    <a href="index.html">Home</a>
     <a href="robots.html">Robots</a>
     <a href="channels.html">Channels</a>
-    <a href="content.html">Content</a>
+    <a href="content.html" class="active">Content</a>
     <a href="strategy.html">Strategy</a>
   </nav>
 </div></header>
 
 <main class="wrap">
-  <div class="eyebrow">The scoreboard — every channel</div>
-  <div id="scoreboard"></div>
+  <div class="cols">
+    <div>
+      <div class="eyebrow">Activity log</div>
+      <div class="panel"><h3>📜 What changed</h3><div class="feed" id="feed"></div></div>
+    </div>
+    <div>
+      <div class="eyebrow">What's next</div>
+      <div class="panel"><h3>🗓️ Coming up</h3><div id="agenda"></div></div>
 
-  <div class="eyebrow">Is it working? — the funnel</div>
-  <div class="panel"><h3>🎯 Reach → Engagement → Audience → Consent Resolve <span id="trajectory" class="traj"></span></h3>
-    <div id="funnel"></div>
-    <p style="font-size:12px;color:var(--muted);margin-top:10px">Weekly change shown per stage. CR clicks counted via the tracked <code>/cr</code> link (UTM-tagged for Consent Resolve's analytics).</p>
-  </div>
-
-  <div class="eyebrow">Goals vs target</div>
-  <div class="panel">
-    <div class="goalhead"><h3 style="margin:0">🎯 <span id="goalLabel">Sprint</span></h3><span class="countdown" id="countdown">—</span></div>
-    <div class="goals" id="goals"></div>
-    <p class="grat" id="goalRationale"></p>
+      <div class="eyebrow">Content pipeline</div>
+      <div class="panel"><h3>📦 Queue</h3>
+        <div class="bar"><div class="top"><span>Feed posts remaining</span><span id="pr">—</span></div><div class="track"><div class="fill" id="prf"></div></div></div>
+        <div class="bar"><div class="top"><span>Reels remaining</span><span id="rr">—</span></div><div class="track"><div class="fill" id="rrf"></div></div></div>
+        <p style="font-size:12px;color:var(--muted);margin-top:4px">Auto-refills flagged when low.</p>
+      </div>
+    </div>
   </div>
   <footer>Booked Job · Mission Control — refreshes automatically. Built &amp; run autonomously. 🛠️</footer>
 </main>

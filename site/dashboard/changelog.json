@@ -1,6 +1,60 @@
 {
   "entries": [
     {
+      "ts": "2026-06-27T10:37",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Phase 2 visual formats LIVE: IG+FB carousels + IG+FB Stories (one slide-source -> LinkedIn PDF + IG/FB carousel + Stories)."
+    },
+    {
+      "ts": "2026-06-27T10:32",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted IG carousel: Is Angi Worth It for Contractors?"
+    },
+    {
+      "ts": "2026-06-27T10:24",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Bluesky custom feed (Home-Service Talk) + starter pack live — Phase 1 complete."
+    },
+    {
+      "ts": "2026-06-27T10:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to TikTok (Buffer): money-leaks-torque"
+    },
+    {
+      "ts": "2026-06-27T10:00",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: How to Price a Home-Service Job (Without Leaving Money on the Table)"
+    },
+    {
+      "ts": "2026-06-27T09:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "TikTok LIVE via Buffer (video posting) — both Buffer channels publishing; first video queued."
+    },
+    {
+      "ts": "2026-06-27T09:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to TikTok (Buffer): is-angi-worth-it"
+    },
+    {
+      "ts": "2026-06-27T08:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "LinkedIn LIVE via Buffer (interim); TikTok connected — Buffer GraphQL API integrated."
+    },
+    {
+      "ts": "2026-06-27T08:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
+    },
+    {
       "ts": "2026-06-27T05:28",
       "kind": "site",
       "icon": "🌐",
