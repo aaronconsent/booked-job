@@ -1,0 +1,9 @@
+{
+  "_doc": "Story-card content per article (9:16, ephemeral daily presence). Runner cycles through them.",
+  "stories": {
+    "is-angi-worth-it": {"headline": "Your Angi lead really costs $1,400+ per booked job", "sub": "The honest math →"},
+    "how-to-price-a-job": {"headline": "A 50% markup is only 33% profit", "sub": "The pricing mistake most shops make →"},
+    "get-more-google-reviews": {"headline": "Reviews decide who gets the call", "sub": "The ask system that works →"},
+    "surviving-the-slow-season": {"headline": "The slow season is won in the busy season", "sub": "The cash-flow playbook →"}
+  }
+}
