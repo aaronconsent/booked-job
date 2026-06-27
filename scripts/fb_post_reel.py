@@ -71,6 +71,24 @@ def publish_reel(video, description="", env=None):
     return {"video_id": video_id, "finish": fin, "status": status}
 
 
+def publish_video_story(video, env=None):
+    """Publish an MP4 as a Facebook video Story (same 3-phase upload as reels)."""
+    env = env or fb_post.load_env()
+    page, token = env["FB_PAGE_ID"], env["FB_PAGE_TOKEN"]
+    size = os.path.getsize(video)
+    start = _json_post(f"{GRAPH}/{page}/video_stories", {"access_token": token, "upload_phase": "start"})
+    video_id = start["video_id"]
+    with open(video, "rb") as f:
+        blob = f.read()
+    req = urllib.request.Request(f"{RUPLOAD}/{video_id}", data=blob, method="POST")
+    req.add_header("Authorization", f"OAuth {token}"); req.add_header("offset", "0"); req.add_header("file_size", str(size))
+    with urllib.request.urlopen(req, timeout=300) as r:
+        r.read()
+    fin = _json_post(f"{GRAPH}/{page}/video_stories",
+                     {"access_token": token, "video_id": video_id, "upload_phase": "finish"})
+    return {"video_id": video_id, "finish": fin}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--video", required=True)

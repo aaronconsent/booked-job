@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:37",
+  "updated": "2026-06-27T10:43",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -323,6 +323,11 @@
       "on": true
     },
     {
+      "name": "Reel Stories",
+      "schedule": "Tue, Sat \u00b7 8:45",
+      "on": true
+    },
+    {
       "name": "Weekly Report",
       "schedule": "Mon \u00b7 8:00",
       "on": true
@@ -360,6 +365,11 @@
     {
       "name": "Threads Surfacing",
       "schedule": "Daily \u00b7 13:15 / 18:15 / 8:15",
+      "on": true
+    },
+    {
+      "name": "TikTok Carousels",
+      "schedule": "Thu \u00b7 10:45",
       "on": true
     },
     {

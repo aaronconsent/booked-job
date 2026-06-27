@@ -103,6 +103,14 @@ def publish_story(image_url):
     return _post(f"{ig}/media_publish", {"creation_id": c["id"], "access_token": tok})
 
 
+def publish_video_story(video_url):
+    """Publish an IG video Story from a PUBLIC video URL (a reel as a Story)."""
+    e = env(); tok = e["FB_SYSTEM_TOKEN"]; ig = ig_user_id(e)
+    c = _post(f"{ig}/media", {"media_type": "STORIES", "video_url": video_url, "access_token": tok})
+    _wait(c["id"], tok, tries=30, delay=5)
+    return _post(f"{ig}/media_publish", {"creation_id": c["id"], "access_token": tok})
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
