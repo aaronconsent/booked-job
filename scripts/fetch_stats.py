@@ -44,6 +44,9 @@ AGENT_NAMES = {
     "instagram": "Instagram Reels", "engage": "Engage", "report": "Weekly Report",
     "stats": "Stats Refresh", "blogger": "Blogger", "tumblr": "Tumblr",
     "pinterest": "Pinterest", "newsletter": "Newsletter",
+    "telegraph": "Telegraph", "bluesky": "Bluesky", "mastodon": "Mastodon",
+    "threads": "Threads", "telegram": "Telegram", "ghpages": "GitHub Pages",
+    "blueskyengage": "Bluesky Engage",
 }
 
 

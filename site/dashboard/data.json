@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:27",
+  "updated": "2026-06-26T19:33",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -238,12 +238,17 @@
       "on": true
     },
     {
+      "name": "Bluesky Engage",
+      "schedule": "Daily \u00b7 12:50 / 16:40 / 19:30 / 9:20",
+      "on": true
+    },
+    {
       "name": "Engage",
       "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
       "on": true
     },
     {
-      "name": "Ghpages",
+      "name": "GitHub Pages",
       "schedule": "Tue \u00b7 10:00",
       "on": true
     },

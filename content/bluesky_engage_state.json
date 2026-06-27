@@ -1,0 +1,21 @@
+{
+  "started": "2026-06-26",
+  "day": "2026-06-26",
+  "follows_today": 4,
+  "likes_today": 6,
+  "followed": [
+    "did:plc:pulzjz6r2p3lbl77o7jiwaoo",
+    "did:plc:b4den2svmrecgrvdpadqlgkb",
+    "did:plc:sgoj33fhwdewhhvkoumojvgg",
+    "did:plc:yf5jiiqrfp7h3abrkxovtbm4"
+  ],
+  "liked": [
+    "at://did:plc:sgoj33fhwdewhhvkoumojvgg/app.bsky.feed.post/3m42d337m6s2i",
+    "at://did:plc:xjfvduprefej5hz3tduhc3za/app.bsky.feed.post/3m3gisz3dik2k",
+    "at://did:plc:b4den2svmrecgrvdpadqlgkb/app.bsky.feed.post/3mdzns2xckc2k",
+    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mirazvskfk2n",
+    "at://did:plc:6uqee4ponukowxlkuncuuf3o/app.bsky.feed.post/3lyykzs4wdk24",
+    "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27"
+  ],
+  "queue": []
+}
