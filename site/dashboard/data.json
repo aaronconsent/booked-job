@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T12:05",
+  "updated": "2026-06-27T18:03",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 1,
+        "current": 2,
         "target": 400,
         "pct": 0,
         "on_track": false
@@ -197,7 +197,7 @@
   "content": {
     "posts_published": 1,
     "reactions": 0,
-    "comments": 1,
+    "comments": 2,
     "shares": 0,
     "reels_published": 1,
     "posts_remaining": 14,
@@ -366,6 +366,12 @@
       "cat": "Visual formats"
     },
     {
+      "name": "Tasks",
+      "schedule": "Daily \u00b7 6:30",
+      "on": true,
+      "cat": "Other"
+    },
+    {
       "name": "Telegram",
       "schedule": "Fri \u00b7 13:00",
       "on": true,
@@ -480,13 +486,13 @@
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "followers": 0,
-      "grade": "F"
+      "followers": 2,
+      "grade": "D"
     },
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -556,8 +562,8 @@
   ],
   "funnel": {
     "reach": 0,
-    "engagement": 1,
-    "audience": 7,
+    "engagement": 2,
+    "audience": 9,
     "cr_clicks": 3
   },
   "trends": {
@@ -580,7 +586,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 21,
+        "value": 22,
         "grade": "D"
       },
       {
@@ -590,16 +596,16 @@
       },
       {
         "label": "Audience Size",
-        "value": 7,
+        "value": 9,
         "grade": "F"
       },
       {
         "label": "Engagement",
-        "value": 1,
+        "value": 2,
         "grade": "F"
       }
     ],
     "overall": "F",
-    "summary": "Brutal truth: we're basically invisible right now. 21 posts are out the door across 15 live channels, but the audience is 7 and almost nobody's seen them yet. That's an F \u2014 and honestly normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment they land to open two more reach channels. Nothing's broken \u2014 it's a cold engine. Grades climb as the numbers do; check back weekly."
+    "summary": "Brutal truth: we're basically invisible right now. 22 posts are out the door across 15 live channels, but the audience is 9 and almost nobody's seen them yet. That's an F \u2014 and honestly normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment they land to open two more reach channels. Nothing's broken \u2014 it's a cold engine. Grades climb as the numbers do; check back weekly."
   }
 }
