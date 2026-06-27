@@ -56,6 +56,20 @@ def queue_text(channel_id, text, assets=None):
     return True
 
 
+def queue_video(channel_id, text, video_url, title=None, thumbnail_url=None):
+    """Queue a video post (TikTok). video_url must be a PUBLIC, reachable URL."""
+    asset = {"video": {"url": video_url, "metadata": {"title": (title or "")[:100]}}}
+    if thumbnail_url:
+        asset["video"]["thumbnailUrl"] = thumbnail_url
+    inp = {"channelId": channel_id, "text": text, "assets": [asset],
+           "schedulingType": "automatic", "mode": "addToQueue"}
+    d = gql("mutation($input: CreatePostInput!){ createPost(input:$input){ __typename } }", {"input": inp})
+    tn = d.get("createPost", {}).get("__typename")
+    if tn != "PostActionSuccess":
+        raise RuntimeError(f"Buffer createPost(video) returned {tn}: {json.dumps(d)[:300]}")
+    return True
+
+
 def metrics(channel_ids, days=30):
     """Aggregated post metrics for the given channels over the last `days`.
     Returns {metricType: value} e.g. {'reach': N, 'reactions': N, 'views': N}."""
