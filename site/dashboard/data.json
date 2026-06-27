@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T12:00",
+  "updated": "2026-06-27T12:05",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -433,21 +433,26 @@
       "status": "live",
       "count": 0,
       "unit": "posts",
-      "grade": "F"
+      "grade": "F",
+      "views": 1,
+      "followers": 0
     },
     {
       "name": "Instagram",
       "status": "live",
       "count": 0,
       "unit": "reels",
-      "grade": "F"
+      "grade": "F",
+      "followers": 0
     },
     {
       "name": "YouTube",
       "status": "live",
       "count": 0,
       "unit": "shorts",
-      "grade": "F"
+      "grade": "F",
+      "views": 0,
+      "followers": 0
     },
     {
       "name": "Blogger",
@@ -529,6 +534,7 @@
       "count": 1,
       "unit": "posts (Buffer)",
       "stat": "0 reach \u00b7 0 reactions",
+      "views": 0,
       "grade": "D"
     },
     {
@@ -537,6 +543,7 @@
       "count": 2,
       "unit": "videos (Buffer)",
       "stat": "0 views \u00b7 0 reactions",
+      "views": 0,
       "grade": "D"
     },
     {
