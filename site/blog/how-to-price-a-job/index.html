@@ -83,6 +83,16 @@
     <div class="verdict" id="verdict"></div>
   </div>
 
+  <div class="cta-box">
+    <h3>📥 Get the contractor's toolkit — free</h3>
+    <p>Calculators, pricing breakdowns, and no-fluff playbooks for the trades — straight to your inbox. No spam, no selling your info.</p>
+    <form id="emform" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:6px">
+      <input type="email" name="email" placeholder="you@yourshop.com" required aria-label="Email" style="flex:1;min-width:220px;padding:13px 15px;border-radius:9px;border:1px solid #d8d8d8;font-size:16px">
+      <button type="submit" style="background:#FF6A00;color:#fff;border:0;font-weight:700;padding:13px 22px;border-radius:9px;cursor:pointer;font-size:16px">Send me the tools</button>
+    </form>
+    <div id="emok" style="display:none;font-weight:700;margin-top:12px;color:#FF6A00">You're in — watch your inbox. 🛠️</div>
+  </div>
+
   <h2>Stop racing competitors to the bottom</h2>
   <p>The pressure to underprice usually comes from one place: chasing the same shared leads as eight other trucks, where the only lever left is price. Win the customer <em>before</em> it's a bidding war — through referrals, reputation, and being the shop they already trust — and you get to price for margin instead of survival. (That's the whole reason we harp on owning your leads instead of <a href="/blog/is-angi-worth-it/">renting them from Angi</a>.)</p>
 
@@ -126,6 +136,8 @@ function calc(){
 }
 ['cost','margin'].forEach(id=>$(id).addEventListener('input',calc));
 calc();
+// email lead-magnet capture (post to /api/subscribe without leaving the page)
+(function(){var f=document.getElementById('emform');if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var em=(f.email.value||'').trim();if(!em)return;fetch('/api/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:em})}).catch(function(){}).finally(function(){f.style.display='none';document.getElementById('emok').style.display='block';});});})();
 </script>
 </body>
 </html>
