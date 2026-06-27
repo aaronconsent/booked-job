@@ -1,0 +1,49 @@
+{
+  "_doc": "LinkedIn PDF document-carousel slide content per article. make_carousel.py renders these to a multi-page PDF; buffer_carousel_runner posts to LinkedIn. Strategist adds new ones per CHANNEL_CONTENT_PLAYBOOK.md.",
+  "carousels": {
+    "is-angi-worth-it": {
+      "title": "Is Angi Worth It for Contractors?",
+      "slides": [
+        {"kind": "cover", "headline": "Is Angi worth it for contractors?", "body": "The honest math most lead sites won't show you."},
+        {"kind": "point", "headline": "They sell the SAME lead to 5–12 of you", "body": "Your $35 lead is really $35 × the 8 other trucks racing you to the phone."},
+        {"kind": "point", "headline": "Real cost per BOOKED job: $1,430–$2,500", "body": "Once you factor the low close rates on shared leads. A job won organically? ~$290."},
+        {"kind": "point", "headline": "You're renting, not building", "body": "Stop paying and the leads vanish. You bought at-bats, not an asset."},
+        {"kind": "point", "headline": "What to do instead", "body": "Own your Google presence, systematize referrals, and capture the homeowners already on your site."},
+        {"kind": "cover", "headline": "Run your own number.", "body": "Free calculator → booked-job.com/blog/is-angi-worth-it"}
+      ]
+    },
+    "how-to-price-a-job": {
+      "title": "How to Price a Job",
+      "slides": [
+        {"kind": "cover", "headline": "How to price a job without leaving money on the table", "body": "The math nobody teaches you in the apprenticeship."},
+        {"kind": "point", "headline": "Markup is not margin", "body": "A 50% markup is only a 33% margin. That gap is on every job you quote, all year."},
+        {"kind": "point", "headline": "Know your 3 numbers", "body": "Direct cost, overhead, and profit. You can't price what you can't see."},
+        {"kind": "point", "headline": "The one formula", "body": "Price = cost ÷ (1 − target margin). A $400 job at 55% margin = $889."},
+        {"kind": "point", "headline": "Stop racing to the bottom", "body": "Win the customer before it's a bidding war — then you price for margin, not survival."},
+        {"kind": "cover", "headline": "What should you charge?", "body": "Free margin calculator → booked-job.com/blog/how-to-price-a-job"}
+      ]
+    },
+    "get-more-google-reviews": {
+      "title": "How to Get More Google Reviews",
+      "slides": [
+        {"kind": "cover", "headline": "How to get more Google reviews", "body": "The cheapest marketing most shops ignore."},
+        {"kind": "point", "headline": "Timing beats everything", "body": "Ask at peak gratitude — the moment the job's done and the customer's happy."},
+        {"kind": "point", "headline": "Make it one tap", "body": "Text the direct review link within the hour. Don't make them search for you."},
+        {"kind": "point", "headline": "Ask everyone", "body": "Only asking happy customers is 'gating' — against Google's rules. And never pay for reviews."},
+        {"kind": "point", "headline": "Make it a habit", "body": "Add the ask to the end of every job + your invoice. Steady trickle beats a one-time burst."},
+        {"kind": "cover", "headline": "The full system.", "body": "booked-job.com/blog/get-more-google-reviews"}
+      ]
+    },
+    "surviving-the-slow-season": {
+      "title": "Surviving the Slow Season",
+      "slides": [
+        {"kind": "cover", "headline": "Surviving the slow season", "body": "A cash-flow playbook for the trades."},
+        {"kind": "point", "headline": "Win it in the busy season", "body": "Bank a 3–6 month cushion. Sweep a fixed % of every job before it feels spendable."},
+        {"kind": "point", "headline": "Sell weather-proof work", "body": "Maintenance plans, opposite-season installs, tune-ups — the highest-margin work you'll book."},
+        {"kind": "point", "headline": "Mine past customers", "body": "Your cheapest pipeline isn't a lead site — it's the people who already paid you."},
+        {"kind": "point", "headline": "Don't go dark on marketing", "body": "It's cheapest when competitors go quiet. Pour in then, not at peak prices."},
+        {"kind": "cover", "headline": "The full playbook.", "body": "booked-job.com/blog/surviving-the-slow-season"}
+      ]
+    }
+  }
+}

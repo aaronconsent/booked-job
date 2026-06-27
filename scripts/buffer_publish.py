@@ -70,6 +70,18 @@ def queue_video(channel_id, text, video_url, title=None, thumbnail_url=None):
     return True
 
 
+def queue_document(channel_id, text, doc_url, title, thumbnail_url):
+    """Queue a PDF document/carousel post (LinkedIn). All URLs must be public + reachable."""
+    asset = {"document": {"url": doc_url, "title": title[:100], "thumbnailUrl": thumbnail_url}}
+    inp = {"channelId": channel_id, "text": text, "assets": [asset],
+           "schedulingType": "automatic", "mode": "addToQueue"}
+    d = gql("mutation($input: CreatePostInput!){ createPost(input:$input){ __typename } }", {"input": inp})
+    tn = d.get("createPost", {}).get("__typename")
+    if tn != "PostActionSuccess":
+        raise RuntimeError(f"Buffer createPost(document) returned {tn}: {json.dumps(d)[:300]}")
+    return True
+
+
 def metrics(channel_ids, days=30):
     """Aggregated post metrics for the given channels over the last `days`.
     Returns {metricType: value} e.g. {'reach': N, 'reactions': N, 'views': N}."""
