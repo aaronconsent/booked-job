@@ -50,6 +50,18 @@ AGENT_NAMES = {
     "threadsengage": "Threads Surfacing", "igengage": "IG Inbound",
     "buffer": "LinkedIn (Buffer)", "buffertiktok": "TikTok (Buffer)", "telegrampoll": "Telegram Polls", "emaildrip": "Email Drip", "buffercarousel": "LinkedIn Carousels", "blueskyfeed": "Bluesky Feed", "igcarousel": "IG Carousels", "fbcarousel": "FB Carousels", "story": "IG+FB Stories", "tiktokcarousel": "TikTok Carousels", "reelstory": "Reel Stories",
 }
+AGENT_CATS = {
+    "publisher": "Publishing", "reels": "Publishing", "youtube": "Publishing", "instagram": "Publishing",
+    "blogger": "Publishing", "tumblr": "Publishing", "telegraph": "Publishing", "telegram": "Publishing",
+    "threads": "Publishing", "bluesky": "Publishing", "mastodon": "Publishing", "ghpages": "Publishing",
+    "newsletter": "Publishing", "buffer": "Publishing", "buffertiktok": "Publishing", "pinterest": "Publishing",
+    "igcarousel": "Visual formats", "fbcarousel": "Visual formats", "buffercarousel": "Visual formats",
+    "tiktokcarousel": "Visual formats", "story": "Visual formats", "reelstory": "Visual formats",
+    "engage": "Engagement", "blueskyengage": "Engagement", "youtubeengage": "Engagement",
+    "threadsengage": "Engagement", "igengage": "Engagement", "telegrampoll": "Engagement",
+    "emaildrip": "Funnel", "blueskyfeed": "Funnel",
+    "report": "Ops", "stats": "Ops",
+}
 
 
 def _sched(sci):
@@ -75,7 +87,8 @@ def enumerate_agents():
             continue
         key = d.get("Label", "").split(".")[-1]
         out.append({"name": AGENT_NAMES.get(key, key.title()),
-                    "schedule": _sched(d.get("StartCalendarInterval")), "on": True})
+                    "schedule": _sched(d.get("StartCalendarInterval")), "on": True,
+                    "cat": AGENT_CATS.get(key, "Other")})
     return out
 
 
@@ -327,6 +340,25 @@ def main():
         g_items.append({"label": t["label"], "icon": t["icon"], "current": cur, "target": t["target"],
                         "pct": pct, "on_track": cur >= expected})
 
+    # ---- funnel (reach -> engagement -> audience -> CR) + week-over-week trends ----
+    foll = social_followers()
+    total_aud = (pi.get("followers_count", 0) + ig["followers"] + yt["subscribers"]
+                 + foll.get("Bluesky", 0) + foll.get("Mastodon", 0) + foll.get("Threads", 0)
+                 + foll.get("Telegram", 0) + email_subs)
+    cr_clicks = jload("content/cr_clicks.json", {"count": 0}).get("count", 0)
+    funnel = {"reach": ads["reach"] or ads["video_views"], "engagement": eng_total,
+              "audience": total_aud, "cr_clicks": cr_clicks}
+    snap = {"date": today.isoformat(), "audience": total_aud, "engagement": eng_total,
+            "email": email_subs, "reach": funnel["reach"]}
+    days = [x for x in jload("content/metric_history.json", {"days": []}).get("days", []) if x.get("date") != snap["date"]]
+    days = (days + [snap])[-90:]
+    json.dump({"days": days}, open(os.path.join(ROOT, "content", "metric_history.json"), "w"), indent=2)
+
+    def _delta(m):
+        prior = next((x[m] for x in reversed(days[:-1]) if (today - dt.date.fromisoformat(x["date"])).days >= 7), None)
+        return snap[m] - prior if prior is not None else 0
+    trends = {m: _delta(m) for m in ("audience", "engagement", "email", "reach")}
+
     data = {
         "updated": dt.datetime.now().isoformat(timespec="minutes"),
         "goals": {"label": per.get("label", "Sprint"), "end": per.get("end", ""),
@@ -347,7 +379,9 @@ def main():
         "instagram": ig,
         "email": {"subscribers": email_subs},
         "agents": enumerate_agents(),
-        "channels": channels(email_subs, social_followers()),
+        "channels": channels(email_subs, foll),
+        "funnel": funnel,
+        "trends": trends,
     }
     out = os.path.join(ROOT, "site", "dashboard", "data.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)

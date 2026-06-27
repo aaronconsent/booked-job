@@ -76,12 +76,29 @@
   .bar .fill{height:100%;background:linear-gradient(90deg,var(--hi),var(--hi2));border-radius:99px;width:0;transition:width 1s ease}
 
   /* agents */
-  .agent{display:flex;align-items:center;justify-content:space-between;padding:11px 0;border-bottom:1px solid var(--line)}
+  #agents{display:grid;grid-template-columns:1fr 1fr;column-gap:24px}
+  @media(max-width:560px){#agents{grid-template-columns:1fr}}
+  .agent{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--line)}
+  .agent .n{font-size:13px}
+  .agcat{grid-column:1/-1;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--hi);font-weight:700;margin:12px 0 2px}
+  .agcat:first-child{margin-top:0}
   .agent:last-child{border-bottom:0}
   .agent .n{font-weight:700;font-size:14px}
   .agent .s{font-size:12px;color:var(--muted)}
   .badge{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--green);font-weight:700;
          background:rgba(34,197,94,.12);padding:4px 9px;border-radius:99px}
+
+  /* funnel */
+  .fstage{margin:11px 0}
+  .fhead{display:flex;justify-content:space-between;align-items:baseline;font-size:13px;margin-bottom:5px}
+  .fval{font-weight:800;font-size:15px}
+  .fbar{height:16px;background:var(--steel);border-radius:8px;overflow:hidden}
+  .ffill{height:100%;background:linear-gradient(90deg,var(--hi),#FF8A2B);border-radius:8px;transition:width .6s}
+  .ftr{font-size:11px;font-weight:700;margin-left:7px}
+  .ftr.up{color:#22c55e}.ftr.down{color:#f87171}
+  .traj{font-size:12px;font-weight:700;padding:3px 9px;border-radius:99px;margin-left:8px}
+  .traj.up{color:#22c55e;background:rgba(34,197,94,.12)}
+  .traj.flat{color:var(--muted);background:rgba(150,150,150,.12)}
 
   /* channels */
   .chan{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--line)}
@@ -166,6 +183,12 @@
 <main class="wrap">
   <div class="eyebrow">The scoreboard</div>
   <div class="stats" id="stats"></div>
+
+  <div class="eyebrow">Is it working? — the funnel</div>
+  <div class="panel"><h3>🎯 Reach → Engagement → Audience → Consent Resolve <span id="trajectory" class="traj"></span></h3>
+    <div id="funnel"></div>
+    <p style="font-size:12px;color:var(--muted);margin-top:10px">Weekly change shown per stage. CR clicks counted via the tracked <code>/cr</code> link (UTM-tagged for Consent Resolve's analytics).</p>
+  </div>
 
   <div class="eyebrow">Goals vs target</div>
   <div class="panel">
@@ -284,16 +307,24 @@ async function load(){
     <div class="adrow"><span class="k">Impressions</span><span>${fmt(a.impressions)}</span></div>
     <div class="adrow"><span class="k">Video views</span><span>${fmt(a.video_views)}</span></div>`;
 
-  // agents
-  document.getElementById('agents').innerHTML=d.agents.map(ag=>`
-    <div class="agent"><div><div class="n">${ag.name}</div><div class="s">${ag.schedule}</div></div>
-    <div class="badge"><span class="dot"></span>LIVE</div></div>`).join('');
+  // agents — grouped by category, 2-column grid
+  (function(){
+    const order=['Publishing','Visual formats','Engagement','Funnel','Ops','Other'];
+    const byCat={}; d.agents.forEach(a=>{(byCat[a.cat||'Other']=byCat[a.cat||'Other']||[]).push(a)});
+    let html='';
+    order.forEach(cat=>{ if(!byCat[cat])return;
+      html+=`<div class="agcat">${cat} · ${byCat[cat].length}</div>`;
+      html+=byCat[cat].map(ag=>`<div class="agent"><div><div class="n">${ag.name}</div><div class="s">${ag.schedule}</div></div><div class="badge"><span class="dot"></span>LIVE</div></div>`).join('');
+    });
+    document.getElementById('agents').innerHTML=html;
+  })();
 
   // channels (distribution)
   if(d.channels){
     const col={live:'#22c55e',sandbox:'#f59e0b',pending:'#3b82f6',off:'#9ca3af'};
     const lab={live:'Live',sandbox:'Sandbox',pending:'Pending',off:'Not connected'};
-    document.getElementById('channels').innerHTML=d.channels.map(c=>{
+    const ord={live:0,sandbox:1,pending:2,off:3};
+    document.getElementById('channels').innerHTML=[...d.channels].sort((a,b)=>(ord[a.status]??9)-(ord[b.status]??9)).map(c=>{
       let right;
       if(c.status==='off') right=lab.off;
       else if(c.status==='pending') right=`Pending — ${c.unit}`;
@@ -302,6 +333,27 @@ async function load(){
         <div><div class="n"><span class="sdot" style="background:${col[c.status]||'#9ca3af'}"></span>${c.name}</div></div>
         <div class="c">${right}</div></div>`;
     }).join('');
+  }
+
+  // funnel + trajectory
+  if(d.funnel){
+    const f=d.funnel, t=d.trends||{};
+    const stages=[
+      {label:'👀 Reach',val:f.reach,tr:t.reach},
+      {label:'🔥 Engagement',val:f.engagement,tr:t.engagement},
+      {label:'👥 Audience (followers + email)',val:f.audience,tr:t.audience},
+      {label:'🎯 Consent Resolve clicks',val:f.cr_clicks,tr:null},
+    ];
+    const max=Math.max(1,...stages.map(s=>s.val));
+    document.getElementById('funnel').innerHTML=stages.map(s=>{
+      const w=Math.max(5,Math.round(100*s.val/max));
+      const tr=(s.tr!=null&&s.tr!==0)?`<span class="ftr ${s.tr>0?'up':'down'}">${s.tr>0?'▲':'▼'}${fmt(Math.abs(s.tr))}/wk</span>`:'';
+      return `<div class="fstage"><div class="fhead"><span>${s.label}</span><span class="fval">${fmt(s.val)}${tr}</span></div><div class="fbar"><div class="ffill" style="width:${w}%"></div></div></div>`;
+    }).join('');
+    const up=(t.audience||0)>0||(t.engagement||0)>0;
+    const tj=document.getElementById('trajectory');
+    tj.textContent=up?'📈 building':'— warming up';
+    tj.className='traj '+(up?'up':'flat');
   }
 
   // goals
@@ -341,8 +393,8 @@ async function load(){
       : '<p style="color:var(--muted);font-size:13px">Queue empty — refill coming.</p>';
   }
 
-  // feed
-  document.getElementById('feed').innerHTML=cl.entries.map(e=>`
+  // feed (cap to most recent 14)
+  document.getElementById('feed').innerHTML=cl.entries.slice(0,14).map(e=>`
     <div class="ev"><div class="em">${e.icon}</div><div class="body">
     <div class="tx">${e.text}</div>
     <div class="tm">${new Date(e.ts).toLocaleString([], {month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})}</div>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:56",
+  "updated": "2026-06-27T11:04",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -230,162 +230,194 @@
     {
       "name": "Blogger",
       "schedule": "Thu \u00b7 9:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Bluesky",
       "schedule": "Thu \u00b7 13:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Bluesky Engage",
       "schedule": "Daily \u00b7 12:50 / 16:40 / 19:30 / 9:20",
-      "on": true
+      "on": true,
+      "cat": "Engagement"
     },
     {
       "name": "Bluesky Feed",
       "schedule": "Daily \u00b7 12:35 / 17:05 / 21:35 / 7:05",
-      "on": true
+      "on": true,
+      "cat": "Funnel"
     },
     {
       "name": "LinkedIn (Buffer)",
       "schedule": "Mon, Thu \u00b7 9:40",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "LinkedIn Carousels",
       "schedule": "Wed \u00b7 9:30",
-      "on": true
+      "on": true,
+      "cat": "Visual formats"
     },
     {
       "name": "TikTok (Buffer)",
       "schedule": "Tue, Sat \u00b7 10:15",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Email Drip",
       "schedule": "Daily \u00b7 15:30",
-      "on": true
+      "on": true,
+      "cat": "Funnel"
     },
     {
       "name": "Engage",
       "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
-      "on": true
+      "on": true,
+      "cat": "Engagement"
     },
     {
       "name": "FB Carousels",
       "schedule": "Tue, Sat \u00b7 12:10",
-      "on": true
+      "on": true,
+      "cat": "Visual formats"
     },
     {
       "name": "GitHub Pages",
       "schedule": "Tue \u00b7 10:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "IG Carousels",
       "schedule": "Mon, Fri \u00b7 11:30",
-      "on": true
+      "on": true,
+      "cat": "Visual formats"
     },
     {
       "name": "IG Inbound",
       "schedule": "Daily \u00b7 11:10 / 20:40",
-      "on": true
+      "on": true,
+      "cat": "Engagement"
     },
     {
       "name": "Instagram Reels",
       "schedule": "Tue, Thu \u00b7 11:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Mastodon",
       "schedule": "Sat \u00b7 14:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Newsletter",
       "schedule": "Thu \u00b7 7:30",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Pinterest",
       "schedule": "Wed \u00b7 14:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Posts",
       "schedule": "Daily \u00b7 12:20 / 18:40 / 7:10",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "FB Reels",
       "schedule": "Tue, Fri \u00b7 7:30",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Reel Stories",
       "schedule": "Tue, Sat \u00b7 8:45",
-      "on": true
+      "on": true,
+      "cat": "Visual formats"
     },
     {
       "name": "Weekly Report",
       "schedule": "Mon \u00b7 8:00",
-      "on": true
+      "on": true,
+      "cat": "Ops"
     },
     {
       "name": "Stats Refresh",
       "schedule": "Daily \u00b7 12:00 / 18:00 / 22:00 / 6:00",
-      "on": true
+      "on": true,
+      "cat": "Ops"
     },
     {
       "name": "IG+FB Stories",
       "schedule": "Mon, Wed, Fri \u00b7 8:30",
-      "on": true
+      "on": true,
+      "cat": "Visual formats"
     },
     {
       "name": "Telegram",
       "schedule": "Fri \u00b7 13:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Telegram Polls",
       "schedule": "Tue, Thu \u00b7 16:00",
-      "on": true
+      "on": true,
+      "cat": "Engagement"
     },
     {
       "name": "Telegraph",
       "schedule": "Sat \u00b7 10:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Threads",
       "schedule": "Wed \u00b7 13:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "Threads Surfacing",
       "schedule": "Daily \u00b7 13:15 / 18:15 / 8:15",
-      "on": true
+      "on": true,
+      "cat": "Engagement"
     },
     {
       "name": "TikTok Carousels",
       "schedule": "Thu \u00b7 10:45",
-      "on": true
+      "on": true,
+      "cat": "Visual formats"
     },
     {
       "name": "Tumblr",
       "schedule": "Fri \u00b7 9:00",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "YouTube Shorts",
       "schedule": "Mon, Wed, Fri \u00b7 8:30",
-      "on": true
+      "on": true,
+      "cat": "Publishing"
     },
     {
       "name": "YouTube CTA",
       "schedule": "Daily \u00b7 10:30 / 17:30",
-      "on": true
+      "on": true,
+      "cat": "Engagement"
     }
   ],
   "channels": [
@@ -497,5 +529,17 @@
       "count": 0,
       "unit": "verifying"
     }
-  ]
+  ],
+  "funnel": {
+    "reach": 0,
+    "engagement": 1,
+    "audience": 7,
+    "cr_clicks": 0
+  },
+  "trends": {
+    "audience": 0,
+    "engagement": 0,
+    "email": 0,
+    "reach": 0
+  }
 }

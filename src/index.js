@@ -38,6 +38,11 @@ export default {
       }
     }
 
+    // Tracked funnel redirect to Consent Resolve (UTM-tagged for CR-side analytics).
+    if (url.pathname === "/cr") {
+      return Response.redirect("https://consentresolve.com/?utm_source=bookedjob&utm_medium=content&utm_campaign=funnel", 302);
+    }
+
     // ===== Bluesky custom feed generator ("Home-Service Talk") =====
     const OUR_DID = "did:plc:3ssakol7dqe4nnlgqwnrduxo";
     const FEED_URI = `at://${OUR_DID}/app.bsky.feed.generator/homeservice`;
