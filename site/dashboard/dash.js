@@ -147,4 +147,46 @@ async function load(){
   renderScoreboard(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
   renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl);
 }
-initMafia(); load(); setInterval(load, 60000);
+// ===== Daily Tasks page =====
+function gradeLetter(p){return p>=90?'A':p>=80?'B':p>=70?'C':p>=60?'D':'F';}
+function localDate(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function taskRow(t,done,total,kind){
+  const extra=(t.extra||[]).map(e=>`<a class="tlink alt" href="${e.link}" target="_blank" rel="noopener">${e.label} →</a>`).join('');
+  return `<div class="task ${done?'done':''}"><label class="chk"><input type="checkbox" ${done?'checked':''} data-id="${t.id}" data-total="${total}" data-kind="${kind}"/><span class="box"></span></label>
+    <div class="tbody"><div class="tt">${t.emoji||''} ${t.task} <span class="test">${t.est||''}</span></div>
+    <div class="tnote">${t.note||''}</div>
+    <div class="tlinks"><a class="tlink" href="${t.link}" target="_blank" rel="noopener">Open →</a>${extra}</div></div></div>`;
+}
+function updateGrades(doneCount,total,running,days){
+  const pct=total?Math.round(100*doneCount/total):0;
+  if($('todayGrade')){const L=gradeLetter(pct);$('todayGrade').textContent=total?L:'—';$('todayGrade').className='gbig gcolor-'+(total?L:'F');$('todayPct').textContent=pct+'% · '+doneCount+'/'+total+' done';}
+  if($('runGrade')){const L=gradeLetter(running);$('runGrade').textContent=days?L:'—';$('runGrade').className='gbig gcolor-'+(days?L:'F');$('runPct').textContent=days?(running+'% avg · '+days+' day'+(days>1?'s':'')):'no history yet';}
+}
+async function initTasks(){
+  if(!$('tasksList')) return;
+  const date=localDate();
+  let tasks={daily:[],setup:[]}, state={daily:[],setup:[],running:0,days:0};
+  try{ tasks=await (await fetch('tasks.json?'+Date.now())).json(); }catch(e){}
+  try{ state=await (await fetch('/tasks/state?date='+date)).json(); }catch(e){}
+  const doneD=new Set(state.daily||[]), doneS=new Set(state.setup||[]);
+  const total=(tasks.daily||[]).length;
+  const byP={}; (tasks.daily||[]).forEach(t=>{(byP[t.platform]=byP[t.platform]||[]).push(t);});
+  $('tasksList').innerHTML=Object.entries(byP).map(([plat,ts])=>
+    `<div class="panel"><h3>${ts[0].emoji} ${plat}</h3>${ts.map(t=>taskRow(t,doneD.has(t.id),total,'daily')).join('')}</div>`).join('')
+    || '<p style="color:var(--muted)">No tasks yet — generating.</p>';
+  if($('setupList')) $('setupList').innerHTML=(tasks.setup||[]).map(t=>taskRow(t,doneS.has(t.id),0,'setup')).join('');
+  if($('taskDate')) $('taskDate').textContent='List for '+(tasks.date||date);
+  let curDays=state.days||0;
+  updateGrades(doneD.size,total,state.running||0,curDays);
+  document.querySelectorAll('#tasksList input, #setupList input').forEach(cb=>{
+    cb.addEventListener('change',async()=>{
+      cb.closest('.task').classList.toggle('done',cb.checked);
+      const body={date,id:cb.dataset.id,total:parseInt(cb.dataset.total||'0'),kind:cb.dataset.kind};
+      try{ const r=await (await fetch('/tasks/toggle',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)})).json();
+        if(body.kind!=='setup'){ curDays=r.days||curDays; updateGrades((r.done||[]).length,total,r.running||0,curDays); }
+      }catch(e){}
+    });
+  });
+}
+
+initMafia(); initTasks(); load(); setInterval(load, 60000);

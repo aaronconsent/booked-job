@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="noindex, nofollow" />
-<title>Booked Job — Content</title>
+<title>Booked Job — Daily Tasks</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Hanken+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="dash.css" />
@@ -18,32 +18,31 @@
   </div>
   <nav class="nav">
     <a href="index.html">Home</a>
-    <a href="tasks.html">Tasks</a>
+    <a href="tasks.html" class="active">Tasks</a>
     <a href="robots.html">Robots</a>
     <a href="channels.html">Channels</a>
-    <a href="content.html" class="active">Content</a>
+    <a href="content.html">Content</a>
     <a href="strategy.html">Strategy</a>
   </nav>
 </div></header>
 
 <main class="wrap">
-  <div class="cols">
-    <div>
-      <div class="eyebrow">Activity log</div>
-      <div class="panel"><h3>📜 What changed</h3><div class="feed" id="feed"></div></div>
+  <div class="eyebrow">Your grade</div>
+  <div class="panel">
+    <div class="gradebar">
+      <div class="gbox"><div class="gl">Today</div><div class="gbig" id="todayGrade">—</div><div class="gpctt" id="todayPct"></div></div>
+      <div class="gbox"><div class="gl">Running</div><div class="gbig" id="runGrade">—</div><div class="gpctt" id="runPct"></div></div>
+      <div style="flex:1"></div>
+      <div class="gnote" id="taskDate"></div>
     </div>
-    <div>
-      <div class="eyebrow">What's next</div>
-      <div class="panel"><h3>🗓️ Coming up</h3><div id="agenda"></div></div>
-
-      <div class="eyebrow">Content pipeline</div>
-      <div class="panel"><h3>📦 Queue</h3>
-        <div class="bar"><div class="top"><span>Feed posts remaining</span><span id="pr">—</span></div><div class="track"><div class="fill" id="prf"></div></div></div>
-        <div class="bar"><div class="top"><span>Reels remaining</span><span id="rr">—</span></div><div class="track"><div class="fill" id="rrf"></div></div></div>
-        <p style="font-size:12px;color:var(--muted);margin-top:4px">Auto-refills flagged when low.</p>
-      </div>
-    </div>
+    <p style="font-size:12px;color:var(--muted);margin-top:12px">The human growth layer — the moves the APIs can't do. Check each off as you finish; your <b>daily grade</b> is today's completion and your <b>running grade</b> is the average across days.</p>
   </div>
+
+  <div class="eyebrow">Today's list</div>
+  <div id="tasksList"></div>
+
+  <div class="eyebrow">One-time setup</div>
+  <div class="panel"><div id="setupList"></div></div>
   <footer>Booked Job · Mission Control — refreshes automatically. Built &amp; run autonomously. 🛠️</footer>
 </main>
 <script src="dash.js"></script>

@@ -51,6 +51,43 @@ export default {
       return Response.json({ clicks: n });
     }
 
+    // ===== Daily manual-task done-state + grades (KV) =====
+    if (url.pathname === "/tasks/state") {
+      const date = url.searchParams.get("date") || "";
+      let daily = [], setup = [], grades = {};
+      if (env.CR_KV) {
+        try { daily = JSON.parse(await env.CR_KV.get("td:" + date) || "[]"); } catch (e) {}
+        try { setup = JSON.parse(await env.CR_KV.get("tsetup") || "[]"); } catch (e) {}
+        try { grades = JSON.parse(await env.CR_KV.get("tg") || "{}"); } catch (e) {}
+      }
+      const vals = Object.values(grades);
+      const running = vals.length ? Math.round(vals.reduce((a, b) => a + b, 0) / vals.length) : 0;
+      return Response.json({ daily, setup, grades, running, days: vals.length });
+    }
+    if (url.pathname === "/tasks/toggle" && request.method === "POST") {
+      if (!env.CR_KV) return Response.json({ error: "no kv" }, { status: 500 });
+      let body; try { body = await request.json(); } catch (e) { return Response.json({ error: "bad" }, { status: 400 }); }
+      const { date, id, total, kind } = body;
+      if (kind === "setup") {
+        let s = JSON.parse(await env.CR_KV.get("tsetup") || "[]");
+        s = s.includes(id) ? s.filter(x => x !== id) : [...s, id];
+        await env.CR_KV.put("tsetup", JSON.stringify(s));
+        return Response.json({ setup: s });
+      }
+      let done = JSON.parse(await env.CR_KV.get("td:" + date) || "[]");
+      done = done.includes(id) ? done.filter(x => x !== id) : [...done, id];
+      await env.CR_KV.put("td:" + date, JSON.stringify(done));
+      const pct = total ? Math.round(100 * done.length / total) : 0;
+      let grades = JSON.parse(await env.CR_KV.get("tg") || "{}");
+      grades[date] = pct;
+      const keys = Object.keys(grades).sort().slice(-60);
+      const capped = {}; keys.forEach(k => capped[k] = grades[k]);
+      await env.CR_KV.put("tg", JSON.stringify(capped));
+      const vals = Object.values(capped);
+      const running = vals.length ? Math.round(vals.reduce((a, b) => a + b, 0) / vals.length) : 0;
+      return Response.json({ done, pct, running, days: vals.length });
+    }
+
     // ===== Bluesky custom feed generator ("Home-Service Talk") =====
     const OUR_DID = "did:plc:3ssakol7dqe4nnlgqwnrduxo";
     const FEED_URI = `at://${OUR_DID}/app.bsky.feed.generator/homeservice`;

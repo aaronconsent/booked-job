@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-27",
+  "daily": [
+    {
+      "id": "fb-share",
+      "platform": "Facebook",
+      "emoji": "👥",
+      "task": "Share today's Booked Job post into 3 local + contractor Facebook Groups",
+      "note": "Grab the latest post off the page, share it natively into groups you're a member of. The #1 FB growth lever.",
+      "link": "https://www.facebook.com/groups/feed/",
+      "est": "6 min"
+    },
+    {
+      "id": "fb-whodoicall",
+      "platform": "Facebook",
+      "emoji": "👥",
+      "task": "Answer 2 'who's a good [trade] in [town]?' threads in local Groups",
+      "note": "Be the helpful local pro — no link-drop. This is the dominant lead path in local Groups.",
+      "link": "https://www.facebook.com/groups/feed/",
+      "est": "10 min"
+    },
+    {
+      "id": "reddit-answer",
+      "platform": "Reddit",
+      "emoji": "🟠",
+      "task": "Genuinely answer 2 contractor questions in the trade subs",
+      "note": "Real help only, zero promo. Reddit is the #1 AI-citation source — being useful here gets us quoted.",
+      "link": "https://www.reddit.com/r/HVAC/new/",
+      "est": "10 min",
+      "extra": [
+        {
+          "label": "r/Plumbing",
+          "link": "https://www.reddit.com/r/Plumbing/new/"
+        },
+        {
+          "label": "r/electricians",
+          "link": "https://www.reddit.com/r/electricians/new/"
+        },
+        {
+          "label": "r/Construction",
+          "link": "https://www.reddit.com/r/Construction/new/"
+        }
+      ]
+    },
+    {
+      "id": "threads-reply",
+      "platform": "Threads",
+      "emoji": "🧵",
+      "task": "Reply to 5 bigger trade/SMB accounts (the 70/30 reply-guy method)",
+      "note": "Replies are THE Threads growth signal. Add a sharp take or a question — be present in the first 30 min.",
+      "link": "https://www.threads.net/search?q=contractor%20business",
+      "est": "12 min"
+    }
+  ],
+  "setup": [
+    {
+      "id": "review-g2",
+      "platform": "Reviews",
+      "emoji": "⭐",
+      "task": "Seed a Consent Resolve review on G2",
+      "note": "1–13 reviews jumps AI-citation rate to ~53%. Highest-ROI, one-time.",
+      "link": "https://www.g2.com/",
+      "est": "6 min"
+    },
+    {
+      "id": "review-capterra",
+      "platform": "Reviews",
+      "emoji": "⭐",
+      "task": "Seed a Consent Resolve review on Capterra",
+      "note": "One-time.",
+      "link": "https://www.capterra.com/",
+      "est": "6 min"
+    },
+    {
+      "id": "review-trustpilot",
+      "platform": "Reviews",
+      "emoji": "⭐",
+      "task": "Seed a Consent Resolve review on Trustpilot",
+      "note": "One-time.",
+      "link": "https://www.trustpilot.com/evaluate/consentresolve.com",
+      "est": "5 min"
+    },
+    {
+      "id": "tg-public",
+      "platform": "Telegram",
+      "emoji": "✈️",
+      "task": "Make the Telegram channel public",
+      "note": "Channel → Edit → Channel Type → Public. Unlocks discovery. One-time.",
+      "link": "https://web.telegram.org/",
+      "est": "3 min"
+    }
+  ]
+}
