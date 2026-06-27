@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T09:30",
+  "updated": "2026-06-27T10:12",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -248,8 +248,18 @@
       "on": true
     },
     {
+      "name": "LinkedIn Carousels",
+      "schedule": "Wed \u00b7 9:30",
+      "on": true
+    },
+    {
       "name": "TikTok (Buffer)",
       "schedule": "Tue, Sat \u00b7 10:15",
+      "on": true
+    },
+    {
+      "name": "Email Drip",
+      "schedule": "Daily \u00b7 15:30",
       "on": true
     },
     {
@@ -310,6 +320,11 @@
     {
       "name": "Telegram",
       "schedule": "Fri \u00b7 13:00",
+      "on": true
+    },
+    {
+      "name": "Telegram Polls",
+      "schedule": "Tue, Thu \u00b7 16:00",
       "on": true
     },
     {
@@ -383,7 +398,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts"
     },
     {
