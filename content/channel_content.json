@@ -1,0 +1,63 @@
+{
+  "_doc": "Per-channel content spec — drives unique content generation + format enablement. See CHANNEL_CONTENT_PLAYBOOK.md. 'enabled' = formats live now; 'todo' = API-postable formats to build.",
+  "channels": {
+    "facebook": {
+      "voice": "neighbor-next-door, peer-to-peer", "win": "shares+saves",
+      "cta": "send this to your crew", "enabled": ["feed-card", "reel"],
+      "todo": ["multi-photo-carousel", "photo-story", "video-story", "customer-story-video"]
+    },
+    "instagram": {
+      "voice": "confident educator; screenshot-and-save", "win": "DM sends+saves",
+      "cta": "DM this to your ops person", "enabled": ["reel"],
+      "todo": ["carousel", "story", "single-image"], "captions": "keyword-loaded, not hashtags"
+    },
+    "threads": {
+      "voice": "blunt contrarian operator, asks the room", "win": "replies+first-30min velocity",
+      "cta": "agree or am I wrong?", "enabled": ["text"],
+      "todo": ["self-reply-chain", "image", "video", "carousel"], "rule": "positive not ragebait"
+    },
+    "youtube": {
+      "voice": "scripted, keyword-titled, evergreen", "win": "search rank+retention",
+      "enabled": ["short"], "todo": ["long-form", "captions", "thumbnail", "playlist"],
+      "manual": ["community-post"], "mix": "30-40% shorts / 60-70% long-form"
+    },
+    "tiktok": {
+      "voice": "raw, native, hook-first, single-idea", "win": "first-2-4s watch-time",
+      "enabled": ["video-buffer"], "todo": ["photo-carousel"], "gated": "direct-post audit",
+      "rule": "re-cut not re-upload; data-backed hooks"
+    },
+    "linkedin": {
+      "voice": "B2B authority / founder, margin math", "win": "dwell time+first-60min",
+      "cta": "link in first comment", "enabled": ["text-buffer"],
+      "todo": ["pdf-document-carousel", "native-video"], "manual": ["poll"]
+    },
+    "bluesky": {
+      "voice": "conversational early-adopter, argues in replies", "win": "reply velocity+custom feeds",
+      "cta": "reply and I'll send it", "enabled": ["text", "engagement-daemon"],
+      "todo": ["thread", "image", "quote-post", "custom-feed", "starter-pack"]
+    },
+    "mastodon": {
+      "voice": "educational, anti-corporate, value-first", "win": "hashtags+community trust",
+      "cta": "very soft / rare", "enabled": ["text"],
+      "todo": ["media", "poll"], "hashtags": "2-4 CamelCase", "rule": "alt-text mandatory; mix human replies"
+    },
+    "telegram": {
+      "voice": "insider, peer-to-peer, here's-what-I'd-do-Monday", "win": "trust+daily presence",
+      "cta": "comment/DM for the template", "enabled": ["text"],
+      "todo": ["album", "poll-quiz", "photo", "video", "discussion-group"]
+    },
+    "pinterest": {
+      "voice": "keyword search SEO", "win": "evergreen search rank",
+      "enabled": ["static-pin"], "todo": ["video-pin", "carousel-pin"], "gated": "standard-access",
+      "rule": "3-5 fresh designs/article; keyword title+desc+board"
+    },
+    "email": {
+      "voice": "segmented nurture, soft product intro after value", "win": "conversion to SaaS",
+      "enabled": ["broadcast"], "todo": ["welcome-drip", "trade-segmentation"]
+    },
+    "blog_tier": {
+      "voice": "SEO/AEO depth, question-headers", "win": "search rank+AI citations",
+      "enabled": ["article-syndication"], "todo": ["tumblr-npf-image", "aeo-question-headers"]
+    }
+  }
+}
