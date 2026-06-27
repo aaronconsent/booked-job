@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T09:25",
+  "updated": "2026-06-27T09:30",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -248,6 +248,11 @@
       "on": true
     },
     {
+      "name": "TikTok (Buffer)",
+      "schedule": "Tue, Sat \u00b7 10:15",
+      "on": true
+    },
+    {
       "name": "Engage",
       "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
       "on": true
@@ -436,9 +441,9 @@
     },
     {
       "name": "TikTok",
-      "status": "pending",
-      "count": 0,
-      "unit": "Buffer \u00b7 video soon",
+      "status": "live",
+      "count": 1,
+      "unit": "videos (Buffer)",
       "stat": "0 views \u00b7 0 reactions"
     },
     {

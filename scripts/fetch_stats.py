@@ -48,7 +48,7 @@ AGENT_NAMES = {
     "threads": "Threads", "telegram": "Telegram", "ghpages": "GitHub Pages",
     "blueskyengage": "Bluesky Engage", "youtubeengage": "YouTube CTA",
     "threadsengage": "Threads Surfacing", "igengage": "IG Inbound",
-    "buffer": "LinkedIn (Buffer)",
+    "buffer": "LinkedIn (Buffer)", "buffertiktok": "TikTok (Buffer)",
 }
 
 
@@ -175,7 +175,8 @@ def channels(email_subs=0, followers=None):
     if li_m:
         li["stat"] = f"{int(li_m.get('reach', 0))} reach · {int(li_m.get('reactions', 0))} reactions"
     out.append(li)
-    tt = {"name": "TikTok", "status": "pending" if buf else "off", "count": 0, "unit": "Buffer · video soon"}
+    tt = {"name": "TikTok", "status": "live" if buf else "off",
+          "count": len(bs.get("tiktok", [])), "unit": "videos (Buffer)"}
     if tt_m:
         tt["stat"] = f"{int(tt_m.get('views', 0))} views · {int(tt_m.get('reactions', 0))} reactions"
     out.append(tt)
