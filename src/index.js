@@ -38,9 +38,17 @@ export default {
       }
     }
 
-    // Tracked funnel redirect to Consent Resolve (UTM-tagged for CR-side analytics).
+    // Tracked funnel redirect to Consent Resolve (UTM-tagged) + KV click counter.
     if (url.pathname === "/cr") {
+      if (env.CR_KV) {
+        try { await env.CR_KV.put("clicks", String((parseInt(await env.CR_KV.get("clicks")) || 0) + 1)); } catch (e) {}
+      }
       return Response.redirect("https://consentresolve.com/?utm_source=bookedjob&utm_medium=content&utm_campaign=funnel", 302);
+    }
+    if (url.pathname === "/cr/count") {
+      let n = 0;
+      if (env.CR_KV) { try { n = parseInt(await env.CR_KV.get("clicks")) || 0; } catch (e) {} }
+      return Response.json({ clicks: n });
     }
 
     // ===== Bluesky custom feed generator ("Home-Service Talk") =====

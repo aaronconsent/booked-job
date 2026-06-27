@@ -345,7 +345,12 @@ def main():
     total_aud = (pi.get("followers_count", 0) + ig["followers"] + yt["subscribers"]
                  + foll.get("Bluesky", 0) + foll.get("Mastodon", 0) + foll.get("Threads", 0)
                  + foll.get("Telegram", 0) + email_subs)
-    cr_clicks = jload("content/cr_clicks.json", {"count": 0}).get("count", 0)
+    cr_clicks = 0
+    try:
+        creq = urllib.request.Request("https://booked-job.com/cr/count", headers={"User-Agent": "curl/8.4.0"})
+        cr_clicks = json.loads(urllib.request.urlopen(creq, timeout=15).read().decode()).get("clicks", 0)
+    except Exception:
+        pass
     funnel = {"reach": ads["reach"] or ads["video_views"], "engagement": eng_total,
               "audience": total_aud, "cr_clicks": cr_clicks}
     snap = {"date": today.isoformat(), "audience": total_aud, "engagement": eng_total,
