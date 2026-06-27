@@ -48,7 +48,7 @@ AGENT_NAMES = {
     "threads": "Threads", "telegram": "Telegram", "ghpages": "GitHub Pages",
     "blueskyengage": "Bluesky Engage", "youtubeengage": "YouTube CTA",
     "threadsengage": "Threads Surfacing", "igengage": "IG Inbound",
-    "buffer": "LinkedIn (Buffer)", "buffertiktok": "TikTok (Buffer)", "telegrampoll": "Telegram Polls",
+    "buffer": "LinkedIn (Buffer)", "buffertiktok": "TikTok (Buffer)", "telegrampoll": "Telegram Polls", "emaildrip": "Email Drip",
 }
 
 

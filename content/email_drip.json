@@ -1,0 +1,45 @@
+{
+  "_doc": "Welcome drip sequence — sent per-subscriber based on days since signup. The owned nurture-to-Consent-Resolve funnel. Runner wraps body in a branded template + appends unsubscribe footer.",
+  "emails": [
+    {
+      "day": 0,
+      "subject": "You're in — here's the contractor toolkit 🛠️",
+      "heading": "Welcome to Booked Job",
+      "body": "<p>Glad you're here. Booked Job is one thing: no-fluff help for the people running the trucks — getting more booked jobs, pricing right, getting paid, and not getting ripped off by lead resellers.</p><p>No spam, no pitch. Just what works in the field, a couple times a month.</p><p>Start with the free tools — including a calculator that shows your real cost per Angi lead:</p>",
+      "cta_text": "Browse the free tools",
+      "cta_url": "https://booked-job.com/blog/"
+    },
+    {
+      "day": 2,
+      "subject": "The $1,400 lead nobody talks about",
+      "heading": "Why your Angi leads cost more than you think",
+      "body": "<p>Quick math that surprises most shops: Angi, HomeAdvisor and Thumbtack sell the <em>same</em> lead to 5–12 contractors. So once you factor in low close rates, your real cost per <strong>booked</strong> job runs ~$1,430–$2,500 — versus about $290 for a job won through your own name.</p><p>The deeper problem: stop paying and the leads vanish. You rented an audience instead of building one.</p>",
+      "cta_text": "Run your own numbers",
+      "cta_url": "https://booked-job.com/blog/is-angi-worth-it/"
+    },
+    {
+      "day": 4,
+      "subject": "A 50% markup is only 33% profit",
+      "heading": "The pricing mistake that quietly costs you",
+      "body": "<p>Most contractors aren't underpriced because they're cheap — they're underpriced because they confuse <strong>markup</strong> with <strong>margin</strong>.</p><p>A 50% markup feels like 50% profit. It's actually a 33% margin. Across a year of estimates, that gap is serious money. The fix is one formula: price = cost ÷ (1 − target margin).</p>",
+      "cta_text": "Use the margin calculator",
+      "cta_url": "https://booked-job.com/blog/how-to-price-a-job/"
+    },
+    {
+      "day": 6,
+      "subject": "The cheapest marketing you're skipping",
+      "heading": "Reviews decide who gets the call",
+      "body": "<p>Google reviews decide who shows up in the map pack and who gets the call — yet most shops 'mean to ask' and never do.</p><p>The system that works: ask in person the second the job's done (peak gratitude), then text the direct review link within the hour. One tap. Ask every customer.</p>",
+      "cta_text": "Get the review system",
+      "cta_url": "https://booked-job.com/blog/get-more-google-reviews/"
+    },
+    {
+      "day": 9,
+      "subject": "What if the leads were already on your site?",
+      "heading": "Stop renting your leads",
+      "body": "<p>Here's the thread running through everything we send: the most profitable leads aren't the ones you buy — they're the ones that are already yours.</p><p>Most people who visit your website leave without calling. Identifying the ones who consent — and following up before they call the next guy — turns traffic you already paid for into booked jobs. That's the idea behind <strong>Consent Resolve</strong>: leads that are yours, never resold.</p><p>We built it because we got tired of watching good shops rent their customers. If that's a problem you've got, take a look:</p>",
+      "cta_text": "See how it works",
+      "cta_url": "https://consentresolve.com/"
+    }
+  ]
+}
