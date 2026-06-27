@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:12",
+  "updated": "2026-06-27T10:37",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 0,
+        "current": 1,
         "target": 400,
         "pct": 0,
         "on_track": false
@@ -197,7 +197,7 @@
   "content": {
     "posts_published": 1,
     "reactions": 0,
-    "comments": 0,
+    "comments": 1,
     "shares": 0,
     "reels_published": 1,
     "posts_remaining": 14,
@@ -221,7 +221,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 1
+    "media": 2
   },
   "email": {
     "subscribers": 5
@@ -240,6 +240,11 @@
     {
       "name": "Bluesky Engage",
       "schedule": "Daily \u00b7 12:50 / 16:40 / 19:30 / 9:20",
+      "on": true
+    },
+    {
+      "name": "Bluesky Feed",
+      "schedule": "Daily \u00b7 12:35 / 17:05 / 21:35 / 7:05",
       "on": true
     },
     {
@@ -268,8 +273,18 @@
       "on": true
     },
     {
+      "name": "FB Carousels",
+      "schedule": "Tue, Sat \u00b7 12:10",
+      "on": true
+    },
+    {
       "name": "GitHub Pages",
       "schedule": "Tue \u00b7 10:00",
+      "on": true
+    },
+    {
+      "name": "IG Carousels",
+      "schedule": "Mon, Fri \u00b7 11:30",
       "on": true
     },
     {
@@ -315,6 +330,11 @@
     {
       "name": "Stats Refresh",
       "schedule": "Daily \u00b7 12:00 / 18:00 / 22:00 / 6:00",
+      "on": true
+    },
+    {
+      "name": "IG+FB Stories",
+      "schedule": "Mon, Wed, Fri \u00b7 8:30",
       "on": true
     },
     {
@@ -457,7 +477,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "videos (Buffer)",
       "stat": "0 views \u00b7 0 reactions"
     },
