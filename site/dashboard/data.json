@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T11:04",
+  "updated": "2026-06-27T11:17",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -534,7 +534,7 @@
     "reach": 0,
     "engagement": 1,
     "audience": 7,
-    "cr_clicks": 0
+    "cr_clicks": 3
   },
   "trends": {
     "audience": 0,
