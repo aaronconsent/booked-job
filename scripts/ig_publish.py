@@ -71,6 +71,38 @@ def publish(video_url, caption):
     return pub
 
 
+def _wait(cid, tok, tries=20, delay=4):
+    for _ in range(tries):
+        time.sleep(delay)
+        st = _get(cid, {"fields": "status_code", "access_token": tok}).get("status_code")
+        if st == "FINISHED":
+            return
+        if st == "ERROR":
+            sys.exit(f"IG container error {cid}")
+
+
+def publish_carousel(image_urls, caption):
+    """Publish an IG carousel from a list of PUBLIC image URLs (2-10)."""
+    e = env(); tok = e["FB_SYSTEM_TOKEN"]; ig = ig_user_id(e)
+    children = []
+    for url in image_urls[:10]:
+        c = _post(f"{ig}/media", {"media_type": "IMAGE", "image_url": url,
+                                  "is_carousel_item": "true", "access_token": tok})
+        children.append(c["id"])
+    parent = _post(f"{ig}/media", {"media_type": "CAROUSEL", "children": ",".join(children),
+                                   "caption": caption[:2200], "access_token": tok})
+    _wait(parent["id"], tok)
+    return _post(f"{ig}/media_publish", {"creation_id": parent["id"], "access_token": tok})
+
+
+def publish_story(image_url):
+    """Publish an IG image Story from a PUBLIC image URL."""
+    e = env(); tok = e["FB_SYSTEM_TOKEN"]; ig = ig_user_id(e)
+    c = _post(f"{ig}/media", {"media_type": "STORIES", "image_url": image_url, "access_token": tok})
+    _wait(c["id"], tok, tries=12, delay=3)
+    return _post(f"{ig}/media_publish", {"creation_id": c["id"], "access_token": tok})
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()

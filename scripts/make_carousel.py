@@ -78,6 +78,19 @@ def make(slug, title, slides):
     return pdf, thumb
 
 
+def make_images(slug, title, slides, subdir="img"):
+    """Render each slide as an individual PNG (for IG/FB carousels). Returns paths."""
+    outdir = os.path.join(ROOT, "site", subdir)
+    os.makedirs(outdir, exist_ok=True)
+    total = len(slides)
+    paths = []
+    for i, s in enumerate(slides):
+        img = slide(s.get("kind", "point"), s["headline"], s.get("body", ""), i + 1, total)
+        p = os.path.join(outdir, f"{slug}-{i + 1}.png")
+        img.save(p); paths.append(p)
+    return paths
+
+
 if __name__ == "__main__":
     import json, sys
     cfg = json.load(open(os.path.join(ROOT, "content", "linkedin_carousels.json")))["carousels"]
