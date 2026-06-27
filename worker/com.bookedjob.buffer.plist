@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.bookedjob.buffer</string>
+  <key>ProgramArguments</key><array><string>/usr/bin/python3</string><string>/Users/aaronphillips/GIT/booked-job/scripts/buffer_runner.py</string></array>
+  <key>WorkingDirectory</key><string>/Users/aaronphillips/GIT/booked-job</string>
+  <key>StartCalendarInterval</key><array>
+    <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>9</integer><key>Minute</key><integer>40</integer></dict>
+    <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>9</integer><key>Minute</key><integer>40</integer></dict>
+  </array>
+  <key>StandardOutPath</key><string>/Users/aaronphillips/GIT/booked-job/content/buffer.out.log</string>
+  <key>StandardErrorPath</key><string>/Users/aaronphillips/GIT/booked-job/content/buffer.err.log</string>
+  <key>RunAtLoad</key><false/>
+</dict></plist>

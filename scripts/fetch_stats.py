@@ -48,6 +48,7 @@ AGENT_NAMES = {
     "threads": "Threads", "telegram": "Telegram", "ghpages": "GitHub Pages",
     "blueskyengage": "Bluesky Engage", "youtubeengage": "YouTube CTA",
     "threadsengage": "Threads Surfacing", "igengage": "IG Inbound",
+    "buffer": "LinkedIn (Buffer)",
 }
 
 
@@ -157,8 +158,13 @@ def channels(email_subs=0, followers=None):
     # Email (Resend)
     em = os.path.exists(os.path.join(ROOT, "secrets", "resend.env"))
     out.append({"name": "Email", "status": "live" if em else "off", "count": email_subs, "unit": "subs"})
+    # LinkedIn + TikTok via Buffer (interim until direct API approval)
+    buf = os.path.exists(os.path.join(ROOT, "secrets", "buffer.env"))
+    bs = jload(os.path.join(ROOT, "content", "buffer_state.json"), {})
+    out.append({"name": "LinkedIn", "status": "live" if buf else "pending",
+                "count": len(bs.get("linkedin", [])), "unit": "posts (Buffer)"})
+    out.append({"name": "TikTok", "status": "pending" if buf else "off", "count": 0, "unit": "Buffer · video soon"})
     # Pending channels (built/ready, waiting on an external gate)
-    out.append({"name": "LinkedIn", "status": "pending", "count": 0, "unit": "page warming"})
     out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
     return out
 

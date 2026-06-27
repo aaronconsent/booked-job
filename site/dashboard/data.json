@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T06:00",
+  "updated": "2026-06-27T08:16",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -243,6 +243,11 @@
       "on": true
     },
     {
+      "name": "LinkedIn (Buffer)",
+      "schedule": "Mon, Thu \u00b7 9:40",
+      "on": true
+    },
+    {
       "name": "Engage",
       "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
       "on": true
@@ -424,9 +429,15 @@
     },
     {
       "name": "LinkedIn",
+      "status": "live",
+      "count": 1,
+      "unit": "posts (Buffer)"
+    },
+    {
+      "name": "TikTok",
       "status": "pending",
       "count": 0,
-      "unit": "page warming"
+      "unit": "Buffer \u00b7 video soon"
     },
     {
       "name": "Google Business",
