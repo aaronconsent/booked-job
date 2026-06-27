@@ -74,8 +74,56 @@ def enumerate_agents():
     return out
 
 
-def channels(email_subs=0):
+def readenv(fname):
+    p = os.path.join(ROOT, "secrets", fname)
+    e = {}
+    if os.path.exists(p):
+        for line in open(p):
+            if "=" in line and not line.startswith("#"):
+                k, v = line.strip().split("=", 1); e[k] = v
+    return e
+
+
+def _jget(url, headers=None):
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=headers or {}), timeout=20) as r:
+            return json.loads(r.read().decode())
+    except Exception:
+        return {}
+
+
+def social_followers():
+    """Best-effort follower/subscriber counts for channels with no scoreboard card."""
+    f = {}
+    bs = readenv("bluesky.env")
+    if bs.get("BLUESKY_HANDLE"):
+        d = _jget(f"https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor={bs['BLUESKY_HANDLE']}")
+        if "followersCount" in d:
+            f["Bluesky"] = d["followersCount"]
+    ms = readenv("mastodon.env")
+    if ms.get("MASTODON_TOKEN") and ms.get("MASTODON_INSTANCE"):
+        d = _jget(f"{ms['MASTODON_INSTANCE'].rstrip('/')}/api/v1/accounts/verify_credentials",
+                  {"Authorization": f"Bearer {ms['MASTODON_TOKEN']}"})
+        if "followers_count" in d:
+            f["Mastodon"] = d["followers_count"]
+    th = readenv("threads.env")
+    if th.get("THREADS_USER_ID") and th.get("THREADS_TOKEN"):
+        d = _jget(f"https://graph.threads.net/v1.0/{th['THREADS_USER_ID']}/threads_insights?metric=followers_count&access_token={th['THREADS_TOKEN']}")
+        try:
+            f["Threads"] = d["data"][0]["total_value"]["value"]
+        except Exception:
+            pass
+    tg = readenv("telegram.env")
+    if tg.get("TELEGRAM_BOT_TOKEN") and tg.get("TELEGRAM_CHAT_ID"):
+        d = _jget(f"https://api.telegram.org/bot{tg['TELEGRAM_BOT_TOKEN']}/getChatMemberCount?chat_id={tg['TELEGRAM_CHAT_ID']}")
+        if d.get("ok"):
+            f["Telegram"] = d.get("result")
+    return f
+
+
+def channels(email_subs=0, followers=None):
     """Distribution panel: every channel with connection status + activity."""
+    followers = followers or {}
     # (name, secret file, state file, state key, unit, kind-when-connected)
     reg = [
         ("Facebook", "fb.env", "state.json", "posted", "posts", "live"),
@@ -95,7 +143,10 @@ def channels(email_subs=0):
     for name, sec, stf, key, unit, kind in reg:
         connected = os.path.exists(os.path.join(ROOT, "secrets", sec))
         cnt = len(jload(os.path.join(ROOT, "content", stf), {}).get(key, [])) if connected else 0
-        out.append({"name": name, "status": kind if connected else "off", "count": cnt, "unit": unit})
+        entry = {"name": name, "status": kind if connected else "off", "count": cnt, "unit": unit}
+        if followers.get(name) is not None:
+            entry["followers"] = followers[name]
+        out.append(entry)
     # Blog (always live — it's our own site); count = published articles
     arts = len(jload(os.path.join(ROOT, "content", "syndication_queue.json"), {}).get("items", []))
     out.insert(0, {"name": "Blog", "status": "live", "count": arts, "unit": "articles"})
@@ -270,7 +321,7 @@ def main():
         "instagram": ig,
         "email": {"subscribers": email_subs},
         "agents": enumerate_agents(),
-        "channels": channels(email_subs),
+        "channels": channels(email_subs, social_followers()),
     }
     out = os.path.join(ROOT, "site", "dashboard", "data.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:19",
+  "updated": "2026-06-26T19:27",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -360,25 +360,29 @@
       "name": "Bluesky",
       "status": "live",
       "count": 1,
-      "unit": "posts"
+      "unit": "posts",
+      "followers": 0
     },
     {
       "name": "Mastodon",
       "status": "live",
       "count": 1,
-      "unit": "posts"
+      "unit": "posts",
+      "followers": 0
     },
     {
       "name": "Threads",
       "status": "live",
       "count": 1,
-      "unit": "posts"
+      "unit": "posts",
+      "followers": 0
     },
     {
       "name": "Telegram",
       "status": "live",
       "count": 1,
-      "unit": "posts"
+      "unit": "posts",
+      "followers": 2
     },
     {
       "name": "GitHub Pages",
