@@ -35,8 +35,13 @@ def main():
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Mastodon."); return
-    blurb = nxt.get("blurb", "")[:380]
-    text = f"{blurb}\n\n{nxt['url']}\n\n#contractor #trades #plumber #roofer #hvac #electrician"
+    import variants
+    v = variants.get("mastodon", nxt["id"])
+    if v:
+        text = f"{v['text']}\n\n{nxt['url']}\n\n{' '.join(v.get('tags', []))}"
+    else:
+        blurb = nxt.get("blurb", "")[:380]
+        text = f"{blurb}\n\n{nxt['url']}\n\n#contractor #trades #plumber #roofer #hvac #electrician"
     import mastodon_publish
     res = mastodon_publish.publish(text[:500])
     done.add(nxt["id"]); state["done"] = list(done)

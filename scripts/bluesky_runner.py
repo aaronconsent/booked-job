@@ -34,7 +34,9 @@ def main():
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Bluesky."); return
-    teaser = (nxt.get("short_title") or nxt["title"]) + " — the honest math, plus a free calculator. 👇"
+    import variants
+    v = variants.get("bluesky", nxt["id"])
+    teaser = v["text"] if v else (nxt.get("short_title") or nxt["title"]) + " — the honest math, plus a free calculator. 👇"
     import bluesky_publish
     res = bluesky_publish.publish(teaser[:300], nxt["url"], nxt["title"], nxt.get("blurb", "")[:300])
     done.add(nxt["id"]); state["done"] = list(done)

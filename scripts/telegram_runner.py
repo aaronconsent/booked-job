@@ -35,8 +35,13 @@ def main():
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Telegram."); return
-    title = html.escape(nxt["title"]); blurb = html.escape(nxt.get("blurb", "")[:350])
-    text = f"<b>{title}</b>\n\n{blurb}\n\n{nxt['url']}"
+    import variants
+    v = variants.get("telegram", nxt["id"])
+    if v:
+        text = v  # variant is the full HTML-ready text
+    else:
+        title = html.escape(nxt["title"]); blurb = html.escape(nxt.get("blurb", "")[:350])
+        text = f"<b>{title}</b>\n\n{blurb}\n\n{nxt['url']}"
     import telegram_publish
     res = telegram_publish.send_message(text)
     done.add(nxt["id"]); state["done"] = list(done)

@@ -37,8 +37,9 @@ def main():
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Buffer/LinkedIn."); return
-    blurb = (nxt.get("blurb", "") or "")[:600]
-    text = f"{blurb}\n\n{nxt['url']}"
+    import variants
+    v = variants.get("linkedin", nxt["id"])
+    text = v if v else f"{(nxt.get('blurb', '') or '')[:600]}\n\n{nxt['url']}"
     import buffer_publish
     e = buffer_publish.env()
     try:

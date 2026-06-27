@@ -34,9 +34,14 @@ def main():
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Threads."); return
-    hook = (nxt.get("short_title") or nxt["title"])
-    blurb = (nxt.get("blurb", "") or "").split(". ")[0][:220]
-    text = f"{hook}\n\n{blurb}.\n\n{nxt['url']}"
+    import variants
+    v = variants.get("threads", nxt["id"])
+    if v:
+        text = v["text"]
+    else:
+        hook = (nxt.get("short_title") or nxt["title"])
+        blurb = (nxt.get("blurb", "") or "").split(". ")[0][:220]
+        text = f"{hook}\n\n{blurb}.\n\n{nxt['url']}"
     import threads_publish
     threads_publish.refresh_and_save()  # keep the 60-day token alive
     res = threads_publish.publish_text(text[:500])
