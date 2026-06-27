@@ -1,0 +1,10 @@
+{
+  "_doc": "Quiz-poll engagement bait for the Telegram channel. Each drives to an article via the explanation. Runner posts the next un-posted one.",
+  "polls": [
+    {"id": "angi-leads", "q": "How many contractors does Angi sell each lead to?", "options": ["Just you", "2–3", "5–12", "Unlimited"], "correct": 2, "explain": "5–12 — which is why your real cost per booked job runs $1,400+. booked-job.com/blog/is-angi-worth-it/"},
+    {"id": "markup-margin", "q": "A 50% markup equals what PROFIT MARGIN?", "options": ["50%", "45%", "33%", "25%"], "correct": 2, "explain": "33% — markup ≠ margin. Most shops underprice here. booked-job.com/blog/how-to-price-a-job/"},
+    {"id": "unpaid-invoices", "q": "What % of contractor invoices go unpaid past 30 days?", "options": ["~5%", "~15%", "~30%", "~50%"], "correct": 2, "explain": "~30% — a same-day follow-up text fixes most of it. booked-job.com"},
+    {"id": "review-timing", "q": "Best time to ask for a Google review?", "options": ["By email next week", "The moment the job's done", "Never", "Only on the invoice"], "correct": 1, "explain": "Peak gratitude — ask when the job's done, then text the link. booked-job.com/blog/get-more-google-reviews/"},
+    {"id": "slow-season", "q": "In the slow season, smart shops...", "options": ["Cut marketing", "Keep or INCREASE marketing", "Lay everyone off", "Wait it out"], "correct": 1, "explain": "Increase it — competitors go quiet, ad costs drop. booked-job.com/blog/surviving-the-slow-season/"}
+  ]
+}

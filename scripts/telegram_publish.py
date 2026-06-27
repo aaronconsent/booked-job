@@ -31,6 +31,22 @@ def send_message(text):
     return _call("sendMessage", {"text": text, "parse_mode": "HTML", "disable_web_page_preview": "false"})
 
 
+def send_poll(question, options, correct_option_id=None, explanation=None):
+    """Post a poll/quiz to the channel. Pass correct_option_id for quiz mode."""
+    params = {"question": question[:300],
+              "options": json.dumps([{"text": o[:100]} for o in options]),
+              "is_anonymous": "true"}
+    if correct_option_id is not None:
+        params["type"] = "quiz"; params["correct_option_id"] = correct_option_id
+        if explanation:
+            params["explanation"] = explanation[:200]
+    return _call("sendPoll", params)
+
+
+def send_photo(photo_url, caption=""):
+    return _call("sendPhoto", {"photo": photo_url, "caption": caption[:1024], "parse_mode": "HTML"})
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(); ap.add_argument("--text", required=True)
