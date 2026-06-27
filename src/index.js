@@ -53,22 +53,16 @@ export default {
       return Response.json({ did: "did:web:booked-job.com", feeds: [{ uri: FEED_URI }] });
     }
     if (url.pathname === "/xrpc/app.bsky.feed.getFeedSkeleton") {
-      // On-demand search feed: latest posts matching trades/home-service terms.
+      // Feed skeleton is precomputed by scripts/bluesky_feed_refresh.py (authenticated
+      // search, a few times/day) and served as a static asset.
       const limit = Math.min(parseInt(url.searchParams.get("limit") || "30", 10) || 30, 50);
-      const terms = ["contractor business", "home service business", "roofing business", "hvac business", "plumber business"];
-      const seen = new Set(), feed = [];
-      for (const q of terms) {
-        if (feed.length >= limit) break;
-        try {
-          const r = await fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=${encodeURIComponent(q)}&limit=20&sort=latest`);
-          const d = await r.json();
-          for (const p of (d.posts || [])) {
-            if (!seen.has(p.uri)) { seen.add(p.uri); feed.push({ post: p.uri }); }
-            if (feed.length >= limit) break;
-          }
-        } catch (e) { /* skip term on error */ }
+      try {
+        const r = await env.ASSETS.fetch(new URL("/feedskel.json", request.url));
+        const d = await r.json();
+        return Response.json({ feed: (d.feed || []).slice(0, limit) });
+      } catch (e) {
+        return Response.json({ feed: [] });
       }
-      return Response.json({ feed: feed.slice(0, limit) });
     }
 
     // static site (feed.xml content-type is set via site/_headers — the Worker
