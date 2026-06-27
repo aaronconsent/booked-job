@@ -70,6 +70,18 @@ def queue_video(channel_id, text, video_url, title=None, thumbnail_url=None):
     return True
 
 
+def queue_images(channel_id, text, image_urls):
+    """Queue a multi-image post (TikTok photo carousel) from public image URLs (2-10)."""
+    assets = [{"image": {"url": u}} for u in image_urls[:10]]
+    inp = {"channelId": channel_id, "text": text, "assets": assets,
+           "schedulingType": "automatic", "mode": "addToQueue"}
+    d = gql("mutation($input: CreatePostInput!){ createPost(input:$input){ __typename } }", {"input": inp})
+    tn = d.get("createPost", {}).get("__typename")
+    if tn != "PostActionSuccess":
+        raise RuntimeError(f"Buffer createPost(images) returned {tn}: {json.dumps(d)[:300]}")
+    return True
+
+
 def queue_document(channel_id, text, doc_url, title, thumbnail_url):
     """Queue a PDF document/carousel post (LinkedIn). All URLs must be public + reachable."""
     asset = {"document": {"url": doc_url, "title": title[:100], "thumbnailUrl": thumbnail_url}}
