@@ -45,9 +45,17 @@ def main():
     import threads_publish
     threads_publish.refresh_and_save()  # keep the 60-day token alive
     res = threads_publish.publish_text(text[:500])
+    pid = res.get("id")
+    # self-reply chain (replies are Threads' top growth signal)
+    chain = (v or {}).get("chain", []) if v else []
+    for r in chain:
+        try:
+            rr = threads_publish.publish_reply(r, pid); pid = rr.get("id", pid)
+        except Exception as ex:
+            log(f"chain reply failed: {ex}")
     done.add(nxt["id"]); state["done"] = list(done)
     json.dump(state, open(STATE, "w"), indent=2)
-    log(f"POSTED '{nxt['id']}' to Threads -> {res.get('id')}")
+    log(f"POSTED '{nxt['id']}' to Threads (+{len(chain)} chain replies) -> {res.get('id')}")
     try:
         import log_change
         log_change.add("site", f"Posted to Threads: {nxt['title']}")

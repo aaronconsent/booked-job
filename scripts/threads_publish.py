@@ -54,6 +54,16 @@ def publish_text(text):
     return _post(f"{uid}/threads_publish", {"creation_id": cid, "access_token": tok})
 
 
+def publish_reply(text, reply_to_id):
+    """Publish a reply to one of our own posts (self-reply chain). Returns the new post id."""
+    e = env()
+    uid, tok = e["THREADS_USER_ID"], e["THREADS_TOKEN"]
+    cont = _post(f"{uid}/threads", {"media_type": "TEXT", "text": text[:500],
+                                    "reply_to_id": reply_to_id, "access_token": tok})
+    time.sleep(3)
+    return _post(f"{uid}/threads_publish", {"creation_id": cont["id"], "access_token": tok})
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(); ap.add_argument("--text", required=True)
