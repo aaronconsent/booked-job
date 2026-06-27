@@ -291,13 +291,17 @@ async function load(){
 
   // channels (distribution)
   if(d.channels){
-    const col={live:'#22c55e',sandbox:'#f59e0b',off:'#9ca3af'};
-    const lab={live:'Live',sandbox:'Sandbox',off:'Not connected'};
-    document.getElementById('channels').innerHTML=d.channels.map(c=>`
-      <div class="chan">
+    const col={live:'#22c55e',sandbox:'#f59e0b',pending:'#3b82f6',off:'#9ca3af'};
+    const lab={live:'Live',sandbox:'Sandbox',pending:'Pending',off:'Not connected'};
+    document.getElementById('channels').innerHTML=d.channels.map(c=>{
+      let right;
+      if(c.status==='off') right=lab.off;
+      else if(c.status==='pending') right=`Pending — ${c.unit}`;
+      else right=`${c.count} ${c.unit} · ${lab[c.status]}`;
+      return `<div class="chan">
         <div><div class="n"><span class="sdot" style="background:${col[c.status]||'#9ca3af'}"></span>${c.name}</div></div>
-        <div class="c">${c.status==='off'?lab.off:`${c.count} ${c.unit} · ${lab[c.status]}`}</div>
-      </div>`).join('');
+        <div class="c">${right}</div></div>`;
+    }).join('');
   }
 
   // goals

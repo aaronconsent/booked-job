@@ -74,8 +74,8 @@ def enumerate_agents():
     return out
 
 
-def channels():
-    """Distribution panel: every channel with connection status + posts shipped."""
+def channels(email_subs=0):
+    """Distribution panel: every channel with connection status + activity."""
     # (name, secret file, state file, state key, unit, kind-when-connected)
     reg = [
         ("Facebook", "fb.env", "state.json", "posted", "posts", "live"),
@@ -96,6 +96,15 @@ def channels():
         connected = os.path.exists(os.path.join(ROOT, "secrets", sec))
         cnt = len(jload(os.path.join(ROOT, "content", stf), {}).get(key, [])) if connected else 0
         out.append({"name": name, "status": kind if connected else "off", "count": cnt, "unit": unit})
+    # Blog (always live — it's our own site); count = published articles
+    arts = len(jload(os.path.join(ROOT, "content", "syndication_queue.json"), {}).get("items", []))
+    out.insert(0, {"name": "Blog", "status": "live", "count": arts, "unit": "articles"})
+    # Email (Resend)
+    em = os.path.exists(os.path.join(ROOT, "secrets", "resend.env"))
+    out.append({"name": "Email", "status": "live" if em else "off", "count": email_subs, "unit": "subs"})
+    # Pending channels (built/ready, waiting on an external gate)
+    out.append({"name": "LinkedIn", "status": "pending", "count": 0, "unit": "page warming"})
+    out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
     return out
 
 
@@ -261,7 +270,7 @@ def main():
         "instagram": ig,
         "email": {"subscribers": email_subs},
         "agents": enumerate_agents(),
-        "channels": channels(),
+        "channels": channels(email_subs),
     }
     out = os.path.join(ROOT, "site", "dashboard", "data.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)

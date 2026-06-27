@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T18:57",
+  "updated": "2026-06-26T19:19",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -315,6 +315,12 @@
   ],
   "channels": [
     {
+      "name": "Blog",
+      "status": "live",
+      "count": 4,
+      "unit": "articles"
+    },
+    {
       "name": "Facebook",
       "status": "live",
       "count": 0,
@@ -385,6 +391,24 @@
       "status": "sandbox",
       "count": 0,
       "unit": "pins"
+    },
+    {
+      "name": "Email",
+      "status": "live",
+      "count": 5,
+      "unit": "subs"
+    },
+    {
+      "name": "LinkedIn",
+      "status": "pending",
+      "count": 0,
+      "unit": "page warming"
+    },
+    {
+      "name": "Google Business",
+      "status": "pending",
+      "count": 0,
+      "unit": "verifying"
     }
   ]
 }
