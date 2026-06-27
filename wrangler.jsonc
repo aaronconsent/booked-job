@@ -10,5 +10,8 @@
   },
   "vars": {
     "RESEND_AUDIENCE_ID": "6a8b82cf-dc74-449d-8f70-8e7cbe372d74"
-  }
+  },
+  "kv_namespaces": [
+    { "binding": "CR_KV", "id": "01d2aafaa2ea47d4a0015e7239499012" }
+  ]
 }
