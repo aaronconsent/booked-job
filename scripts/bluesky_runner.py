@@ -38,7 +38,11 @@ def main():
     v = variants.get("bluesky", nxt["id"])
     teaser = v["text"] if v else (nxt.get("short_title") or nxt["title"]) + " — the honest math, plus a free calculator. 👇"
     import bluesky_publish
-    res = bluesky_publish.publish(teaser[:300], nxt["url"], nxt["title"], nxt.get("blurb", "")[:300])
+    chain = (v or {}).get("chain", []) if v else []
+    if chain:
+        res = bluesky_publish.publish_thread(teaser[:300], nxt["url"], nxt["title"], nxt.get("blurb", "")[:300], chain)
+    else:
+        res = bluesky_publish.publish(teaser[:300], nxt["url"], nxt["title"], nxt.get("blurb", "")[:300])
     done.add(nxt["id"]); state["done"] = list(done)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED '{nxt['id']}' to Bluesky -> {res.get('uri')}")

@@ -43,7 +43,16 @@ def main():
         blurb = nxt.get("blurb", "")[:380]
         text = f"{blurb}\n\n{nxt['url']}\n\n#contractor #trades #plumber #roofer #hvac #electrician"
     import mastodon_publish
-    res = mastodon_publish.publish(text[:500])
+    media_ids = []
+    try:
+        import make_pin
+        pin = os.path.join(ROOT, "content", "pins", f"{nxt['id']}.png")
+        if not os.path.exists(pin):
+            make_pin.make(nxt.get("short_title") or nxt["title"], (nxt.get("blurb", "") or "").split(".")[0][:90], pin)
+        media_ids = [mastodon_publish.upload_media(pin, f"Booked Job graphic: {nxt['title']}")]
+    except Exception as ex:
+        log(f"media attach skipped: {ex}")
+    res = mastodon_publish.publish(text[:500], media_ids)
     done.add(nxt["id"]); state["done"] = list(done)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED '{nxt['id']}' to Mastodon -> {res.get('url')}")

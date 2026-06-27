@@ -46,6 +46,27 @@ def publish(text, link, link_title, link_desc):
                  {"repo": s["did"], "collection": "app.bsky.feed.post", "record": record}, s["accessJwt"])
 
 
+def publish_thread(first_text, link, link_title, link_desc, replies):
+    """Post a thread: first post carries the link card, replies chain off it
+    (threads earn ~3x more replies on Bluesky)."""
+    e = env(); s = session(e); jwt = s["accessJwt"]; did = s["did"]
+    now = lambda: dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S.000Z")
+
+    def mk(record):
+        return _post("com.atproto.repo.createRecord",
+                     {"repo": did, "collection": "app.bsky.feed.post", "record": record}, jwt)
+
+    r1 = mk({"$type": "app.bsky.feed.post", "text": first_text[:300], "createdAt": now(),
+             "embed": {"$type": "app.bsky.embed.external",
+                       "external": {"uri": link, "title": link_title[:300], "description": link_desc[:1000]}}})
+    root = {"uri": r1["uri"], "cid": r1["cid"]}; parent = root
+    for rt in replies:
+        rr = mk({"$type": "app.bsky.feed.post", "text": rt[:300], "createdAt": now(),
+                 "reply": {"root": root, "parent": parent}})
+        parent = {"uri": rr["uri"], "cid": rr["cid"]}
+    return r1
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
