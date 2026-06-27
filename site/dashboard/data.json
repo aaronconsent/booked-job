@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T08:16",
+  "updated": "2026-06-27T09:25",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -431,13 +431,15 @@
       "name": "LinkedIn",
       "status": "live",
       "count": 1,
-      "unit": "posts (Buffer)"
+      "unit": "posts (Buffer)",
+      "stat": "0 reach \u00b7 0 reactions"
     },
     {
       "name": "TikTok",
       "status": "pending",
       "count": 0,
-      "unit": "Buffer \u00b7 video soon"
+      "unit": "Buffer \u00b7 video soon",
+      "stat": "0 views \u00b7 0 reactions"
     },
     {
       "name": "Google Business",

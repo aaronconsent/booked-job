@@ -56,14 +56,36 @@ def queue_text(channel_id, text, assets=None):
     return True
 
 
+def metrics(channel_ids, days=30):
+    """Aggregated post metrics for the given channels over the last `days`.
+    Returns {metricType: value} e.g. {'reach': N, 'reactions': N, 'views': N}."""
+    import datetime as dt
+    e = env()
+    end = dt.datetime.utcnow(); start = end - dt.timedelta(days=days)
+    q = "query($i: AggregatedPostMetricsInput!){ aggregatedPostMetrics(input:$i){ metrics { type value unit } } }"
+    v = {"i": {"organizationId": e["BUFFER_ORG"],
+               "startDateTime": start.strftime("%Y-%m-%dT%H:%M:%SZ"),
+               "endDateTime": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
+               "channelIds": channel_ids}}
+    try:
+        d = gql(q, v)
+        return {m["type"]: m["value"] for m in d["aggregatedPostMetrics"]["metrics"]}
+    except Exception:
+        return {}
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
     ap.add_argument("--channels", action="store_true")
+    ap.add_argument("--metrics", action="store_true")
     ap.add_argument("--text"); ap.add_argument("--channel")
     a = ap.parse_args()
     if a.channels:
         for c in channels():
             print(f"  {c['service']:10} {c.get('displayName')}  id={c['id']}  disconnected={c['isDisconnected']}")
+    elif a.metrics:
+        e = env()
+        print(json.dumps(metrics([e["BUFFER_LINKEDIN_CHANNEL"], e["BUFFER_TIKTOK_CHANNEL"]]), indent=2))
     elif a.text and a.channel:
         print("queued:", queue_text(a.channel, a.text))

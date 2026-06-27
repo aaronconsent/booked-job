@@ -297,7 +297,7 @@ async function load(){
       let right;
       if(c.status==='off') right=lab.off;
       else if(c.status==='pending') right=`Pending — ${c.unit}`;
-      else { const fol=(c.followers!=null)?`${c.followers} followers · `:''; right=`${fol}${c.count} ${c.unit} · ${lab[c.status]}`; }
+      else { const extra=c.stat?`${c.stat} · `:((c.followers!=null)?`${c.followers} followers · `:''); right=`${extra}${c.count} ${c.unit} · ${lab[c.status]}`; }
       return `<div class="chan">
         <div><div class="n"><span class="sdot" style="background:${col[c.status]||'#9ca3af'}"></span>${c.name}</div></div>
         <div class="c">${right}</div></div>`;

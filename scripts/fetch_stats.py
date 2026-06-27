@@ -158,12 +158,27 @@ def channels(email_subs=0, followers=None):
     # Email (Resend)
     em = os.path.exists(os.path.join(ROOT, "secrets", "resend.env"))
     out.append({"name": "Email", "status": "live" if em else "off", "count": email_subs, "unit": "subs"})
-    # LinkedIn + TikTok via Buffer (interim until direct API approval)
+    # LinkedIn + TikTok via Buffer (interim) — with engagement metrics from Buffer
     buf = os.path.exists(os.path.join(ROOT, "secrets", "buffer.env"))
     bs = jload(os.path.join(ROOT, "content", "buffer_state.json"), {})
-    out.append({"name": "LinkedIn", "status": "live" if buf else "pending",
-                "count": len(bs.get("linkedin", [])), "unit": "posts (Buffer)"})
-    out.append({"name": "TikTok", "status": "pending" if buf else "off", "count": 0, "unit": "Buffer · video soon"})
+    li_m = tt_m = {}
+    if buf:
+        try:
+            sys.path.insert(0, HERE); import buffer_publish as BP
+            be = BP.env()
+            li_m = BP.metrics([be["BUFFER_LINKEDIN_CHANNEL"]])
+            tt_m = BP.metrics([be["BUFFER_TIKTOK_CHANNEL"]])
+        except Exception:
+            pass
+    li = {"name": "LinkedIn", "status": "live" if buf else "pending",
+          "count": len(bs.get("linkedin", [])), "unit": "posts (Buffer)"}
+    if li_m:
+        li["stat"] = f"{int(li_m.get('reach', 0))} reach · {int(li_m.get('reactions', 0))} reactions"
+    out.append(li)
+    tt = {"name": "TikTok", "status": "pending" if buf else "off", "count": 0, "unit": "Buffer · video soon"}
+    if tt_m:
+        tt["stat"] = f"{int(tt_m.get('views', 0))} views · {int(tt_m.get('reactions', 0))} reactions"
+    out.append(tt)
     # Pending channels (built/ready, waiting on an external gate)
     out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
     return out
