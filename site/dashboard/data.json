@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-26T22:00",
+  "updated": "2026-06-27T05:32",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
-    "days_left": 29,
+    "days_left": 28,
     "rationale": "Multi-channel from zero: Facebook (posts/Reels/$7-day ads) + YouTube Shorts + SEO/AEO blog, all soft-funneling to Consent Resolve. First 14 days are warm-up, so audience numbers are back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (videos shipped, posts, ad views) over lagging outcomes (followers, subs). Video is the engine on both FB and YouTube; the 'Angi/pricing/leads' content does double duty as Shorts, Reels, and AI-citable blog posts. Benchmarks: ~150-250 FB followers and a small-but-real YouTube base are realistic for month 1 from zero with this budget. Recalibrated weekly against actuals.",
     "items": [
       {
@@ -84,7 +84,7 @@
         "current": 5,
         "target": 100,
         "pct": 5,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "FB page likes",
@@ -250,6 +250,11 @@
     {
       "name": "GitHub Pages",
       "schedule": "Tue \u00b7 10:00",
+      "on": true
+    },
+    {
+      "name": "IG Inbound",
+      "schedule": "Daily \u00b7 11:10 / 20:40",
       "on": true
     },
     {
