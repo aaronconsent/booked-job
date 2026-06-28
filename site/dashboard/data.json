@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-27T22:07",
+  "updated": "2026-06-28T06:15",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
-    "days_left": 28,
+    "days_left": 27,
     "rationale": "Multi-channel from zero: Facebook (posts/Reels/$7-day ads) + YouTube Shorts + SEO/AEO blog, all soft-funneling to Consent Resolve. First 14 days are warm-up, so audience numbers are back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (videos shipped, posts, ad views) over lagging outcomes (followers, subs). Video is the engine on both FB and YouTube; the 'Angi/pricing/leads' content does double duty as Shorts, Reels, and AI-citable blog posts. Benchmarks: ~150-250 FB followers and a small-but-real YouTube base are realistic for month 1 from zero with this budget. Recalibrated weekly against actuals.",
     "items": [
       {
@@ -20,7 +20,7 @@
         "current": 1,
         "target": 12,
         "pct": 8,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "Posts shipped",
@@ -28,7 +28,7 @@
         "current": 1,
         "target": 13,
         "pct": 8,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "Ad video views",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 0,
+        "current": 1,
         "target": 3000,
         "pct": 0,
         "on_track": false
@@ -214,14 +214,14 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 0,
+    "views": 1,
     "videos": 1,
     "shorts": 1
   },
   "instagram": {
-    "connected": true,
+    "connected": false,
     "followers": 0,
-    "media": 2
+    "media": 0
   },
   "email": {
     "subscribers": 5
@@ -457,7 +457,7 @@
       "count": 0,
       "unit": "shorts",
       "grade": "F",
-      "views": 0,
+      "views": 1,
       "followers": 0
     },
     {
@@ -494,7 +494,8 @@
       "status": "live",
       "count": 2,
       "unit": "posts",
-      "grade": "D"
+      "followers": 0,
+      "grade": "F"
     },
     {
       "name": "Threads",
@@ -575,7 +576,7 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 0,
+        "value": 1,
         "grade": "F"
       },
       {
