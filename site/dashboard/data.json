@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T18:03",
+  "updated": "2026-06-27T22:07",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -494,8 +494,7 @@
       "status": "live",
       "count": 2,
       "unit": "posts",
-      "followers": 0,
-      "grade": "F"
+      "grade": "D"
     },
     {
       "name": "Threads",
