@@ -162,6 +162,32 @@ function updateGrades(doneCount,total,running,days){
   if($('todayGrade')){const L=gradeLetter(pct);$('todayGrade').textContent=total?L:'—';$('todayGrade').className='gbig gcolor-'+(total?L:'F');$('todayPct').textContent=pct+'% · '+doneCount+'/'+total+' done';}
   if($('runGrade')){const L=gradeLetter(running);$('runGrade').textContent=days?L:'—';$('runGrade').className='gbig gcolor-'+(days?L:'F');$('runPct').textContent=days?(running+'% avg · '+days+' day'+(days>1?'s':'')):'no history yet';}
 }
+function rosterRow(g,done){
+  return `<div class="task ${done?'done':''}"><label class="chk"><input type="checkbox" ${done?'checked':''} data-id="${g.id}" data-total="0" data-kind="roster"/><span class="box"></span></label>
+    <div class="tbody"><div class="tt"><span class="kchip k-${(g.kind||'').toLowerCase()}">${g.kind||''}</span> ${g.label}</div>
+    <div class="tnote">${g.note||''}</div>
+    <div class="tlinks"><a class="tlink" href="${g.link}" target="_blank" rel="noopener">Search & join →</a></div></div></div>`;
+}
+function renderRoster(roster,doneSet){
+  if(!$('rosterList')) return;
+  if($('rosterCount')){const j=roster.filter(g=>doneSet.has(g.id)).length;$('rosterCount').textContent=j+' / '+roster.length+' joined';}
+  $('rosterList').innerHTML=roster.map(g=>rosterRow(g,doneSet.has(g.id))).join('')||'<p style="color:var(--muted)">No roster yet.</p>';
+}
+function fmtK(n){return n>=1e6?(n/1e6).toFixed(n>=1e7?0:1)+'M':n>=1e3?Math.round(n/1e3)+'k':String(n);}
+function discRow(href,title,meta,desc){
+  return `<a class="drow" href="${href}" target="_blank" rel="noopener"><div class="dmain"><span class="dt">${title}</span>${meta?`<span class="dm">${meta}</span>`:''}</div>${desc?`<div class="dd">${desc}</div>`:''}</a>`;
+}
+async function renderDiscovery(){
+  if(!$('discReddit')) return;
+  let d={};
+  try{ d=await (await fetch('discovery.json?'+Date.now())).json(); }catch(e){ return; }
+  $('discReddit').innerHTML=(d.reddit||[]).map(r=>discRow(r.link,r.name,fmtK(r.members)+' members',r.desc)).join('')||'<p class="dhint">—</p>';
+  $('discBluesky').innerHTML=(d.bluesky||[]).map(b=>discRow(b.link,b.handle,fmtK(b.followers)+' followers',b.desc||b.display)).join('')||'<p class="dhint">—</p>';
+  const m=d.mastodon||{};
+  if($('discMastoTags')) $('discMastoTags').innerHTML=(m.tags||[]).map(t=>`<a class="tagpill" href="${t.link}" target="_blank" rel="noopener">${t.tag}<span>${fmtK(t.uses)}/wk</span></a>`).join('')||'';
+  if($('discMastoAccts')) $('discMastoAccts').innerHTML=(m.accounts||[]).map(a=>discRow(a.link,a.handle,fmtK(a.followers)+' followers','')).join('');
+  if($('discUpdated')&&d.updated) $('discUpdated').textContent='Auto-discovered '+d.updated.replace('T',' ').replace('Z',' UTC');
+}
 async function initTasks(){
   if(!$('tasksList')) return;
   const date=localDate();
@@ -175,15 +201,18 @@ async function initTasks(){
     `<div class="panel"><h3>${ts[0].emoji} ${plat}</h3>${ts.map(t=>taskRow(t,doneD.has(t.id),total,'daily')).join('')}</div>`).join('')
     || '<p style="color:var(--muted)">No tasks yet — generating.</p>';
   if($('setupList')) $('setupList').innerHTML=(tasks.setup||[]).map(t=>taskRow(t,doneS.has(t.id),0,'setup')).join('');
+  renderRoster(tasks.roster||[],new Set(state.roster||[]));
+  renderDiscovery();
   if($('taskDate')) $('taskDate').textContent='List for '+(tasks.date||date);
   let curDays=state.days||0;
   updateGrades(doneD.size,total,state.running||0,curDays);
-  document.querySelectorAll('#tasksList input, #setupList input').forEach(cb=>{
+  document.querySelectorAll('#tasksList input, #setupList input, #rosterList input').forEach(cb=>{
     cb.addEventListener('change',async()=>{
       cb.closest('.task').classList.toggle('done',cb.checked);
       const body={date,id:cb.dataset.id,total:parseInt(cb.dataset.total||'0'),kind:cb.dataset.kind};
       try{ const r=await (await fetch('/tasks/toggle',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)})).json();
-        if(body.kind!=='setup'){ curDays=r.days||curDays; updateGrades((r.done||[]).length,total,r.running||0,curDays); }
+        if(body.kind==='daily'){ curDays=r.days||curDays; updateGrades((r.done||[]).length,total,r.running||0,curDays); }
+        if(body.kind==='roster'&&$('rosterCount')){const n=(r.roster||[]).length;$('rosterCount').textContent=n+' / '+(tasks.roster||[]).length+' joined';}
       }catch(e){}
     });
   });

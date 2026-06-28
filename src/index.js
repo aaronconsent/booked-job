@@ -54,25 +54,27 @@ export default {
     // ===== Daily manual-task done-state + grades (KV) =====
     if (url.pathname === "/tasks/state") {
       const date = url.searchParams.get("date") || "";
-      let daily = [], setup = [], grades = {};
+      let daily = [], setup = [], roster = [], grades = {};
       if (env.CR_KV) {
         try { daily = JSON.parse(await env.CR_KV.get("td:" + date) || "[]"); } catch (e) {}
         try { setup = JSON.parse(await env.CR_KV.get("tsetup") || "[]"); } catch (e) {}
+        try { roster = JSON.parse(await env.CR_KV.get("troster") || "[]"); } catch (e) {}
         try { grades = JSON.parse(await env.CR_KV.get("tg") || "{}"); } catch (e) {}
       }
       const vals = Object.values(grades);
       const running = vals.length ? Math.round(vals.reduce((a, b) => a + b, 0) / vals.length) : 0;
-      return Response.json({ daily, setup, grades, running, days: vals.length });
+      return Response.json({ daily, setup, roster, grades, running, days: vals.length });
     }
     if (url.pathname === "/tasks/toggle" && request.method === "POST") {
       if (!env.CR_KV) return Response.json({ error: "no kv" }, { status: 500 });
       let body; try { body = await request.json(); } catch (e) { return Response.json({ error: "bad" }, { status: 400 }); }
       const { date, id, total, kind } = body;
-      if (kind === "setup") {
-        let s = JSON.parse(await env.CR_KV.get("tsetup") || "[]");
+      if (kind === "setup" || kind === "roster") {
+        const key = kind === "roster" ? "troster" : "tsetup";
+        let s = JSON.parse(await env.CR_KV.get(key) || "[]");
         s = s.includes(id) ? s.filter(x => x !== id) : [...s, id];
-        await env.CR_KV.put("tsetup", JSON.stringify(s));
-        return Response.json({ setup: s });
+        await env.CR_KV.put(key, JSON.stringify(s));
+        return Response.json({ [kind]: s });
       }
       let done = JSON.parse(await env.CR_KV.get("td:" + date) || "[]");
       done = done.includes(id) ? done.filter(x => x !== id) : [...done, id];

@@ -43,6 +43,34 @@
 
   <div class="eyebrow">One-time setup</div>
   <div class="panel"><div id="setupList"></div></div>
+
+  <div class="eyebrow">🔎 Discovery — find where the audience already gathers</div>
+  <div class="panel">
+    <p style="font-size:13px;color:var(--muted);margin:0 0 14px;line-height:1.5">Task #1 for any channel is <b>discovery</b>: get into the rooms where service pros and homeowners already talk. Facebook killed its Groups API in 2024 — no robot can list or find your groups — so FB is a tracked <b>join sprint</b> below. Reddit, Mastodon &amp; Bluesky still allow discovery, so those are auto-found for you and refreshed weekly.</p>
+    <div class="disc-sub">📘 Facebook groups — join sprint <span class="dchip" id="rosterCount"></span></div>
+    <p class="dhint">Open each search, join the good ones, then check it off. For <b>Local</b> rows, add your metro to the search (e.g. “Austin recommendations”). Once you're in, the daily share task rotates through them.</p>
+    <div id="rosterList"></div>
+  </div>
+
+  <div class="cols">
+    <div class="panel">
+      <h3>🟠 Reddit communities</h3>
+      <p class="dhint">High-intent + the #1 AI-citation source. Join &amp; lurk first, then help.</p>
+      <div id="discReddit"></div>
+    </div>
+    <div class="panel">
+      <h3>🦋 Bluesky accounts to follow</h3>
+      <p class="dhint">Auto-found trade-adjacent accounts — scan, follow the real ones.</p>
+      <div id="discBluesky"></div>
+    </div>
+  </div>
+  <div class="panel">
+    <h3>🐘 Mastodon — hashtags &amp; accounts</h3>
+    <p class="dhint">Follow these tags and post with them; follow the accounts to seed your timeline.</p>
+    <div id="discMastoTags" class="tagwrap"></div>
+    <div id="discMastoAccts"></div>
+    <div class="dupd" id="discUpdated"></div>
+  </div>
   <footer>Booked Job · Mission Control — refreshes automatically. Built &amp; run autonomously. 🛠️</footer>
 </main>
 <script src="dash.js"></script>

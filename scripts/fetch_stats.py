@@ -49,6 +49,7 @@ AGENT_NAMES = {
     "blueskyengage": "Bluesky Engage", "youtubeengage": "YouTube CTA",
     "threadsengage": "Threads Surfacing", "igengage": "IG Inbound",
     "buffer": "LinkedIn (Buffer)", "buffertiktok": "TikTok (Buffer)", "telegrampoll": "Telegram Polls", "emaildrip": "Email Drip", "buffercarousel": "LinkedIn Carousels", "blueskyfeed": "Bluesky Feed", "igcarousel": "IG Carousels", "fbcarousel": "FB Carousels", "story": "IG+FB Stories", "tiktokcarousel": "TikTok Carousels", "reelstory": "Reel Stories",
+    "tasks": "Daily Task List", "discovery": "Community Discovery",
 }
 AGENT_CATS = {
     "publisher": "Publishing", "reels": "Publishing", "youtube": "Publishing", "instagram": "Publishing",
@@ -59,6 +60,7 @@ AGENT_CATS = {
     "tiktokcarousel": "Visual formats", "story": "Visual formats", "reelstory": "Visual formats",
     "engage": "Engagement", "blueskyengage": "Engagement", "youtubeengage": "Engagement",
     "threadsengage": "Engagement", "igengage": "Engagement", "telegrampoll": "Engagement",
+    "discovery": "Engagement", "tasks": "Engagement",
     "emaildrip": "Funnel", "blueskyfeed": "Funnel",
     "report": "Ops", "stats": "Ops",
 }

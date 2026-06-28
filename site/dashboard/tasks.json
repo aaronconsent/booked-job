@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "daily": [
     {
       "id": "fb-share",
@@ -50,6 +50,51 @@
       "note": "Replies are THE Threads growth signal. Add a sharp take or a question — be present in the first 30 min.",
       "link": "https://www.threads.net/search?q=contractor%20business",
       "est": "12 min"
+    },
+    {
+      "id": "bluesky-q0",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @eridowd.bsky.social: “Mediocrity in trades is fine, incompetence is not.  Anyone who completes their training an…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/eridowd.bsky.social/post/3moxp7tzj7k2e",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @davidbaginskiy.bsky.social: “What's something that looks impressive from the outside but is harder than people realize?…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/davidbaginskiy.bsky.social/post/3mp2hevetmp2v",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @thedishwasher.bsky.social: “Is the idea of maximum contract “anti-labor”? Yes  But in sports there are a lot of things…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/thedishwasher.bsky.social/post/3mp55dhkvas25",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q3",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @stylelib.org: “Reneva –  Small Business HTML Template   https://themes.stylelib.org/?p=19089   #architect…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q4",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @aptora.bsky.social: “Leave the guesswork behind, and let the numbers lead the way.   With Contractor Compass 36…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c",
+      "est": "2 min"
     }
   ],
   "setup": [
@@ -88,6 +133,92 @@
       "note": "Channel → Edit → Channel Type → Public. Unlocks discovery. One-time.",
       "link": "https://web.telegram.org/",
       "est": "3 min"
+    }
+  ],
+  "roster": [
+    {
+      "id": "fg-hvac",
+      "kind": "Trade",
+      "label": "HVAC contractor & business groups",
+      "note": "National pro groups — peers, referrals, and 'how do you market' threads.",
+      "link": "https://www.facebook.com/search/groups/?q=HVAC%20contractors"
+    },
+    {
+      "id": "fg-plumb",
+      "kind": "Trade",
+      "label": "Plumbing pros & business owners",
+      "note": "Trade + business-of-plumbing groups.",
+      "link": "https://www.facebook.com/search/groups/?q=plumbing%20business%20owners"
+    },
+    {
+      "id": "fg-roof",
+      "kind": "Trade",
+      "label": "Roofing contractor groups",
+      "note": "Roofers talking sales, pricing, storm work.",
+      "link": "https://www.facebook.com/search/groups/?q=roofing%20contractors"
+    },
+    {
+      "id": "fg-elec",
+      "kind": "Trade",
+      "label": "Electrician business groups",
+      "note": "Licensed electricians running shops.",
+      "link": "https://www.facebook.com/search/groups/?q=electrician%20business"
+    },
+    {
+      "id": "fg-gc",
+      "kind": "Trade",
+      "label": "General contractor / remodeler groups",
+      "note": "GCs and remodelers — broad trade reach.",
+      "link": "https://www.facebook.com/search/groups/?q=general%20contractors"
+    },
+    {
+      "id": "fg-handyman",
+      "kind": "Trade",
+      "label": "Handyman business groups",
+      "note": "Solo & small handyman operations.",
+      "link": "https://www.facebook.com/search/groups/?q=handyman%20business"
+    },
+    {
+      "id": "fg-contractor-marketing",
+      "kind": "Business",
+      "label": "Contractor marketing groups",
+      "note": "Where owners discuss leads/marketing — our content fits natively here.",
+      "link": "https://www.facebook.com/search/groups/?q=contractor%20marketing"
+    },
+    {
+      "id": "fg-home-service-biz",
+      "kind": "Business",
+      "label": "Home-service business growth groups",
+      "note": "Service-business owners focused on growth — ideal audience.",
+      "link": "https://www.facebook.com/search/groups/?q=home%20service%20business"
+    },
+    {
+      "id": "fg-smb-owners",
+      "kind": "Business",
+      "label": "Small service-business owner groups",
+      "note": "Broader SMB owner groups; filter for trades.",
+      "link": "https://www.facebook.com/search/groups/?q=service%20business%20owners"
+    },
+    {
+      "id": "fg-local-recommend",
+      "kind": "Local",
+      "label": "Local 'recommendations' groups (YOUR-TOWN)",
+      "note": "Where homeowners post 'who's a good plumber?' — the #1 local lead path. Swap in your metro.",
+      "link": "https://www.facebook.com/search/groups/?q=recommendations"
+    },
+    {
+      "id": "fg-local-buysell",
+      "kind": "Local",
+      "label": "Local buy/sell/community groups (YOUR-TOWN)",
+      "note": "High-traffic neighborhood groups. Swap in your metro name.",
+      "link": "https://www.facebook.com/search/groups/?q=buy%20sell%20trade"
+    },
+    {
+      "id": "fg-local-homeowners",
+      "kind": "Local",
+      "label": "Local homeowner / neighborhood groups (YOUR-TOWN)",
+      "note": "Homeowners who hire trades. Swap in your metro name.",
+      "link": "https://www.facebook.com/search/groups/?q=homeowners"
     }
   ]
 }

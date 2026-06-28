@@ -7,6 +7,7 @@ import datetime as dt, json, os
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 CFG = os.path.join(ROOT, "content", "tasks_config.json")
+FBG = os.path.join(ROOT, "content", "fb_groups.json")
 OUT = os.path.join(ROOT, "site", "dashboard", "tasks.json")
 
 
@@ -33,10 +34,12 @@ def main():
     # dynamic reply tasks from the engagement queues (real threads + links)
     daily += queue_tasks("bluesky_engage_state.json", "Bluesky", "\U0001F98B", 5)
     daily += queue_tasks("threads_engage_state.json", "Threads", "\U0001F9F5", 5)
-    data = {"date": dt.date.today().isoformat(), "daily": daily, "setup": cfg.get("setup", [])}
+    roster = load(FBG, {"roster": []}).get("roster", [])
+    data = {"date": dt.date.today().isoformat(), "daily": daily,
+            "setup": cfg.get("setup", []), "roster": roster}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump(data, open(OUT, "w"), indent=2, ensure_ascii=False)
-    print(f"wrote tasks.json — {len(daily)} daily, {len(data['setup'])} setup")
+    print(f"wrote tasks.json — {len(daily)} daily, {len(data['setup'])} setup, {len(roster)} fb-groups")
 
 
 if __name__ == "__main__":
