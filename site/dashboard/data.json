@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T12:00",
+  "updated": "2026-06-28T18:00",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 1,
+        "current": 2,
         "target": 3000,
         "pct": 0,
         "on_track": false
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 1,
+    "views": 2,
     "videos": 1,
     "shorts": 1
   },
@@ -463,7 +463,7 @@
       "count": 0,
       "unit": "shorts",
       "grade": "F",
-      "views": 1,
+      "views": 2,
       "followers": 0
     },
     {
@@ -545,7 +545,7 @@
       "status": "live",
       "count": 1,
       "unit": "posts (Buffer)",
-      "stat": "0 reach \u00b7 0 reactions",
+      "stat": "14 reach \u00b7 1 reactions",
       "views": 0,
       "grade": "D"
     },
@@ -570,7 +570,7 @@
     "reach": 0,
     "engagement": 2,
     "audience": 9,
-    "cr_clicks": 3
+    "cr_clicks": 6
   },
   "trends": {
     "audience": 0,
@@ -582,12 +582,12 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 1,
+        "value": 2,
         "grade": "F"
       },
       {
         "label": "Total Clicks",
-        "value": 3,
+        "value": 6,
         "grade": "D"
       },
       {
