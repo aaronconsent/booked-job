@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T06:15",
+  "updated": "2026-06-28T12:00",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -219,9 +219,9 @@
     "shorts": 1
   },
   "instagram": {
-    "connected": false,
+    "connected": true,
     "followers": 0,
-    "media": 0
+    "media": 2
   },
   "email": {
     "subscribers": 5
@@ -268,6 +268,12 @@
       "schedule": "Tue, Sat \u00b7 10:15",
       "on": true,
       "cat": "Publishing"
+    },
+    {
+      "name": "Community Discovery",
+      "schedule": "Mon \u00b7 6:15",
+      "on": true,
+      "cat": "Engagement"
     },
     {
       "name": "Email Drip",
@@ -366,10 +372,10 @@
       "cat": "Visual formats"
     },
     {
-      "name": "Tasks",
+      "name": "Daily Task List",
       "schedule": "Daily \u00b7 6:30",
       "on": true,
-      "cat": "Other"
+      "cat": "Engagement"
     },
     {
       "name": "Telegram",
