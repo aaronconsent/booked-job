@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T06:00",
+  "updated": "2026-06-29T12:00",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -221,7 +221,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 2
+    "media": 3
   },
   "email": {
     "subscribers": 5
@@ -543,7 +543,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts (Buffer)",
       "stat": "14 reach \u00b7 1 reactions",
       "views": 0,
@@ -592,7 +592,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 22,
+        "value": 23,
         "grade": "D"
       },
       {
@@ -612,6 +612,6 @@
       }
     ],
     "overall": "F",
-    "summary": "Brutal truth: we're basically invisible right now. 22 posts are out the door across 15 live channels, but the audience is 9 and almost nobody's seen them yet. That's an F \u2014 and honestly normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment they land to open two more reach channels. Nothing's broken \u2014 it's a cold engine. Grades climb as the numbers do; check back weekly."
+    "summary": "Brutal truth: we're basically invisible right now. 23 posts are out the door across 15 live channels, but the audience is 9 and almost nobody's seen them yet. That's an F \u2014 and honestly normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment they land to open two more reach channels. Nothing's broken \u2014 it's a cold engine. Grades climb as the numbers do; check back weekly."
   }
 }
