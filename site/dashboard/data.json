@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T12:00",
+  "updated": "2026-06-29T18:00",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -492,7 +492,7 @@
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "followers": 2,
+      "followers": 3,
       "grade": "D"
     },
     {
@@ -545,7 +545,7 @@
       "status": "live",
       "count": 2,
       "unit": "posts (Buffer)",
-      "stat": "14 reach \u00b7 1 reactions",
+      "stat": "26 reach \u00b7 1 reactions",
       "views": 0,
       "grade": "D"
     },
@@ -569,7 +569,7 @@
   "funnel": {
     "reach": 0,
     "engagement": 2,
-    "audience": 9,
+    "audience": 10,
     "cr_clicks": 6
   },
   "trends": {
@@ -602,8 +602,8 @@
       },
       {
         "label": "Audience Size",
-        "value": 9,
-        "grade": "F"
+        "value": 10,
+        "grade": "D"
       },
       {
         "label": "Engagement",
@@ -611,7 +611,7 @@
         "grade": "F"
       }
     ],
-    "overall": "F",
-    "summary": "Brutal truth: we're basically invisible right now. 23 posts are out the door across 15 live channels, but the audience is 9 and almost nobody's seen them yet. That's an F \u2014 and honestly normal for a brand that started at zero. The whole machine is built; what's missing is VOLUME and TIME. The fix: the weekly strategist writes more articles (each fans out to every channel), the Bluesky daemon keeps drip-pulling real followers, and we convert the Pinterest + Google Business approvals the moment they land to open two more reach channels. Nothing's broken \u2014 it's a cold engine. Grades climb as the numbers do; check back weekly."
+    "overall": "D",
+    "summary": "On the board, barely. 23 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }
