@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T17:42",
+  "generated": "2026-06-30T18:21",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -115,7 +115,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1263,
+        "current": 1289,
         "target": 1200,
         "status": "green",
         "needs": null
@@ -197,7 +197,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 233,
+        "current": 259,
         "target": 6000,
         "status": "red",
         "needs": null
@@ -205,16 +205,16 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 93,
-    "reels": 14,
+    "fb_ig_posts": 91,
+    "reels": 13,
     "staged_articles": 14
   },
   "counters": {
     "articles": 62,
-    "reels": 1,
-    "social_posts": 31,
+    "reels": 2,
+    "social_posts": 37,
     "followers": 5,
-    "engagement": 4,
+    "engagement": 5,
     "yt_views": 2,
     "yt_shorts": 4,
     "email_subs": 5,
