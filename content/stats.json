@@ -242,6 +242,61 @@
       "date": "2026",
       "note": "On top of per-lead costs.",
       "confidence": "medium"
+    },
+    {
+      "id": "gbp-plumbing-reviews",
+      "metric": "Median Google reviews of top-ranked plumbing contractors (the bar to rank)",
+      "trade": "plumbing",
+      "channel": "GBP",
+      "value": "337",
+      "source_name": "Booked Job GBP scrape",
+      "date": "2026-06-30",
+      "note": "From a Booked Job scrape of the contractors ranking on page 1 of Google Maps for plumbing in major TX metros (Austin/Dallas), 2026. This is what it takes to show up \u2014 most shops have a fraction of it.",
+      "confidence": "medium"
+    },
+    {
+      "id": "gbp-hvac-reviews",
+      "metric": "Median Google reviews of top-ranked HVAC contractors (the bar to rank)",
+      "trade": "HVAC",
+      "channel": "GBP",
+      "value": "519",
+      "source_name": "Booked Job GBP scrape",
+      "date": "2026-06-30",
+      "note": "From a Booked Job scrape of the contractors ranking on page 1 of Google Maps for HVAC in major TX metros (Austin/Dallas), 2026. This is what it takes to show up \u2014 most shops have a fraction of it.",
+      "confidence": "medium"
+    },
+    {
+      "id": "gbp-roofing-reviews",
+      "metric": "Median Google reviews of top-ranked roofing contractors (the bar to rank)",
+      "trade": "roofing",
+      "channel": "GBP",
+      "value": "144",
+      "source_name": "Booked Job GBP scrape",
+      "date": "2026-06-30",
+      "note": "From a Booked Job scrape of the contractors ranking on page 1 of Google Maps for roofing in major TX metros (Austin/Dallas), 2026. This is what it takes to show up \u2014 most shops have a fraction of it.",
+      "confidence": "medium"
+    },
+    {
+      "id": "gbp-electrical-reviews",
+      "metric": "Median Google reviews of top-ranked electrical contractors (the bar to rank)",
+      "trade": "electrical",
+      "channel": "GBP",
+      "value": "64",
+      "source_name": "Booked Job GBP scrape",
+      "date": "2026-06-30",
+      "note": "From a Booked Job scrape of the contractors ranking on page 1 of Google Maps for electrical in major TX metros (Austin/Dallas), 2026. This is what it takes to show up \u2014 most shops have a fraction of it.",
+      "confidence": "medium"
+    },
+    {
+      "id": "gbp-painting-reviews",
+      "metric": "Median Google reviews of top-ranked painting contractors (the bar to rank)",
+      "trade": "painting",
+      "channel": "GBP",
+      "value": "109",
+      "source_name": "Booked Job GBP scrape",
+      "date": "2026-06-30",
+      "note": "From a Booked Job scrape of the contractors ranking on page 1 of Google Maps for painting in major TX metros (Austin/Dallas), 2026. This is what it takes to show up \u2014 most shops have a fraction of it.",
+      "confidence": "medium"
     }
   ]
 }

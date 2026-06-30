@@ -719,6 +719,30 @@
       "image": null,
       "link": "https://booked-job.com/blog/painting-contractor-marketing-numbers/",
       "comment": "Full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "art2-how-many-google-reviews-",
+      "archetype": "branch-series",
+      "caption": "We scraped the contractors actually ranking on Google Maps. They don't have 20-30 reviews \u2014 they have hundreds. Median: HVAC 519, plumbing 337, roofing 144, electrical 64 (our own 2026 data). If you've got 18 reviews and wonder why you're invisible, that's your answer.",
+      "image": null,
+      "link": "https://booked-job.com/blog/how-many-google-reviews-to-rank/",
+      "comment": "Full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "gbp-hvac-card",
+      "archetype": "real-trade-numbers",
+      "caption": "Real data: we scraped the HVAC contractors actually ranking on Google Maps. Median review count? 519. (Booked Job scrape, 2026.) Most shops have a tenth of that \u2014 which is exactly the opening.",
+      "image": "content/cards/gbp-hvac-reviews-sq.png",
+      "link": "https://booked-job.com/blog/how-many-google-reviews-to-rank/",
+      "comment": "The full breakdown by trade \ud83d\udc47"
+    },
+    {
+      "id": "gbp-plumbing-card",
+      "archetype": "real-trade-numbers",
+      "caption": "The plumbers ranking on Google Maps have a median of 337 reviews (our own 2026 scrape). Think 30 is enough? The data says otherwise. Here's the bar by trade.",
+      "image": "content/cards/gbp-plumbing-reviews-sq.png",
+      "link": "https://booked-job.com/blog/how-many-google-reviews-to-rank/",
+      "comment": "The full breakdown by trade \ud83d\udc47"
     }
   ]
 }

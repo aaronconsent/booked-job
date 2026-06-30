@@ -1603,5 +1603,32 @@
   },
   "telegram": "<b>Painter insider tip:</b> Don't compare networks on cost per lead. Compare on cost per BOOKED job. Per 2026 data: Google LSA ~$168 (exclusive), Thumbtack ~$250 (shared 4-5 pros), Angi/HomeAdvisor ~$542 (same company). And Angi only refunds 15-22% of bad leads — as credits, not cash. Full breakdown: https://booked-job.com/blog/painting-contractor-marketing-numbers/",
   "linkedin": "Painting contractors keep choosing lead channels on the wrong number.\n\nThey compare cost per lead: Yelp $18-45, Thumbtack $15-60, Angi $25-80, HomeAdvisor $30-75 (PCA 2026). Angi looks fine.\n\nBut the number that matters is cost per BOOKED job. Per 2026 lead-network comparisons: Google LSA ~$168 (exclusive), Thumbtack ~$250 (shared with 4-5 pros), Angi/HomeAdvisor ~$542 — same company, with CAC up to ~$2,500 and a $300-500/yr membership on top.\n\nThe gap is conversion. Shared leads convert at 6-10%; direct calls up to 40% (2026). And 78% of homeowners hire the first contractor to respond (Lead Connect 2026).\n\nThe takeaway for painters: stop renting shared leads and start owning the pipeline. Owned SEO runs ~$290-310 per booked job and declines yearly (2026).\n\nFull breakdown: https://booked-job.com/blog/painting-contractor-marketing-numbers/"
+ },
+ "how-many-google-reviews-to-rank": {
+  "threads": {
+   "text": "We scraped the contractors actually ranking on Google Maps. They don't have 20-30 reviews. Median: HVAC 519, plumbing 337, roofing 144 (Booked Job scrape, 2026). If you've got 18 and wonder why you're invisible — that's your answer.",
+   "chain": [
+    "The bar is in the hundreds, not the dozens. Good news: reviews are the one signal a competitor can't buy overnight.",
+    "And most shops never even ask. Ask every happy customer, the second the job's done. Full numbers by trade 👇 https://booked-job.com/blog/how-many-google-reviews-to-rank/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever wonder how many Google reviews you need to actually show up? We scraped the top-ranked contractors. Median: HVAC 519, plumbing 337, electrical 64 (Booked Job scrape, 2026). Hundreds, not dozens.",
+   "chain": [
+    "Most contractors think 30 reviews is plenty. The data says the ones ranking have 5-15x that.",
+    "The fix is free: ask every happy customer, every time. By-trade numbers → https://booked-job.com/blog/how-many-google-reviews-to-rank/"
+   ]
+  },
+  "mastodon": {
+   "text": "We scraped contractors ranking on Google Maps to find the real review bar. Median reviews of top-ranked shops: HVAC 519, plumbing 337, roofing 144, painting 109, electrical 64 (Booked Job scrape, 2026). The bar is in the hundreds, not the dozens:",
+   "tags": [
+    "#Contractor",
+    "#LocalSEO",
+    "#Reviews",
+    "#Trades"
+   ]
+  },
+  "telegram": "💡 We scraped the contractors actually ranking on Google Maps. Median reviews: <b>HVAC 519, plumbing 337, electrical 64</b> (Booked Job scrape, 2026). Most shops have a fraction. Ask every happy customer 👇\n\nhttps://booked-job.com/blog/how-many-google-reviews-to-rank/",
+  "linkedin": "Most contractors think 20-30 Google reviews is plenty. So we scraped the ones actually ranking on page one of Google Maps across major Texas metros.\n\nMedian review counts of the top-ranked shops: HVAC 519, plumbing 337, roofing 144, painting 109, electrical 64 (Booked Job scrape, 2026).\n\nThe bar is in the hundreds, not the dozens. The good news: reviews are the one ranking signal a competitor can't buy overnight, and most shops never even ask. Consistent asking is a genuine moat.\n\nThe full breakdown by trade: https://booked-job.com/blog/how-many-google-reviews-to-rank/"
  }
 }

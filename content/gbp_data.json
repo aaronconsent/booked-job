@@ -1,0 +1,1801 @@
+{
+  "scraped": "2026-06-30",
+  "markets": [
+    "Austin TX",
+    "Dallas TX"
+  ],
+  "rows": [
+    {
+      "trade": "plumbing",
+      "title": "Austin Plumbing",
+      "reviews": 21,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Rooter-Man Plumbing Austin TX",
+      "reviews": 1201,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Plumb & Order",
+      "reviews": 312,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "plumbing",
+      "title": "Beyond Wow Plumbing & Drains",
+      "reviews": 2493,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Austin Plumbing",
+      "reviews": 14,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Austin's Greatest Plumbing",
+      "reviews": 273,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Plumb Masters, Inc.",
+      "reviews": 444,
+      "score": 4.8,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "plumbing",
+      "title": "Reliant Plumbing",
+      "reviews": 2911,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Reliant Plumbing - Austin",
+      "reviews": 1564,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Blue Dragon Plumbing, LLC",
+      "reviews": 103,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Radiant Plumbing, Air Conditioning, & Electrical",
+      "reviews": 17233,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Abel To Plumb LLC",
+      "reviews": 24,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "1st Home & Commercial Services",
+      "reviews": 816,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Clarke Kent Plumbing",
+      "reviews": 591,
+      "score": 4.5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "EZ Flow Plumbing",
+      "reviews": 65,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Rooterman Plumbing of Austin",
+      "reviews": 73,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "AAA AUGER Plumbing Services",
+      "reviews": 337,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Abacus Plumbing, Air Conditioning & Electrical",
+      "reviews": 309,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "A DeaL Plumbing & Sons",
+      "reviews": 51,
+      "score": 4.7,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "plumbing",
+      "title": "Juan & Only Plumber",
+      "reviews": 405,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Public Service Plumbers",
+      "reviews": 1909,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Metro Flow Plumbing - Dallas Emergency Plumbers",
+      "reviews": 1401,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Tribeca Plumbing, Inc.",
+      "reviews": 430,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Mother Modern Plumbing, Sewer & Drain",
+      "reviews": 326,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Dallas Plumbing & Air Conditioning",
+      "reviews": 1220,
+      "score": 4.6,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Cody & Sons Plumbing, Heating & Air",
+      "reviews": 2315,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Mr. Rooter Plumbing of Dallas",
+      "reviews": 584,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Workman Plumbing",
+      "reviews": 408,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Jake the Plumbing Pro",
+      "reviews": 183,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Reliant Plumbing - Dallas",
+      "reviews": 232,
+      "score": 4.5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Reeves Family Plumbing",
+      "reviews": 166,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Berkeys Plumbing, A/C & Electrical",
+      "reviews": 3354,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Peradventure Plumbing",
+      "reviews": 46,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "plumbing",
+      "title": "Accurate Leak and Line - Dallas",
+      "reviews": 161,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Hooper Plumbing & Air Conditioning",
+      "reviews": 449,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Ares Plumbing",
+      "reviews": 75,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Loop Plumbing",
+      "reviews": 91,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Dial One Johnson Plumbing, Cooling & Heating",
+      "reviews": 660,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Mai Plumbing Co Inc",
+      "reviews": 60,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Pete the Plumbing Pro",
+      "reviews": 158,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Honey Homes",
+      "reviews": 568,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Lafayette"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Fast & Easy Appliance Repair Services",
+      "reviews": 624,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Concord"
+    },
+    {
+      "trade": "plumbing",
+      "title": "Agape Plumbing",
+      "reviews": 2,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "HVAC",
+      "title": "McCullough Heating, Air Conditioning & Plumbing",
+      "reviews": 3524,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Radiant Plumbing, Air Conditioning, & Electrical",
+      "reviews": 17233,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Goettl Air Conditioning and Plumbing - Austin TX",
+      "reviews": 3912,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Precision Heating & Air",
+      "reviews": 1640,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "The Coolest LLC",
+      "reviews": 866,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Abacus Plumbing, Air Conditioning, & Electrical",
+      "reviews": 5969,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Strand Brothers Service Experts",
+      "reviews": 7531,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Champion Cooling, Heating & Plumbing",
+      "reviews": 3326,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Smart Air Cooling & Heating",
+      "reviews": 695,
+      "score": 4.9,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "HVAC",
+      "title": "Efficient AC, Electric & Plumbing",
+      "reviews": 771,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Stan's Heating, Air, Plumbing & Electrical",
+      "reviews": 6429,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Elite Air Conditioning and Plumbing",
+      "reviews": 724,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Strategic Air Services",
+      "reviews": 542,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "A-Plus Air Conditioning & Home Solutions",
+      "reviews": 1293,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Castillo Service AC and Heating",
+      "reviews": 55,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Alpine Heating & Air Conditioning",
+      "reviews": 59,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Green Collar Operations",
+      "reviews": 65,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Firefly Comfort Systems",
+      "reviews": 53,
+      "score": 4.9,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "HVAC",
+      "title": "Fox Service Company",
+      "reviews": 5396,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Service First HVAC & Electrical",
+      "reviews": 31,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Rescue Air and Plumbing",
+      "reviews": 3919,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Dallas Heating and Air Conditioning",
+      "reviews": 226,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Harlen Johnson HVAC, Plumbing & Electrical",
+      "reviews": 1205,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Jade Air, LLC",
+      "reviews": 155,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Coolinary Arts Heating & Cooling",
+      "reviews": 250,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Alpha Heating & Cooling Llc.",
+      "reviews": 144,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Efficient Home Solutions of Dallas",
+      "reviews": 107,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "M. B. Kiser Heating & Air Conditioning Co. Inc.",
+      "reviews": 51,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "TemperaturePro",
+      "reviews": 207,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Texas AirZone LLC",
+      "reviews": 844,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Metro Air Conditioning Heating & Services",
+      "reviews": 381,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Hooper Plumbing & Air Conditioning",
+      "reviews": 449,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Sala Air Conditioning",
+      "reviews": 166,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Tiger Air and Heating",
+      "reviews": 485,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Eastin Heating and Air",
+      "reviews": 501,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Cowboy Air Condition & Heating Company TDLR:21299",
+      "reviews": 50,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Cody & Sons Plumbing, Heating & Air",
+      "reviews": 2315,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Mondragon Mechanical LLC",
+      "reviews": 537,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "The Chill Brothers",
+      "reviews": 501,
+      "score": 4.6,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "HVAC",
+      "title": "Ellis AC & Furnace Repair",
+      "reviews": 133,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Altair Austin Roofing Company",
+      "reviews": 42,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "LOA Construction and Austin Roofing",
+      "reviews": 991,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Austin Roofing and Construction",
+      "reviews": 267,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Austin Roofing Company | Texas Choice Roofing",
+      "reviews": 209,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Ace Roofing Company",
+      "reviews": 329,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Clear Choice Roofing - Austin",
+      "reviews": 318,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Specialty Roofing",
+      "reviews": 59,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Austin Roofing & Handyman",
+      "reviews": 42,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Bill Sprauer Austin Roofing Company",
+      "reviews": 131,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Austin Roofing Company LLC",
+      "reviews": 26,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Wilson Roofing",
+      "reviews": 291,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Kidd Roofing",
+      "reviews": 805,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Zilker Roofing",
+      "reviews": 163,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Austin Roofing Company & Water Damage | WDR",
+      "reviews": 1444,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "JP Exteriors",
+      "reviews": 596,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Elite Roofing LLC",
+      "reviews": 272,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Lapeyre Roofing",
+      "reviews": 325,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "DG Roofing & Construction LLC",
+      "reviews": 221,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Cool Roofs - Austin",
+      "reviews": 585,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "Longhorn Roofing",
+      "reviews": 144,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "roofing",
+      "title": "SolarUnion",
+      "reviews": 142,
+      "score": 4.6,
+      "has_website": true,
+      "city": "San Francisco"
+    },
+    {
+      "trade": "roofing",
+      "title": "Wildwood Design Build",
+      "reviews": 10,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "roofing",
+      "title": "Green Bay Remodeling, Inc.",
+      "reviews": 162,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Concord"
+    },
+    {
+      "trade": "roofing",
+      "title": "GAF Energy",
+      "reviews": 92,
+      "score": 2.1,
+      "has_website": true,
+      "city": "San Jose"
+    },
+    {
+      "trade": "roofing",
+      "title": "Simple Power",
+      "reviews": 114,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Reno"
+    },
+    {
+      "trade": "roofing",
+      "title": "New View Roofing",
+      "reviews": 696,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Built To Last Roofing",
+      "reviews": 270,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Top Craft Roofing",
+      "reviews": 54,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Bold Roofing - DFW's Best Roofing Contractor",
+      "reviews": 611,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Priority Roofing",
+      "reviews": 958,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "United Roofing & General Contractors",
+      "reviews": 62,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Vargas & Sons Roof Repair",
+      "reviews": 122,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "JUST ROOF GENERAL CONTRACTORS LLC",
+      "reviews": 74,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "AM Roofing Company",
+      "reviews": 39,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "A1 Roofing & Construction",
+      "reviews": 63,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "White Rock Roofing",
+      "reviews": 209,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Commit Roofing",
+      "reviews": 32,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Hernandez & Sons Roofing & Construction",
+      "reviews": 82,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Dallas Commercial Roofing Contractors",
+      "reviews": 34,
+      "score": 4.6,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Arrington Roofing",
+      "reviews": 349,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Lone Star Roofing & General Contractors",
+      "reviews": 43,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Bert Roofing Inc.",
+      "reviews": 134,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Reveles Roofing",
+      "reviews": 216,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Lone Ranger Roofing",
+      "reviews": 18,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "roofing",
+      "title": "Hello Roofing",
+      "reviews": 67,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Mr. Electric of Austin",
+      "reviews": 484,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "DC Electric",
+      "reviews": 343,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Terrapin Electric",
+      "reviews": 320,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "U.S. Electric Contractors",
+      "reviews": 276,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Eskew Electric - Austin, Texas Electrician",
+      "reviews": 95,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "TruTec Electric",
+      "reviews": 1017,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Malco Electric",
+      "reviews": 304,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Shipley Electric, LLC.",
+      "reviews": 165,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "electrical",
+      "title": "Grayzer Electric",
+      "reviews": 151,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Max electrical services",
+      "reviews": 53,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Klock's Electric",
+      "reviews": 68,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Duhon Electric",
+      "reviews": 34,
+      "score": 4.6,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Mister Sparky\u00ae of Austin",
+      "reviews": 2062,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Molitor Electric",
+      "reviews": 181,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "ABC Home & Commercial Services - Electrician Department",
+      "reviews": 49,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "ACL ELECTRIC",
+      "reviews": 36,
+      "score": 5,
+      "has_website": true,
+      "city": "Pflugerville"
+    },
+    {
+      "trade": "electrical",
+      "title": "Top Electrician Austin",
+      "reviews": 14,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Best Electrician 24/7",
+      "reviews": 23,
+      "score": 4.7,
+      "has_website": false,
+      "city": "Austin"
+    },
+    {
+      "trade": "electrical",
+      "title": "Taymar Electric",
+      "reviews": 24,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "electrical",
+      "title": "Volthouse Electric",
+      "reviews": 430,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "electrical",
+      "title": "Chase Electric",
+      "reviews": 10,
+      "score": 5,
+      "has_website": true,
+      "city": "Pleasanton"
+    },
+    {
+      "trade": "electrical",
+      "title": "Simple Power",
+      "reviews": 114,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Reno"
+    },
+    {
+      "trade": "electrical",
+      "title": "Rosendin",
+      "reviews": 10,
+      "score": 4.3,
+      "has_website": true,
+      "city": "San Jose"
+    },
+    {
+      "trade": "electrical",
+      "title": "Triad Electric",
+      "reviews": 4,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Santa Cruz"
+    },
+    {
+      "trade": "electrical",
+      "title": "YES! Air Conditioning, Heating, Plumbing & Electric",
+      "reviews": 5234,
+      "score": 4.6,
+      "has_website": true,
+      "city": "Las Vegas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Evergreen Innovation Group",
+      "reviews": 8,
+      "score": 3.8,
+      "has_website": true,
+      "city": "Sacramento"
+    },
+    {
+      "trade": "electrical",
+      "title": "Mr. Electric of Dallas",
+      "reviews": 1353,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Electrician On Call",
+      "reviews": 715,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "TX Dallas Electrician",
+      "reviews": 19,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "ElectricMan",
+      "reviews": 583,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Lakewood Electrical",
+      "reviews": 45,
+      "score": 4.6,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "4G Electrician, LLC - Lake Dallas",
+      "reviews": 290,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "RFX Electric",
+      "reviews": 27,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Caddell Electric",
+      "reviews": 67,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "EMSR Electrical Contractors",
+      "reviews": 29,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Local Electrics Contractor",
+      "reviews": 12,
+      "score": 4.9,
+      "has_website": false,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Mister Sparky Electrician DFW",
+      "reviews": 912,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Irving"
+    },
+    {
+      "trade": "electrical",
+      "title": "Excell Electric",
+      "reviews": 38,
+      "score": 4.5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Elizondo Electric",
+      "reviews": 48,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Dallas Electrics Contractor Pros",
+      "reviews": 19,
+      "score": 4.8,
+      "has_website": false,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Milestone Electric, A/C, & Plumbing",
+      "reviews": 19223,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "VoltEdge Electrician Services Dallas",
+      "reviews": 1,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "1st Choice Electrics",
+      "reviews": 13,
+      "score": 5,
+      "has_website": false,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Electric Pros",
+      "reviews": 62,
+      "score": 3.7,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "W3 Electric",
+      "reviews": 387,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "electrical",
+      "title": "Sparks \"R\" Us Electrical Services",
+      "reviews": 30,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Tex Painting",
+      "reviews": 430,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "That 1 Painter Austin",
+      "reviews": 1072,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "21st Century Painting, Roofing, & Siding of Austin",
+      "reviews": 498,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Austin Professional Painting",
+      "reviews": 103,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "CertaPro Painters of Austin, TX",
+      "reviews": 755,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Five Star Painting of Austin",
+      "reviews": 461,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Barton Springs Painting",
+      "reviews": 265,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Vivax Pros",
+      "reviews": 1078,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "DGP Painting",
+      "reviews": 104,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Paper Moon Painting",
+      "reviews": 180,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "VS Pro Painting",
+      "reviews": 328,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Texas Painting Company",
+      "reviews": 14,
+      "score": 4.5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "CertaPro Painters of Austin, TX",
+      "reviews": 163,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Carnival Custom Painting",
+      "reviews": 24,
+      "score": 4.7,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "SurePro Painting",
+      "reviews": 25,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Brush Hour Painting Texas",
+      "reviews": 59,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "WOW 1 DAY PAINTING Austin",
+      "reviews": 89,
+      "score": 4.8,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "That 1 Painter New Braunfels",
+      "reviews": 167,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "Texas Pride Painting LLC",
+      "reviews": 55,
+      "score": 5,
+      "has_website": true,
+      "city": "Pflugerville"
+    },
+    {
+      "trade": "painting",
+      "title": "DEADLINE PAINTING LLC",
+      "reviews": 77,
+      "score": 5,
+      "has_website": true,
+      "city": "Austin"
+    },
+    {
+      "trade": "painting",
+      "title": "Dallas Paints",
+      "reviews": 233,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Platinum Painting of Dallas",
+      "reviews": 187,
+      "score": 4.9,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "DFW Painting",
+      "reviews": 121,
+      "score": 4.3,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Z paintings",
+      "reviews": 11,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Crest Painting",
+      "reviews": 59,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "That 1 Painter Dallas",
+      "reviews": 282,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Richardson"
+    },
+    {
+      "trade": "painting",
+      "title": "CertaPro Painters of Central and North Dallas",
+      "reviews": 199,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Big Al\u2019s Painting",
+      "reviews": 134,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Flores painting",
+      "reviews": 25,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Dan Keenan Paint Company, Inc.",
+      "reviews": 85,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Painter1 of Dallas",
+      "reviews": 107,
+      "score": 5,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "Prestige Pro Painters",
+      "reviews": 119,
+      "score": 4.9,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "Elite Painting and Construction Company",
+      "reviews": 8,
+      "score": 4.4,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "360\u00b0 Painting of North Dallas",
+      "reviews": 97,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Carrco Painting",
+      "reviews": 60,
+      "score": 4.2,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Spartan Painting",
+      "reviews": 29,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Perez Painting & Construction",
+      "reviews": 23,
+      "score": 5,
+      "has_website": false,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Next Door Painting",
+      "reviews": 167,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Grapevine"
+    },
+    {
+      "trade": "painting",
+      "title": "The Brazilian Painter",
+      "reviews": 56,
+      "score": 5,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Tony's painting and remodeling Llc",
+      "reviews": 112,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Dallas"
+    },
+    {
+      "trade": "painting",
+      "title": "Honey Homes",
+      "reviews": 568,
+      "score": 4.9,
+      "has_website": true,
+      "city": "Lafayette"
+    },
+    {
+      "trade": "painting",
+      "title": "Mendez Custom Painting Inc.",
+      "reviews": 23,
+      "score": 5,
+      "has_website": true,
+      "city": "Sanger"
+    },
+    {
+      "trade": "painting",
+      "title": "Atp Painting Services",
+      "reviews": 8,
+      "score": 5,
+      "has_website": true,
+      "city": "Manteca"
+    },
+    {
+      "trade": "painting",
+      "title": "JLP Construction Services, Inc.",
+      "reviews": 3,
+      "score": 5,
+      "has_website": true,
+      "city": "Sacramento"
+    },
+    {
+      "trade": "painting",
+      "title": "Reliable Home Improvement, Inc",
+      "reviews": 457,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Citrus Heights"
+    },
+    {
+      "trade": "painting",
+      "title": "American Home Energy Savers",
+      "reviews": 515,
+      "score": 4.8,
+      "has_website": true,
+      "city": "Sacramento"
+    },
+    {
+      "trade": "painting",
+      "title": "Jay Jeffers - The Studio",
+      "reviews": null,
+      "score": null,
+      "has_website": true,
+      "city": "San Francisco"
+    },
+    {
+      "trade": "painting",
+      "title": "Drainage Pros, INC",
+      "reviews": 85,
+      "score": 4.8,
+      "has_website": true,
+      "city": null
+    },
+    {
+      "trade": "painting",
+      "title": "COIT Cleaning and Restoration",
+      "reviews": 985,
+      "score": 4.7,
+      "has_website": true,
+      "city": "Modesto"
+    },
+    {
+      "trade": "painting",
+      "title": "Yardzen",
+      "reviews": 704,
+      "score": 4.6,
+      "has_website": true,
+      "city": null
+    }
+  ]
+}
