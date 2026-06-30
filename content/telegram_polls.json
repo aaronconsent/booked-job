@@ -1,10 +1,137 @@
 {
   "_doc": "Quiz-poll engagement bait for the Telegram channel. Each drives to an article via the explanation. Runner posts the next un-posted one.",
   "polls": [
-    {"id": "angi-leads", "q": "How many contractors does Angi sell each lead to?", "options": ["Just you", "2–3", "5–12", "Unlimited"], "correct": 2, "explain": "5–12 — which is why your real cost per booked job runs $1,400+. booked-job.com/blog/is-angi-worth-it/"},
-    {"id": "markup-margin", "q": "A 50% markup equals what PROFIT MARGIN?", "options": ["50%", "45%", "33%", "25%"], "correct": 2, "explain": "33% — markup ≠ margin. Most shops underprice here. booked-job.com/blog/how-to-price-a-job/"},
-    {"id": "unpaid-invoices", "q": "What % of contractor invoices go unpaid past 30 days?", "options": ["~5%", "~15%", "~30%", "~50%"], "correct": 2, "explain": "~30% — a same-day follow-up text fixes most of it. booked-job.com"},
-    {"id": "review-timing", "q": "Best time to ask for a Google review?", "options": ["By email next week", "The moment the job's done", "Never", "Only on the invoice"], "correct": 1, "explain": "Peak gratitude — ask when the job's done, then text the link. booked-job.com/blog/get-more-google-reviews/"},
-    {"id": "slow-season", "q": "In the slow season, smart shops...", "options": ["Cut marketing", "Keep or INCREASE marketing", "Lay everyone off", "Wait it out"], "correct": 1, "explain": "Increase it — competitors go quiet, ad costs drop. booked-job.com/blog/surviving-the-slow-season/"}
+    {
+      "id": "angi-leads",
+      "q": "How many contractors does Angi sell each lead to?",
+      "options": [
+        "Just you",
+        "2\u20133",
+        "5\u201312",
+        "Unlimited"
+      ],
+      "correct": 2,
+      "explain": "5\u201312 \u2014 which is why your real cost per booked job runs $1,400+. booked-job.com/blog/is-angi-worth-it/"
+    },
+    {
+      "id": "markup-margin",
+      "q": "A 50% markup equals what PROFIT MARGIN?",
+      "options": [
+        "50%",
+        "45%",
+        "33%",
+        "25%"
+      ],
+      "correct": 2,
+      "explain": "33% \u2014 markup \u2260 margin. Most shops underprice here. booked-job.com/blog/how-to-price-a-job/"
+    },
+    {
+      "id": "unpaid-invoices",
+      "q": "What % of contractor invoices go unpaid past 30 days?",
+      "options": [
+        "~5%",
+        "~15%",
+        "~30%",
+        "~50%"
+      ],
+      "correct": 2,
+      "explain": "~30% \u2014 a same-day follow-up text fixes most of it. booked-job.com"
+    },
+    {
+      "id": "review-timing",
+      "q": "Best time to ask for a Google review?",
+      "options": [
+        "By email next week",
+        "The moment the job's done",
+        "Never",
+        "Only on the invoice"
+      ],
+      "correct": 1,
+      "explain": "Peak gratitude \u2014 ask when the job's done, then text the link. booked-job.com/blog/get-more-google-reviews/"
+    },
+    {
+      "id": "slow-season",
+      "q": "In the slow season, smart shops...",
+      "options": [
+        "Cut marketing",
+        "Keep or INCREASE marketing",
+        "Lay everyone off",
+        "Wait it out"
+      ],
+      "correct": 1,
+      "explain": "Increase it \u2014 competitors go quiet, ad costs drop. booked-job.com/blog/surviving-the-slow-season/"
+    },
+    {
+      "id": "website-leave",
+      "q": "What % of people leave a contractor website without ever calling?",
+      "options": [
+        "~50%",
+        "~75%",
+        "~90%",
+        "~98%"
+      ],
+      "correct": 3,
+      "explain": "~98% \u2014 usually because the phone number isn't a giant tap-to-call button. booked-job.com/blog/contractor-website-one-job/"
+    },
+    {
+      "id": "speed-window",
+      "q": "How fast should you respond to a new lead to actually win it?",
+      "options": [
+        "Within 5 minutes",
+        "Within an hour",
+        "Same day",
+        "Within 48 hours"
+      ],
+      "correct": 0,
+      "explain": "~5 minutes. The first to respond usually wins \u2014 not the best, the fastest. booked-job.com/blog/speed-to-lead-for-contractors/"
+    },
+    {
+      "id": "map-pack",
+      "q": "How many free spots are in Google's local 'map pack'?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "correct": 1,
+      "explain": "3 free spots above everything else. Your Google Business Profile is the ticket in. booked-job.com/blog/google-business-profile-for-contractors/"
+    },
+    {
+      "id": "judge-first",
+      "q": "What's the #1 thing customers judge before they ever call you?",
+      "options": [
+        "Your logo",
+        "Your reviews",
+        "Your website colors",
+        "Your truck wrap"
+      ],
+      "correct": 1,
+      "explain": "Your reviews \u2014 count, recency, and how you reply. 140 recent beats 12, even at a higher price. booked-job.com/blog/why-reviews-win-the-call/"
+    },
+    {
+      "id": "cheaper-job",
+      "q": "Which usually costs you LESS per booked job?",
+      "options": [
+        "Cheap shared leads",
+        "Exclusive higher-priced leads",
+        "They're equal",
+        "Neither works"
+      ],
+      "correct": 1,
+      "explain": "Exclusive leads. The cheap shared lead is a footrace \u2014 the expensive one is often the cheaper job. booked-job.com/blog/should-you-pay-for-leads/"
+    },
+    {
+      "id": "ai-search",
+      "q": "Roughly how many people now ask an AI tool (not Google) who to hire?",
+      "options": [
+        "Almost nobody",
+        "~1 in 10",
+        "~1 in 3",
+        "Everyone"
+      ],
+      "correct": 2,
+      "explain": "About a third \u2014 and the same foundation gets you found in both. booked-job.com/blog/get-found-by-google-and-ai/"
+    }
   ]
 }
