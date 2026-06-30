@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T09:44",
+  "updated": "2026-06-30T12:00",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -157,8 +157,8 @@
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
-      "sub": "pricing drama"
+      "title": "Most contractors think 'marketing' is a logo and a boosted p",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
@@ -171,15 +171,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
+      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
       "sub": "pricing drama"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
-      "sub": "pricing drama"
+      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
@@ -200,8 +200,8 @@
     "comments": 2,
     "shares": 0,
     "reels_published": 1,
-    "posts_remaining": 19,
-    "reels_remaining": 8
+    "posts_remaining": 33,
+    "reels_remaining": 14
   },
   "ads": {
     "status": "\u2014",
@@ -529,7 +529,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "mirrors",
       "grade": "D"
     },
@@ -559,7 +559,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 2,
+      "count": 3,
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
@@ -599,7 +599,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 38,
+        "value": 40,
         "grade": "C"
       },
       {
@@ -619,6 +619,6 @@
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 38 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 40 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }
