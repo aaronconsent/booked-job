@@ -87,7 +87,34 @@ def main():
     state["done"] = list(done)
     state["last_iso"] = now.isoformat(timespec="seconds")
     json.dump(state, open(STATE, "w"), indent=2)
-    log(f"PUBLISHED reel '{nxt['id']}' -> {res.get('video_id')}")
+    log(f"PUBLISHED reel '{nxt['id']}' (FB) -> {res.get('video_id')}")
+
+    # Fan out to IG Reels + TikTok — both need the clip at a PUBLIC url (site/reels/<file>).
+    cap = nxt.get("description", "")
+    base = os.path.basename(out)
+    hosted = os.path.join(ROOT, "site", "reels", base)
+    if not os.path.exists(hosted):
+        try:
+            import shutil; os.makedirs(os.path.dirname(hosted), exist_ok=True); shutil.copy(out, hosted)
+            log(f"  copied to site/reels/{base} (push to make it public for IG/TikTok)")
+        except Exception as e:
+            log(f"  host-copy failed: {str(e)[:100]}")
+    pub_url = f"https://booked-job.com/reels/{base}"
+    # IG Reels (Graph API)
+    try:
+        import urllib.request
+        if urllib.request.urlopen(pub_url, timeout=15).status == 200:
+            import ig_publish; ig_publish.publish(pub_url, cap); log("  -> IG Reel posted")
+    except Exception as e:
+        log(f"  IG reel skipped/failed: {str(e)[:100]}")
+    # TikTok (via Buffer)
+    try:
+        import buffer_publish as BP
+        be = BP.env(); tt = be.get("BUFFER_TIKTOK_CHANNEL") if isinstance(be, dict) else None
+        if tt:
+            BP.queue_video(tt, cap, pub_url, title=nxt.get("hook", "")); log("  -> TikTok queued (Buffer)")
+    except Exception as e:
+        log(f"  TikTok skipped/failed: {str(e)[:100]}")
     try:
         import log_change
         log_change.add("reel", f"Published Reel: {nxt['hook']}")
