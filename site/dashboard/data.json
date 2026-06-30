@@ -1,34 +1,34 @@
 {
-  "updated": "2026-06-30T12:00",
+  "updated": "2026-06-30T17:34",
   "goals": {
-    "label": "Month 1 \u2014 Launch sprint",
-    "end": "2026-07-25",
-    "days_left": 25,
-    "rationale": "Multi-channel from zero: Facebook (posts/Reels/$7-day ads) + YouTube Shorts + SEO/AEO blog, all soft-funneling to Consent Resolve. First 14 days are warm-up, so audience numbers are back-loaded to weeks 3-4. Targets weight LEADING indicators I directly control (videos shipped, posts, ad views) over lagging outcomes (followers, subs). Video is the engine on both FB and YouTube; the 'Angi/pricing/leads' content does double duty as Shorts, Reels, and AI-citable blog posts. Benchmarks: ~150-250 FB followers and a small-but-real YouTube base are realistic for month 1 from zero with this budget. Recalibrated weekly against actuals.",
+    "label": "Month 1 \u2014 Aggressive scale",
+    "end": "2026-07-30",
+    "days_left": 30,
+    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Targets are deliberately aggressive: the machine produces at scale, so the goals push reach + audience, not just output.",
     "items": [
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
         "current": 1,
-        "target": 8,
-        "pct": 12,
-        "on_track": false
+        "target": 30,
+        "pct": 3,
+        "on_track": true
       },
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
         "current": 4,
-        "target": 12,
-        "pct": 33,
+        "target": 22,
+        "pct": 18,
         "on_track": true
       },
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
         "current": 1,
-        "target": 13,
-        "pct": 8,
-        "on_track": false
+        "target": 60,
+        "pct": 2,
+        "on_track": true
       },
       {
         "label": "Ad video views",
@@ -36,47 +36,47 @@
         "current": 0,
         "target": 6000,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 2,
-        "target": 400,
+        "current": 4,
+        "target": 800,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
         "current": 2,
-        "target": 3000,
+        "target": 10000,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
         "current": 0,
-        "target": 200,
+        "target": 400,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "YouTube subs",
         "icon": "\ud83d\udd14",
         "current": 0,
-        "target": 50,
+        "target": 200,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "Instagram followers",
         "icon": "\ud83d\udcf8",
         "current": 0,
-        "target": 100,
+        "target": 250,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "Email subscribers",
@@ -84,15 +84,15 @@
         "current": 5,
         "target": 100,
         "pct": 5,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
         "current": 0,
-        "target": 150,
+        "target": 300,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       }
     ]
   },
@@ -197,10 +197,10 @@
   "content": {
     "posts_published": 1,
     "reactions": 0,
-    "comments": 2,
+    "comments": 4,
     "shares": 0,
     "reels_published": 1,
-    "posts_remaining": 33,
+    "posts_remaining": 93,
     "reels_remaining": 14
   },
   "ads": {
@@ -436,9 +436,9 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 16,
+      "count": 62,
       "unit": "articles",
-      "grade": "C"
+      "grade": "B"
     },
     {
       "name": "Podcast",
@@ -490,7 +490,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 2,
+      "count": 1,
       "unit": "posts",
       "grade": "D"
     },
@@ -505,7 +505,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 2,
+      "count": 1,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -529,7 +529,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 2,
+      "count": 1,
       "unit": "mirrors",
       "grade": "D"
     },
@@ -550,7 +550,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 2,
+      "count": 1,
       "unit": "posts (Buffer)",
       "stat": "29 reach \u00b7 1 reactions",
       "views": 0,
@@ -559,7 +559,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 3,
+      "count": 2,
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
@@ -575,7 +575,7 @@
   ],
   "funnel": {
     "reach": 0,
-    "engagement": 2,
+    "engagement": 4,
     "audience": 10,
     "cr_clicks": 6
   },
@@ -599,8 +599,8 @@
       },
       {
         "label": "Total Posts",
-        "value": 40,
-        "grade": "C"
+        "value": 81,
+        "grade": "B"
       },
       {
         "label": "Total Reach",
@@ -614,11 +614,11 @@
       },
       {
         "label": "Engagement",
-        "value": 2,
+        "value": 4,
         "grade": "F"
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 40 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 81 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }

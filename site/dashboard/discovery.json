@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T22:27:15Z",
+  "updated": "2026-06-30T22:34:37Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -75,8 +75,219 @@
     }
   ],
   "mastodon": {
-    "tags": [],
-    "accounts": []
+    "tags": [
+      {
+        "tag": "#homeimprovement",
+        "uses": 26,
+        "link": "https://mastodon.social/tags/homeimprovement"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 8,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#hvac",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#ContractorDefinitions",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorDefinitions"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#hvacunits",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacunits"
+      },
+      {
+        "tag": "#hvacdrives",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacdrives"
+      },
+      {
+        "tag": "#HVACMarket",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACMarket"
+      },
+      {
+        "tag": "#hvacboulder",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacboulder"
+      }
+    ],
+    "accounts": [
+      {
+        "handle": "@BusinessInsider@flipboard.com",
+        "followers": 464802,
+        "link": "https://flipboard.com/@BusinessInsider"
+      },
+      {
+        "handle": "@home_garden_and_diy@threads.net",
+        "followers": 96273,
+        "link": "https://threads.net/@home_garden_and_diy/"
+      },
+      {
+        "handle": "@FamilyHandyman@flipboard.com",
+        "followers": 35572,
+        "link": "https://flipboard.com/@FamilyHandyman"
+      },
+      {
+        "handle": "@homeassistant@fosstodon.org",
+        "followers": 22900,
+        "link": "https://fosstodon.org/@homeassistant"
+      },
+      {
+        "handle": "@homeimprovement@lemmy.world",
+        "followers": 10846,
+        "link": "https://lemmy.world/c/homeimprovement"
+      },
+      {
+        "handle": "@home-page-newyorktimes@flipboard.com",
+        "followers": 8499,
+        "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
+      },
+      {
+        "handle": "@BusinessPunk@flipboard.com",
+        "followers": 7153,
+        "link": "https://flipboard.com/@BusinessPunk"
+      },
+      {
+        "handle": "@business-bloomberg@flipboard.com",
+        "followers": 2330,
+        "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
+      },
+      {
+        "handle": "@Noshir",
+        "followers": 727,
+        "link": "https://mastodon.social/@Noshir"
+      },
+      {
+        "handle": "@electricians@lemmy.world",
+        "followers": 633,
+        "link": "https://lemmy.world/c/electricians"
+      }
+    ]
   },
-  "bluesky": []
+  "bluesky": [
+    {
+      "handle": "@franktheshank88.bsky.social",
+      "display": "Franktheshank88",
+      "followers": 62095,
+      "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
+      "link": "https://bsky.app/profile/franktheshank88.bsky.social"
+    },
+    {
+      "handle": "@cnice59.bsky.social",
+      "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
+      "followers": 35240,
+      "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
+      "link": "https://bsky.app/profile/cnice59.bsky.social"
+    },
+    {
+      "handle": "@patriciarichardson.bsky.social",
+      "display": "Patricia Richardson",
+      "followers": 31896,
+      "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
+      "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
+    },
+    {
+      "handle": "@briney.org",
+      "display": "Patrick Briney 🔵🌊🌊🌊",
+      "followers": 30197,
+      "desc": "I reside in Texas. I'm a dry-humor kind of guy, an optimist. Married, dog lover, handyman, and love classic cars. Most i",
+      "link": "https://bsky.app/profile/briney.org"
+    },
+    {
+      "handle": "@lleweyb63.bsky.social",
+      "display": "Brian",
+      "followers": 23193,
+      "desc": "#VoteBlue, resister! Started here on 11/7/24. Ended twitter 11/13/24  🚫NO PORN, WILL BLOCK!!🚫DM’s.  #BlueCrew 🌊  Living ",
+      "link": "https://bsky.app/profile/lleweyb63.bsky.social"
+    },
+    {
+      "handle": "@zlatkonchikov.bsky.social",
+      "display": "Zlat Konchikov",
+      "followers": 15618,
+      "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
+      "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
+    },
+    {
+      "handle": "@trevorrowdyreed.bsky.social",
+      "display": "Trevor Rowdy Reed",
+      "followers": 14584,
+      "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
+      "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
+    },
+    {
+      "handle": "@plumergolf.bsky.social",
+      "display": "MD 🇺🇦🇺🇸🇨🇦",
+      "followers": 14332,
+      "desc": "🚫DM’s  Calm, collected, confident, man.  Plumber that always  accomplish’s quality, professional plumbing. A golf profes",
+      "link": "https://bsky.app/profile/plumergolf.bsky.social"
+    },
+    {
+      "handle": "@jrcruz0822.bsky.social",
+      "display": "UNDERCOVER NINJA 💪🇵🇷",
+      "followers": 13681,
+      "desc": "VIETNAM VETERAN. GREAT PUERTO RICAN COOK,GOOD SENSE OF HUMOR, LOVE ANIMALS,DEMOCRAT, RETIRED HVAC MECHANIC, AND 638 META",
+      "link": "https://bsky.app/profile/jrcruz0822.bsky.social"
+    },
+    {
+      "handle": "@missrecreate.bsky.social",
+      "display": "Miss Recreate",
+      "followers": 7420,
+      "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
+      "link": "https://bsky.app/profile/missrecreate.bsky.social"
+    },
+    {
+      "handle": "@nihl.mainbastards.online",
+      "display": "Le Pole Plumber 🔧",
+      "followers": 6654,
+      "desc": "Main Bastard Pole-Saxon. Master of Plunger. Fluent in Retard.  HVAC Engineer with bad attitude. Forklift Certified.  Put",
+      "link": "https://bsky.app/profile/nihl.mainbastards.online"
+    },
+    {
+      "handle": "@hyucaze.bsky.social",
+      "display": "Hyucaze 🔞",
+      "followers": 5706,
+      "desc": "Artist 🎨, Photographer 📸, Carpenter 🪚 all around handyman 🛠️ College Grad True Island boi 31 NSFW content (be advised)  ",
+      "link": "https://bsky.app/profile/hyucaze.bsky.social"
+    },
+    {
+      "handle": "@crybringer.bsky.social",
+      "display": "crybringer",
+      "followers": 4568,
+      "desc": "Contractor (Miss Monster, Skullgirls, etc.), commission artist, comic creator (small-press, online)  ⭐ https://patreon.c",
+      "link": "https://bsky.app/profile/crybringer.bsky.social"
+    },
+    {
+      "handle": "@simpson-ian.bsky.social",
+      "display": "🇨🇦Ian - #RLessThanOne",
+      "followers": 4434,
+      "desc": "\"FACT: #COVID19 is NOT airborne\" WHO '20   \"a continuous spectrum of aerodynamic sizes, and no single cut off points sho",
+      "link": "https://bsky.app/profile/simpson-ian.bsky.social"
+    }
+  ]
 }

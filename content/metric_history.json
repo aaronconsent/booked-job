@@ -6,6 +6,13 @@
       "engagement": 1,
       "email": 5,
       "reach": 0
+    },
+    {
+      "date": "2026-06-30",
+      "audience": 10,
+      "engagement": 4,
+      "email": 5,
+      "reach": 0
     }
   ]
 }
