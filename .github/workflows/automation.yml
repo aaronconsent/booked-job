@@ -3,7 +3,13 @@ name: Booked Job automation
 on:
   schedule:
     - cron: '5 * * * *'        # hourly at :05 UTC; agents self-gate to their own windows
-  workflow_dispatch: {}        # manual "Run workflow" button for testing
+    - cron: '30 2 * * *'       # 02:30 UTC = 9:30 PM CDT — nightly FORCE push to all channels
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force a push to ALL channels now (bypass time-window gates)'
+        type: boolean
+        default: false
 
 concurrency:
   group: bookedjob-automation  # never let two runs overlap (avoids git push races)
@@ -75,6 +81,8 @@ jobs:
           chmod 600 secrets/*.env
 
       - name: Run all agents
+        env:
+          FORCE: ${{ (inputs.force || github.event.schedule == '30 2 * * *') && '1' || '' }}
         run: python3 scripts/run_all.py
 
       - name: Commit + push (Cloudflare auto-deploys)

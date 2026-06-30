@@ -37,6 +37,14 @@ AGENTS = [
 MEDIA = {"reel_runner.py", "reel_story_runner.py", "story_runner.py", "buffer_carousel_runner.py",
          "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py", "ig_carousel_runner.py",
          "pinterest_buffer_runner.py"}
+# agents that accept --force (post the next queued item now, bypassing time-window gates).
+# Excludes blog_drip (must stay date-gated) and the build/engage/fetch scripts.
+FORCE_OK = {"publisher.py", "ig_runner.py", "reel_runner.py", "reel_story_runner.py", "story_runner.py",
+            "blogger_runner.py", "tumblr_runner.py", "telegraph_runner.py", "github_pages_runner.py",
+            "bluesky_runner.py", "mastodon_runner.py", "threads_runner.py", "telegram_runner.py",
+            "telegram_poll_runner.py", "buffer_runner.py", "buffer_tiktok_runner.py",
+            "buffer_carousel_runner.py", "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py",
+            "ig_carousel_runner.py", "pinterest_buffer_runner.py", "yt_runner.py"}
 
 
 def log(m):
@@ -46,6 +54,9 @@ def log(m):
 
 def main():
     light = "--light" in sys.argv
+    force = "--force" in sys.argv or bool(os.environ.get("FORCE"))
+    if force:
+        log("FORCE MODE — pushing the next queued item to every channel, bypassing time gates.")
     ok = fail = skip = 0
     for script, args in AGENTS:
         if light and script in MEDIA:
@@ -53,8 +64,11 @@ def main():
         p = os.path.join(HERE, script)
         if not os.path.exists(p):
             continue
+        a = list(args)
+        if force and script in FORCE_OK and "--force" not in a:
+            a.append("--force")
         try:
-            r = subprocess.run([sys.executable, p, *args], cwd=ROOT, timeout=900, capture_output=True, text=True)
+            r = subprocess.run([sys.executable, p, *a], cwd=ROOT, timeout=900, capture_output=True, text=True)
             tail = (r.stdout.strip().splitlines() or [""])[-1][:140]
             log(f"{script}: rc={r.returncode} {tail}")
             ok += 1 if r.returncode == 0 else 0
