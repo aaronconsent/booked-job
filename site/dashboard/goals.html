@@ -63,7 +63,8 @@ function fmt(n){return n>=1000?(n/1000).toFixed(n%1000?1:0)+'k':n}
 function goalCard(g){
   var nd=g.status==='nodata'||g.current===null;
   var pct=nd?0:Math.min(100,Math.round(100*g.current/g.target));
-  var num=nd?'<span style="color:#8A8F97">needs analytics</span>':('<b>'+fmt(g.current)+'</b> / '+fmt(g.target));
+  var ndtxt=g.needs==='analytics'?'needs analytics':'tracking…';
+  var num=nd?'<span style="color:#8A8F97">'+ndtxt+'</span>':('<b>'+fmt(g.current)+'</b> / '+fmt(g.target));
   return '<div class="g '+g.status+'"><div class="top"><div><div class="nm">'+g.icon+' '+g.label+'</div><div class="cat">'+g.cat+'</div></div>'
     +'<div class="num">'+num+'</div></div><div class="bar"><div class="fill" style="width:'+pct+'%"></div></div></div>';
 }
