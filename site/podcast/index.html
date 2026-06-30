@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Get Booked, Not F***ed — the no-BS marketing podcast for the trades</title>
+<meta name="description" content="The raunchy, no-BS marketing podcast for contractors. Two old tradesmen and an idiot apprentice on how to get found, get picked, and get booked — without getting screwed. Listen free." />
+<link rel="canonical" href="https://booked-job.com/podcast/" />
+<meta property="og:title" content="Get Booked, Not F***ed — a Booked Job podcast" />
+<meta property="og:description" content="No-BS marketing for the trades. Get found, get picked, get booked." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://booked-job.com/podcast/" />
+<meta property="og:image" content="https://booked-job.com/podcast/cover.jpg" />
+<meta name="theme-color" content="#15171A" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --hi:#FF6A00; --hi-2:#FF8A2B; --asphalt:#15171A; --asphalt-2:#1E2227;
+    --steel:#2A2F36; --concrete:#F4F2EE; --paper:#FFFFFF; --ink:#15171A;
+    --ink-2:#54585E; --line:#E4E0D9; --htape:#FFD23F;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--paper);line-height:1.55;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+  .display{font-family:Anton,Impact,sans-serif;font-weight:400;letter-spacing:.01em;line-height:.98;text-transform:uppercase}
+  a{color:inherit}
+  header{background:var(--asphalt);position:sticky;top:0;z-index:30}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:62px}
+  .logo{display:flex;align-items:center;gap:10px;color:#fff;text-decoration:none}
+  .logo .mark{width:34px;height:34px;border-radius:7px;background:var(--hi);display:grid;place-items:center;font-family:Anton,sans-serif;color:var(--asphalt);font-size:22px;transform:skewX(-6deg)}
+  .logo b{font-family:Anton,sans-serif;font-size:21px;letter-spacing:.02em;text-transform:uppercase}
+  .logo b span{color:var(--hi)}
+  .nav a.cta{background:var(--hi);color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:9px 16px;border-radius:8px}
+  .nav a.cta:hover{background:var(--hi-2)}
+  .tape{height:9px;background:repeating-linear-gradient(45deg,var(--htape) 0 22px,var(--asphalt) 22px 44px)}
+
+  /* hero */
+  .hero{background:var(--asphalt);color:#fff;padding:54px 0 60px}
+  .hero .grid{display:grid;grid-template-columns:300px 1fr;gap:38px;align-items:center}
+  .cover{width:300px;height:300px;border-radius:14px;box-shadow:0 18px 50px rgba(0,0,0,.5);border:1px solid #2A2F36}
+  .kicker{display:inline-block;font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--hi);border:1px solid rgba(255,106,0,.4);padding:5px 11px;border-radius:999px;margin-bottom:16px}
+  .hero h1{font-size:clamp(34px,6vw,60px)}
+  .hero h1 em{font-style:normal;color:var(--hi)}
+  .hero p.sub{font-size:clamp(16px,2.2vw,19px);color:#C7CBD1;max-width:48ch;margin-top:14px}
+  .explicit{display:inline-flex;align-items:center;gap:7px;margin-top:14px;font-size:12px;color:#8A8F97;letter-spacing:.04em}
+  .ebox{width:20px;height:20px;border-radius:4px;background:#fff;color:#111;display:grid;place-items:center;font-weight:800;font-size:13px}
+  .subs{display:flex;flex-wrap:wrap;gap:11px;margin-top:24px}
+  .pill{display:inline-flex;align-items:center;gap:8px;font-weight:700;text-decoration:none;padding:11px 17px;border-radius:9px;font-size:14px}
+  .pill-pri{background:var(--hi);color:#fff}.pill-pri:hover{background:var(--hi-2)}
+  .pill-ghost{background:transparent;color:#fff;border:1.5px solid #3A3F47}.pill-ghost:hover{border-color:var(--hi)}
+
+  /* episodes */
+  .eps{padding:54px 0 70px}
+  .eyebrow{font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--hi)}
+  h2.sec{font-size:clamp(26px,4.5vw,38px);margin-top:6px}
+  .ep{border:1px solid var(--line);border-radius:14px;padding:22px;margin-top:18px;background:var(--paper)}
+  .ep .top{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .ep .num{font-family:Anton,sans-serif;color:var(--hi);font-size:24px}
+  .ep h3{font-size:20px;line-height:1.2}
+  .ep .dur{margin-left:auto;font-size:13px;color:var(--ink-2);font-weight:600;white-space:nowrap}
+  .ep p{color:var(--ink-2);font-size:15px;margin-top:8px;max-width:75ch}
+  .ep audio{width:100%;margin-top:14px;height:40px}
+  footer{background:var(--asphalt);color:#9aa0a8;padding:34px 0;font-size:13px}
+  footer a{color:#C7CBD1;text-decoration:none}
+  @media(max-width:680px){.hero .grid{grid-template-columns:1fr;text-align:center;gap:24px}.cover{margin:0 auto}.ep .dur{margin-left:0;width:100%}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+    <a class="cta" href="#episodes">Listen now</a>
+  </div>
+</header>
+<div class="tape"></div>
+
+<section class="hero">
+  <div class="wrap grid">
+    <img class="cover" src="/podcast/cover.jpg" alt="Get Booked, Not F***ed podcast cover" width="300" height="300" />
+    <div>
+      <span class="kicker">A Booked Job Podcast</span>
+      <h1 class="display">Get Booked,<br><em>Not F***ed</em></h1>
+      <p class="sub">The no-BS marketing show for contractors. Two old tradesmen — and the idiot apprentice they can't fire — on how to get found, get picked, and get booked, without getting screwed by the marketing industry.</p>
+      <div class="explicit"><span class="ebox">E</span> Explicit · raunchy · occasionally educational</div>
+      <div class="subs">
+        <a class="pill pill-pri" href="https://open.spotify.com/search/Get%20Booked%20Not%20Fucked" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="pill pill-ghost" href="https://podcasts.apple.com/search?term=Get%20Booked%20Not%20Fucked" target="_blank" rel="noopener"> Apple Podcasts</a>
+        <a class="pill pill-ghost" href="/podcast/feed.xml">RSS feed</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="eps" id="episodes">
+  <div class="wrap">
+    <span class="eyebrow">All episodes</span>
+    <h2 class="sec display">New every week</h2>
+
+    <article class="ep">
+      <div class="top"><span class="num">03</span><h3>Answer Your Phone (Speed to Lead)</h3><span class="dur">5:32</span></div>
+      <p>The first guy to call back wins — not the best guy, the first guy. Why a missed call is a missed invoice, Dom defends never answering his phone, Cody hands a scammer the truck's VIN, plus round three of Porno or Plumbing and a roofing outfit gets roasted.</p>
+      <audio controls preload="none" src="/podcast/ep03.mp3"></audio>
+    </article>
+
+    <article class="ep">
+      <div class="top"><span class="num">02</span><h3>Why Won't Anyone Leave a Review?</h3><span class="dur">4:52</span></div>
+      <p>Reviews quietly decide whether your phone rings. Why the guy with 140 reviews beats you even when he's worse, Dom rages about a one-star, round two of Porno or Plumbing, and a local HVAC outfit gets roasted into the ground.</p>
+      <audio controls preload="none" src="/podcast/ep02.mp3"></audio>
+    </article>
+
+    <article class="ep">
+      <div class="top"><span class="num">01</span><h3>Is Angi Worth It?</h3><span class="dur">7:17</span></div>
+      <p>Marshall and Dom break down whether buying leads from Angi is worth a damn (spoiler: do the math), play a round of Porno or Plumbing, and air a competitor's dirty laundry. Get found, get picked, get booked.</p>
+      <audio controls preload="none" src="/podcast/ep01.mp3"></audio>
+    </article>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <a href="/"><b style="font-family:Anton,sans-serif;color:#fff;font-size:18px">BOOKED JOB</b></a> — for the trades.<br>
+    © Booked Job · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/podcast/feed.xml">RSS</a>
+  </div>
+</footer>
+</body>
+</html>

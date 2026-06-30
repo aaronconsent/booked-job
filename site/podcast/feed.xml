@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>Get Booked, Not F***ed</title>
-  <link>https://booked-job.com/</link>
+  <link>https://booked-job.com/podcast/</link>
   <language>en-us</language>
   <copyright>© Booked Job</copyright>
   <description>The no-BS marketing show for home-service contractors. Two old tradesmen and an idiot apprentice tell you how to get found, get picked, and get booked — without getting screwed by the marketing industry. Raunchy, real, and occasionally educational.</description>
@@ -15,9 +15,19 @@
   <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
   <itunes:category text="Comedy"/>
   <item>
+    <title>Ep. 3 — Answer Your Phone (Speed to Lead)</title>
+    <itunes:episode>3</itunes:episode>
+    <description>The first guy to call back wins — not the best guy, the first guy. Marshall explains why a missed call is a missed invoice, Dom defends never answering his phone, Cody gives a scammer the VIN off the truck, plus round three of Porno or Plumbing and a roofing outfit gets roasted.</description>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:duration>5:32</itunes:duration>
+    <enclosure url="https://booked-job.com/podcast/ep03.mp3" length="7979949" type="audio/mpeg"/>
+    <guid isPermaLink="false">bookedjob-podcast-ep03</guid>
+    <pubDate>Wed, 01 Jul 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>Ep. 2 — Why Won't Anyone Leave a Review?</title>
     <itunes:episode>2</itunes:episode>
-    <description>Reviews are quietly deciding whether your phone rings. Marshall explains why the guy with 140 reviews beats you even when he's worse, Dom rages about a one-star, they play round two of Porno or Plumbing, and roast a local HVAC outfit into the ground.</description>
+    <description>Reviews quietly decide whether your phone rings. Why the guy with 140 reviews beats you even when he's worse, Dom rages about a one-star, round two of Porno or Plumbing, and a local HVAC outfit gets roasted into the ground.</description>
     <itunes:explicit>true</itunes:explicit>
     <itunes:duration>4:52</itunes:duration>
     <enclosure url="https://booked-job.com/podcast/ep02.mp3" length="7020909" type="audio/mpeg"/>
