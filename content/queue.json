@@ -263,6 +263,102 @@
       "image": null,
       "link": null,
       "comment": null
+    },
+    {
+      "id": "stat-first-responder",
+      "archetype": "real-trade-numbers",
+      "caption": "78% of homeowners hire whoever calls back FIRST \u2014 not the best, not the cheapest. The first. (Lead Connect.) If you let calls ring, you're handing jobs to your competitor.",
+      "image": "content/cards/first-responder-sq.png",
+      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-5min",
+      "archetype": "real-trade-numbers",
+      "caption": "Respond to a lead in 5 minutes and you're 100x more likely to qualify it than if you wait 30. (MIT Sloan.) Speed isn't a nice-to-have \u2014 it's the game.",
+      "image": "content/cards/5min-100x-sq.png",
+      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-angi-cpbj",
+      "archetype": "real-trade-numbers",
+      "caption": "What an Angi booked job ACTUALLY costs once you count the leads that never close: ~$542. Google LSA: ~$168. Same money, very different math. (2026 data.)",
+      "image": "content/cards/angi-cpbj-sq.png",
+      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-site",
+      "archetype": "real-trade-numbers",
+      "caption": "The average contractor website converts 2\u20133% \u2014 meaning ~98% leave without calling. (WebFX.) Your site has one job: make the call easy.",
+      "image": "content/cards/site-convert-sq.png",
+      "link": "https://booked-job.com/blog/contractor-website-one-job/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-reviews",
+      "archetype": "real-trade-numbers",
+      "caption": "91% of people read your reviews before they call, and most won't consider you under 4 stars. (BrightLocal.) Your reputation sells before you pick up.",
+      "image": "content/cards/reviews-read-sq.png",
+      "link": "https://booked-job.com/blog/why-reviews-win-the-call/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-hvac-lsa",
+      "archetype": "real-trade-numbers",
+      "caption": "HVAC on Google LSA: $51/lead, 44% book, $2,110 avg ticket \u2014 9.55x return. (SearchLight, 888 contractors.) The exclusive-lead math shared apps don't want you running.",
+      "image": "content/cards/hvac-lsa-sq.png",
+      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-ai",
+      "archetype": "real-trade-numbers",
+      "caption": "35% of people now ask AI \u2014 ChatGPT, Gemini \u2014 who to hire, not Google. (2026.) Invisible to AI = invisible to a third of the market.",
+      "image": "content/cards/ai-discovery-sq.png",
+      "link": "https://booked-job.com/blog/get-found-by-google-and-ai/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-missed-call",
+      "archetype": "real-trade-numbers",
+      "caption": "1 in 7 calls to home-services businesses goes unanswered. (CallRail.) That's not a phone problem \u2014 it's a payroll problem.",
+      "image": "content/cards/missed-call-sq.png",
+      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-shared",
+      "archetype": "real-trade-numbers",
+      "caption": "Shared leads convert 6\u201310%. Your own organic leads: 18\u201324%. A direct call: up to 40%. (2026.) Cheap leads are the most expensive kind.",
+      "image": "content/cards/shared-convert-sq.png",
+      "link": "https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-budgets",
+      "archetype": "real-trade-numbers",
+      "caption": "72% of contractors are upping their marketing budget in 2026 \u2014 and 62% say lead gen is their #1 challenge. (CallRail.) The question isn't whether to market. It's whether you do it smart.",
+      "image": "content/cards/budgets-up-sq.png",
+      "link": "https://booked-job.com/blog/what-marketing-actually-is/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-plumbing-lsa",
+      "archetype": "real-trade-numbers",
+      "caption": "Plumbing on Google LSA: $57/lead, 44.5% book, $1,714 ticket, 6.85x ROAS. (SearchLight.) Real numbers beat 'trust me' every time.",
+      "image": "content/cards/plumbing-lsa-sq.png",
+      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
+      "comment": "The full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "stat-market",
+      "archetype": "real-trade-numbers",
+      "caption": "The US home-services market is over $524 BILLION a year, and 75% of pros expect to grow in 2026. There's plenty of work \u2014 winners are just easier to find.",
+      "image": "content/cards/market-size-sq.png",
+      "link": "https://booked-job.com/blog/what-marketing-actually-is/",
+      "comment": "The full breakdown \ud83d\udc47"
     }
   ]
 }
