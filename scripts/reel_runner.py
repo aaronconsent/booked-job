@@ -20,7 +20,7 @@ STATE = os.path.join(ROOT, "content", "reels_state.json")
 LOG = os.path.join(ROOT, "content", "reels.log")
 OUTDIR = os.path.join(ROOT, "content", "reels")
 
-POST_DAYS = {1, 4}      # Tue, Fri
+POST_DAYS = {0, 2, 4, 6}  # Mon/Wed/Fri/Sun — 4 reels/week (reels = #1 reach lever)
 WINDOW = (6, 10)        # morning
 BACKEND = "elevenlabs"  # falls back by editing make_reel default if credits run out
 
@@ -61,7 +61,7 @@ def main():
             log(f"skip: outside reel window {WINDOW}"); return
         if state.get("last_iso"):
             gap = (now - dt.datetime.fromisoformat(state["last_iso"])).total_seconds() / 3600
-            if gap < 40:
+            if gap < 20:
                 log(f"skip: only {gap:.0f}h since last reel"); return
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")

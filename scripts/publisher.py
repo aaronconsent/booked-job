@@ -54,10 +54,10 @@ def ramp_daily_cap(age_days):
 
 
 def posting_days(age_days):
-    # week 1-2: Tue/Wed/Thu only. week 3+: Mon-Fri. Never Sat/Sun.
-    if age_days < 14:
-        return {1, 2, 3}          # Tue,Wed,Thu (Mon=0)
-    return {0, 1, 2, 3, 4}        # Mon-Fri
+    # 7-day posting (Aaron's call 2026-06-30): post every day, weekends included.
+    # Cap stays 1 quality post/day (ramp_daily_cap) so it's aggressive on cadence,
+    # not spammy on volume.
+    return {0, 1, 2, 3, 4, 5, 6}   # Mon-Sun
 
 
 def chosen_slot_for_today(today):

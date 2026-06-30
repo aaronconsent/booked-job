@@ -1,111 +1,381 @@
 {
-  "_doc": "Unique per-channel content variants (the unique-content engine). Runners prefer their channel's variant over the generic blurb. Strategist generates these for new content per CHANNEL_CONTENT_PLAYBOOK.md. mastodon variant: runner appends url + tags.",
-  "is-angi-worth-it": {
-    "threads": {
-      "text": "Hot take: buying Angi leads is just renting customers you'll lose the second you stop paying. They sell the same lead to 5–12 contractors, so your real cost per BOOKED job is ~$1,430–$2,500. Agree, or am I missing something?\n\nhttps://booked-job.com/blog/is-angi-worth-it/",
-      "chain": [
-        "Each lead gets sold to 5–12 of you. So your $35 lead is really $35 × the 8 other trucks racing you to the phone.",
-        "Stop paying and the leads vanish — you rented an audience instead of building one. What's YOUR cost per booked job? 👇 https://booked-job.com/blog/is-angi-worth-it/"
-      ]
-    },
-    "bluesky": {
-      "text": "Ever notice your Angi “leads” already talked to 8 other guys before you called back? That's the model — same lead sold to 5–12 contractors. Real cost per booked job: ~$1,430–$2,500. Free calculator that shows yours 👇",
-      "chain": [
-        "They monetize each homeowner by reselling the request. You're not their customer — you're their inventory.",
-        "The fix: own your Google presence + capture the homeowners already on your site. Full math + calculator → booked-job.com/blog/is-angi-worth-it/"
-      ]
-    },
-    "mastodon": {
-      "text": "For #HomeService crews weighing lead sites: Angi / HomeAdvisor / Thumbtack sell each lead to 5–12 contractors, so your cost per *booked* job runs ~$1,430–$2,500 vs ~$290 organic. Breakdown + a free cost calculator:",
-      "tags": [
-        "#SmallBusiness",
-        "#Trades",
-        "#Contractor",
-        "#Plumbing"
-      ]
-    },
-    "telegram": "💡 Monday money check: if you buy Angi leads, work out your cost per <b>booked</b> job — not per lead. Most shops are shocked it's $1,400+. Free calculator that does the math 👇\n\nhttps://booked-job.com/blog/is-angi-worth-it/",
-    "linkedin": "Most contractors think they're losing jobs to a competitor's price. They're losing them to a lead-resale model.\n\nAngi, HomeAdvisor and Thumbtack sell the same lead to 5–12 pros. Factor in real close rates and the cost per *booked* job lands around $1,430–$2,500 — versus ~$290 for a job won through your own reputation.\n\nThe deeper problem: the day you stop paying, the pipeline stops. You rented demand instead of building an asset.\n\nThe full math (with a calculator): https://booked-job.com/blog/is-angi-worth-it/"
+ "_doc": "Unique per-channel content variants (the unique-content engine). Runners prefer their channel's variant over the generic blurb. Strategist generates these for new content per CHANNEL_CONTENT_PLAYBOOK.md. mastodon variant: runner appends url + tags.",
+ "is-angi-worth-it": {
+  "threads": {
+   "text": "Hot take: buying Angi leads is just renting customers you'll lose the second you stop paying. They sell the same lead to 5–12 contractors, so your real cost per BOOKED job is ~$1,430–$2,500. Agree, or am I missing something?\n\nhttps://booked-job.com/blog/is-angi-worth-it/",
+   "chain": [
+    "Each lead gets sold to 5–12 of you. So your $35 lead is really $35 × the 8 other trucks racing you to the phone.",
+    "Stop paying and the leads vanish — you rented an audience instead of building one. What's YOUR cost per booked job? 👇 https://booked-job.com/blog/is-angi-worth-it/"
+   ]
   },
-  "how-to-price-a-job": {
-    "threads": {
-      "text": "Unpopular take: most contractors aren't underpriced because they're cheap. They're underpriced because they confuse markup with margin. A 50% markup is only a 33% margin. That gap is real money on every job. Change my mind 👇\n\nhttps://booked-job.com/blog/how-to-price-a-job/",
-      "chain": [
-        "A 50% markup feels like 50% profit. It's a 33% margin. That gap compounds across every estimate you write all year.",
-        "Price off margin: cost ÷ (1 − target). Most shops have never run that number. Have you? 👇 https://booked-job.com/blog/how-to-price-a-job/"
-      ]
-    },
-    "bluesky": {
-      "text": "Quick one for the trades: a “50% markup” is only a 33% margin. If you price off markup, you're undercharging every single job. Fix: cost ÷ (1 − target margin). Free calculator that does it 👇",
-      "chain": [
-        "Quick test: do you price off “cost + X%” or off a target margin? If it's the first, you're probably undercharging.",
-        "cost ÷ (1 − margin) is the whole trick. Built a calculator → booked-job.com/blog/how-to-price-a-job/"
-      ]
-    },
-    "mastodon": {
-      "text": "Pricing tip for #HomeService owners: markup ≠ margin. A 50% markup is only a 33% margin — which quietly underprices every job. Price off margin instead: cost ÷ (1 − target). Full breakdown + calculator:",
-      "tags": [
-        "#SmallBusiness",
-        "#Trades",
-        "#Pricing",
-        "#Contractor"
-      ]
-    },
-    "telegram": "💡 Pricing gut-check: a 50% markup is only a 33% <b>margin</b>. If you've been “adding 50%,” you're leaving money on every job. Free margin calculator 👇\n\nhttps://booked-job.com/blog/how-to-price-a-job/",
-    "linkedin": "The fastest profit win in the trades isn't more leads. It's fixing the estimate.\n\nMost owners confuse markup and margin. A 50% markup sounds like 50% profit — it's actually a 33% margin. Across a year of estimates, that gap is serious money left on the table.\n\nThe fix is one formula: price = cost ÷ (1 − target margin).\n\nA calculator that does it for you: https://booked-job.com/blog/how-to-price-a-job/"
+  "bluesky": {
+   "text": "Ever notice your Angi “leads” already talked to 8 other guys before you called back? That's the model — same lead sold to 5–12 contractors. Real cost per booked job: ~$1,430–$2,500. Free calculator that shows yours 👇",
+   "chain": [
+    "They monetize each homeowner by reselling the request. You're not their customer — you're their inventory.",
+    "The fix: own your Google presence + capture the homeowners already on your site. Full math + calculator → booked-job.com/blog/is-angi-worth-it/"
+   ]
   },
-  "get-more-google-reviews": {
-    "threads": {
-      "text": "Hot take: the reason a competitor outranks you on Google isn't SEO magic. It's that they ask for reviews the second the job's done — and you don't. Best time to ask is peak gratitude, then text the link within the hour. Too simple?\n\nhttps://booked-job.com/blog/get-more-google-reviews/",
-      "chain": [
-        "The shop beating you in the map pack isn't better at SEO. They just ask — every job, while the customer's still standing there.",
-        "Ask in person, text the link within the hour, one tap. What's your review count vs theirs? 👇 https://booked-job.com/blog/get-more-google-reviews/"
-      ]
-    },
-    "bluesky": {
-      "text": "Service pros: Google reviews decide who shows up in the map pack and who gets the call. Most shops “mean to ask” and never do. The system: ask in person the second the job's done, then text the direct link within the hour. 👇",
-      "chain": [
-        "The shop outranking you usually isn't better at SEO. They just ask — every single job, on the spot.",
-        "Ask in person → text the link within the hour → one tap. Full system → booked-job.com/blog/get-more-google-reviews/"
-      ]
-    },
-    "mastodon": {
-      "text": "For #HomeService crews: Google reviews are the cheapest marketing you've got. Ask in person at peak gratitude (job just done), then text the direct link within the hour. Ask everyone — review-gating violates Google's policy. Full system:",
-      "tags": [
-        "#SmallBusiness",
-        "#Trades",
-        "#LocalSEO",
-        "#Reviews"
-      ]
-    },
-    "telegram": "💡 The cheapest marketing you're ignoring: Google reviews. Ask the second the job's done, then text the direct link within the hour. That's the whole trick. Full ask-system 👇\n\nhttps://booked-job.com/blog/get-more-google-reviews/",
-    "linkedin": "Reviews are the highest-ROI marketing most home-service shops completely ignore.\n\nThey decide who shows up in the map pack and who gets the call — yet most owners “mean to ask” and never build the habit.\n\nWhat works: ask in person at peak gratitude (the moment the job's done), then text the direct review link within the hour. One tap. Ask every customer — review-gating violates Google's policy.\n\nThe full playbook: https://booked-job.com/blog/get-more-google-reviews/"
+  "mastodon": {
+   "text": "For #HomeService crews weighing lead sites: Angi / HomeAdvisor / Thumbtack sell each lead to 5–12 contractors, so your cost per *booked* job runs ~$1,430–$2,500 vs ~$290 organic. Breakdown + a free cost calculator:",
+   "tags": [
+    "#SmallBusiness",
+    "#Trades",
+    "#Contractor",
+    "#Plumbing"
+   ]
   },
-  "surviving-the-slow-season": {
-    "threads": {
-      "text": "Unpopular take: the slow season isn't a cash-flow problem. It's a planning problem you could see coming in July. Bank a cushion, sell weather-proof work, and — counterintuitively — INCREASE marketing while competitors go quiet. Wrong?\n\nhttps://booked-job.com/blog/surviving-the-slow-season/",
-      "chain": [
-        "Bank a 3–6 month cushion in the busy months — sweep a fixed % of every job before it feels spendable.",
-        "Don't go dark on marketing when it's slow; that's when it's cheapest. How do you handle the lull? 👇 https://booked-job.com/blog/surviving-the-slow-season/"
-      ]
-    },
-    "bluesky": {
-      "text": "The trades shops that panic in the slow season are the ones who assumed every busy month would last forever. Win it in the busy season: bank a 3–6mo cushion, sell maintenance plans, and don't go dark on marketing. 👇",
-      "chain": [
-        "Bank a cushion in the busy months and the slow season stops being scary — you can say no to bad jobs.",
-        "Keep marketing on when it's quiet; it's cheapest then. Full playbook → booked-job.com/blog/surviving-the-slow-season/"
-      ]
-    },
-    "mastodon": {
-      "text": "Cash-flow note for #HomeService owners: the slow season is won in the busy season. Bank a 3–6 month cushion, sell maintenance plans + weather-independent work, re-engage past customers, and keep marketing on while competitors go quiet. Full playbook:",
-      "tags": [
-        "#SmallBusiness",
-        "#Trades",
-        "#CashFlow",
-        "#Contractor"
-      ]
-    },
-    "telegram": "💡 Slow season is coming — win it now. Bank a 3–6mo cushion, sell maintenance plans, and DON'T cut marketing when it's quiet (competitors do; you shouldn't). Full cash-flow playbook 👇\n\nhttps://booked-job.com/blog/surviving-the-slow-season/",
-    "linkedin": "Every trade has a slow stretch. The owners who sail through don't get lucky — they plan in July for what January feels like.\n\nThe playbook: bank a 3–6 month cushion during peak months; sell the work that ignores weather (maintenance plans, opposite-season installs); mine past customers (your cheapest pipeline); and counterintuitively, INCREASE marketing while competitors go quiet and ad costs drop.\n\nThe full cash-flow playbook: https://booked-job.com/blog/surviving-the-slow-season/"
-  }
+  "telegram": "💡 Monday money check: if you buy Angi leads, work out your cost per <b>booked</b> job — not per lead. Most shops are shocked it's $1,400+. Free calculator that does the math 👇\n\nhttps://booked-job.com/blog/is-angi-worth-it/",
+  "linkedin": "Most contractors think they're losing jobs to a competitor's price. They're losing them to a lead-resale model.\n\nAngi, HomeAdvisor and Thumbtack sell the same lead to 5–12 pros. Factor in real close rates and the cost per *booked* job lands around $1,430–$2,500 — versus ~$290 for a job won through your own reputation.\n\nThe deeper problem: the day you stop paying, the pipeline stops. You rented demand instead of building an asset.\n\nThe full math (with a calculator): https://booked-job.com/blog/is-angi-worth-it/"
+ },
+ "how-to-price-a-job": {
+  "threads": {
+   "text": "Unpopular take: most contractors aren't underpriced because they're cheap. They're underpriced because they confuse markup with margin. A 50% markup is only a 33% margin. That gap is real money on every job. Change my mind 👇\n\nhttps://booked-job.com/blog/how-to-price-a-job/",
+   "chain": [
+    "A 50% markup feels like 50% profit. It's a 33% margin. That gap compounds across every estimate you write all year.",
+    "Price off margin: cost ÷ (1 − target). Most shops have never run that number. Have you? 👇 https://booked-job.com/blog/how-to-price-a-job/"
+   ]
+  },
+  "bluesky": {
+   "text": "Quick one for the trades: a “50% markup” is only a 33% margin. If you price off markup, you're undercharging every single job. Fix: cost ÷ (1 − target margin). Free calculator that does it 👇",
+   "chain": [
+    "Quick test: do you price off “cost + X%” or off a target margin? If it's the first, you're probably undercharging.",
+    "cost ÷ (1 − margin) is the whole trick. Built a calculator → booked-job.com/blog/how-to-price-a-job/"
+   ]
+  },
+  "mastodon": {
+   "text": "Pricing tip for #HomeService owners: markup ≠ margin. A 50% markup is only a 33% margin — which quietly underprices every job. Price off margin instead: cost ÷ (1 − target). Full breakdown + calculator:",
+   "tags": [
+    "#SmallBusiness",
+    "#Trades",
+    "#Pricing",
+    "#Contractor"
+   ]
+  },
+  "telegram": "💡 Pricing gut-check: a 50% markup is only a 33% <b>margin</b>. If you've been “adding 50%,” you're leaving money on every job. Free margin calculator 👇\n\nhttps://booked-job.com/blog/how-to-price-a-job/",
+  "linkedin": "The fastest profit win in the trades isn't more leads. It's fixing the estimate.\n\nMost owners confuse markup and margin. A 50% markup sounds like 50% profit — it's actually a 33% margin. Across a year of estimates, that gap is serious money left on the table.\n\nThe fix is one formula: price = cost ÷ (1 − target margin).\n\nA calculator that does it for you: https://booked-job.com/blog/how-to-price-a-job/"
+ },
+ "get-more-google-reviews": {
+  "threads": {
+   "text": "Hot take: the reason a competitor outranks you on Google isn't SEO magic. It's that they ask for reviews the second the job's done — and you don't. Best time to ask is peak gratitude, then text the link within the hour. Too simple?\n\nhttps://booked-job.com/blog/get-more-google-reviews/",
+   "chain": [
+    "The shop beating you in the map pack isn't better at SEO. They just ask — every job, while the customer's still standing there.",
+    "Ask in person, text the link within the hour, one tap. What's your review count vs theirs? 👇 https://booked-job.com/blog/get-more-google-reviews/"
+   ]
+  },
+  "bluesky": {
+   "text": "Service pros: Google reviews decide who shows up in the map pack and who gets the call. Most shops “mean to ask” and never do. The system: ask in person the second the job's done, then text the direct link within the hour. 👇",
+   "chain": [
+    "The shop outranking you usually isn't better at SEO. They just ask — every single job, on the spot.",
+    "Ask in person → text the link within the hour → one tap. Full system → booked-job.com/blog/get-more-google-reviews/"
+   ]
+  },
+  "mastodon": {
+   "text": "For #HomeService crews: Google reviews are the cheapest marketing you've got. Ask in person at peak gratitude (job just done), then text the direct link within the hour. Ask everyone — review-gating violates Google's policy. Full system:",
+   "tags": [
+    "#SmallBusiness",
+    "#Trades",
+    "#LocalSEO",
+    "#Reviews"
+   ]
+  },
+  "telegram": "💡 The cheapest marketing you're ignoring: Google reviews. Ask the second the job's done, then text the direct link within the hour. That's the whole trick. Full ask-system 👇\n\nhttps://booked-job.com/blog/get-more-google-reviews/",
+  "linkedin": "Reviews are the highest-ROI marketing most home-service shops completely ignore.\n\nThey decide who shows up in the map pack and who gets the call — yet most owners “mean to ask” and never build the habit.\n\nWhat works: ask in person at peak gratitude (the moment the job's done), then text the direct review link within the hour. One tap. Ask every customer — review-gating violates Google's policy.\n\nThe full playbook: https://booked-job.com/blog/get-more-google-reviews/"
+ },
+ "surviving-the-slow-season": {
+  "threads": {
+   "text": "Unpopular take: the slow season isn't a cash-flow problem. It's a planning problem you could see coming in July. Bank a cushion, sell weather-proof work, and — counterintuitively — INCREASE marketing while competitors go quiet. Wrong?\n\nhttps://booked-job.com/blog/surviving-the-slow-season/",
+   "chain": [
+    "Bank a 3–6 month cushion in the busy months — sweep a fixed % of every job before it feels spendable.",
+    "Don't go dark on marketing when it's slow; that's when it's cheapest. How do you handle the lull? 👇 https://booked-job.com/blog/surviving-the-slow-season/"
+   ]
+  },
+  "bluesky": {
+   "text": "The trades shops that panic in the slow season are the ones who assumed every busy month would last forever. Win it in the busy season: bank a 3–6mo cushion, sell maintenance plans, and don't go dark on marketing. 👇",
+   "chain": [
+    "Bank a cushion in the busy months and the slow season stops being scary — you can say no to bad jobs.",
+    "Keep marketing on when it's quiet; it's cheapest then. Full playbook → booked-job.com/blog/surviving-the-slow-season/"
+   ]
+  },
+  "mastodon": {
+   "text": "Cash-flow note for #HomeService owners: the slow season is won in the busy season. Bank a 3–6 month cushion, sell maintenance plans + weather-independent work, re-engage past customers, and keep marketing on while competitors go quiet. Full playbook:",
+   "tags": [
+    "#SmallBusiness",
+    "#Trades",
+    "#CashFlow",
+    "#Contractor"
+   ]
+  },
+  "telegram": "💡 Slow season is coming — win it now. Bank a 3–6mo cushion, sell maintenance plans, and DON'T cut marketing when it's quiet (competitors do; you shouldn't). Full cash-flow playbook 👇\n\nhttps://booked-job.com/blog/surviving-the-slow-season/",
+  "linkedin": "Every trade has a slow stretch. The owners who sail through don't get lucky — they plan in July for what January feels like.\n\nThe playbook: bank a 3–6 month cushion during peak months; sell the work that ignores weather (maintenance plans, opposite-season installs); mine past customers (your cheapest pipeline); and counterintuitively, INCREASE marketing while competitors go quiet and ad costs drop.\n\nThe full cash-flow playbook: https://booked-job.com/blog/surviving-the-slow-season/"
+ },
+ "what-marketing-actually-is": {
+  "threads": {
+   "text": "Most contractors think 'marketing' = a logo and some boosted posts. It's not. Marketing is a machine: a stranger with a problem goes in, a paid job comes out. Get found, get picked, get booked. Everything else is decoration. Agree?\n\nhttps://booked-job.com/blog/what-marketing-actually-is/",
+   "chain": [
+    "If a thing doesn't move someone closer to calling you, it isn't marketing — it's a hobby.",
+    "Three jobs only: get found, get picked, get booked. Fix the weakest one first. 👇 https://booked-job.com/blog/what-marketing-actually-is/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice the contractors who 'do marketing' often have the emptiest schedule? Marketing isn't a logo or a boosted post. It's the machine that turns a stranger into a paid job. 👇",
+   "chain": [
+    "Get found → get picked → get booked. That's the whole game. Everything else is decoration.",
+    "Find which of the three is leaking and pour your time there. Breakdown → https://booked-job.com/blog/what-marketing-actually-is/"
+   ]
+  },
+  "mastodon": {
+   "text": "For trades crews: 'marketing' isn't ads or a logo. It's the system that takes a stranger with a problem and turns them into a paid job — get found, get picked, get booked. Skip the decoration:",
+   "tags": [
+    "#SmallBusiness",
+    "#Trades",
+    "#Contractor",
+    "#Marketing"
+   ]
+  },
+  "telegram": "💡 Money check: 'marketing' isn't your logo. It's a machine — <b>get found, get picked, get booked.</b> If a task doesn't move someone closer to calling you, it's decoration 👇\n\nhttps://booked-job.com/blog/what-marketing-actually-is/",
+  "linkedin": "Most small contractors believe marketing is a logo, a boosted post, and a prayer.\n\nIt isn't. Marketing is a system that does three things: gets you found, gets you picked, gets you booked. A stranger with a problem goes in one end; a paid job comes out the other. Everything that doesn't move someone along that path is decoration.\n\nThe practical version, written for the trades: https://booked-job.com/blog/what-marketing-actually-is/"
+ },
+ "cost-per-lead-vs-cost-per-booked-job": {
+  "threads": {
+   "text": "CPL is the bait. CPBJ is the meal. A $35 lead that never books is the most expensive lead you'll ever buy. Stop judging lead sources by the sticker price. Agree, or am I missing something?\n\nhttps://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/",
+   "chain": [
+    "Cheap lead + low close rate = brutal cost per booked job. Pricey lead + high close = often cheaper per job.",
+    "Run the number on every source this month. It changes where your money goes. 👇 https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice the 'cheap' lead source is the one quietly bankrupting shops? Cost per lead lies. Cost per booked JOB tells the truth. 👇",
+   "chain": [
+    "A $35 lead at a 1-in-20 close rate costs ~$700 per actual paid job.",
+    "Judge every source by cost per booked job, never the sticker. Full math → https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/"
+   ]
+  },
+  "mastodon": {
+   "text": "Two numbers run your marketing: cost per lead (the bait) and cost per booked job (the meal). The cheapest lead is usually the most expensive job. Always judge by CPBJ:",
+   "tags": [
+    "#Trades",
+    "#SmallBusiness",
+    "#Contractor",
+    "#Marketing"
+   ]
+  },
+  "telegram": "💡 The only lead number that matters: <b>cost per booked job</b>, not cost per lead. A cheap lead that never closes is the priciest one there is. Do the math 👇\n\nhttps://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/",
+  "linkedin": "Every contractor I talk to knows their cost per lead. Almost none know their cost per booked job.\n\nThat's the number that matters. A $35 lead sounds cheap — until you factor in a 1-in-20 close rate and realize each paid job cost $700 to acquire. CPL is the bait. CPBJ is the meal. Judge every source — Angi, LSA, your own site — by the meal.\n\nHow to calculate it: https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/"
+ },
+ "where-customers-find-contractors": {
+  "threads": {
+   "text": "There are only 5 doors a customer comes through to find you: your Google profile, your website, paid ads, lead apps, reviews. Two are free and come first. Living behind ONE is a time bomb. Which door are you betting on?\n\nhttps://booked-job.com/blog/where-customers-find-contractors/",
+   "chain": [
+    "If a lead app is 90% of your work, you don't own a business — you rent one.",
+    "Free doors first (Google profile + reviews), then build out so no single one can switch you off. 👇 https://booked-job.com/blog/where-customers-find-contractors/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice shops that only get work one way are one algorithm change from zero? Customers find you through 5 doors. Most pros live behind one. 👇",
+   "chain": [
+    "The two free doors — your Google profile and your reviews — come first and cost nothing.",
+    "Spread across the doors so no single one can shut you off. Full map → https://booked-job.com/blog/where-customers-find-contractors/"
+   ]
+  },
+  "mastodon": {
+   "text": "Customers find contractors through 5 doors: Google profile, website, paid ads, lead apps, reviews. Two are free and come first. Depending on only one is a time bomb:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#SmallBusiness",
+    "#LocalSEO"
+   ]
+  },
+  "telegram": "💡 Customers reach you through <b>5 doors</b>: Google profile, website, ads, lead apps, reviews. Two are free. If one app is most of your work, you're renting your business 👇\n\nhttps://booked-job.com/blog/where-customers-find-contractors/",
+  "linkedin": "If 80% of your jobs come from one source, you don't own a business — you rent one, and the landlord can raise the rent any Tuesday.\n\nCustomers find contractors through five doors: your Google Business Profile, your website, paid ads, lead apps, and reviews. Two — your profile and your reviews — are free and come first. The goal isn't to work all five at once; it's to make sure no single one can shut you off.\n\nThe full breakdown: https://booked-job.com/blog/where-customers-find-contractors/"
+ },
+ "google-business-profile-for-contractors": {
+  "threads": {
+   "text": "The Google 'map pack' = the top 3 local results. Free real estate, only 3 spots. Your Google Business Profile is how you get in: right category, real photos, steady reviews. Most contractors leave it half-empty. Are you in the 3?\n\nhttps://booked-job.com/blog/google-business-profile-for-contractors/",
+   "chain": [
+    "The wrong primary category alone can keep you out of the pack entirely.",
+    "Claim it, fill everything, add real job photos, keep reviews flowing. 👇 https://booked-job.com/blog/google-business-profile-for-contractors/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice the same 3 contractors show up at the top of every local search? That's the map pack — and your Google Business Profile is the ticket in. 👇",
+   "chain": [
+    "3 free spots above everything else. Right category + photos + steady reviews wins them.",
+    "Most pros leave the profile half-built. Fix that → https://booked-job.com/blog/google-business-profile-for-contractors/"
+   ]
+  },
+  "mastodon": {
+   "text": "The local 'map pack' is 3 free spots at the top of search. Your Google Business Profile gets you in: claim it, pick the right primary category, add real photos, keep reviews coming:",
+   "tags": [
+    "#LocalSEO",
+    "#Trades",
+    "#Contractor",
+    "#SmallBusiness"
+   ]
+  },
+  "telegram": "💡 The <b>map pack</b> = 3 free spots at the top of local search. Your Google Business Profile is the ticket in. Right category + real photos + reviews. Most leave it half-empty 👇\n\nhttps://booked-job.com/blog/google-business-profile-for-contractors/",
+  "linkedin": "There are three spots at the top of every local search — the 'map pack' — and they sit above everything else, for free.\n\nYour Google Business Profile is how you compete for them. Most contractors claim it, add a phone number, and stop: wrong category, no photos, stale reviews. The ones who win treat it like a storefront — correct primary category, real job photos, a steady drip of reviews, services filled out.\n\nHow to set it up to win: https://booked-job.com/blog/google-business-profile-for-contractors/"
+ },
+ "contractor-website-one-job": {
+  "threads": {
+   "text": "Your website has ONE job: turn a visitor into a call. The average contractor site converts 2–3% — meaning 98% leave. Usually because the phone number isn't a giant tap-to-call button. Brutal. Fixable.\n\nhttps://booked-job.com/blog/contractor-website-one-job/",
+   "chain": [
+    "Slow + not mobile + hunting for the number = they're gone in 5 seconds.",
+    "Fast, mobile, huge tap-to-call, proof, one clear action. That's the whole list. 👇 https://booked-job.com/blog/contractor-website-one-job/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice 98% of people leave a contractor website without calling? It's not the colors. It's that the phone number isn't a giant tap-to-call button. 👇",
+   "chain": [
+    "Average site converts 2–3%. Most of the loss is friction: slow load, not mobile, no obvious next step.",
+    "Fast, mobile, tap-to-call, proof, one action. Fix → https://booked-job.com/blog/contractor-website-one-job/"
+   ]
+  },
+  "mastodon": {
+   "text": "A contractor website has one job: turn a visitor into a call. Most convert 2–3% (98% leave). The fix: fast, mobile, a giant tap-to-call number, proof, one clear action:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#WebDesign",
+    "#SmallBusiness"
+   ]
+  },
+  "telegram": "💡 Your website has <b>one job</b>: turn a visitor into a call. 98% leave — usually because the phone number isn't a giant tap-to-call button. Fast + mobile + proof + one action 👇\n\nhttps://booked-job.com/blog/contractor-website-one-job/",
+  "linkedin": "Your website has exactly one job: turn a visitor into a phone call.\n\nThe average contractor site converts 2–3%. That means 98 of 100 people leave without calling — and it's rarely about design. It's friction: slow page, not built for a phone, the visitor has to hunt for the number.\n\nFast load, mobile-first, a giant tap-to-call button, a few proof points, one clear action. That's a site that books work.\n\nThe fix, step by step: https://booked-job.com/blog/contractor-website-one-job/"
+ },
+ "why-reviews-win-the-call": {
+  "threads": {
+   "text": "Before a customer hears your voice, they've judged you on your reviews. Count, recency, and how you reply all matter. 140 recent reviews beats 12 — even at a higher price. Where's your count?\n\nhttps://booked-job.com/blog/why-reviews-win-the-call/",
+   "chain": [
+    "A calm, professional reply to a bad review sells harder than a 5-star.",
+    "Ask every happy customer the second the job's done. That's your pipeline. 👇 https://booked-job.com/blog/why-reviews-win-the-call/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice you pick the restaurant with 400 reviews over the one with 11 without thinking? Your customers do that to you. 👇",
+   "chain": [
+    "Count, recency, and your responses decide the call before you ever pick up.",
+    "140 recent reviews beats 12 at a higher price. How to close the gap → https://booked-job.com/blog/why-reviews-win-the-call/"
+   ]
+  },
+  "mastodon": {
+   "text": "Customers judge you by your reviews before they ever call. Count, recency, and how you respond all matter — 140 recent reviews beats 12 even at a higher price:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#Reviews",
+    "#SmallBusiness"
+   ]
+  },
+  "telegram": "💡 Customers judge you on <b>reviews</b> before they hear your voice. 140 recent beats 12 — even at a higher price. Ask every happy customer the second the job's done 👇\n\nhttps://booked-job.com/blog/why-reviews-win-the-call/",
+  "linkedin": "By the time a homeowner calls, they've already decided whether they trust you — based entirely on your reviews.\n\nThree things move that decision: how many you have, how recent they are, and how you respond to the bad ones. A shop with 140 recent reviews beats one with 12, even at a higher price, because the crowd feels safer. The lever most ignore: a calm reply to a one-star sells harder than any five-star.\n\nHow to build the review engine: https://booked-job.com/blog/why-reviews-win-the-call/"
+ },
+ "should-you-pay-for-leads": {
+  "threads": {
+   "text": "Should you pay for leads? Sometimes yes, often a trap. LSA = pay per real lead, high intent. Shared apps = pay to footrace 8 other trucks. The test is the same for both: cost per BOOKED job, never the sticker.\n\nhttps://booked-job.com/blog/should-you-pay-for-leads/",
+   "chain": [
+    "Google Local Services Ads charge per actual lead, and you only show if you're vetted.",
+    "Shared-lead apps resell the same request to everyone. Know the difference before you spend. 👇 https://booked-job.com/blog/should-you-pay-for-leads/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice 'buy leads' advice never mentions close rates? Some paid leads are gold (LSA), some are a footrace (shared apps). Same test for both. 👇",
+   "chain": [
+    "Judge every source by cost per booked job, not the price of the lead.",
+    "LSA vs Angi vs Thumbtack, honestly compared → https://booked-job.com/blog/should-you-pay-for-leads/"
+   ]
+  },
+  "mastodon": {
+   "text": "Should contractors pay for leads? Sometimes. Local Services Ads pay per real, high-intent lead; shared apps put you in a footrace. Judge every source by cost per booked job:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#SmallBusiness",
+    "#Marketing"
+   ]
+  },
+  "telegram": "💡 Paid leads: sometimes worth it, often a trap. <b>LSA</b> = pay per real lead. <b>Shared apps</b> = footrace with 8 trucks. Test both by cost per booked job 👇\n\nhttps://booked-job.com/blog/should-you-pay-for-leads/",
+  "linkedin": "\"Should I pay for leads?\" is the wrong question. The right one: what does a booked job from this source actually cost me?\n\nNot all paid leads are equal. Google Local Services Ads charge per real, high-intent lead and only show vetted businesses. Shared-lead apps sell the same request to a half-dozen contractors and let you race for it. One can be the cheapest customer you'll find; the other can quietly drain you.\n\nThe honest comparison: https://booked-job.com/blog/should-you-pay-for-leads/"
+ },
+ "google-ads-without-burning-cash": {
+  "threads": {
+   "text": "Google Ads put you in front of someone searching for your trade RIGHT NOW. They also torch money fast if you wing it. Rule 1: answer every call. Rule 2: start tiny + tight. Rule 3: kill the losers.\n\nhttps://booked-job.com/blog/google-ads-without-burning-cash/",
+   "chain": [
+    "Most wasted ad spend is just missed calls — you paid for the click, then let it ring.",
+    "Small budget, tight keywords, track cost per booked job, cut what doesn't pay. 👇 https://booked-job.com/blog/google-ads-without-burning-cash/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice the contractors who 'tried Google Ads and it didn't work' usually never answered the phone? 👇",
+   "chain": [
+    "Ads put you in front of right-now intent. Then half the spend dies in voicemail.",
+    "Tiny budget, tight keywords, answer everything, kill losers. Starter guide → https://booked-job.com/blog/google-ads-without-burning-cash/"
+   ]
+  },
+  "mastodon": {
+   "text": "Google Ads put you in front of someone searching for your trade right now — and burn cash fast if you wing it. Answer every call, start tiny with tight keywords, track cost per booked job, kill the losers:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#GoogleAds",
+    "#SmallBusiness"
+   ]
+  },
+  "telegram": "💡 Google Ads can work — or torch your money. The fixes: <b>answer every call</b>, start tiny + tight keywords, track cost per booked job, kill the losers 👇\n\nhttps://booked-job.com/blog/google-ads-without-burning-cash/",
+  "linkedin": "Google Ads are the fastest way to get in front of someone who needs your trade right now — and the fastest way to burn a budget if you treat them casually.\n\nThe contractors who say 'ads don't work' almost always made one mistake: they didn't answer the phone. You paid for the click, then let it go to voicemail. Four rules: answer every call, start with a tiny budget and tight keywords, track cost per booked job, kill what doesn't pay.\n\nHow to spend your first dollar safely: https://booked-job.com/blog/google-ads-without-burning-cash/"
+ },
+ "get-found-by-google-and-ai": {
+  "threads": {
+   "text": "Getting found used to mean Google. Now ~1 in 3 people ask an AI tool who to hire. Good news: the SAME foundation wins both — strong profile, real reviews, a clear site that answers questions.\n\nhttps://booked-job.com/blog/get-found-by-google-and-ai/",
+   "chain": [
+    "AI tools recommend the businesses that are well-documented and well-reviewed online.",
+    "Build the foundation once, get found in Google AND ChatGPT/Perplexity. 👇 https://booked-job.com/blog/get-found-by-google-and-ai/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice people now ask ChatGPT 'who's a good plumber near me'? Getting found isn't just Google anymore. 👇",
+   "chain": [
+    "The same foundation wins both: solid profile, real reviews, a site that answers real questions.",
+    "SEO + AEO for contractors, plain version → https://booked-job.com/blog/get-found-by-google-and-ai/"
+   ]
+  },
+  "mastodon": {
+   "text": "Getting found used to mean Google. Now ~a third of people ask an AI tool who to hire. The same foundation wins both: a strong profile, real reviews, a clear website that answers questions:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#SEO",
+    "#AI"
+   ]
+  },
+  "telegram": "💡 Used to be: get found on Google. Now ~1 in 3 ask an <b>AI tool</b> who to hire. Same foundation wins both — profile, reviews, a site that answers questions 👇\n\nhttps://booked-job.com/blog/get-found-by-google-and-ai/",
+  "linkedin": "A third of your future customers won't Google you. They'll ask an AI — ChatGPT, Perplexity, Google's AI overview — 'who's a good [trade] near me?'\n\nThe encouraging part: you don't need a separate strategy. AI tools recommend the same businesses that rank well — complete profile, real reviews, a website that clearly answers the questions people ask. Build that foundation once and you get found in both places.\n\nThe SEO + AEO playbook for contractors: https://booked-job.com/blog/get-found-by-google-and-ai/"
+ },
+ "marketing-scorecard-for-contractors": {
+  "threads": {
+   "text": "If you can't see your numbers, you'll get fleeced. Track 5 monthly: cost per lead, cost per booked job, close rate, review count, response time. Color each green/yellow/red. That's the whole scorecard.\n\nhttps://booked-job.com/blog/marketing-scorecard-for-contractors/",
+   "chain": [
+    "The shops that get robbed by 'marketing experts' are the ones who never check the math.",
+    "Five numbers, once a month, on one page. Template inside. 👇 https://booked-job.com/blog/marketing-scorecard-for-contractors/"
+   ]
+  },
+  "bluesky": {
+   "text": "Ever notice the contractors who get burned by marketing companies are the ones who never tracked a single number? 👇",
+   "chain": [
+    "Five numbers monthly: CPL, cost per booked job, close rate, review count, response time.",
+    "Color them green/yellow/red. Knowing your numbers makes you un-fleeceable → https://booked-job.com/blog/marketing-scorecard-for-contractors/"
+   ]
+  },
+  "mastodon": {
+   "text": "Track five numbers monthly and you become impossible to fleece: cost per lead, cost per booked job, close rate, review count, response time. Color each green/yellow/red:",
+   "tags": [
+    "#Trades",
+    "#Contractor",
+    "#SmallBusiness",
+    "#Marketing"
+   ]
+  },
+  "telegram": "💡 Five numbers, once a month, makes you un-fleeceable: <b>CPL, cost per booked job, close rate, review count, response time.</b> Green/yellow/red each 👇\n\nhttps://booked-job.com/blog/marketing-scorecard-for-contractors/",
+  "linkedin": "The contractors who get fleeced by marketing companies have one thing in common: they never tracked a single number, so they couldn't tell what was working.\n\nFive numbers, reviewed monthly, fix that: cost per lead, cost per booked job, close rate, review count, response time. Color each green, yellow, or red. It takes fifteen minutes and turns every sales pitch from 'trust me' into 'show me the number.'\n\nThe scorecard, with a template: https://booked-job.com/blog/marketing-scorecard-for-contractors/"
+ }
 }
