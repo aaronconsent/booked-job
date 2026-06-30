@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:00",
+  "updated": "2026-06-29T22:00",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -17,10 +17,10 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 1,
+        "current": 4,
         "target": 12,
-        "pct": 8,
-        "on_track": false
+        "pct": 33,
+        "on_track": true
       },
       {
         "label": "Posts shipped",
@@ -215,8 +215,8 @@
     "connected": true,
     "subscribers": 0,
     "views": 1,
-    "videos": 1,
-    "shorts": 1
+    "videos": 4,
+    "shorts": 4
   },
   "instagram": {
     "connected": true,
@@ -436,9 +436,9 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 4,
+      "count": 14,
       "unit": "articles",
-      "grade": "D"
+      "grade": "C"
     },
     {
       "name": "Facebook",
@@ -592,8 +592,8 @@
       },
       {
         "label": "Total Posts",
-        "value": 23,
-        "grade": "D"
+        "value": 33,
+        "grade": "C"
       },
       {
         "label": "Total Reach",
@@ -612,6 +612,6 @@
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 23 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 33 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }
