@@ -41,12 +41,28 @@
       "comment": "Listen free \ud83d\udc47"
     },
     {
+      "id": "art-what-marketing",
+      "archetype": "course-promo",
+      "caption": "Most contractors think 'marketing' is a logo and a boosted post. It's not. It's a machine: get found, get picked, get booked. Everything else is decoration. \ud83d\udd27",
+      "image": "content/course/thumbs/lesson-01.png",
+      "link": "https://booked-job.com/blog/what-marketing-actually-is/",
+      "comment": "What marketing actually is \ud83d\udc47"
+    },
+    {
       "id": "pricing-pick-two",
       "archetype": "pricing-drama",
       "caption": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
       "image": "content/assets/pricing-pick-two.png",
       "link": null,
       "comment": null
+    },
+    {
+      "id": "art-cpl",
+      "archetype": "course-promo",
+      "caption": "Your $35 lead isn't $35. Once you count the ones that never book, the real cost of a booked job is closer to $700. Here's the math nobody shows you.",
+      "image": "content/course/thumbs/lesson-02.png",
+      "link": "https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/",
+      "comment": "The 2 numbers \ud83d\udc47"
     },
     {
       "id": "pricing-insurance",
@@ -57,12 +73,28 @@
       "comment": null
     },
     {
+      "id": "art-5doors",
+      "archetype": "course-promo",
+      "caption": "Customers find you through 5 doors. If one lead app is most of your work, you don't own a business \u2014 you rent one. Spread out before they shut you off.",
+      "image": "content/course/thumbs/lesson-03.png",
+      "link": "https://booked-job.com/blog/where-customers-find-contractors/",
+      "comment": "The 5 doors \ud83d\udc47"
+    },
+    {
       "id": "pricing-low-bid",
       "archetype": "pricing-drama",
       "caption": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
       "image": "content/assets/pricing-low-bid.png",
       "link": null,
       "comment": null
+    },
+    {
+      "id": "art-gbp",
+      "archetype": "course-promo",
+      "caption": "There are 3 free spots at the top of every local search. Your Google Business Profile is the ticket in \u2014 and most contractors leave it half-empty.",
+      "image": "content/course/thumbs/lesson-04.png",
+      "link": "https://booked-job.com/blog/google-business-profile-for-contractors/",
+      "comment": "Win the map pack \ud83d\udc47"
     },
     {
       "id": "lastguy-worst",
@@ -73,12 +105,28 @@
       "comment": null
     },
     {
+      "id": "art-website",
+      "archetype": "course-promo",
+      "caption": "98% of people leave a contractor website without calling. It's not the colors \u2014 it's that the phone number isn't a giant tap-to-call button. Fix that.",
+      "image": "content/course/thumbs/lesson-05.png",
+      "link": "https://booked-job.com/blog/contractor-website-one-job/",
+      "comment": "The fix \ud83d\udc47"
+    },
+    {
       "id": "lastguy-rate",
       "archetype": "hack-job",
       "caption": "Found behind the drywall this week: a garden hose doing a P-trap's job. Rate the previous install 1\u201310. I'll start \u2014 it's on fire. \ud83d\udd25",
       "image": null,
       "link": null,
       "comment": null
+    },
+    {
+      "id": "art-reviews-win",
+      "archetype": "course-promo",
+      "caption": "Before a customer ever hears your voice, they've judged you on your reviews. 140 recent reviews beats 12 \u2014 even at a higher price.",
+      "image": "content/course/thumbs/lesson-06.png",
+      "link": "https://booked-job.com/blog/why-reviews-win-the-call/",
+      "comment": "Why reviews win \ud83d\udc47"
     },
     {
       "id": "homeowner-lie",
@@ -89,12 +137,28 @@
       "comment": null
     },
     {
+      "id": "art-pay-leads",
+      "archetype": "course-promo",
+      "caption": "Should you pay for leads? Sometimes gold (LSA), sometimes a footrace (Angi). The test is the same: cost per BOOKED job, never the sticker price.",
+      "image": "content/course/thumbs/lesson-07.png",
+      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
+      "comment": "The honest math \ud83d\udc47"
+    },
+    {
       "id": "homeowner-drain",
       "archetype": "homeowner-says",
       "caption": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
       "image": "content/assets/homeowner-drain.png",
       "link": null,
       "comment": null
+    },
+    {
+      "id": "art-google-ads",
+      "archetype": "course-promo",
+      "caption": "Most contractors who 'tried Google Ads' just never answered the phone. Answer every call, start tiny, kill the losers. Here's how to not get burned.",
+      "image": "content/course/thumbs/lesson-08.png",
+      "link": "https://booked-job.com/blog/google-ads-without-burning-cash/",
+      "comment": "Spend your first ad dollar \ud83d\udc47"
     },
     {
       "id": "humor-10mm",
@@ -105,12 +169,28 @@
       "comment": null
     },
     {
+      "id": "art-google-ai",
+      "archetype": "course-promo",
+      "caption": "A third of your future customers won't Google you \u2014 they'll ask ChatGPT who to hire. Good news: the same foundation wins both.",
+      "image": "content/course/thumbs/lesson-09.png",
+      "link": "https://booked-job.com/blog/get-found-by-google-and-ai/",
+      "comment": "SEO + AI \ud83d\udc47"
+    },
+    {
       "id": "humor-that-guy",
       "archetype": "trade-humor",
       "caption": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
+    },
+    {
+      "id": "art-scorecard",
+      "archetype": "course-promo",
+      "caption": "Five numbers, once a month, makes you impossible to fleece: cost per lead, cost per booked job, close rate, review count, response time.",
+      "image": "content/course/thumbs/lesson-10.png",
+      "link": "https://booked-job.com/blog/marketing-scorecard-for-contractors/",
+      "comment": "The scorecard \ud83d\udc47"
     },
     {
       "id": "tools-mil-vs-dewalt",
@@ -121,12 +201,28 @@
       "comment": null
     },
     {
+      "id": "art-speed-to-lead",
+      "archetype": "course-promo",
+      "caption": "You don't lose most jobs on price. You lose them on response time. The first contractor to call back usually wins \u2014 even if he's worse than you.",
+      "image": "content/course/thumbs/lesson-08.png",
+      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
+      "comment": "Speed to lead \ud83d\udc47"
+    },
+    {
       "id": "biz-slow-season",
       "archetype": "business",
       "caption": "Slow-season survival rule #1: the time to market is when you're busy, not when the phone stops. The work you book in summer is what fills January. What are you doing now to stay booked through winter? \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
+    },
+    {
+      "id": "art-referrals",
+      "archetype": "course-promo",
+      "caption": "Your cheapest leads aren't on Angi. They're the customers you already made happy. Most contractors never ask \u2014 then complain leads are expensive.",
+      "image": "content/course/thumbs/lesson-06.png",
+      "link": "https://booked-job.com/blog/contractor-referrals-and-repeat-customers/",
+      "comment": "Referrals \ud83d\udc47"
     },
     {
       "id": "biz-money-leaks",
@@ -137,12 +233,28 @@
       "comment": null
     },
     {
+      "id": "podcast-ep2",
+      "archetype": "podcast-promo",
+      "caption": "New episode of Get Booked, Not F***ed: why the guy with 140 reviews beats you even when he's worse \u2014 plus round 2 of Porno or Plumbing. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic",
+      "image": "site/podcast/cover.jpg",
+      "link": "https://booked-job.com/podcast/",
+      "comment": "Listen free \ud83d\udc47"
+    },
+    {
       "id": "labor-show-up",
       "archetype": "owner-solidarity",
       "caption": "Posted for a helper. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem \u2014 they have a \u201cshow up\u201d problem. Who's actually hiring right now? Drop your city. \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
+    },
+    {
+      "id": "podcast-ep3",
+      "archetype": "podcast-promo",
+      "caption": "New episode: you don't lose jobs on price, you lose them on response time. 'Answer Your Phone' \u2014 speed to lead, plus a roofing company gets roasted. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic",
+      "image": "site/podcast/cover.jpg",
+      "link": "https://booked-job.com/podcast/",
+      "comment": "Listen free \ud83d\udc47"
     },
     {
       "id": "ugc-before-after",
