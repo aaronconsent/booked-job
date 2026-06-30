@@ -65,11 +65,19 @@ def main():
                 log(f"skip: only {gap:.0f}h since last reel"); return
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")
-    log(f"building reel '{nxt['id']}' …")
-    try:
-        make_reel.build(nxt["hook"], nxt["script"], out, backend=BACKEND)
-    except SystemExit as e:
-        log(f"BUILD FAILED '{nxt['id']}': {e}"); return
+    pre = nxt.get("video")
+    if pre:   # pre-rendered clip (course shorts, podcast clips) — post as-is, no TTS/render
+        src = pre if os.path.isabs(pre) else os.path.join(ROOT, pre)
+        if not os.path.exists(src):
+            log(f"PRE-RENDERED MISSING '{nxt['id']}': {src}"); return
+        out = src
+        log(f"using pre-rendered video '{nxt['id']}' -> {out}")
+    else:
+        log(f"building reel '{nxt['id']}' …")
+        try:
+            make_reel.build(nxt["hook"], nxt["script"], out, backend=BACKEND)
+        except SystemExit as e:
+            log(f"BUILD FAILED '{nxt['id']}': {e}"); return
 
     if a.dry_run:
         log(f"DRY-RUN built {out}, not publishing"); return

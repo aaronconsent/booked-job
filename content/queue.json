@@ -1,9 +1,49 @@
 {
   "posts": [
     {
+      "id": "course-angi",
+      "archetype": "course-promo",
+      "caption": "Angi sells the same \"lead\" to a dozen guys, then you race each other to the bottom on price. We did the math on what a booked job actually costs you. It's worse than you think. \ud83d\udd27",
+      "image": "site/img/is-angi-worth-it-story.png",
+      "link": "https://booked-job.com/blog/is-angi-worth-it/",
+      "comment": "Full breakdown + free calculator \ud83d\udc47"
+    },
+    {
+      "id": "course-pricing",
+      "archetype": "course-promo",
+      "caption": "Pricing a job isn't a number you pull out of the air. It's a number you can defend when the homeowner flinches. Here's how to build one that holds.",
+      "image": "site/img/how-to-price-a-job-story.png",
+      "link": "https://booked-job.com/blog/how-to-price-a-job/",
+      "comment": "How to price a job \ud83d\udc47"
+    },
+    {
+      "id": "course-reviews",
+      "archetype": "course-promo",
+      "caption": "Two shops, same town, same price. One's got 12 reviews, the other's got 140. You already know who gets the call. Here's how to close that gap \u2014 free.",
+      "image": "site/img/get-more-google-reviews-story.png",
+      "link": "https://booked-job.com/blog/get-more-google-reviews/",
+      "comment": "Get more reviews \ud83d\udc47"
+    },
+    {
+      "id": "course-slowseason",
+      "archetype": "course-promo",
+      "caption": "The slow season isn't bad luck. It's a marketing problem you can see coming a mile away. Here's how to flatten it out before it hits.",
+      "image": "site/img/surviving-the-slow-season-story.png",
+      "link": "https://booked-job.com/blog/surviving-the-slow-season/",
+      "comment": "Surviving the slow season \ud83d\udc47"
+    },
+    {
+      "id": "podcast-launch",
+      "archetype": "podcast-promo",
+      "caption": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two old tradesmen and an idiot apprentice talking real shop marketing. No fluff, all bite, occasionally educational. Listen free. \ud83c\udfa7",
+      "image": "site/podcast/cover.jpg",
+      "link": "https://booked-job.com/podcast/",
+      "comment": "Listen free \ud83d\udc47"
+    },
+    {
       "id": "pricing-pick-two",
       "archetype": "pricing-drama",
-      "caption": "Quoting, in one sentence. What would you add to the list? 👇",
+      "caption": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
       "image": "content/assets/pricing-pick-two.png",
       "link": null,
       "comment": null
@@ -11,7 +51,7 @@
     {
       "id": "pricing-insurance",
       "archetype": "pricing-drama",
-      "caption": "Every shop has had this exact conversation. 🤝",
+      "caption": "Every shop has had this exact conversation. \ud83e\udd1d",
       "image": "content/assets/pricing-insurance.png",
       "link": null,
       "comment": null
@@ -27,7 +67,7 @@
     {
       "id": "lastguy-worst",
       "archetype": "hack-job",
-      "caption": "What's the worst “the last guy did it” job you've walked into? Photos absolutely encouraged. We'll feature the best (worst) ones. 👇",
+      "caption": "What's the worst \u201cthe last guy did it\u201d job you've walked into? Photos absolutely encouraged. We'll feature the best (worst) ones. \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
@@ -35,7 +75,7 @@
     {
       "id": "lastguy-rate",
       "archetype": "hack-job",
-      "caption": "Found behind the drywall this week: a garden hose doing a P-trap's job. Rate the previous install 1–10. I'll start — it's on fire. 🔥",
+      "caption": "Found behind the drywall this week: a garden hose doing a P-trap's job. Rate the previous install 1\u201310. I'll start \u2014 it's on fire. \ud83d\udd25",
       "image": null,
       "link": null,
       "comment": null
@@ -43,7 +83,7 @@
     {
       "id": "homeowner-lie",
       "archetype": "homeowner-says",
-      "caption": "Drop the runner-up below. 👇",
+      "caption": "Drop the runner-up below. \ud83d\udc47",
       "image": "content/assets/homeowner-lie.png",
       "link": null,
       "comment": null
@@ -51,7 +91,7 @@
     {
       "id": "homeowner-drain",
       "archetype": "homeowner-says",
-      "caption": "Plumbers, you're up first. The rest of us are not ready. 👇",
+      "caption": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
       "image": "content/assets/homeowner-drain.png",
       "link": null,
       "comment": null
@@ -67,7 +107,7 @@
     {
       "id": "humor-that-guy",
       "archetype": "trade-humor",
-      "caption": "Every jobsite has “that guy.” What's his signature move? 👇",
+      "caption": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
@@ -75,7 +115,7 @@
     {
       "id": "tools-mil-vs-dewalt",
       "archetype": "tool-wars",
-      "caption": "Settle it in the comments. We're not picking sides. (Yes we are.) 👇",
+      "caption": "Settle it in the comments. We're not picking sides. (Yes we are.) \ud83d\udc47",
       "image": "content/assets/tools-mil-vs-dewalt.png",
       "link": null,
       "comment": null
@@ -83,7 +123,7 @@
     {
       "id": "biz-slow-season",
       "archetype": "business",
-      "caption": "Slow-season survival rule #1: the time to market is when you're busy, not when the phone stops. The work you book in summer is what fills January. What are you doing now to stay booked through winter? 👇",
+      "caption": "Slow-season survival rule #1: the time to market is when you're busy, not when the phone stops. The work you book in summer is what fills January. What are you doing now to stay booked through winter? \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
@@ -91,7 +131,7 @@
     {
       "id": "biz-money-leaks",
       "archetype": "business",
-      "caption": "Three ways shops bleed money they never see:\n\n1. Unbilled change orders\n2. “Quick favors” that aren't quick\n3. Not charging for the drive\n\nWhich one's getting you this year? 👇",
+      "caption": "Three ways shops bleed money they never see:\n\n1. Unbilled change orders\n2. \u201cQuick favors\u201d that aren't quick\n3. Not charging for the drive\n\nWhich one's getting you this year? \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
@@ -99,7 +139,7 @@
     {
       "id": "labor-show-up",
       "archetype": "owner-solidarity",
-      "caption": "Posted for a helper. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem — they have a “show up” problem. Who's actually hiring right now? Drop your city. 👇",
+      "caption": "Posted for a helper. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem \u2014 they have a \u201cshow up\u201d problem. Who's actually hiring right now? Drop your city. \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
@@ -107,7 +147,7 @@
     {
       "id": "ugc-before-after",
       "archetype": "before-after",
-      "caption": "Drop your best before/after. Any trade — roof, panel, re-pipe, install, cleanout. Let's see the work that doesn't get enough credit. 👇",
+      "caption": "Drop your best before/after. Any trade \u2014 roof, panel, re-pipe, install, cleanout. Let's see the work that doesn't get enough credit. \ud83d\udc47",
       "image": null,
       "link": null,
       "comment": null
