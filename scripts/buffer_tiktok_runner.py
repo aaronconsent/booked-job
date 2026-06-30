@@ -80,7 +80,9 @@ def main():
         try:
             buffer_publish.queue_video(e["BUFFER_TIKTOK_CHANNEL"], caption_for(vid), url, title=vid.replace("-", " ").title())
         except Exception as ex:
-            log(f"TikTok queue failed for '{vid}': {ex}"); return
+            if "LimitReached" in str(ex):
+                log("TikTok Buffer queue full — retry next run."); return
+            log(f"TikTok queue failed for '{vid}': {str(ex)[:160]}"); return
         done.add(vid); state["tiktok"] = list(done)
         json.dump(state, open(STATE, "w"), indent=2)
         log(f"QUEUED '{vid}' to TikTok via Buffer -> {url}")
@@ -89,8 +91,8 @@ def main():
             log_change.add("site", f"Queued to TikTok (Buffer): {vid}")
         except Exception:
             pass
-        return
-    log("no new live videos to post to TikTok.")
+        # loop-to-fill: keep going to top up the queue (no early return)
+    log("topped up TikTok queue (or nothing new live).")
 
 
 if __name__ == "__main__":
