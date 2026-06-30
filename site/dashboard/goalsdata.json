@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T16:01",
+  "generated": "2026-06-30T16:43",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -43,10 +43,10 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": null,
+        "current": 84,
         "target": 150,
-        "status": "nodata",
-        "needs": "analytics"
+        "status": "red",
+        "needs": null
       }
     ],
     "weekly": [
@@ -115,10 +115,10 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": null,
+        "current": 1212,
         "target": 1200,
-        "status": "nodata",
-        "needs": "analytics"
+        "status": "green",
+        "needs": null
       }
     ],
     "monthly": [
@@ -197,17 +197,17 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": null,
+        "current": 182,
         "target": 6000,
-        "status": "nodata",
-        "needs": "analytics"
+        "status": "red",
+        "needs": null
       }
     ]
   },
   "queues": {
     "fb_ig_posts": 92,
     "reels": 14,
-    "staged_articles": 0
+    "staged_articles": 14
   },
   "counters": {
     "articles": 62,
@@ -220,17 +220,6 @@
     "email_subs": 5,
     "traffic": 0
   },
-  "top_move": "Run another branch-series workflow batch and stage it to drip 2/day.",
-  "prompts": [
-    {
-      "title": "\ud83d\udcdd Article pipeline thin",
-      "why": "Only 0 articles staged to drip.",
-      "prompt": "Run another branch-series workflow batch and stage it to drip 2/day."
-    },
-    {
-      "title": "\ud83c\udf10 Website traffic isn't tracked",
-      "why": "No analytics source is connected, so traffic goals show no data.",
-      "prompt": "Set up Cloudflare Web Analytics (I'll add a CF token) so website visits show on the Goals page and feed the nightly review."
-    }
-  ]
+  "top_move": "On pace \u2014 keep the machine running and review channel winners.",
+  "prompts": []
 }
