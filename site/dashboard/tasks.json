@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-30",
   "daily": [
     {
       "id": "fb-share",
@@ -50,51 +50,6 @@
       "note": "Replies are THE Threads growth signal. Add a sharp take or a question — be present in the first 30 min.",
       "link": "https://www.threads.net/search?q=contractor%20business",
       "est": "12 min"
-    },
-    {
-      "id": "bluesky-q0",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @eridowd.bsky.social: “Mediocrity in trades is fine, incompetence is not.  Anyone who completes their training an…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/eridowd.bsky.social/post/3moxp7tzj7k2e",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q1",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @davidbaginskiy.bsky.social: “What's something that looks impressive from the outside but is harder than people realize?…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/davidbaginskiy.bsky.social/post/3mp2hevetmp2v",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q2",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @thedishwasher.bsky.social: “Is the idea of maximum contract “anti-labor”? Yes  But in sports there are a lot of things…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/thedishwasher.bsky.social/post/3mp55dhkvas25",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @stylelib.org: “Reneva –  Small Business HTML Template   https://themes.stylelib.org/?p=19089   #architect…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @aptora.bsky.social: “Leave the guesswork behind, and let the numbers lead the way.   With Contractor Compass 36…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c",
-      "est": "2 min"
     }
   ],
   "setup": [

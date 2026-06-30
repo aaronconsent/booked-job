@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T16:43",
+  "generated": "2026-06-30T17:27",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -43,10 +43,10 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 84,
+        "current": null,
         "target": 150,
-        "status": "red",
-        "needs": null
+        "status": "nodata",
+        "needs": "analytics"
       }
     ],
     "weekly": [
@@ -115,10 +115,10 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1212,
+        "current": null,
         "target": 1200,
-        "status": "green",
-        "needs": null
+        "status": "nodata",
+        "needs": "analytics"
       }
     ],
     "monthly": [
@@ -197,22 +197,22 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 182,
+        "current": null,
         "target": 6000,
-        "status": "red",
-        "needs": null
+        "status": "nodata",
+        "needs": "analytics"
       }
     ]
   },
   "queues": {
-    "fb_ig_posts": 92,
+    "fb_ig_posts": 93,
     "reels": 14,
     "staged_articles": 14
   },
   "counters": {
     "articles": 62,
     "reels": 1,
-    "social_posts": 29,
+    "social_posts": 23,
     "followers": 5,
     "engagement": 2,
     "yt_views": 2,
@@ -220,6 +220,12 @@
     "email_subs": 5,
     "traffic": 0
   },
-  "top_move": "On pace \u2014 keep the machine running and review channel winners.",
-  "prompts": []
+  "top_move": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page.",
+  "prompts": [
+    {
+      "title": "\ud83c\udf10 Website traffic isn't tracked yet",
+      "why": "No Cloudflare token connected, so traffic goals show no data.",
+      "prompt": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page."
+    }
+  ]
 }
