@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Booked Job — Goals</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Hanken+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="dash.css" />
+<style>
+  .topmove{background:linear-gradient(135deg,#1E2227,#15171A);border:1px solid var(--hi,#FF6A00);border-radius:14px;padding:18px 20px;margin:6px 0 20px}
+  .topmove .lbl{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--hi,#FF6A00);font-weight:700}
+  .topmove .mv{font-size:17px;margin-top:6px;line-height:1.45}
+  .cadrow{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin-bottom:8px}
+  .g{background:var(--asphalt-2,#1E2227);border:1px solid var(--steel,#2A2F36);border-radius:12px;padding:13px 15px}
+  .g .top{display:flex;justify-content:space-between;align-items:baseline}
+  .g .nm{font-weight:600;font-size:14px}.g .cat{font-size:11px;color:#8A8F97;text-transform:uppercase;letter-spacing:.06em}
+  .g .num{font-family:'JetBrains Mono',monospace;font-size:14px}.g .num b{font-size:17px}
+  .bar{height:8px;background:#2A2F36;border-radius:6px;margin-top:9px;overflow:hidden}
+  .bar .fill{height:100%;border-radius:6px;transition:width .6s}
+  .green .fill{background:#34C759}.yellow .fill{background:#FFD23F}.red .fill{background:#FF6A00}.nodata .fill{background:#3A3F47}
+  .nodata .num{color:#8A8F97}
+  .pcard{background:var(--asphalt-2,#1E2227);border:1px solid var(--steel,#2A2F36);border-left:3px solid var(--hi,#FF6A00);border-radius:12px;padding:15px 17px;margin-bottom:12px}
+  .pcard .pt{font-weight:700;font-size:15px}.pcard .pw{color:#9aa0a8;font-size:13px;margin:4px 0 10px}
+  .pcard .pp{background:#15171A;border:1px solid #2A2F36;border-radius:8px;padding:10px 12px;font-size:13px;color:#dfe3e8;line-height:1.5}
+  .pcard button{margin-top:9px;background:var(--hi,#FF6A00);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-weight:700;font-size:13px;cursor:pointer}
+  .pcard button:hover{background:#FF8A2B}
+  .sub2{color:#8A8F97;font-size:13px;margin:-4px 0 16px}
+  .qchips{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 20px}
+  .qchip{background:var(--asphalt-2,#1E2227);border:1px solid var(--steel,#2A2F36);border-radius:10px;padding:9px 13px;font-size:13px}
+  .qchip b{color:var(--hi,#FF6A00);font-size:16px;margin-right:5px}
+</style>
+</head>
+<body>
+<div class="tape"></div>
+<header><div class="wrap">
+  <div class="htop">
+    <div class="brand"><div class="mark">B</div><div><h1>BOOKED<span>JOB</span> · GOALS</h1><div class="sub">Lofty targets · nightly analytics · gap prompts</div></div></div>
+    <div class="live"><span class="dot"></span> Updated <span id="gen">—</span></div>
+  </div>
+  <nav class="nav">
+    <a href="index.html">Home</a><a href="tasks.html">Tasks</a><a href="robots.html">Robots</a>
+    <a href="channels.html">Channels</a><a href="content.html">Content</a>
+    <a href="strategy.html">Strategy</a><a href="goals.html" class="active">Goals</a><a href="review.html">Review</a>
+  </nav>
+</div></header>
+
+<main class="wrap">
+  <div class="topmove"><div class="lbl">🎯 Tonight's #1 move</div><div class="mv" id="topmove">Loading the nightly review…</div></div>
+  <div class="eyebrow">Queue health</div><div class="qchips" id="queues"></div>
+  <div class="eyebrow">Daily goals</div><div class="cadrow" id="daily"></div>
+  <div class="eyebrow">Weekly goals</div><div class="cadrow" id="weekly"></div>
+  <div class="eyebrow">Monthly goals <span id="period" class="sub2"></span></div><div class="cadrow" id="monthly"></div>
+  <div class="eyebrow">🛠️ Recommendations &amp; prompts</div>
+  <div class="sub2">Copy a prompt, bring it back to Claude, and act on it. Refreshes nightly.</div>
+  <div id="prompts"></div>
+  <footer style="color:#8A8F97;font-size:13px;padding:24px 0">Booked Job · Goals refresh every night from real analytics. 🛠️</footer>
+</main>
+
+<script>
+function fmt(n){return n>=1000?(n/1000).toFixed(n%1000?1:0)+'k':n}
+function goalCard(g){
+  var nd=g.status==='nodata'||g.current===null;
+  var pct=nd?0:Math.min(100,Math.round(100*g.current/g.target));
+  var num=nd?'<span style="color:#8A8F97">needs analytics</span>':('<b>'+fmt(g.current)+'</b> / '+fmt(g.target));
+  return '<div class="g '+g.status+'"><div class="top"><div><div class="nm">'+g.icon+' '+g.label+'</div><div class="cat">'+g.cat+'</div></div>'
+    +'<div class="num">'+num+'</div></div><div class="bar"><div class="fill" style="width:'+pct+'%"></div></div></div>';
+}
+fetch('goalsdata.json?'+Date.now()).then(r=>r.json()).then(d=>{
+  document.getElementById('gen').textContent=(d.generated||'').replace('T',' ');
+  document.getElementById('topmove').textContent=d.top_move||'On pace.';
+  if(d.period) document.getElementById('period').textContent='· '+(d.period.label||'')+' (ends '+(d.period.end||'')+')';
+  var q=d.queues||{};
+  document.getElementById('queues').innerHTML=
+    '<div class="qchip"><b>'+(q.fb_ig_posts??'–')+'</b>FB/IG posts queued</div>'
+   +'<div class="qchip"><b>'+(q.reels??'–')+'</b>reels queued</div>'
+   +'<div class="qchip"><b>'+(q.staged_articles??'–')+'</b>articles staged to drip</div>';
+  ['daily','weekly','monthly'].forEach(function(c){
+    document.getElementById(c).innerHTML=((d.progress||{})[c]||[]).map(goalCard).join('')||'<div class="sub2">—</div>';
+  });
+  document.getElementById('prompts').innerHTML=(d.prompts||[]).map(function(p,i){
+    return '<div class="pcard"><div class="pt">'+p.title+'</div><div class="pw">'+(p.why||'')+'</div>'
+      +'<div class="pp" id="pp'+i+'">'+p.prompt+'</div>'
+      +'<button onclick="navigator.clipboard.writeText(document.getElementById(\'pp'+i+'\').innerText);this.textContent=\'✓ Copied\'">Copy prompt</button></div>';
+  }).join('')||'<div class="sub2">No gaps tonight — on pace. ✅</div>';
+}).catch(function(){document.getElementById('topmove').textContent='Goals data not generated yet — the nightly review runs at 11:15pm.';});
+</script>
+</body>
+</html>
