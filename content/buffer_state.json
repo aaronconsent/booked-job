@@ -1,24 +1,29 @@
 {
   "linkedin": [
+    "where-customers-find-contractors",
+    "contractor-website-one-job",
+    "get-more-google-reviews",
+    "how-to-price-a-job",
+    "what-marketing-actually-is",
+    "surviving-the-slow-season",
+    "cost-per-lead-vs-cost-per-booked-job",
+    "why-reviews-win-the-call",
+    "google-ads-without-burning-cash",
+    "google-business-profile-for-contractors",
     "is-angi-worth-it",
-    "how-to-price-a-job"
+    "should-you-pay-for-leads"
   ],
   "tiktok": [
-<<<<<<< HEAD
     "is-angi-worth-it",
     "money-leaks",
     "money-leaks-torque"
-=======
-    "money-leaks",
-    "money-leaks-torque",
-    "is-angi-worth-it"
->>>>>>> d51404a (sync local changes (font fix, cutover script))
   ],
   "linkedin_carousel": [
     "is-angi-worth-it"
   ],
   "tiktok_carousel": [
     "is-angi-worth-it",
-    "how-to-price-a-job"
+    "how-to-price-a-job",
+    "get-more-google-reviews"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:34",
+  "updated": "2026-06-30T18:08",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 1,
+        "current": 2,
         "target": 60,
-        "pct": 2,
+        "pct": 3,
         "on_track": true
       },
       {
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 4,
+        "current": 5,
         "target": 800,
-        "pct": 0,
+        "pct": 1,
         "on_track": true
       },
       {
@@ -108,14 +108,14 @@
       "date": "2026-07-01",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Angi sells the same \"lead\" to a dozen guys, then you race ea",
+      "title": "Pricing a job isn't a number you pull out of the air. It's a",
       "sub": "course promo"
     },
     {
       "date": "2026-07-02",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Pricing a job isn't a number you pull out of the air. It's a",
+      "title": "Two shops, same town, same price. One's got 12 reviews, the ",
       "sub": "course promo"
     },
     {
@@ -129,7 +129,7 @@
       "date": "2026-07-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Two shops, same town, same price. One's got 12 reviews, the ",
+      "title": "The slow season isn't bad luck. It's a marketing problem you",
       "sub": "course promo"
     },
     {
@@ -143,22 +143,22 @@
       "date": "2026-07-08",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The slow season isn't bad luck. It's a marketing problem you",
-      "sub": "course promo"
+      "title": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two ",
+      "sub": "podcast promo"
     },
     {
       "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two ",
-      "sub": "podcast promo"
+      "title": "Most contractors think 'marketing' is a logo and a boosted p",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Most contractors think 'marketing' is a logo and a boosted p",
-      "sub": "course promo"
+      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-10",
@@ -171,15 +171,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
-      "sub": "pricing drama"
+      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
-      "sub": "course promo"
+      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-14",
@@ -195,12 +195,12 @@
     "likes": 0
   },
   "content": {
-    "posts_published": 1,
+    "posts_published": 2,
     "reactions": 0,
-    "comments": 4,
+    "comments": 5,
     "shares": 0,
     "reels_published": 1,
-    "posts_remaining": 93,
+    "posts_remaining": 92,
     "reels_remaining": 14
   },
   "ads": {
@@ -221,7 +221,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 3
+    "media": 4
   },
   "email": {
     "subscribers": 5
@@ -450,9 +450,9 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 0,
+      "count": 1,
       "unit": "posts",
-      "grade": "F",
+      "grade": "D",
       "views": 1,
       "followers": 0
     },
@@ -476,7 +476,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "grade": "D"
     },
@@ -490,14 +490,14 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "grade": "D"
     },
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "followers": 3,
       "grade": "D"
@@ -505,7 +505,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 1,
+      "count": 0,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -513,7 +513,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -521,7 +521,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "followers": 2,
       "grade": "D"
@@ -529,7 +529,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "mirrors",
       "grade": "D"
     },
@@ -550,20 +550,20 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 1,
+      "count": 0,
       "unit": "posts (Buffer)",
       "stat": "29 reach \u00b7 1 reactions",
       "views": 0,
-      "grade": "D"
+      "grade": "F"
     },
     {
       "name": "TikTok",
       "status": "live",
-      "count": 2,
+      "count": 0,
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
-      "grade": "D"
+      "grade": "F"
     },
     {
       "name": "Google Business",
@@ -575,7 +575,7 @@
   ],
   "funnel": {
     "reach": 0,
-    "engagement": 4,
+    "engagement": 5,
     "audience": 10,
     "cr_clicks": 6
   },
@@ -599,7 +599,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 81,
+        "value": 84,
         "grade": "B"
       },
       {
@@ -614,11 +614,11 @@
       },
       {
         "label": "Engagement",
-        "value": 4,
-        "grade": "F"
+        "value": 5,
+        "grade": "D"
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 81 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 84 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }

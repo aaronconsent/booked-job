@@ -2,16 +2,10 @@
   {
     "date": "2026-06-30",
     "articles": 62,
-    "reels": 1,
-<<<<<<< HEAD
-    "social_posts": 31,
+    "reels": 2,
+    "social_posts": 37,
     "followers": 5,
-    "engagement": 4,
-=======
-    "social_posts": 29,
-    "followers": 5,
-    "engagement": 2,
->>>>>>> d51404a (sync local changes (font fix, cutover script))
+    "engagement": 5,
     "yt_views": 2,
     "yt_shorts": 4,
     "email_subs": 5,
