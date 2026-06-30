@@ -1,0 +1,236 @@
+{
+  "generated": "2026-06-30T16:01",
+  "period": {
+    "start": "2026-06-30",
+    "end": "2026-07-30",
+    "label": "Month 1 \u2014 Aggressive scale"
+  },
+  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Targets are deliberately aggressive: the machine produces at scale, so the goals push reach + audience, not just output.",
+  "progress": {
+    "daily": [
+      {
+        "key": "articles",
+        "cat": "Content",
+        "icon": "\ud83d\udcdd",
+        "label": "Articles published",
+        "current": null,
+        "target": 2,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "social_posts",
+        "cat": "Social",
+        "icon": "\ud83d\udce3",
+        "label": "Social posts (all channels)",
+        "current": null,
+        "target": 12,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "reels",
+        "cat": "Reels",
+        "icon": "\ud83c\udfac",
+        "label": "Reels shipped (FB+IG+TikTok)",
+        "current": null,
+        "target": 1,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "traffic",
+        "cat": "Traffic",
+        "icon": "\ud83c\udf10",
+        "label": "Website visits",
+        "current": null,
+        "target": 150,
+        "status": "nodata",
+        "needs": "analytics"
+      }
+    ],
+    "weekly": [
+      {
+        "key": "articles",
+        "cat": "Content",
+        "icon": "\ud83d\udcdd",
+        "label": "Articles",
+        "current": null,
+        "target": 14,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "social_posts",
+        "cat": "Social",
+        "icon": "\ud83d\udce3",
+        "label": "Social posts",
+        "current": null,
+        "target": 80,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "reels",
+        "cat": "Reels",
+        "icon": "\ud83c\udfac",
+        "label": "Reels",
+        "current": null,
+        "target": 7,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "yt_shorts",
+        "cat": "Video",
+        "icon": "\ud83d\udcfa",
+        "label": "YouTube Shorts/videos",
+        "current": null,
+        "target": 5,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "followers",
+        "cat": "Social",
+        "icon": "\ud83d\udc65",
+        "label": "New followers (all)",
+        "current": null,
+        "target": 120,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "engagement",
+        "cat": "Social",
+        "icon": "\ud83d\udd25",
+        "label": "Engagement actions",
+        "current": null,
+        "target": 250,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "traffic",
+        "cat": "Traffic",
+        "icon": "\ud83c\udf10",
+        "label": "Website visits",
+        "current": null,
+        "target": 1200,
+        "status": "nodata",
+        "needs": "analytics"
+      }
+    ],
+    "monthly": [
+      {
+        "key": "articles",
+        "cat": "Content",
+        "icon": "\ud83d\udcdd",
+        "label": "Articles",
+        "current": null,
+        "target": 60,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "social_posts",
+        "cat": "Social",
+        "icon": "\ud83d\udce3",
+        "label": "Social posts",
+        "current": null,
+        "target": 360,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "reels",
+        "cat": "Reels",
+        "icon": "\ud83c\udfac",
+        "label": "Reels",
+        "current": null,
+        "target": 30,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "yt_shorts",
+        "cat": "Video",
+        "icon": "\ud83d\udcfa",
+        "label": "YouTube Shorts/videos",
+        "current": null,
+        "target": 22,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "yt_views",
+        "cat": "Video",
+        "icon": "\u25b6\ufe0f",
+        "label": "YouTube views",
+        "current": null,
+        "target": 10000,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "followers",
+        "cat": "Social",
+        "icon": "\ud83d\udc65",
+        "label": "New followers (all)",
+        "current": null,
+        "target": 600,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "email_subs",
+        "cat": "Social",
+        "icon": "\u2709\ufe0f",
+        "label": "Email subscribers",
+        "current": null,
+        "target": 100,
+        "status": "nodata",
+        "needs": null
+      },
+      {
+        "key": "traffic",
+        "cat": "Traffic",
+        "icon": "\ud83c\udf10",
+        "label": "Website visits",
+        "current": null,
+        "target": 6000,
+        "status": "nodata",
+        "needs": "analytics"
+      }
+    ]
+  },
+  "queues": {
+    "fb_ig_posts": 92,
+    "reels": 14,
+    "staged_articles": 0
+  },
+  "counters": {
+    "articles": 62,
+    "reels": 1,
+    "social_posts": 29,
+    "followers": 5,
+    "engagement": 2,
+    "yt_views": 2,
+    "yt_shorts": 4,
+    "email_subs": 5,
+    "traffic": 0
+  },
+  "top_move": "Run another branch-series workflow batch and stage it to drip 2/day.",
+  "prompts": [
+    {
+      "title": "\ud83d\udcdd Article pipeline thin",
+      "why": "Only 0 articles staged to drip.",
+      "prompt": "Run another branch-series workflow batch and stage it to drip 2/day."
+    },
+    {
+      "title": "\ud83c\udf10 Website traffic isn't tracked",
+      "why": "No analytics source is connected, so traffic goals show no data.",
+      "prompt": "Set up Cloudflare Web Analytics (I'll add a CF token) so website visits show on the Goals page and feed the nightly review."
+    }
+  ]
+}
