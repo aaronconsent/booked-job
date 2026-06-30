@@ -1,0 +1,85 @@
+name: Booked Job automation
+
+on:
+  schedule:
+    - cron: '5 * * * *'        # hourly at :05 UTC; agents self-gate to their own windows
+  workflow_dispatch: {}        # manual "Run workflow" button for testing
+
+concurrency:
+  group: bookedjob-automation  # never let two runs overlap (avoids git push races)
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # so the run can commit state + media back to the repo
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Chicago      # match the Mac's timezone so the runners' time-gates fire correctly
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+
+      - name: Install deps + fonts (map macOS font paths -> free Linux fonts)
+        run: |
+          pip install --quiet Pillow
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-liberation fonts-dejavu ffmpeg
+          sudo mkdir -p "/System/Library/Fonts/Supplemental"
+          sudo curl -fsSL -o "/System/Library/Fonts/Supplemental/Impact.ttf" \
+            https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || true
+          sudo ln -sf /usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf \
+            "/System/Library/Fonts/Supplemental/Arial Black.ttf"
+          sudo ln -sf /usr/share/fonts/truetype/dejavu/DejaVuSans.ttc \
+            "/System/Library/Fonts/Helvetica.ttc" || true
+
+      - name: Recreate secret env files
+        env:
+          ENV_APIFY: ${{ secrets.ENV_APIFY }}
+          ENV_BLOGGER: ${{ secrets.ENV_BLOGGER }}
+          ENV_BLUESKY: ${{ secrets.ENV_BLUESKY }}
+          ENV_BUFFER: ${{ secrets.ENV_BUFFER }}
+          ENV_CLOUDFLARE: ${{ secrets.ENV_CLOUDFLARE }}
+          ENV_ELEVENLABS: ${{ secrets.ENV_ELEVENLABS }}
+          ENV_FAL: ${{ secrets.ENV_FAL }}
+          ENV_FB: ${{ secrets.ENV_FB }}
+          ENV_GITHUB: ${{ secrets.ENV_GITHUB }}
+          ENV_HEYGEN: ${{ secrets.ENV_HEYGEN }}
+          ENV_MASTODON: ${{ secrets.ENV_MASTODON }}
+          ENV_OPENAI: ${{ secrets.ENV_OPENAI }}
+          ENV_PINTEREST: ${{ secrets.ENV_PINTEREST }}
+          ENV_RECRAFT: ${{ secrets.ENV_RECRAFT }}
+          ENV_RESEND: ${{ secrets.ENV_RESEND }}
+          ENV_TELEGRAM: ${{ secrets.ENV_TELEGRAM }}
+          ENV_TELEGRAPH: ${{ secrets.ENV_TELEGRAPH }}
+          ENV_THREADS: ${{ secrets.ENV_THREADS }}
+          ENV_TUMBLR: ${{ secrets.ENV_TUMBLR }}
+          ENV_YOUTUBE: ${{ secrets.ENV_YOUTUBE }}
+        run: |
+          mkdir -p secrets
+          write() { printf '%s\n' "$2" > "secrets/$1.env"; }
+          write apify "$ENV_APIFY";       write blogger "$ENV_BLOGGER";   write bluesky "$ENV_BLUESKY"
+          write buffer "$ENV_BUFFER";     write cloudflare "$ENV_CLOUDFLARE"; write elevenlabs "$ENV_ELEVENLABS"
+          write fal "$ENV_FAL";           write fb "$ENV_FB";             write github "$ENV_GITHUB"
+          write heygen "$ENV_HEYGEN";     write mastodon "$ENV_MASTODON"; write openai "$ENV_OPENAI"
+          write pinterest "$ENV_PINTEREST"; write recraft "$ENV_RECRAFT"; write resend "$ENV_RESEND"
+          write telegram "$ENV_TELEGRAM"; write telegraph "$ENV_TELEGRAPH"; write threads "$ENV_THREADS"
+          write tumblr "$ENV_TUMBLR";     write youtube "$ENV_YOUTUBE"
+          chmod 600 secrets/*.env
+
+      - name: Run all agents
+        run: python3 scripts/run_all.py
+
+      - name: Commit + push (Cloudflare auto-deploys)
+        run: |
+          rm -f secrets/*.env            # never commit secrets
+          git config user.name "booked-job-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
+          git commit -q -m "automation run $(date -u +%FT%TZ)"
+          git pull --rebase --autostash -q || true
+          git push -q

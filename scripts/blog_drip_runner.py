@@ -73,7 +73,9 @@ def main():
     json.dump(sched, open(SCHEDULE, "w"), indent=2)
     log(f"PUBLISHED {len(built)} staged articles: {', '.join(built)}")
 
-    # deploy
+    # deploy (skip on CI — the Actions workflow does one commit+push for the whole run)
+    if os.environ.get("CI"):
+        log(f"published {len(built)} (CI: commit/push handled by workflow)."); return
     os.chdir(ROOT)
     subprocess.run(["git", "add", "site/blog", "site/sitemap.xml", "content/syndication_queue.json",
                     "content/channel_variants.json", "content/queue.json", "content/schedule.json"], check=False)

@@ -195,10 +195,11 @@ def main():
     json.dump(out, open(OUT, "w"), indent=2)
     log(f"review written — {len(prompts)} prompts, top: {top[:70]}")
 
-    os.chdir(ROOT)
-    subprocess.run(["git", "add", "site/dashboard/goalsdata.json"], check=False)
-    if subprocess.run(["git", "commit", "-q", "-m", f"nightly review {today.isoformat()}"]).returncode == 0:
-        subprocess.run(["git", "push", "-q"], check=False); log("pushed.")
+    if not os.environ.get("CI"):   # on GitHub Actions the workflow does one commit+push
+        os.chdir(ROOT)
+        subprocess.run(["git", "add", "site/dashboard/goalsdata.json"], check=False)
+        if subprocess.run(["git", "commit", "-q", "-m", f"nightly review {today.isoformat()}"]).returncode == 0:
+            subprocess.run(["git", "push", "-q"], check=False); log("pushed.")
 
 
 if __name__ == "__main__":
