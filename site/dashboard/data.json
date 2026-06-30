@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T06:00",
+  "updated": "2026-06-30T09:44",
   "goals": {
     "label": "Month 1 \u2014 Launch sprint",
     "end": "2026-07-25",
@@ -97,95 +97,95 @@
     ]
   },
   "strategist": {
-    "updated": "2026-06-26",
-    "headline": "Three channels live \u2014 now it's about reps and data.",
-    "read": "We went from zero to a real multi-channel machine: Facebook (posts + Reels + $7/day retargeting), YouTube Shorts, and an SEO/AEO blog led by the 'Is Angi Worth It?' pillar + calculator. Everything's still in warm-up, so the audience numbers will look small until ~mid-July \u2014 that's expected. The foundation is the win; now we need volume and the first real performance signal.",
-    "next_move": "Ship reps across all three channels and watch what lands first. Priority: expand the Angi/pricing SEO cluster (each post doubles as a Short script), keep the Reels + Shorts cadence, and start mining real contractor quotes from FB comments for the phase-2 EEAT. First hard read comes from the Monday report.",
-    "next_review": "2026-06-29"
+    "updated": "2026-06-30",
+    "headline": "Full stack live \u2014 16 articles, a podcast, and 13 channels posting 7 days a week.",
+    "read": "We went from three channels to the full stack. We're now syndicating 16 SEO/AEO articles across 13 connected channels \u2014 Facebook, Instagram, YouTube, Blogger, Tumblr, Telegraph, GitHub Pages, Bluesky, Mastodon, Threads, Telegram, Pinterest, plus LinkedIn via Buffer \u2014 and every channel gets unique, native copy instead of the same blurb. Facebook now posts 7 days a week and Reels run 4x/week. We also launched a podcast, 'Get Booked, Not F***ed', live on Spotify with a self-hosted RSS feed that fans out to the rest; 3 episodes are up and the vertical promo clips are wired into the social queues. Everything's still warming up, so audience numbers stay small for a few weeks \u2014 the win is that every channel is now fed with quality native content and the engagement daemons surface real ICP conversations daily.",
+    "next_move": "Volume + the first real performance read. Keep the 7-day Facebook cadence and 4x/week Reels rolling, let the 16-article cluster keep fanning out across every blogging account, push the podcast (submit to Apple once their bug clears + the indie directories from the checklist), and keep mining FB/Reddit for real contractor quotes for phase-2 EEAT. First hard read comes from the Monday report \u2014 then double down on whatever archetype lands first.",
+    "next_review": "2026-07-06"
   },
   "upcoming": [
     {
       "date": "2026-07-01",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
-      "sub": "pricing drama"
+      "title": "Angi sells the same \"lead\" to a dozen guys, then you race ea",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-02",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
-      "sub": "pricing drama"
+      "title": "Pricing a job isn't a number you pull out of the air. It's a",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-03",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The cheapest bid costs the most",
+      "title": "Is Angi actually worth it?",
       "sub": "Reel"
     },
     {
       "date": "2026-07-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
-      "sub": "pricing drama"
+      "title": "Two shops, same town, same price. One's got 12 reviews, the ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-07",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Look what the last guy did",
+      "title": "New podcast: Get Booked, Not F***ed",
       "sub": "Reel"
     },
     {
       "date": "2026-07-08",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "What's the worst \u201cthe last guy did it\u201d job you've walked int",
-      "sub": "hack job"
+      "title": "The slow season isn't bad luck. It's a marketing problem you",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Found behind the drywall this week: a garden hose doing a P-",
-      "sub": "hack job"
+      "title": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two ",
+      "sub": "podcast promo"
     },
     {
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Drop the runner-up below. \ud83d\udc47",
-      "sub": "homeowner says"
+      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-10",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Slow season starts in summer",
+      "title": "Porno or Plumbing?",
       "sub": "Reel"
     },
     {
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
-      "sub": "homeowner says"
+      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "It's somewhere in the truck. It's always somewhere in the tr",
-      "sub": "trade humor"
+      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-14",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The 5-minute favor that isn't",
+      "title": "The one-star that started a podcast",
       "sub": "Reel"
     }
   ],
@@ -200,8 +200,8 @@
     "comments": 2,
     "shares": 0,
     "reels_published": 1,
-    "posts_remaining": 14,
-    "reels_remaining": 4
+    "posts_remaining": 19,
+    "reels_remaining": 8
   },
   "ads": {
     "status": "\u2014",
@@ -436,9 +436,16 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 14,
+      "count": 16,
       "unit": "articles",
       "grade": "C"
+    },
+    {
+      "name": "Podcast",
+      "status": "live",
+      "count": 3,
+      "unit": "episodes",
+      "grade": "D"
     },
     {
       "name": "Facebook",
@@ -554,8 +561,8 @@
       "status": "live",
       "count": 2,
       "unit": "videos (Buffer)",
-      "stat": "0 views \u00b7 0 reactions",
-      "views": 0,
+      "stat": "437 views \u00b7 0 reactions",
+      "views": 437,
       "grade": "D"
     },
     {
@@ -592,7 +599,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 33,
+        "value": 38,
         "grade": "C"
       },
       {
@@ -612,6 +619,6 @@
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 33 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 38 posts, 10 in the audience, 6 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }

@@ -205,6 +205,10 @@ def channels(email_subs=0, followers=None):
     # Blog (always live — it's our own site); count = published articles
     arts = len(jload(os.path.join(ROOT, "content", "syndication_queue.json"), {}).get("items", []))
     out.insert(0, {"name": "Blog", "status": "live", "count": arts, "unit": "articles"})
+    # Podcast — Get Booked, Not F***ed (RSS-hosted; episodes = files in site/podcast)
+    import glob
+    eps = len(glob.glob(os.path.join(ROOT, "site", "podcast", "ep*.mp3")))
+    out.insert(1, {"name": "Podcast", "status": "live", "count": eps, "unit": "episodes"})
     # Email (Resend)
     em = os.path.exists(os.path.join(ROOT, "secrets", "resend.env"))
     out.append({"name": "Email", "status": "live" if em else "off", "count": email_subs, "unit": "subs"})
