@@ -20,7 +20,7 @@ STATE = os.path.join(ROOT, "content", "reels_state.json")
 LOG = os.path.join(ROOT, "content", "reels.log")
 OUTDIR = os.path.join(ROOT, "content", "reels")
 
-POST_DAYS = {0, 2, 4, 6}  # Mon/Wed/Fri/Sun — 4 reels/week (reels = #1 reach lever)
+POST_DAYS = {0, 1, 2, 3, 4, 5, 6}  # daily — each reel fans to FB+IG+TikTok (~1/day each = safe-max)
 WINDOW = (6, 10)        # morning
 BACKEND = "elevenlabs"  # falls back by editing make_reel default if credits run out
 
