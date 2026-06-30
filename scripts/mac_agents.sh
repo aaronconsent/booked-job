@@ -13,4 +13,4 @@ for p in ~/Library/LaunchAgents/com.bookedjob.*.plist; do
     launchctl load "$p" 2>/dev/null && { echo "  started $name"; n=$((n+1)); }
   fi
 done
-echo "Done — ${ACTION^^} for $n Mac agents. $([ "$ACTION" = off ] && echo 'GitHub Actions is now the host.' || echo 'Mac agents are running again.')"
+echo "Done — $(printf %s "$ACTION" | tr a-z A-Z) for $n Mac agents. $([ "$ACTION" = off ] && echo 'GitHub Actions is now the host.' || echo 'Mac agents are running again.')"
