@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
-Post-process Branch Series workflow output: render each article to the blog
-(same template/schema as build_blog), and wire it into the machine —
-syndication_queue (-> 9 channels + carousels + pins + tiktok), channel_variants,
-sitemap, blog index, and 1 FB/IG post each.
+Render + wire Branch Series articles into the machine — OR stage them to drip
+in gradually instead of publishing all at once.
 
-    python3 scripts/render_branch.py clean   # only fact-check-passed articles (default)
-    python3 scripts/render_branch.py all
-    python3 scripts/render_branch.py slug1 slug2 ...
+  python3 scripts/render_branch.py live clean          # render+publish the fact-check-passed ones NOW
+  python3 scripts/render_branch.py live slug1 slug2     # publish specific slugs NOW
+  python3 scripts/render_branch.py stage clean 2        # STAGE clean ones to go live 2/day (drip)
+  python3 scripts/render_branch.py stage all 3 2026-07-02   # stage all, 3/day, starting a date
+
+Staged articles live in content/staged/<slug>.json + content/schedule.json;
+scripts/blog_drip_runner.py (launchd, daily) promotes the due ones.
 """
-import json, os, re, sys, html
+import json, os, re, sys, html, datetime
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 BLOG = os.path.join(ROOT, "site", "blog")
@@ -19,6 +21,8 @@ VAR = os.path.join(ROOT, "content", "channel_variants.json")
 SITEMAP = os.path.join(ROOT, "site", "sitemap.xml")
 IDX = os.path.join(ROOT, "site", "blog", "index.html")
 QUEUE = os.path.join(ROOT, "content", "queue.json")
+STAGED = os.path.join(ROOT, "content", "staged")
+SCHEDULE = os.path.join(ROOT, "content", "schedule.json")
 TODAY = "2026-06-30"
 B = "https://booked-job.com"
 
@@ -80,16 +84,8 @@ def render(a):
 </body></html>"""
 
 
-def main():
-    res = json.load(open(RESULT)); arts = res["articles"]
-    arg = sys.argv[1:] or ["clean"]
-    if arg == ["clean"]:
-        picks = [a for a in arts if a.get("_verdict", {}).get("allNumbersSourced")]
-    elif arg == ["all"]:
-        picks = arts
-    else:
-        picks = [a for a in arts if a["slug"] in arg]
-
+def wire_articles(picks):
+    """Render each article live + wire into syndication, variants, sitemap, blog index, FB/IG queue."""
     synd = json.load(open(SYND)); sids = {i["id"] for i in synd["items"]}
     cv = json.load(open(VAR))
     q = json.load(open(QUEUE)); qids = {p["id"] for p in q["posts"]}
@@ -116,10 +112,53 @@ def main():
     json.dump(q, open(QUEUE, "w"), indent=2)
     open(SITEMAP, "w").write(sm.replace("</urlset>", new_sm + "</urlset>"))
     open(IDX, "w").write(idx.replace('<div class="grid">', '<div class="grid">' + new_cards, 1))
-    # validate
     import xml.dom.minidom; xml.dom.minidom.parse(SITEMAP)
-    print(f"rendered + wired {len(built)} articles: {', '.join(built)}")
-    print(f"syndication now {len(synd['items'])} · variants {len([k for k in cv if k!='_doc'])} · FB/IG queue {len(q['posts'])}")
+    return built
+
+
+def stage_articles(picks, per_day, start):
+    """Save article data + a staggered go-live date; the drip runner publishes when due."""
+    os.makedirs(STAGED, exist_ok=True)
+    sched = json.load(open(SCHEDULE)) if os.path.exists(SCHEDULE) else {"items": []}
+    have = {it["slug"] for it in sched["items"]}
+    n = 0
+    for i, a in enumerate([p for p in picks if p["slug"] not in have]):
+        json.dump(a, open(os.path.join(STAGED, f"{a['slug']}.json"), "w"), ensure_ascii=False)
+        go = start + datetime.timedelta(days=i // per_day)
+        sched["items"].append({"slug": a["slug"], "series": a.get("_series", ""),
+                               "go_live": go.isoformat(), "status": "pending"})
+        n += 1
+    json.dump(sched, open(SCHEDULE, "w"), indent=2)
+    return n, sched
+
+
+def pick(arts, sel):
+    if sel == ["clean"]:
+        return [a for a in arts if a.get("_verdict", {}).get("allNumbersSourced")]
+    if sel == ["all"]:
+        return arts
+    return [a for a in arts if a["slug"] in sel]
+
+
+def main():
+    args = sys.argv[1:]
+    mode = args[0] if args and args[0] in ("live", "stage") else "live"
+    rest = args[1:] if mode in ("live", "stage") else args
+    arts = json.load(open(RESULT))["articles"]
+    if mode == "stage":
+        per_day = int(rest[1]) if len(rest) > 1 and rest[1].isdigit() else 2
+        start = (datetime.date.fromisoformat(rest[2]) if len(rest) > 2 and re.match(r"\d{4}-", rest[2])
+                 else datetime.date.today() + datetime.timedelta(days=1))
+        sel = [rest[0]] if rest and rest[0] in ("clean", "all") else (rest or ["clean"])
+        sel = [s for s in sel if not s.isdigit() and not re.match(r"\d{4}-", s)] or ["clean"]
+        picks = pick(arts, sel)
+        n, sched = stage_articles(picks, per_day, start)
+        last = sched["items"][-1]["go_live"] if sched["items"] else "?"
+        print(f"staged {n} articles · {per_day}/day starting {start} · last goes live {last}")
+    else:
+        sel = rest or ["clean"]
+        built = wire_articles(pick(arts, sel))
+        print(f"published {len(built)} articles now: {', '.join(built)}")
 
 
 if __name__ == "__main__":
