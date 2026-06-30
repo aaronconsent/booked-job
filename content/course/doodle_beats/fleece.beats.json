@@ -1,0 +1,61 @@
+{
+  "id": "fleece",
+  "vo": "6d2486d662c8e05a9d4a81a6a8d937a7.mp3",
+  "assets": [
+    "vestguy",
+    "trustbadge"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.6,
+      "type": "build",
+      "target": "trustbadge",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.029,
+      "type": "word",
+      "text": "DON'T",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.366,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.633,
+      "type": "word",
+      "text": "FLEECED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.633,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

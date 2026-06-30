@@ -1,0 +1,61 @@
+{
+  "id": "seo",
+  "vo": "92f4370de6222768bdfe923fef91c524.mp3",
+  "assets": [
+    "searchbar",
+    "seedling"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "searchbar",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.113,
+      "type": "word",
+      "text": "SEO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.03,
+      "type": "word",
+      "text": "SHOW",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.6,
+      "type": "build",
+      "target": "seedling",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.659,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.153,
+      "type": "word",
+      "text": "UP",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 13.328,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

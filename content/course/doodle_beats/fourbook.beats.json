@@ -1,0 +1,47 @@
+{
+  "id": "fourbook",
+  "vo": "32b53ee3603514d9b875b0d513014d98.mp3",
+  "assets": [
+    "calendar",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "calendar",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.221,
+      "type": "word",
+      "text": "ONLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.068,
+      "type": "word",
+      "text": "BOOK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 3.692,
+      "type": "word",
+      "text": "4",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

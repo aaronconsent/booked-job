@@ -1,0 +1,63 @@
+{
+  "id": "projects",
+  "vo": "9504f3326b5f4202901b1efce3c6529d.mp3",
+  "assets": [
+    "roofdamage",
+    "reviewstars",
+    "laptop"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "BIG",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "roofdamage",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.372,
+      "type": "word",
+      "text": "PROJECTS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "pop"
+    },
+    {
+      "t": 4.737,
+      "type": "word",
+      "text": "REVIEWS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "laptop",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 6.91,
+      "type": "word",
+      "text": "\u2192",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

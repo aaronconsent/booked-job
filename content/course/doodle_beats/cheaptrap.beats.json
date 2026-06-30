@@ -1,0 +1,47 @@
+{
+  "id": "cheaptrap",
+  "vo": "8f04ec111acdfb87881d4ec1172bacbf.mp3",
+  "assets": [
+    "sharedlead",
+    "ghost"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "sharedlead",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.416,
+      "type": "word",
+      "text": "SHARED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.567,
+      "type": "word",
+      "text": "LEAD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.378,
+      "type": "word",
+      "text": "$15",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "ghost",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    }
+  ]
+}

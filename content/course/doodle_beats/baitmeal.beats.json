@@ -1,0 +1,47 @@
+{
+  "id": "baitmeal",
+  "vo": "6574eb73acae1c8d9e0c642074a0d01e.mp3",
+  "assets": [
+    "leadhand",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "leadhand",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 3.251,
+      "type": "word",
+      "text": "vs",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.564,
+      "type": "word",
+      "text": "BAIT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.851,
+      "type": "word",
+      "text": "MEAL",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

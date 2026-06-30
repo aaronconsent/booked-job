@@ -1,0 +1,45 @@
+{
+  "id": "trust",
+  "vo": "4b36fc82a0ee9f9c56ea1f8608d17625.mp3",
+  "assets": [
+    "trustbadge"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "AND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "trustbadge",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.255,
+      "type": "word",
+      "text": "EASY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.546,
+      "type": "word",
+      "text": "TO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.662,
+      "type": "word",
+      "text": "TRUST",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

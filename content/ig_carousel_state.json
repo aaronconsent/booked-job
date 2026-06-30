@@ -1,6 +1,11 @@
 {
   "done": [
+<<<<<<< HEAD
     "is-angi-worth-it",
     "how-to-price-a-job"
+=======
+    "how-to-price-a-job",
+    "is-angi-worth-it"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
   ]
 }

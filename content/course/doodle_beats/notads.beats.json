@@ -1,0 +1,61 @@
+{
+  "id": "notads",
+  "vo": "d9f9264b905419cac78ead2101eb2e0c.mp3",
+  "assets": [
+    "megaphone",
+    "fancylogo"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "megaphone",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 0.503,
+      "type": "word",
+      "text": "NOT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.522,
+      "type": "word",
+      "text": "ADS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.149,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.149,
+      "type": "build",
+      "target": "fancylogo",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.51,
+      "type": "word",
+      "text": "OR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.461,
+      "type": "word",
+      "text": "LOGO",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "askdemand",
+  "vo": "f812ec82cd43828fdb20c7c56f45e0d1.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.6,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.256,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.256,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 2.786,
+      "type": "word",
+      "text": "ASK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.098,
+      "type": "word",
+      "text": "DEMAND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.511,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.639,
+      "type": "word",
+      "text": "CALL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.767,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

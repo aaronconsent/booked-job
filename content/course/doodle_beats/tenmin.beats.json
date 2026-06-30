@@ -1,0 +1,54 @@
+{
+  "id": "tenmin",
+  "vo": "7f2975634bcf95e6d3b706f8ae4b018d.mp3",
+  "assets": [
+    "profilecard",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "profilecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 3.882,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.354,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.805,
+      "type": "word",
+      "text": "MINUTES",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.824,
+      "type": "word",
+      "text": "10",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

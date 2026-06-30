@@ -1,0 +1,54 @@
+{
+  "id": "oldfriends",
+  "vo": "688db196d3472bc078338987e3fa5862.mp3",
+  "assets": [
+    "dollarstack",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 0.232,
+      "type": "word",
+      "text": "YOU",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.453,
+      "type": "word",
+      "text": "ALREADY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.871,
+      "type": "word",
+      "text": "KNOW",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.683,
+      "type": "word",
+      "text": "THESE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "pop"
+    }
+  ]
+}

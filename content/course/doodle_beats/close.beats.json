@@ -1,0 +1,59 @@
+{
+  "id": "close",
+  "vo": "cc3b5e9a22fd080f9cad843713e99525.mp3",
+  "assets": [
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.6,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "drawOn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 1.718,
+      "type": "word",
+      "text": "NEXT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.519,
+      "type": "word",
+      "text": "KNOW",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.856,
+      "type": "word",
+      "text": "YOUR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.856,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 3.03,
+      "type": "word",
+      "text": "NUMBERS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

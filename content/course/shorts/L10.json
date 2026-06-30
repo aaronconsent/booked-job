@@ -1,0 +1,71 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 10 (5 NUMBERS RUN YOUR SHOP). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "5 NUMBERS RUN YOUR SHOP",
+   "text_y": 170,
+   "emph": "5",
+   "mood": "frustrated",
+   "vo": "Five numbers decide whether your marketing makes money or bleeds you dry.",
+   "assets": [
+    {
+     "id": "scorecard",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "TRACK THEM MONTHLY",
+   "text_y": 170,
+   "emph": "MONTHLY",
+   "mood": "neutral",
+   "vo": "Cost per lead, cost per booked job, close rate, reviews, response time. Check them monthly and nobody can fleece you.",
+   "assets": [
+    {
+     "id": "calculator",
+     "w": 300,
+     "x": 360,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "TRACK"
+    },
+    {
+     "id": "trafficlight",
+     "w": 300,
+     "x": 720,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 1.7999999999999998,
+     "sfx": "pop",
+     "label": "RATE IT"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "scoreboard",
+  "vo": "647ee579ca1d45019616681ff91de0af.mp3",
+  "assets": [
+    "calendar",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "calendar",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.209,
+      "type": "word",
+      "text": "ONLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.775,
+      "type": "word",
+      "text": "BOOKED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.111,
+      "type": "word",
+      "text": "JOBS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.2,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 7.579,
+      "type": "word",
+      "text": "PAY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "wholegame",
+  "vo": "9008bc7c85df360eb51e5f203f71820d.mp3",
+  "assets": [
+    "foundperson",
+    "reviewstars",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "foundperson",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.219,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.474,
+      "type": "word",
+      "text": "FOUND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.985,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.252,
+      "type": "word",
+      "text": "PICKED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.252,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 2.67,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.949,
+      "type": "word",
+      "text": "BOOKED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.949,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    }
+  ]
+}

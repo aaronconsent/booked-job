@@ -1,0 +1,62 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 8 (STOP BURNING AD MONEY). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "STOP BURNING AD MONEY",
+   "text_y": 170,
+   "emph": "BURNING",
+   "mood": "frustrated",
+   "vo": "Paid ads are where contractors torch cash the fastest. Let's not.",
+   "assets": [
+    {
+     "id": "moneyfire",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "ANSWER THE PHONE FIRST",
+   "text_y": 170,
+   "emph": "FIRST",
+   "mood": "neutral",
+   "vo": "A paid click that rings a phone nobody answers is a two hundred dollar job on fire. Answer every call before you spend a dime.",
+   "assets": [
+    {
+     "id": "callbutton",
+     "w": 380,
+     "x": 540,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "ANSWER",
+     "mark": "check"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

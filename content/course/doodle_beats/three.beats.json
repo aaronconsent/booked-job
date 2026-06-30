@@ -1,0 +1,70 @@
+{
+  "id": "three",
+  "vo": "2ddef04042ab9c52e560d6f83f219193.mp3",
+  "assets": [
+    "phonestars",
+    "calendar",
+    "reviewbubble"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonestars",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.8,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 2.949,
+      "type": "word",
+      "text": "COUNT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.173,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.4,
+      "type": "build",
+      "target": "reviewbubble",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.899,
+      "type": "word",
+      "text": "RECENCY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.347,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.082,
+      "type": "word",
+      "text": "RESPONSES",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

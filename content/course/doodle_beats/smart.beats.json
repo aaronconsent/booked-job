@@ -1,0 +1,52 @@
+{
+  "id": "smart",
+  "vo": "cdd4b66a5d1c63e47527474fc56c9240.mp3",
+  "assets": [
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.6,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "drawOn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 3.866,
+      "type": "word",
+      "text": "MAKE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.087,
+      "type": "word",
+      "text": "SMART",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.087,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 4.481,
+      "type": "word",
+      "text": "CALLS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

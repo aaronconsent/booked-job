@@ -2,8 +2,29 @@
   "days": [
     {
       "date": "2026-06-27",
-      "audience": 7,
-      "engagement": 1,
+      "audience": 9,
+      "engagement": 2,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-06-28",
+      "audience": 9,
+      "engagement": 2,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-06-29",
+      "audience": 10,
+      "engagement": 2,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-06-30",
+      "audience": 10,
+      "engagement": 2,
       "email": 5,
       "reach": 0
     },

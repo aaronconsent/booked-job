@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "updated": "2026-06-30T22:34:37Z",
+=======
+  "updated": "2026-06-29T11:15:00Z",
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
   "reddit": [
     {
       "name": "r/HVAC",
@@ -83,18 +87,28 @@
       },
       {
         "tag": "#plumbing",
+<<<<<<< HEAD
         "uses": 8,
+=======
+        "uses": 9,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#contractor",
         "uses": 4,
         "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+<<<<<<< HEAD
+        "tag": "#contractor",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/contractor"
+=======
+        "tag": "#hvac",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/hvac"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       },
       {
         "tag": "#roofing",
@@ -118,6 +132,14 @@
       },
       {
         "tag": "#hvacunits",
+<<<<<<< HEAD
+=======
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacunits"
+      },
+      {
+        "tag": "#HVACTrust",
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacunits"
       },
@@ -129,18 +151,26 @@
       {
         "tag": "#HVACMarket",
         "uses": 0,
+<<<<<<< HEAD
         "link": "https://mastodon.social/tags/HVACMarket"
       },
       {
         "tag": "#hvacboulder",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacboulder"
+=======
+        "link": "https://mastodon.social/tags/hvacousticwoodenboards"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
+<<<<<<< HEAD
         "followers": 464802,
+=======
+        "followers": 464757,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +185,11 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
+<<<<<<< HEAD
         "followers": 22900,
+=======
+        "followers": 22878,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +228,11 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
+<<<<<<< HEAD
       "followers": 62095,
+=======
+      "followers": 62096,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
@@ -208,28 +246,40 @@
     {
       "handle": "@patriciarichardson.bsky.social",
       "display": "Patricia Richardson",
+<<<<<<< HEAD
       "followers": 31896,
+=======
+      "followers": 31897,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
       "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
     },
     {
       "handle": "@briney.org",
       "display": "Patrick Briney 🔵🌊🌊🌊",
-      "followers": 30197,
+      "followers": 30196,
       "desc": "I reside in Texas. I'm a dry-humor kind of guy, an optimist. Married, dog lover, handyman, and love classic cars. Most i",
       "link": "https://bsky.app/profile/briney.org"
     },
     {
       "handle": "@lleweyb63.bsky.social",
       "display": "Brian",
+<<<<<<< HEAD
       "followers": 23193,
+=======
+      "followers": 23196,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       "desc": "#VoteBlue, resister! Started here on 11/7/24. Ended twitter 11/13/24  🚫NO PORN, WILL BLOCK!!🚫DM’s.  #BlueCrew 🌊  Living ",
       "link": "https://bsky.app/profile/lleweyb63.bsky.social"
     },
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
+<<<<<<< HEAD
       "followers": 15618,
+=======
+      "followers": 15503,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -257,7 +307,11 @@
     {
       "handle": "@missrecreate.bsky.social",
       "display": "Miss Recreate",
+<<<<<<< HEAD
       "followers": 7420,
+=======
+      "followers": 7418,
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
       "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
       "link": "https://bsky.app/profile/missrecreate.bsky.social"
     },
@@ -285,7 +339,7 @@
     {
       "handle": "@simpson-ian.bsky.social",
       "display": "🇨🇦Ian - #RLessThanOne",
-      "followers": 4434,
+      "followers": 4435,
       "desc": "\"FACT: #COVID19 is NOT airborne\" WHO '20   \"a continuous spectrum of aerodynamic sizes, and no single cut off points sho",
       "link": "https://bsky.app/profile/simpson-ian.bsky.social"
     }

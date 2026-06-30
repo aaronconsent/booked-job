@@ -1,0 +1,62 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 6 (THEY CALL THE 5-STAR GUY). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "THEY CALL THE 5-STAR GUY",
+   "text_y": 170,
+   "emph": "REVIEWS",
+   "mood": "frustrated",
+   "vo": "Same price, same skills. They call the guy with more reviews. Every single time.",
+   "assets": [
+    {
+     "id": "reviewstars",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "ASK EVERY HAPPY CUSTOMER",
+   "text_y": 170,
+   "emph": "EVERY",
+   "mood": "neutral",
+   "vo": "Nine of ten people read reviews first. Text every happy customer a review link the day you finish. Make it a system.",
+   "assets": [
+    {
+     "id": "phonestars",
+     "w": 380,
+     "x": 540,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "REVIEW LINK",
+     "mark": "check"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

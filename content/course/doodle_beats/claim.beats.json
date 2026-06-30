@@ -1,0 +1,59 @@
+{
+  "id": "claim",
+  "vo": "b6e751837ffc6112b29865bb83c9990b.mp3",
+  "assets": [
+    "profilecard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "profilecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.405,
+      "type": "word",
+      "text": "CLAIM",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.405,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 2.461,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.81,
+      "type": "word",
+      "text": "TODAY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.83,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "answerphone",
+  "vo": "890c4db86043b69a04803d0fd0ae7f26.mp3",
+  "assets": [
+    "callbutton",
+    "moneyfire"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.694,
+      "type": "word",
+      "text": "ANSWER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "moneyfire",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 12.841,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 15.534,
+      "type": "word",
+      "text": "PHONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 15.894,
+      "type": "word",
+      "text": "FIRST",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

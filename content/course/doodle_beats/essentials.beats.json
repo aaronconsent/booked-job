@@ -1,0 +1,70 @@
+{
+  "id": "essentials",
+  "vo": "e3a3c1fbc41c8e3ad92e0c9ad635339e.mp3",
+  "assets": [
+    "stopwatch",
+    "mobilesite",
+    "callbutton"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "stopwatch",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "mobilesite",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": null
+    },
+    {
+      "t": 3.518,
+      "type": "word",
+      "text": "FAST",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.071,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 6.107,
+      "type": "word",
+      "text": "MOBILE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.455,
+      "type": "word",
+      "text": "TAP-TO-CALL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.143,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

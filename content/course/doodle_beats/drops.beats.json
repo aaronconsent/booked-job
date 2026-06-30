@@ -1,0 +1,81 @@
+{
+  "id": "drops",
+  "vo": "3ec331f930b709dad4d8d5c5d8bf4089.mp3",
+  "assets": [
+    "emptyfunnel",
+    "person",
+    "person",
+    "person",
+    "coin"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "STRANGER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.0,
+      "type": "build",
+      "target": "emptyfunnel",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.0,
+      "type": "build",
+      "target": "person",
+      "anim": "dropFade",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.906,
+      "type": "word",
+      "text": "VISITOR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.906,
+      "type": "build",
+      "target": "person",
+      "anim": "dropFade",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.428,
+      "type": "word",
+      "text": "LEAD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.428,
+      "type": "build",
+      "target": "person",
+      "anim": "dropFade",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.554,
+      "type": "word",
+      "text": "JOB",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.554,
+      "type": "build",
+      "target": "coin",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    }
+  ]
+}

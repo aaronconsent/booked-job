@@ -1,0 +1,66 @@
+{
+  "id": "scares",
+  "vo": "3caf32aaf99788a754ff57dd38a738cf.mp3",
+  "assets": [
+    "calculator"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "calculator",
+      "anim": "drawOn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 0.635,
+      "type": "word",
+      "text": "SCARED?",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.672,
+      "type": "word",
+      "text": "GOOD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.672,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 1.904,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.111,
+      "type": "word",
+      "text": "FIX",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.437,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

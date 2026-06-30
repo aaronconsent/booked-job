@@ -50,6 +50,54 @@
       "note": "Replies are THE Threads growth signal. Add a sharp take or a question — be present in the first 30 min.",
       "link": "https://www.threads.net/search?q=contractor%20business",
       "est": "12 min"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": "bluesky-q0",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @refigman.bsky.social: “As a small business owner, white male, a college education, skilled in the trades, more th…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @robmakesthat.bsky.social: “Just the trades though, right? Office workers can fuck all the way off, apparently.  As a …”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/robmakesthat.bsky.social/post/3lor5pvbu6s2h",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @mcrcommcentral.bsky.social: “Drum roll please... 🥁  We're announcing our Spirit of Manchester 2026 shortlist! 🌟  Congra…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/mcrcommcentral.bsky.social/post/3mox5ex7zif2l",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q3",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @willawillnot.bsky.social: “we had a weird electrical thing going on in my office and the general contractor guys came…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/willawillnot.bsky.social/post/3mpanzjvrws2b",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q4",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @davidbaginskiy.bsky.social: “What's something that looks impressive from the outside but is harder than people realize?…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/davidbaginskiy.bsky.social/post/3mp2hevetmp2v",
+      "est": "2 min"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
     }
   ],
   "setup": [

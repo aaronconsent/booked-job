@@ -1,0 +1,75 @@
+{
+  "id": "tree",
+  "vo": "15ec1e5d8d723e6c218fb383afee86e1.mp3",
+  "assets": [
+    "seedling",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "seedling",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.662,
+      "type": "word",
+      "text": "PLANT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.985,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.577,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 4.296,
+      "type": "word",
+      "text": "SHADES",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.563,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.155,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.55,
+      "type": "word",
+      "text": "YARD",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "onepage",
+  "vo": "0cb1fadad9906288d52e8f8522bea77d.mp3",
+  "assets": [
+    "scorecard",
+    "vestguy"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "scorecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.523,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 3.715,
+      "type": "word",
+      "text": "RUN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.679,
+      "type": "word",
+      "text": "LIKE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.911,
+      "type": "word",
+      "text": "AN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.039,
+      "type": "word",
+      "text": "OWNER",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

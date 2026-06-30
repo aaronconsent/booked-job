@@ -1,0 +1,61 @@
+{
+  "id": "cpl",
+  "vo": "4bea3d03c710db1c794b3d2f47486fc3.mp3",
+  "assets": [
+    "moneybag",
+    "leadhand"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "moneybag",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.123,
+      "type": "word",
+      "text": "CPL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.2,
+      "type": "build",
+      "target": "leadhand",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.448,
+      "type": "word",
+      "text": "PER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.669,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.715,
+      "type": "word",
+      "text": "LEAD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.503,
+      "type": "word",
+      "text": "COST",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

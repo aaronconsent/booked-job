@@ -1,0 +1,54 @@
+{
+  "id": "whonamed",
+  "vo": "23828228568da93e334a5959cbb88aa4.mp3",
+  "assets": [
+    "profilecard",
+    "blankprofile"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "profilecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.906,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.135,
+      "type": "word",
+      "text": "AI",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.365,
+      "type": "word",
+      "text": "WHO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.0,
+      "type": "build",
+      "target": "blankprofile",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 13.584,
+      "type": "word",
+      "text": "NAMES",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

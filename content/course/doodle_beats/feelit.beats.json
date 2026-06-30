@@ -1,0 +1,66 @@
+{
+  "id": "feelit",
+  "vo": "9328b60ad20067d83fb1c97c37451cde.mp3",
+  "assets": [
+    "callbutton"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "FIX",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 1.463,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.823,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.823,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 1.951,
+      "type": "word",
+      "text": "FEEL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.438,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

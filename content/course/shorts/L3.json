@@ -1,0 +1,71 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 3 (ONLY FIVE DOORS). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "ONLY FIVE DOORS",
+   "text_y": 170,
+   "emph": "FIVE",
+   "mood": "frustrated",
+   "vo": "Customers find you through exactly five doors. Most of you use one.",
+   "assets": [
+    {
+     "id": "door",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "THE FREE ONES FIRST",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "neutral",
+   "vo": "Two doors are free. Your Google profile, and your reviews. Build those before you ever pay for a lead.",
+   "assets": [
+    {
+     "id": "phonemap",
+     "w": 300,
+     "x": 360,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "GOOGLE"
+    },
+    {
+     "id": "reviewstars",
+     "w": 300,
+     "x": 720,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 1.7999999999999998,
+     "sfx": "pop",
+     "label": "REVIEWS"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

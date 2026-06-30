@@ -1,0 +1,70 @@
+{
+  "id": "exclusive",
+  "vo": "6af08161cd71212528100b415008f269.mp3",
+  "assets": [
+    "handshake",
+    "dollarstack",
+    "mousetrap"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "handshake",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.3,
+      "type": "word",
+      "text": "LEAD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.067,
+      "type": "word",
+      "text": "$120",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "mousetrap",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 6.199,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.338,
+      "type": "word",
+      "text": "JOB",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.266,
+      "type": "word",
+      "text": "$342",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

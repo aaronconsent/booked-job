@@ -1,0 +1,59 @@
+{
+  "id": "beatrivals",
+  "vo": "5c594c774dd3e1e31751decbba1d4f39.mp3",
+  "assets": [
+    "vestguy"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.012,
+      "type": "word",
+      "text": "BEAT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.773,
+      "type": "word",
+      "text": "HALF",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.773,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 4.029,
+      "type": "word",
+      "text": "YOUR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.05,
+      "type": "word",
+      "text": "RIVALS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

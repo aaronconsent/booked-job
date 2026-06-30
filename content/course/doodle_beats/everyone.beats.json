@@ -1,0 +1,54 @@
+{
+  "id": "everyone",
+  "vo": "8934a96cd29d40d4a90ea97d2be293be.mp3",
+  "assets": [
+    "person",
+    "door"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "EVERY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "person",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.685,
+      "type": "word",
+      "text": "CUSTOMER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.136,
+      "type": "word",
+      "text": "WALKS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.2,
+      "type": "build",
+      "target": "door",
+      "anim": "popIn",
+      "sfx": "thunk",
+      "diegetic": null
+    },
+    {
+      "t": 2.81,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

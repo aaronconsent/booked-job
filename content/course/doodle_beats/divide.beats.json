@@ -1,0 +1,70 @@
+{
+  "id": "divide",
+  "vo": "16bc1733c665dfc40d29c6aa0998c15b.mp3",
+  "assets": [
+    "dollarstack",
+    "calendar",
+    "calculator"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 0.859,
+      "type": "word",
+      "text": "JOBS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.169,
+      "type": "word",
+      "text": "SPEND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.0,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 2.337,
+      "type": "word",
+      "text": "\u00f7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "calculator",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.675,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.843,
+      "type": "word",
+      "text": "TRUTH",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

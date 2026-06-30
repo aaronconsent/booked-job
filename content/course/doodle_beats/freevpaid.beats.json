@@ -1,0 +1,52 @@
+{
+  "id": "freevpaid",
+  "vo": "288e1924f2734bddba56f3bb536013c3.mp3",
+  "assets": [
+    "coin"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.6,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 1.08,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.08,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 3.854,
+      "type": "word",
+      "text": "BEATS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.782,
+      "type": "word",
+      "text": "PAID",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

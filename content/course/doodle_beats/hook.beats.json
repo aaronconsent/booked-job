@@ -1,0 +1,52 @@
+{
+  "id": "hook",
+  "vo": "55369b4fd4a40d63927b986e6302012d.mp3",
+  "assets": [
+    "scorecard"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "scorecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.395,
+      "type": "word",
+      "text": "NUMBERS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.689,
+      "type": "word",
+      "text": "5",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.498,
+      "type": "word",
+      "text": "YOUR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.067,
+      "type": "word",
+      "text": "RUN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.444,
+      "type": "word",
+      "text": "SHOP",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

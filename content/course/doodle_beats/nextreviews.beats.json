@@ -1,0 +1,59 @@
+{
+  "id": "nextreviews",
+  "vo": "1209e7f35d7fe1eddcfd7c8e261722e0.mp3",
+  "assets": [
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 3.037,
+      "type": "word",
+      "text": "NEXT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.112,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.112,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 11.981,
+      "type": "word",
+      "text": "REVIEWS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.149,
+      "type": "word",
+      "text": "CURRENCY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

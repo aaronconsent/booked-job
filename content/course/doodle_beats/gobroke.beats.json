@@ -1,0 +1,68 @@
+{
+  "id": "gobroke",
+  "vo": "819801f032057e61e3c337620ea412af.mp3",
+  "assets": [
+    "coin",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.5,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 2.682,
+      "type": "word",
+      "text": "GOING",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.682,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 2.972,
+      "type": "word",
+      "text": "BROKE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 6.883,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.177,
+      "type": "word",
+      "text": "BUSY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

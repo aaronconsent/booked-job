@@ -1,0 +1,61 @@
+{
+  "id": "lsa",
+  "vo": "0c1d2b5abbf24b7c936530536c5e5b7e.mp3",
+  "assets": [
+    "lsabadge",
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "lsabadge",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.517,
+      "type": "word",
+      "text": "LSA",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": "ping"
+    },
+    {
+      "t": 3.034,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.163,
+      "type": "word",
+      "text": "PAY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.546,
+      "type": "word",
+      "text": "PER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.86,
+      "type": "word",
+      "text": "LEAD",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

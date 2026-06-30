@@ -1,0 +1,59 @@
+{
+  "id": "language",
+  "vo": "af5f93c8ec036cb5c3c5edca7c179207.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.368,
+      "type": "word",
+      "text": "YOU",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.446,
+      "type": "word",
+      "text": "SPEAK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.783,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.922,
+      "type": "word",
+      "text": "LANGUAGE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.922,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

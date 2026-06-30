@@ -1,0 +1,56 @@
+{
+  "id": "goldenrule",
+  "vo": "12a949774916e7e0d4826ac007c49d3e.mp3",
+  "assets": [
+    "coin",
+    "scale",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 3.564,
+      "type": "word",
+      "text": "JUDGE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "scale",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.818,
+      "type": "word",
+      "text": "BY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 14.698,
+      "type": "word",
+      "text": "CPBJ",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "anytrade",
+  "vo": "4a72a35de4147ad3af0dbbf9a16eca8b.mp3",
+  "assets": [],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.859,
+      "type": "word",
+      "text": "ANY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.859,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 1.08,
+      "type": "word",
+      "text": "TRADE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

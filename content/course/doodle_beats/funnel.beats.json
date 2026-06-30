@@ -1,0 +1,45 @@
+{
+  "id": "funnel",
+  "vo": "33a304104e73529353fe88a11359648f.mp3",
+  "assets": [
+    "emptyfunnel"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "emptyfunnel",
+      "anim": "drawOn",
+      "sfx": "zip",
+      "diegetic": null
+    },
+    {
+      "t": 1.219,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.393,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.858,
+      "type": "word",
+      "text": "PATH:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.858,
+      "type": "word",
+      "text": "FUNNEL",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "itsfree",
+  "vo": "02276f37cc172dd79d8afb8615fa52bb.mp3",
+  "assets": [
+    "mappin",
+    "vestguy"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "mappin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.111,
+      "type": "word",
+      "text": "AND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.168,
+      "type": "word",
+      "text": "IT'S",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.4,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 5.004,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

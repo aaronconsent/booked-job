@@ -1,0 +1,71 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 2 (CHEAP LEADS ARE A TRAP). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "CHEAP LEADS ARE A TRAP",
+   "text_y": 170,
+   "emph": "TRAP",
+   "mood": "frustrated",
+   "vo": "A cheap lead can be the most expensive thing you buy. Here's the math.",
+   "assets": [
+    {
+     "id": "mousetrap",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "$50 LEAD = $250 JOB",
+   "text_y": 170,
+   "emph": "$250",
+   "mood": "neutral",
+   "vo": "Fifty bucks a lead sounds great. But if only one in five books, your real cost is two hundred fifty a job. Judge by booked jobs, not leads.",
+   "assets": [
+    {
+     "id": "coin",
+     "w": 300,
+     "x": 360,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "$50 LEAD"
+    },
+    {
+     "id": "dollarstack",
+     "w": 300,
+     "x": 720,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 1.7999999999999998,
+     "sfx": "pop",
+     "label": "$250 JOB"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

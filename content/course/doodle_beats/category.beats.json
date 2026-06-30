@@ -1,0 +1,54 @@
+{
+  "id": "category",
+  "vo": "775a96be0387e56600968e4725ec417f.mp3",
+  "assets": [
+    "clipboard",
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.358,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.536,
+      "type": "word",
+      "text": "PICK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.656,
+      "type": "word",
+      "text": "CATEGORY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 7.607,
+      "type": "word",
+      "text": "RIGHT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

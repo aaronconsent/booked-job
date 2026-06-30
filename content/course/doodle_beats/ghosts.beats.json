@@ -1,0 +1,72 @@
+{
+  "id": "ghosts",
+  "vo": "a1d4b18df2e2f38adec9a86e52b07ccb.mp3",
+  "assets": [
+    "laptop",
+    "ghost",
+    "ghost",
+    "ghost"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "laptop",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.223,
+      "type": "word",
+      "text": "98",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.352,
+      "type": "word",
+      "text": "OF",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "ghost",
+      "anim": "dropFade",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 6.432,
+      "type": "word",
+      "text": "LEAVE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.8,
+      "type": "build",
+      "target": "ghost",
+      "anim": "dropFade",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 7.6,
+      "type": "build",
+      "target": "ghost",
+      "anim": "dropFade",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 9.669,
+      "type": "word",
+      "text": "100",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

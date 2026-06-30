@@ -1,0 +1,59 @@
+{
+  "id": "nextai",
+  "vo": "c84e019fed150b0c7f329c788eb22bec.mp3",
+  "assets": [
+    "robot"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "robot",
+      "anim": "drawOn",
+      "sfx": "ping",
+      "diegetic": null
+    },
+    {
+      "t": 11.064,
+      "type": "word",
+      "text": "NEXT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.591,
+      "type": "word",
+      "text": "+",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.591,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 12.841,
+      "type": "word",
+      "text": "GOOGLE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 13.804,
+      "type": "word",
+      "text": "A.I.",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "website",
+  "vo": "b3e5fa5db73185a42632a26fc74a6984.mp3",
+  "assets": [
+    "laptop",
+    "person",
+    "person",
+    "person"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "WEBSITE'S",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "laptop",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.531,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.844,
+      "type": "word",
+      "text": "JOB",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "person",
+      "anim": "dropFade",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 5.8,
+      "type": "build",
+      "target": "person",
+      "anim": "dropFade",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 6.6,
+      "type": "build",
+      "target": "person",
+      "anim": "dropFade",
+      "sfx": "whoosh",
+      "diegetic": null
+    }
+  ]
+}

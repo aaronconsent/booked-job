@@ -1,0 +1,71 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 9 (DOES AI KNOW YOU?). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "DOES AI KNOW YOU?",
+   "text_y": 170,
+   "emph": "AI",
+   "mood": "frustrated",
+   "vo": "A third of people now ask A I who to hire. Does it name you?",
+   "assets": [
+    {
+     "id": "robot",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "ONE FOUNDATION WINS BOTH",
+   "text_y": 170,
+   "emph": "BOTH",
+   "mood": "neutral",
+   "vo": "The A I just repeats the web. A strong profile, real reviews, a clear site. The same stuff wins Google and the robot.",
+   "assets": [
+    {
+     "id": "profilecard",
+     "w": 300,
+     "x": 360,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "PROFILE"
+    },
+    {
+     "id": "reviewstars",
+     "w": 300,
+     "x": 720,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 1.7999999999999998,
+     "sfx": "pop",
+     "label": "REVIEWS"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

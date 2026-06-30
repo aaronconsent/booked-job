@@ -1,0 +1,47 @@
+{
+  "id": "googleai",
+  "vo": "d5d3a782abb21aa3b10cb254cb539f52.mp3",
+  "assets": [
+    "phonemap",
+    "robot"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "ping",
+      "diegetic": "ping"
+    },
+    {
+      "t": 1.149,
+      "type": "word",
+      "text": "GOOGLE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.974,
+      "type": "word",
+      "text": "A.I.",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.974,
+      "type": "build",
+      "target": "robot",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": null
+    },
+    {
+      "t": 3.669,
+      "type": "word",
+      "text": "+",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "nextscorecard",
+  "vo": "955b7b29603033247f9f956da712fc41.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 5.213,
+      "type": "word",
+      "text": "NEXT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.5,
+      "type": "word",
+      "text": "YOUR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.056,
+      "type": "word",
+      "text": "SCORECARD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.056,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

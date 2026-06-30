@@ -1,0 +1,81 @@
+{
+  "id": "fivenumbers",
+  "vo": "382ddb38a6962dd688dca0844d835ceb.mp3",
+  "assets": [
+    "calculator",
+    "dollarstack",
+    "scale",
+    "reviewstars",
+    "stopwatch"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "calculator",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.43,
+      "type": "word",
+      "text": "NUMBERS,",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.334,
+      "type": "word",
+      "text": "MONTH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.195,
+      "type": "word",
+      "text": "5",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 5.6,
+      "type": "build",
+      "target": "scale",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 7.0,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "pop"
+    },
+    {
+      "t": 9.0,
+      "type": "build",
+      "target": "stopwatch",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 9.585,
+      "type": "word",
+      "text": "EVERY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

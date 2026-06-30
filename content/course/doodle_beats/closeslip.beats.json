@@ -1,0 +1,47 @@
+{
+  "id": "closeslip",
+  "vo": "b3566744f3e06a4136b2502569f4769a.mp3",
+  "assets": [
+    "leadhand",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "leadhand",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.718,
+      "type": "word",
+      "text": "CLOSE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.125,
+      "type": "word",
+      "text": "RATE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.438,
+      "type": "word",
+      "text": "SLIPS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    }
+  ]
+}

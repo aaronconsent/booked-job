@@ -1,0 +1,66 @@
+{
+  "id": "deadphone",
+  "vo": "4d7e23d10569cbd47857e22eeba2a429.mp3",
+  "assets": [
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "buzz",
+      "diegetic": "ping"
+    },
+    {
+      "t": 5.898,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.898,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 8.87,
+      "type": "word",
+      "text": "DOOR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.149,
+      "type": "word",
+      "text": "ISN'T",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.474,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.543,
+      "type": "word",
+      "text": "STRATEGY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

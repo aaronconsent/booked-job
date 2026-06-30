@@ -1,0 +1,61 @@
+{
+  "id": "nodhope",
+  "vo": "a57afb9740c0afa5cf82365bcf83d876.mp3",
+  "assets": [
+    "vestguy",
+    "megaphone"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.8,
+      "type": "build",
+      "target": "megaphone",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 5.352,
+      "type": "word",
+      "text": "NOD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.352,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 6.037,
+      "type": "word",
+      "text": "AND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.188,
+      "type": "word",
+      "text": "HOPE?",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "judged",
+  "vo": "570533da2e59321ffc1cb23e4d1ca506.mp3",
+  "assets": [
+    "phonestars",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonestars",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.873,
+      "type": "word",
+      "text": "9",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.02,
+      "type": "word",
+      "text": "OF",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.891,
+      "type": "word",
+      "text": "READ",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.216,
+      "type": "word",
+      "text": "REVIEWS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "pop"
+    },
+    {
+      "t": 5.619,
+      "type": "word",
+      "text": "10",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

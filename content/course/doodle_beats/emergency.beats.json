@@ -1,0 +1,56 @@
+{
+  "id": "emergency",
+  "vo": "ddc38c77484d559d04ab2557a9a0e1b1.mp3",
+  "assets": [
+    "waterheater",
+    "phonemap",
+    "megaphone"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "waterheater",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.833,
+      "type": "word",
+      "text": "EMERGENCY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": "ping"
+    },
+    {
+      "t": 5.4,
+      "type": "build",
+      "target": "megaphone",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 5.561,
+      "type": "word",
+      "text": "SEARCH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.828,
+      "type": "word",
+      "text": "\u2192",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

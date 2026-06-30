@@ -1,7 +1,12 @@
 {
   "done": [
+<<<<<<< HEAD
     "money-leaks-torque",
     "is-angi-worth-it",
     "money-leaks"
+=======
+    "is-angi-worth-it",
+    "money-leaks-torque"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
   ]
 }

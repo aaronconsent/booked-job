@@ -1,0 +1,61 @@
+{
+  "id": "broke",
+  "vo": "297fff49266be9b294ed87c4b24cf17b.mp3",
+  "assets": [
+    "reviewstars",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 1.997,
+      "type": "word",
+      "text": "REPUTATION",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.997,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "ding"
+    },
+    {
+      "t": 2.763,
+      "type": "word",
+      "text": "IS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.83,
+      "type": "word",
+      "text": "CURRENCY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

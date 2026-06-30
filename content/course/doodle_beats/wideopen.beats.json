@@ -1,0 +1,54 @@
+{
+  "id": "wideopen",
+  "vo": "62580281fdeb80665044c7a14f8b6b08.mp3",
+  "assets": [
+    "door",
+    "vestguy"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "door",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.647,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.367,
+      "type": "word",
+      "text": "WIDE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.715,
+      "type": "word",
+      "text": "OPEN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 4.31,
+      "type": "word",
+      "text": "REST?",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "onlyfive",
+  "vo": "eb50ce8f5b144cb2c50a773bae6ab4e1.mp3",
+  "assets": [
+    "door"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.5,
+      "type": "build",
+      "target": "door",
+      "anim": "drawOn",
+      "sfx": "thunk",
+      "diegetic": null
+    },
+    {
+      "t": 3.332,
+      "type": "word",
+      "text": "ONLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.332,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 3.611,
+      "type": "word",
+      "text": "FIVE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.19,
+      "type": "word",
+      "text": "DOORS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

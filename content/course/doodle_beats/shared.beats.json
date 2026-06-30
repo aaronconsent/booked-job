@@ -1,0 +1,52 @@
+{
+  "id": "shared",
+  "vo": "703d69abd123bf87918817e24cbba71d.mp3",
+  "assets": [
+    "sharedlead"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "sharedlead",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.929,
+      "type": "word",
+      "text": "SHARED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.734,
+      "type": "word",
+      "text": "LEADS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.709,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.243,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 14.234,
+      "type": "word",
+      "text": "RACE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

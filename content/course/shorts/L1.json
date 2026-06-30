@@ -1,0 +1,82 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 1 (NOBODY TAUGHT YOU MARKETING). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "NOBODY TAUGHT YOU MARKETING",
+   "text_y": 170,
+   "emph": "MARKETING",
+   "mood": "frustrated",
+   "vo": "Nobody ever taught you marketing. Here's the whole thing in twenty seconds.",
+   "assets": [
+    {
+     "id": "megaphone",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "mark": "x"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "GET FOUND \u00b7 PICKED \u00b7 BOOKED",
+   "text_y": 170,
+   "emph": "BOOKED",
+   "mood": "neutral",
+   "vo": "It's three things. Get found. Get picked. Get booked. That's it. Likes don't pay payroll.",
+   "assets": [
+    {
+     "id": "foundperson",
+     "w": 240,
+     "x": 270,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "FOUND"
+    },
+    {
+     "id": "reviewstars",
+     "w": 240,
+     "x": 540,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 1.7999999999999998,
+     "sfx": "pop",
+     "label": "PICKED"
+    },
+    {
+     "id": "calendar",
+     "w": 240,
+     "x": 810,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 3.1999999999999997,
+     "sfx": "pop",
+     "label": "BOOKED"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

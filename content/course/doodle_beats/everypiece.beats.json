@@ -1,0 +1,68 @@
+{
+  "id": "everypiece",
+  "vo": "92429e6557043c449d2dc5b6a0c8757b.mp3",
+  "assets": [
+    "mobilesite",
+    "callbutton"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "mobilesite",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.464,
+      "type": "word",
+      "text": "EVERY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 3.959,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.203,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.525,
+      "type": "word",
+      "text": "PIECE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.899,
+      "type": "word",
+      "text": "CALL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.787,
+      "type": "word",
+      "text": "\u2192",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

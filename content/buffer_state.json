@@ -1,11 +1,18 @@
 {
   "linkedin": [
-    "is-angi-worth-it"
+    "is-angi-worth-it",
+    "how-to-price-a-job"
   ],
   "tiktok": [
+<<<<<<< HEAD
     "is-angi-worth-it",
     "money-leaks",
     "money-leaks-torque"
+=======
+    "money-leaks",
+    "money-leaks-torque",
+    "is-angi-worth-it"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
   ],
   "linkedin_carousel": [
     "is-angi-worth-it"

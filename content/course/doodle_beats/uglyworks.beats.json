@@ -1,0 +1,68 @@
+{
+  "id": "uglyworks",
+  "vo": "c5bdabefae4e947bff60bf59df68f285.mp3",
+  "assets": [
+    "callbutton",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.731,
+      "type": "word",
+      "text": "UGLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.091,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.74,
+      "type": "word",
+      "text": "PHONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.185,
+      "type": "word",
+      "text": "+",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 7.961,
+      "type": "word",
+      "text": "#",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.554,
+      "type": "word",
+      "text": "WINS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

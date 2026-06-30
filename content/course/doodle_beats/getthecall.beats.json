@@ -1,0 +1,68 @@
+{
+  "id": "getthecall",
+  "vo": "7f1d1637e20bcebca894ba258123a3db.mp3",
+  "assets": [
+    "person",
+    "callbutton"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "person",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.998,
+      "type": "word",
+      "text": "TURN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.312,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.405,
+      "type": "word",
+      "text": "VISITOR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.869,
+      "type": "word",
+      "text": "INTO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.101,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 2.519,
+      "type": "word",
+      "text": "CALL",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

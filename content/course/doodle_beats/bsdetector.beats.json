@@ -1,0 +1,49 @@
+{
+  "id": "bsdetector",
+  "vo": "2e81312e2acdd806c51ea4eff8a09c91.mp3",
+  "assets": [
+    "vestguy",
+    "megaphone",
+    "bsdetector"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "megaphone",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 2.709,
+      "type": "word",
+      "text": "B.S.",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.6,
+      "type": "build",
+      "target": "bsdetector",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 5.608,
+      "type": "word",
+      "text": "DETECTOR",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "nextgbp",
+  "vo": "ea71b7956a40f3b7786bb56bf635f6fc.mp3",
+  "assets": [
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 3.762,
+      "type": "word",
+      "text": "NEXT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.498,
+      "type": "word",
+      "text": "GOOGLE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.346,
+      "type": "word",
+      "text": "PROFILE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.346,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "greenred",
+  "vo": "614ba6ac6772edf2f9b09fbc9852abcf.mp3",
+  "assets": [
+    "trafficlight",
+    "scorecard"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "trafficlight",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.533,
+      "type": "word",
+      "text": "GREEN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.586,
+      "type": "word",
+      "text": "YELLOW",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "scorecard",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 6.393,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.908,
+      "type": "word",
+      "text": "RED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.787,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

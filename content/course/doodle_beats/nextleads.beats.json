@@ -1,0 +1,59 @@
+{
+  "id": "nextleads",
+  "vo": "57fc6c37a9385812950fe1891f851dc3.mp3",
+  "assets": [
+    "leadapp"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "leadapp",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.906,
+      "type": "word",
+      "text": "YOU",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.906,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 3.78,
+      "type": "word",
+      "text": "NEXT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.56,
+      "type": "word",
+      "text": "SHOULD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 15.121,
+      "type": "word",
+      "text": "PAY?",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "entries": [
     {
+<<<<<<< HEAD
       "ts": "2026-06-30T17:39",
       "kind": "site",
       "icon": "🌐",
@@ -59,6 +60,12 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
+=======
+      "ts": "2026-06-30T12:20",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published post: course angi"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
     },
     {
       "ts": "2026-06-30T10:15",

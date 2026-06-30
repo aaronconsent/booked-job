@@ -16,6 +16,12 @@ content/reels/*.mp4
 *.wav.json
 content/voicelab/
 content/shorts/*.mp4
+content/course/*.mp4
+content/course/.tts_cache/
 site/podcast/audio/*.json
 content/pins/*.png
 content/brand/aaron-*.png
+content/course/.img_cache/
+content/course/.recraft_cache/
+secrets/fal.env
+content/course/.clip_cache/

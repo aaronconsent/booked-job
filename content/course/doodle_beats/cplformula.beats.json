@@ -1,0 +1,56 @@
+{
+  "id": "cplformula",
+  "vo": "b6f0f21f117c78d3ef4ca62e1d6c1ec8.mp3",
+  "assets": [
+    "moneybag",
+    "leadhand",
+    "coin"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "moneybag",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.197,
+      "type": "word",
+      "text": "SPEND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.511,
+      "type": "word",
+      "text": "LEADS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "leadhand",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.6,
+      "type": "build",
+      "target": "coin",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 6.71,
+      "type": "word",
+      "text": "\u00f7",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

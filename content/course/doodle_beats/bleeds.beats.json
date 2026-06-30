@@ -1,0 +1,63 @@
+{
+  "id": "bleeds",
+  "vo": "27cfb3927d57c620619da30af297064d.mp3",
+  "assets": [
+    "target",
+    "calculator",
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "target",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.383,
+      "type": "word",
+      "text": "WAYS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.248,
+      "type": "word",
+      "text": "3",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.2,
+      "type": "word",
+      "text": "BLEEDS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.0,
+      "type": "build",
+      "target": "calculator",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 10.0,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "ping"
+    },
+    {
+      "t": 15.743,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

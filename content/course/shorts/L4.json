@@ -1,0 +1,62 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 4 (TOP OF GOOGLE, FREE). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "TOP OF GOOGLE, FREE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "frustrated",
+   "vo": "There's free space at the very top of Google. Most contractors hand it to their competitor.",
+   "assets": [
+    {
+     "id": "phonemap",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "CLAIM IT \u2014 10 MINUTES",
+   "text_y": 170,
+   "emph": "10",
+   "mood": "neutral",
+   "vo": "It's your Google Business Profile. Claim it, pick the right category, add real photos. Ten minutes, and you beat half your town.",
+   "assets": [
+    {
+     "id": "profilecard",
+     "w": 380,
+     "x": 540,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "YOUR PROFILE",
+     "mark": "check"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

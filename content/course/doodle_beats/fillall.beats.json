@@ -1,0 +1,47 @@
+{
+  "id": "fillall",
+  "vo": "e7edd6076824ff1493cf98d1c34eebab.mp3",
+  "assets": [
+    "clipboard",
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.347,
+      "type": "word",
+      "text": "HALF",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 3.553,
+      "type": "word",
+      "text": "ISN'T",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.329,
+      "type": "word",
+      "text": "ENOUGH",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

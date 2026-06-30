@@ -1,0 +1,54 @@
+{
+  "id": "nogo",
+  "vo": "1a9603c4dac2969b501a06a308d76cd3.mp3",
+  "assets": [
+    "reviewbubble",
+    "vestguy"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewbubble",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.694,
+      "type": "word",
+      "text": "JUDGED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.921,
+      "type": "word",
+      "text": "BEFORE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.762,
+      "type": "word",
+      "text": "RING",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.896,
+      "type": "word",
+      "text": "YOU",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

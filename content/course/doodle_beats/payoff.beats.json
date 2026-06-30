@@ -1,0 +1,47 @@
+{
+  "id": "payoff",
+  "vo": "bdd958a9a8645c4afc4e5b86b5a58843.mp3",
+  "assets": [
+    "calculator",
+    "trafficlight"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "calculator",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.8,
+      "type": "build",
+      "target": "trafficlight",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.95,
+      "type": "word",
+      "text": "TRACK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.503,
+      "type": "word",
+      "text": "THEM",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.666,
+      "type": "word",
+      "text": "MONTHLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

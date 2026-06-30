@@ -1,0 +1,56 @@
+{
+  "id": "photos",
+  "vo": "8a0fd72aadce322e56ee6b235ad9ccfb.mp3",
+  "assets": [
+    "camera",
+    "truck",
+    "fancylogo"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "camera",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.964,
+      "type": "word",
+      "text": "REAL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.8,
+      "type": "build",
+      "target": "truck",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "rumble"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "fancylogo",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 7.477,
+      "type": "word",
+      "text": "PHOTOS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.812,
+      "type": "word",
+      "text": "WIN",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

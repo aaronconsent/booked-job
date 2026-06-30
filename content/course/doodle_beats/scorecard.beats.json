@@ -1,0 +1,31 @@
+{
+  "id": "scorecard",
+  "vo": "47898fbe1e03e0ff93c3f29c183e1c19.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.94,
+      "type": "word",
+      "text": "YOUR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.091,
+      "type": "word",
+      "text": "SCORECARD",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "burst",
+  "vo": "d6ae155320bab8c4e4f62b1061c9fc02.mp3",
+  "assets": [
+    "pipe",
+    "customer"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "pipe",
+      "anim": "crack",
+      "sfx": "thunk"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "decoration",
+  "vo": "93f3c5b358adbb25938ef252c5caaa21.mp3",
+  "assets": [
+    "fancylogo",
+    "heart"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "fancylogo",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "heart",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 6.006,
+      "type": "word",
+      "text": "DECORATION",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.732,
+      "type": "word",
+      "text": "NOT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

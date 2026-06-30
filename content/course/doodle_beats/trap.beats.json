@@ -1,0 +1,47 @@
+{
+  "id": "trap",
+  "vo": "b56d30e4e668f5d83368b45be109a9a1.mp3",
+  "assets": [
+    "leadapp",
+    "mousetrap"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "leadapp",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.0,
+      "type": "build",
+      "target": "mousetrap",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 2.833,
+      "type": "word",
+      "text": "SOMETIMES",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.83,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.41,
+      "type": "word",
+      "text": "TRAP",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

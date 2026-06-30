@@ -1,0 +1,61 @@
+{
+  "id": "runmath",
+  "vo": "e89fcd73ea2025c22a5a753fa8fcc636.mp3",
+  "assets": [
+    "sharedlead",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "sharedlead",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.091,
+      "type": "word",
+      "text": "LEAD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.811,
+      "type": "word",
+      "text": "$35",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "ding"
+    },
+    {
+      "t": 5.433,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.245,
+      "type": "word",
+      "text": "$700",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.182,
+      "type": "word",
+      "text": "JOB",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "booked",
+  "vo": "e41fd7be7b10aa235b01c15f03cfedd3.mp3",
+  "assets": [
+    "calendar",
+    "jobblock",
+    "BOOKED"
+  ],
+  "beats": [
+    {
+      "t": 0.35,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 0.449,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 0.548,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 0.647,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 0.746,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 0.846,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 0.945,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.044,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.143,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.242,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.341,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.44,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.539,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.638,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.737,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.837,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 1.936,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.035,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.134,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.233,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.332,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.431,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.53,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 2.629,
+      "type": "build",
+      "target": "jobblock",
+      "anim": "stamp",
+      "sfx": "thunk"
+    },
+    {
+      "t": 3.129,
+      "type": "stamp",
+      "target": "BOOKED",
+      "sfx": "ding"
+    }
+  ]
+}

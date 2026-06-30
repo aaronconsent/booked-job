@@ -1,0 +1,63 @@
+{
+  "id": "doubles",
+  "vo": "09c81bddba8a0ca9b5f6b21e8a838541.mp3",
+  "assets": [
+    "coin",
+    "scale",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 1.755,
+      "type": "word",
+      "text": "CPBJ",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.2,
+      "type": "build",
+      "target": "scale",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.511,
+      "type": "word",
+      "text": "DOUBLES",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.6,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "ding"
+    },
+    {
+      "t": 5.266,
+      "type": "word",
+      "text": "\u2192",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.022,
+      "type": "word",
+      "text": "$500",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

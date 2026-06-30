@@ -1,0 +1,61 @@
+{
+  "id": "wordmouth",
+  "vo": "3579b35ef5787b4f14cfaf4931cd34ce.mp3",
+  "assets": [
+    "bubble",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "pop"
+    },
+    {
+      "t": 0.975,
+      "type": "word",
+      "text": "WORD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.975,
+      "type": "build",
+      "target": "bubble",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.975,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 1.254,
+      "type": "word",
+      "text": "OF",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.347,
+      "type": "word",
+      "text": "MOUTH",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

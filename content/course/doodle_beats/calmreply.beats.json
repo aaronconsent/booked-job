@@ -1,0 +1,54 @@
+{
+  "id": "calmreply",
+  "vo": "84a0ce5aef1b07dad7b00ecb00a558a2.mp3",
+  "assets": [
+    "reviewbubble",
+    "handshake"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewbubble",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.174,
+      "type": "word",
+      "text": "CALM",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.416,
+      "type": "word",
+      "text": "REPLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.286,
+      "type": "word",
+      "text": "SELLS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "handshake",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    }
+  ]
+}

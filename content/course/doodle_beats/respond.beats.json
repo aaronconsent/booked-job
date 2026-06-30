@@ -1,0 +1,54 @@
+{
+  "id": "respond",
+  "vo": "bdb964b7d4d48796a3036ac830a4fa3a.mp3",
+  "assets": [
+    "reviewbubble",
+    "reviewbubble"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewbubble",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.592,
+      "type": "word",
+      "text": "TO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.44,
+      "type": "word",
+      "text": "REPLY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.904,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "reviewbubble",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 4.319,
+      "type": "word",
+      "text": "EVERY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

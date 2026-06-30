@@ -1,0 +1,14 @@
+{
+  "id": "outro",
+  "vo": "d344ca1bbdcd84f7625461108939bd38.mp3",
+  "assets": [
+    "brand"
+  ],
+  "beats": [
+    {
+      "t": 0.3,
+      "type": "brand",
+      "sfx": "pop"
+    }
+  ]
+}

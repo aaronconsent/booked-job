@@ -1,0 +1,47 @@
+{
+  "id": "win",
+  "vo": "f34cbbc51a562e40b1e55b8327b54b50.mp3",
+  "assets": [
+    "phonemap",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 0.488,
+      "type": "word",
+      "text": "ANSWER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.488,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 1.579,
+      "type": "word",
+      "text": "AND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.055,
+      "type": "word",
+      "text": "WIN",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

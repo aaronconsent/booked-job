@@ -1,0 +1,56 @@
+{
+  "id": "levers",
+  "vo": "a821686db2026dc81437f3a069a86d02.mp3",
+  "assets": [
+    "clipboard",
+    "camera",
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.057,
+      "type": "word",
+      "text": "FILL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.556,
+      "type": "word",
+      "text": "EVERY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.218,
+      "type": "word",
+      "text": "FIELD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": "ping"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "camera",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ringsorgone",
+  "vo": "83fbde96d953ce4b895f28633aeafc9e.mp3",
+  "assets": [
+    "phonemap",
+    "profilecard"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 2.752,
+      "type": "word",
+      "text": "IN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "profilecard",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 8.359,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.288,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.449,
+      "type": "word",
+      "text": "PHONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.436,
+      "type": "word",
+      "text": "BOX",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 12.539,
+      "type": "word",
+      "text": "RINGS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

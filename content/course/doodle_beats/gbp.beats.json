@@ -1,0 +1,45 @@
+{
+  "id": "gbp",
+  "vo": "eea292d65c5b5b3ff82be5f093ae2c61.mp3",
+  "assets": [
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "ping",
+      "diegetic": "ping"
+    },
+    {
+      "t": 0.464,
+      "type": "word",
+      "text": "GOOGLE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.269,
+      "type": "word",
+      "text": "PROFILE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.437,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.582,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

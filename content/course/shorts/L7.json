@@ -1,0 +1,73 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 7 ($15 LEAD = $300 JOB). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "$15 LEAD = $300 JOB",
+   "text_y": 170,
+   "emph": "$300",
+   "mood": "frustrated",
+   "vo": "That cheap fifteen-dollar lead? It might be costing you three hundred a job.",
+   "assets": [
+    {
+     "id": "mousetrap",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "EXCLUSIVE WINS",
+   "text_y": 170,
+   "emph": "WINS",
+   "mood": "neutral",
+   "vo": "Shared leads go to five guys. Do the math. The expensive exclusive lead that actually books is the cheaper one.",
+   "assets": [
+    {
+     "id": "coin",
+     "w": 300,
+     "x": 360,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "$15 SHARED",
+     "mark": "x"
+    },
+    {
+     "id": "handshake",
+     "w": 300,
+     "x": 720,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 1.7999999999999998,
+     "sfx": "pop",
+     "label": "EXCLUSIVE",
+     "mark": "check"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

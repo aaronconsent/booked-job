@@ -1,0 +1,54 @@
+{
+  "id": "highintent",
+  "vo": "f0eeaff1fa67910bf9424659c6c11d54.mp3",
+  "assets": [
+    "callbutton",
+    "door"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.598,
+      "type": "word",
+      "text": "HIGHEST",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "door",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 5.097,
+      "type": "word",
+      "text": "INTENT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.526,
+      "type": "word",
+      "text": "THERE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.782,
+      "type": "word",
+      "text": "IS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

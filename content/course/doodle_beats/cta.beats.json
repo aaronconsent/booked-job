@@ -1,0 +1,35 @@
+{
+  "id": "cta",
+  "vo": "b4b0ad9845da806ce30bdd5e15ae0507.mp3",
+  "assets": [],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.464,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.755,
+      "type": "word",
+      "text": "COURSE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.755,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

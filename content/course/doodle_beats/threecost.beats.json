@@ -1,0 +1,56 @@
+{
+  "id": "threecost",
+  "vo": "fa708005ab03618a935036e80e7a569d.mp3",
+  "assets": [
+    "megaphone",
+    "leadapp",
+    "moneybag"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "megaphone",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 0.464,
+      "type": "word",
+      "text": "THREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.8,
+      "type": "build",
+      "target": "leadapp",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": null
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "moneybag",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 3.367,
+      "type": "word",
+      "text": "COST",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.075,
+      "type": "word",
+      "text": "MONEY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

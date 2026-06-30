@@ -1,0 +1,61 @@
+{
+  "id": "beatfive",
+  "vo": "f47d42ed0cfa54845809330c251f3166.mp3",
+  "assets": [
+    "reviewstars",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 1.099,
+      "type": "word",
+      "text": "100",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.161,
+      "type": "word",
+      "text": "RECENT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "pop"
+    },
+    {
+      "t": 3.123,
+      "type": "word",
+      "text": "BEATS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.396,
+      "type": "word",
+      "text": "5",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.495,
+      "type": "word",
+      "text": "OLD",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

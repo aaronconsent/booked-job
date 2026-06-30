@@ -1,0 +1,77 @@
+{
+  "id": "mantra",
+  "vo": "9cfc01401e6c337891e6fde420bfb0e5.mp3",
+  "assets": [
+    "foundperson",
+    "reviewstars",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "foundperson",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.2,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 3.8,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 4.191,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.516,
+      "type": "word",
+      "text": "FOUND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.097,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.422,
+      "type": "word",
+      "text": "PICKED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.014,
+      "type": "word",
+      "text": "GET",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.351,
+      "type": "word",
+      "text": "BOOKED",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "notvictim",
+  "vo": "54711c379b62aaf40b401c7495921b29.mp3",
+  "assets": [
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "calendar",
+      "anim": "drawOn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 3.019,
+      "type": "word",
+      "text": "YOU'RE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.956,
+      "type": "word",
+      "text": "RUNNING",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.956,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 6.304,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.815,
+      "type": "word",
+      "text": "NOW",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

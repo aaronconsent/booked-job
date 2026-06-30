@@ -1,0 +1,52 @@
+{
+  "id": "tradenumbers",
+  "vo": "6a157968656a369ad62e4050d7a2e87d.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.836,
+      "type": "word",
+      "text": "REAL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.902,
+      "type": "word",
+      "text": "TRADE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.902,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 4.551,
+      "type": "word",
+      "text": "NUMBERS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

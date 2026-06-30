@@ -1,0 +1,47 @@
+{
+  "id": "sevenam",
+  "vo": "87d32a5f7973187f97298419f580f8a0.mp3",
+  "assets": [
+    "truck",
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "NEAR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 0.604,
+      "type": "word",
+      "text": "PLUMBER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.604,
+      "type": "build",
+      "target": "truck",
+      "anim": "slideIn",
+      "sfx": "whoosh",
+      "diegetic": "rumble"
+    },
+    {
+      "t": 1.811,
+      "type": "word",
+      "text": "ME",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

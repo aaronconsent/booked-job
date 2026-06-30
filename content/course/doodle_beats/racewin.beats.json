@@ -1,0 +1,47 @@
+{
+  "id": "racewin",
+  "vo": "ab68f5c310dbcb33d562d6201f2b63fe.mp3",
+  "assets": [
+    "callbutton",
+    "ghost"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.161,
+      "type": "word",
+      "text": "FIRST",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "ghost",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 4.168,
+      "type": "word",
+      "text": "CALL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.235,
+      "type": "word",
+      "text": "WINS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

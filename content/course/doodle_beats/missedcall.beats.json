@@ -1,0 +1,70 @@
+{
+  "id": "missedcall",
+  "vo": "2178bf1b51256bdcc0dbebf40416c389.mp3",
+  "assets": [
+    "coin",
+    "phonemap",
+    "moneyfire"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "ping"
+    },
+    {
+      "t": 6.409,
+      "type": "word",
+      "text": "CLICK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.0,
+      "type": "build",
+      "target": "moneyfire",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 9.613,
+      "type": "word",
+      "text": "+",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.008,
+      "type": "word",
+      "text": "PAID",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 13.154,
+      "type": "word",
+      "text": "MISSED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 13.433,
+      "type": "word",
+      "text": "CALL",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

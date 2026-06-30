@@ -1,0 +1,48 @@
+{
+  "_doc": "NSFW / uncensored-language variant of Marketing 101 (the 'Sh*t Nobody Tells You' voice). Rendered by scripts/make_lesson_nsfw.py = AI hero images (gpt-image-1) with Ken Burns + meme cards + profane motion-text. NOT for the main YouTube channel (age-restricted/demonetized) — social/separate-channel only, no auto-upload. Profanity is emphatic/comedic, never sexual. Scene fields: vo, heading, bullets, image (AI bg prompt), meme {img, top, bottom}, cite.",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "number": 1,
+      "title": "What Marketing Actually Is",
+      "search_term": "what is marketing for contractors",
+      "scenes": [
+        {"kind": "hook",
+         "heading": "Let's cut the shit.",
+         "image": "a stressed blue-collar contractor in a work truck at dawn staring at his phone with missed calls, frustrated",
+         "vo": "Let's cut the shit. You're a damn good tradesman. And you're still broke some months. Why? Because nobody ever taught you the one thing that actually fills the schedule. Getting the right person to find your ass at the exact second their pipe explodes. That's marketing. And no, it is not the scary bullshit you think it is."},
+        {"kind": "learn",
+         "heading": "What you'll actually learn",
+         "bullets": ["What marketing actually is", "Why you already do it", "The one path to every customer"],
+         "vo": "Three things, real quick. What marketing actually is. Why you're already doing it and don't even know it. And the one path every single customer takes to get to you. That's it. No fluff."},
+        {"kind": "teach",
+         "meme": {"img": "a dumpster overflowing and on fire full of burning dollar bills, dramatic night scene, sparks", "top": "MARKETING ISN'T A FANCY LOGO", "bottom": "IT'S GETTING FOUND WHEN THE PIPE BURSTS"},
+         "vo": "First, let's kill the biggest myth. Marketing is not ads. It's not some pretty-ass logo. It's not posting on Facebook till your thumbs bleed. Strip the crap away and it's two things. Being findable, and being trustable, when somebody needs you. That's the whole damn game."},
+        {"kind": "teach", "motion": "funnel",
+         "heading": "The funnel — every customer's path",
+         "bullets": ["Stranger", "Visitor", "Lead", "PAID"],
+         "vo": "Every customer you ever booked walked the same path. We call it the funnel. A stranger becomes a visitor. A visitor becomes a lead, somebody who raises their hand. And a lead becomes a booked job, actual money in your pocket. Stranger, visitor, lead, paid. Marketing just shoves more people down that pipe."},
+        {"kind": "teach",
+         "heading": "You already do this",
+         "bullets": ["Word of mouth IS marketing", "You're not starting at zero", "You're just leaving money on the table"],
+         "vo": "Here's the part that'll make you feel less stupid. You already do this. Every time a happy customer tells their neighbor you didn't rip them off, that's word of mouth. The oldest, strongest marketing on earth. You're not starting from zero. You're just leaving money on the table by stopping there."},
+        {"kind": "example",
+         "heading": "7AM. The water heater just blew.",
+         "image": "a residential garage at 7am with water flooding across the concrete floor from a burst water heater, cold morning light through the open garage door, sense of panic",
+         "vo": "Picture it. Seven in the morning. Some poor bastard's water heater just blew, and there's water all over his garage. What's he do? Grabs his phone, types plumber near me, and in ten seconds he's deciding who's getting paid today. Whoever shows up, has reviews, and picks up the damn phone. That's the funnel, live. You either win it, or you're invisible and your competitor eats."},
+        {"kind": "cutaway",
+         "heading": "Same disaster, different trade",
+         "image": "a suburban two-story house at night after a violent storm with a large broken tree limb fallen onto the roof, dramatic moody lighting, debris",
+         "cite": "Scenario — no data needed",
+         "vo": "And this ain't just plumbing. H-V-A-C, it's the no-cool call in July when grandma's sweating through the sheets. Roofing, it's the night after the hail. Tree guys, it's the limb through the roof. Same exact moment, same exact funnel. Just a different flavor of disaster."},
+        {"kind": "action",
+         "meme": {"img": "a calloused hand writing a short list on a clipboard inside a work truck, close up, gritty realistic", "top": "YOUR HOMEWORK:", "bottom": "LAST 5 JOBS — WHERE'D THEY COME FROM?"},
+         "vo": "Alright, homework, takes five minutes, no excuses. Write down the last five jobs you booked, and where each one came from. Referral, Google, a yard sign, whatever. That little list is your funnel, on paper. And you can't fix what you won't look at."},
+        {"kind": "bridge",
+         "heading": "Next — Lesson 2: Know Your Damn Numbers",
+         "bullets": ["Every job cost something to get", "2 numbers: print money or burn it", "Watch Lesson 2"],
+         "vo": "Now those five jobs cost you something to get. Even the referrals. And most of you have no clue what that number is. That's Lesson two. The two numbers that decide whether your marketing prints money, or lights it on fire. See you there."}
+      ]
+    }
+  ]
+}

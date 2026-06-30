@@ -1,0 +1,63 @@
+{
+  "id": "tightwatch",
+  "vo": "5b9d5a370f6cc18bf66f6c5df6131953.mp3",
+  "assets": [
+    "target",
+    "mappin",
+    "stopwatch"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "target",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.302,
+      "type": "word",
+      "text": "TIGHT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.627,
+      "type": "word",
+      "text": "KEYWORDS,",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "mappin",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": null
+    },
+    {
+      "t": 4.052,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.319,
+      "type": "word",
+      "text": "CITY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "stopwatch",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    }
+  ]
+}

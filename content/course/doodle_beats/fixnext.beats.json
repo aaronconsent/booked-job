@@ -1,0 +1,52 @@
+{
+  "id": "fixnext",
+  "vo": "e7c0eeb5f15cddb1f386cbd9d91330f5.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.441,
+      "type": "word",
+      "text": "FIX",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.441,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.441,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 1.869,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.433,
+      "type": "word",
+      "text": "THINKING",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

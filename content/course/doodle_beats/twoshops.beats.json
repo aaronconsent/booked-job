@@ -1,0 +1,54 @@
+{
+  "id": "twoshops",
+  "vo": "c9a515932b1569abefcb5cf84386343e.mp3",
+  "assets": [
+    "reviewbubble",
+    "phonestars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewbubble",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.978,
+      "type": "word",
+      "text": "12",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "phonestars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 3.957,
+      "type": "word",
+      "text": "vs",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.935,
+      "type": "word",
+      "text": "140",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.105,
+      "type": "word",
+      "text": "REVIEWS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

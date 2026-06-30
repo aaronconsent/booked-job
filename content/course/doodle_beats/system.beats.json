@@ -1,0 +1,54 @@
+{
+  "id": "system",
+  "vo": "a1f44e526ae66713947eac3255de00e8.mp3",
+  "assets": [
+    "handshake",
+    "phonestars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "handshake",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.287,
+      "type": "word",
+      "text": "ASKING",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "phonestars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 8.499,
+      "type": "word",
+      "text": "IS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.858,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 11.777,
+      "type": "word",
+      "text": "SYSTEM",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

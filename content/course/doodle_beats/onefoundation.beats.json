@@ -1,0 +1,63 @@
+{
+  "id": "onefoundation",
+  "vo": "19fbdf475b9390fce91ca488de3ab822.mp3",
+  "assets": [
+    "profilecard",
+    "reviewstars",
+    "laptop"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "profilecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 5.0,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 5.909,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.0,
+      "type": "build",
+      "target": "laptop",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 7.5,
+      "type": "word",
+      "text": "FOUNDATION,",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 20.701,
+      "type": "word",
+      "text": "BOTH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 21.049,
+      "type": "word",
+      "text": "DOORS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

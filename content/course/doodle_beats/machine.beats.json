@@ -1,0 +1,65 @@
+{
+  "id": "machine",
+  "vo": "13b677bd492bb97f16320ac098f68da5.mp3",
+  "assets": [
+    "waterheater",
+    "roofdamage",
+    "acunit",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "waterheater",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.325,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "roofdamage",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.506,
+      "type": "word",
+      "text": "IT'S",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.331,
+      "type": "word",
+      "text": "MACHINE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.6,
+      "type": "build",
+      "target": "acunit",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 8.0,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    }
+  ]
+}

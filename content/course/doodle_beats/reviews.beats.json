@@ -1,0 +1,47 @@
+{
+  "id": "reviews",
+  "vo": "a40f1a4c7ca987aba7d87cf93bdd1e21.mp3",
+  "assets": [
+    "reviewstars",
+    "coin"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 0.743,
+      "type": "word",
+      "text": "REVIEWS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.181,
+      "type": "word",
+      "text": "CURRENCY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.181,
+      "type": "build",
+      "target": "coin",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 5.131,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

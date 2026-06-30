@@ -1,0 +1,62 @@
+{
+ "_doc": "Marketing 101 SHORT \u2014 Lesson 5 (98% LEAVE YOUR SITE). Vertical 1080x1920.",
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "98% LEAVE YOUR SITE",
+   "text_y": 170,
+   "emph": "98%",
+   "mood": "frustrated",
+   "vo": "Ninety-eight out of a hundred people leave your website without calling. Here's why.",
+   "assets": [
+    {
+     "id": "laptop",
+     "w": 380,
+     "x": 540,
+     "y": 1080,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop"
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "text": "ONE GIANT PHONE NUMBER",
+   "text_y": 170,
+   "emph": "ONE",
+   "mood": "neutral",
+   "vo": "Your site has one job. Get the call. Fast, mobile, a giant tap-to-call number. Pretty doesn't pay. Working pays.",
+   "assets": [
+    {
+     "id": "callbutton",
+     "w": 380,
+     "x": 540,
+     "y": 1120,
+     "anim": "drawOn",
+     "t": 0.4,
+     "sfx": "pop",
+     "label": "TAP TO CALL",
+     "mark": "check"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "FREE COURSE",
+   "sub": "ON YOUTUBE",
+   "text_y": 170,
+   "emph": "FREE",
+   "mood": "delighted",
+   "vo": "The whole free course is on our channel. Get found, get picked, get booked.",
+   "char": {
+    "x": 540,
+    "y": 1080,
+    "scale": 0.92,
+    "hat": "hardhat",
+    "tool": "wrench",
+    "gesture_at": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "asadults",
+  "vo": "0b24542dbbbd5d56e5e9bf293ff37ad7.mp3",
+  "assets": [
+    "dollarstack",
+    "moneyfire"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "moneyfire",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 3.971,
+      "type": "word",
+      "text": "SPEND",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.272,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.4,
+      "type": "word",
+      "text": "LIKE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.656,
+      "type": "word",
+      "text": "ADULTS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

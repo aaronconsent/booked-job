@@ -1,0 +1,52 @@
+{
+  "id": "doitonce",
+  "vo": "ff1148fc459f5de5c2fac6523657fe12.mp3",
+  "assets": [
+    "clipboard"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "clipboard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.115,
+      "type": "word",
+      "text": "DO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.529,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.816,
+      "type": "word",
+      "text": "ONCE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.816,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

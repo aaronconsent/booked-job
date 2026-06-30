@@ -1,0 +1,82 @@
+{
+  "id": "paidwave",
+  "vo": "7b6b68fa877b5f6e4d8c9a7ad959c355.mp3",
+  "assets": [
+    "dollarstack",
+    "ghost"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "YOU",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.0,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 0.267,
+      "type": "word",
+      "text": "PAID",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 0.627,
+      "type": "word",
+      "text": "FOR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.324,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.8,
+      "type": "build",
+      "target": "ghost",
+      "anim": "popIn",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 1.834,
+      "type": "word",
+      "text": "WAVE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.287,
+      "type": "word",
+      "text": "GOODBYE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

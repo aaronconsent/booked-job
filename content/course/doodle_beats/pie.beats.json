@@ -1,0 +1,56 @@
+{
+  "id": "pie",
+  "vo": "65ac6ca4d9ab8718d0f284df57e0f72d.mp3",
+  "assets": [
+    "piechart",
+    "megaphone",
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "piechart",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.139,
+      "type": "word",
+      "text": "HEALTHY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.2,
+      "type": "build",
+      "target": "megaphone",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "pop"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": "ping"
+    },
+    {
+      "t": 8.115,
+      "type": "word",
+      "text": "MIX",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

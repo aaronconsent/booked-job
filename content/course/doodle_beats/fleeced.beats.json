@@ -1,0 +1,61 @@
+{
+  "id": "fleeced",
+  "vo": "429e4422dd687d5fed4796176dd5573b.mp3",
+  "assets": [
+    "scorecard",
+    "vestguy"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "scorecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "vestguy",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 13.874,
+      "type": "word",
+      "text": "IMPOSSIBLE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 13.874,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 14.489,
+      "type": "word",
+      "text": "TO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 14.605,
+      "type": "word",
+      "text": "FOOL",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

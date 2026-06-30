@@ -1,0 +1,66 @@
+{
+  "id": "theleak",
+  "vo": "bb97c27763e288a99c8b29cadf99d5f6.mp3",
+  "assets": [
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.0,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 0.221,
+      "type": "word",
+      "text": "LEAK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 1.022,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.09,
+      "type": "word",
+      "text": "IS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.483,
+      "type": "word",
+      "text": "CLOSE",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

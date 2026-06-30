@@ -1,0 +1,52 @@
+{
+  "id": "search",
+  "vo": "c86f031fb7a7974e1ef5448016c386fb.mp3",
+  "assets": [
+    "phonemap"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 0.511,
+      "type": "word",
+      "text": "PLUMBER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.511,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 1.022,
+      "type": "word",
+      "text": "NEAR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.532,
+      "type": "word",
+      "text": "ME",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

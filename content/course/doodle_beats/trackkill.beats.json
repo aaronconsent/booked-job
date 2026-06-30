@@ -1,0 +1,63 @@
+{
+  "id": "trackkill",
+  "vo": "e40a4c63ff2ff6ce7c74fcabd876fe12.mp3",
+  "assets": [
+    "calculator",
+    "dollarstack",
+    "coin"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "calculator",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 3.409,
+      "type": "word",
+      "text": "FEED",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.0,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    },
+    {
+      "t": 8.5,
+      "type": "build",
+      "target": "coin",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": "ding"
+    },
+    {
+      "t": 12.713,
+      "type": "word",
+      "text": "WINNERS,",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 14.733,
+      "type": "word",
+      "text": "KILL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 15.128,
+      "type": "word",
+      "text": "LOSERS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

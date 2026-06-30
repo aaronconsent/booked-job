@@ -1,6 +1,7 @@
 {
   "started": "2026-06-26",
   "day": "2026-06-30",
+<<<<<<< HEAD
   "follows_today": 4,
   "likes_today": 6,
   "followed": [
@@ -26,12 +27,307 @@
     "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27",
     "at://did:plc:mrfgil7opv3rfvpdablyt7ar/app.bsky.feed.post/3mpjwd4vdkc25",
     "at://did:plc:jkcxqfsmsek6iplzsxrr4v4m/app.bsky.feed.post/3mphstkzam22h"
+=======
+  "follows_today": 8,
+  "likes_today": 12,
+  "followed": [
+    "did:plc:647xi2eqt5w5zztjz6fgno4e",
+    "did:plc:pulzjz6r2p3lbl77o7jiwaoo",
+    "did:plc:nwohato66ne5f5jg7bdyglsd",
+    "did:plc:342rw5msmn4f2rmqpd6pkume",
+    "did:plc:hy4kwkakey4eawsw6jjzoc3j",
+    "did:plc:7czcrhxmxivqdhce6gyfwfss",
+    "did:plc:fnwbvkucpf2rhuhvhrjkxogr",
+    "did:plc:3hf5quw7arjiztbaact3v7u6",
+    "did:plc:5zww7zorx2ajw7hqrhuix3ba",
+    "did:plc:6uqee4ponukowxlkuncuuf3o",
+    "did:plc:s27dkgpjkdftaaces2su3oqx",
+    "did:plc:rl5jzjfxy5nh6ashtizsbxei",
+    "did:plc:v7npdl4xvepom4qozz62e6hw",
+    "did:plc:ns4wf3i52hvevoprdckcni25",
+    "did:plc:f4ro4kpq2p2aytcgxsd3svu5",
+    "did:plc:wxlnqcbtx54phbviroj226pp",
+    "did:plc:yk435jhklmlvnwficiwqj2od",
+    "did:plc:ztfwve6uqc4kowbgbfou2aaf",
+    "did:plc:bs46pnhkm4vd4ff6d2rl6ulk",
+    "did:plc:nrfx6wxvznssnkyrd4jeczjz",
+    "did:plc:rr6rlevmcatsdszayrvdcjxo",
+    "did:plc:x6ce4rwf34b2x34jrf4sxkb6",
+    "did:plc:nasdzbpiyzph2lvcoijyxere",
+    "did:plc:sgoj33fhwdewhhvkoumojvgg",
+    "did:plc:q66r3vy7xepmx62ti4vt7uzb",
+    "did:plc:xjfvduprefej5hz3tduhc3za",
+    "did:plc:wk7sybhegd37i7ljsltxbef6",
+    "did:plc:usi3l6p7lfnlj2pmxm2efqwy",
+    "did:plc:yf5jiiqrfp7h3abrkxovtbm4",
+    "did:plc:lkmm2r7zciuu4n25mccrhb26",
+    "did:plc:u6zoeeccfpk36jt2dg6dvj23",
+    "did:plc:m7xhurhrkqkr74d3g44albfm",
+    "did:plc:a7vsqj2irvgwbvfu7z552jqu",
+    "did:plc:b4den2svmrecgrvdpadqlgkb",
+    "did:plc:pdvjdejvjinix4lnt4sgzg7r",
+    "did:plc:x5mpd6hk76zukvmupfln6yc4"
+  ],
+  "liked": [
+    "at://did:plc:f4ro4kpq2p2aytcgxsd3svu5/app.bsky.feed.post/3lpmfb6k5lk2w",
+    "at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3mp7y6gurg22i",
+    "at://did:plc:647xi2eqt5w5zztjz6fgno4e/app.bsky.feed.post/3mpgv7ig76t2w",
+    "at://did:plc:fnwbvkucpf2rhuhvhrjkxogr/app.bsky.feed.post/3mpbsazpjtk24",
+    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mirazvskfk2n",
+    "at://did:plc:lkmm2r7zciuu4n25mccrhb26/app.bsky.feed.post/3mpbbh4yw4p2j",
+    "at://did:plc:bs46pnhkm4vd4ff6d2rl6ulk/app.bsky.feed.post/3mpb7hz7zyp2t",
+    "at://did:plc:y4gah7lyyy2254ggnirxlfiu/app.bsky.feed.post/3mp56a5jdoc2u",
+    "at://did:plc:khtv6ali5rd4ad4ipmtzqjsb/app.bsky.feed.post/3lor5pvbu6s2h",
+    "at://did:plc:xjfvduprefej5hz3tduhc3za/app.bsky.feed.post/3m3gisz3dik2k",
+    "at://did:plc:lgknf4z7xjoczvhaoxt6rlwf/app.bsky.feed.post/3ljam7ostuc2k",
+    "at://did:plc:7czcrhxmxivqdhce6gyfwfss/app.bsky.feed.post/3mpcgvj3gwk2c",
+    "at://did:plc:o6b6p7w54st6r7ze6nmjv4it/app.bsky.feed.post/3mp5ibhr6a224",
+    "at://did:plc:usi3l6p7lfnlj2pmxm2efqwy/app.bsky.feed.post/3mpg5sankh22c",
+    "at://did:plc:bs46pnhkm4vd4ff6d2rl6ulk/app.bsky.feed.post/3mpcm6jxe3n2m",
+    "at://did:plc:rl5jzjfxy5nh6ashtizsbxei/app.bsky.feed.post/3mp7cmxlywr2g",
+    "at://did:plc:a7vsqj2irvgwbvfu7z552jqu/app.bsky.feed.post/3mpj2pgaava2b",
+    "at://did:plc:oxdhoqpw2hxr73ew72bicjnr/app.bsky.feed.post/3mp5mtkdpvw2p",
+    "at://did:plc:ztfwve6uqc4kowbgbfou2aaf/app.bsky.feed.post/3mpcdqviyas2h",
+    "at://did:plc:342rw5msmn4f2rmqpd6pkume/app.bsky.feed.post/3mpj35gctan2e",
+    "at://did:plc:ns4wf3i52hvevoprdckcni25/app.bsky.feed.post/3mpgpo5wj7g2l",
+    "at://did:plc:342rw5msmn4f2rmqpd6pkume/app.bsky.feed.post/3mpj3ao4vdu25",
+    "at://did:plc:2s7bdfknl4wgfjf7ynzia4dn/app.bsky.feed.post/3mp2d7wzzuk2w",
+    "at://did:plc:x5mpd6hk76zukvmupfln6yc4/app.bsky.feed.post/3mp4aufyqd22n",
+    "at://did:plc:qkcpyhbskpmwk7u6v7o3whcf/app.bsky.feed.post/3mp5yrddvms2j",
+    "at://did:plc:hy4kwkakey4eawsw6jjzoc3j/app.bsky.feed.post/3mpc2v7a2zk2z",
+    "at://did:plc:nrfx6wxvznssnkyrd4jeczjz/app.bsky.feed.post/3mp7venr24s2r",
+    "at://did:plc:yk435jhklmlvnwficiwqj2od/app.bsky.feed.post/3mp4svayi522t",
+    "at://did:plc:nasdzbpiyzph2lvcoijyxere/app.bsky.feed.post/3mpdpjlfsaw2g",
+    "at://did:plc:hbf5z7i7aunqzriz2ubkfaev/app.bsky.feed.post/3len6bblir22y",
+    "at://did:plc:342rw5msmn4f2rmqpd6pkume/app.bsky.feed.post/3mpj36ylwbd25",
+    "at://did:plc:bs46pnhkm4vd4ff6d2rl6ulk/app.bsky.feed.post/3mpczlpt3dd26",
+    "at://did:plc:pdvjdejvjinix4lnt4sgzg7r/app.bsky.feed.post/3mpiz6kqwyv2j",
+    "at://did:plc:u6zoeeccfpk36jt2dg6dvj23/app.bsky.feed.post/3mpfwo63bld2a",
+    "at://did:plc:hpp6wquwgbtktyzovp3soyes/app.bsky.feed.post/3mp2v43uk422z",
+    "at://did:plc:v7npdl4xvepom4qozz62e6hw/app.bsky.feed.post/3mpgyd3t4c22m",
+    "at://did:plc:sgoj33fhwdewhhvkoumojvgg/app.bsky.feed.post/3m42d337m6s2i",
+    "at://did:plc:herztenjlu2bxfu2y57y73oq/app.bsky.feed.post/3mpayrvkel32k",
+    "at://did:plc:3hf5quw7arjiztbaact3v7u6/app.bsky.feed.post/3mp6lf7x3ps2z",
+    "at://did:plc:lkxofa4m33x7g53kz4c2mmq2/app.bsky.feed.post/3mpbcrpujz72b",
+    "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27",
+    "at://did:plc:wxlnqcbtx54phbviroj226pp/app.bsky.feed.post/3mp747yuyjf2v",
+    "at://did:plc:rr6rlevmcatsdszayrvdcjxo/app.bsky.feed.post/3mp56uztwrc2q",
+    "at://did:plc:wk7sybhegd37i7ljsltxbef6/app.bsky.feed.post/3mpbs4pn46s22",
+    "at://did:plc:3rcnagavtc5bpottseuxs75e/app.bsky.feed.post/3mpfq2wmruc2b",
+    "at://did:plc:x6ce4rwf34b2x34jrf4sxkb6/app.bsky.feed.post/3lrqktctqyc2w",
+    "at://did:plc:qrno4teqc4cd5rlodqc4mouy/app.bsky.feed.post/3mpffsceneg2c",
+    "at://did:plc:m7xhurhrkqkr74d3g44albfm/app.bsky.feed.post/3mp3ye7v6fe2a",
+    "at://did:plc:342rw5msmn4f2rmqpd6pkume/app.bsky.feed.post/3mpj33ci33s2i",
+    "at://did:plc:nwohato66ne5f5jg7bdyglsd/app.bsky.feed.post/3mpgnvy5mf22f",
+    "at://did:plc:b4den2svmrecgrvdpadqlgkb/app.bsky.feed.post/3mdzns2xckc2k",
+    "at://did:plc:ckgqr63uruxlsqb4v2ejdibp/app.bsky.feed.post/3li4toz24li2e",
+    "at://did:plc:6uqee4ponukowxlkuncuuf3o/app.bsky.feed.post/3lyykzs4wdk24",
+    "at://did:plc:s27dkgpjkdftaaces2su3oqx/app.bsky.feed.post/3mp6zlc4yvk2o"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
   ],
   "queue": [
     {
       "handle": "ninapryce.bsky.social",
       "text": "Topline Pro is building the AI team that runs the business while the plumber stays under the sink.\n\nhttps://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress",
       "url": "https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "handle": "novasolutions.bsky.social",
+      "text": "Skeptical of 'AI' for your trades business? Fair \u2014 most of it is hype. But one boring use case pays for itself: never letting a lead go unanswered. Missed-call text-back, 24/7 answers, auto-booking. N",
+      "url": "https://bsky.app/profile/novasolutions.bsky.social/post/3mphu4jta6c2t"
+    },
+    {
+      "handle": "beta8088proto.protogen.club",
+      "text": "For example, you go to a free comedy show at a community picnic. The comedian trades his time to make you laugh.\n\nOkay, is that \"business\"? What is the value of a laugh? Is his time actually worth som",
+      "url": "https://bsky.app/profile/beta8088proto.protogen.club/post/3mphvlh5ims2k"
+    },
+    {
+      "handle": "kdkheel.bsky.social",
+      "text": "This is a joke. Hospitalized for four months with Depression? Wasn't he making trades and doing other business?",
+      "url": "https://bsky.app/profile/kdkheel.bsky.social/post/3mpjdn3uf6s2i"
+    },
+    {
+      "handle": "thedarkroom.bsky.social",
+      "text": "i guess my question to congressman Kean (who was missing for 100+ days) is was he in the hospital and also making stock trades? his mental health is his own business.",
+      "url": "https://bsky.app/profile/thedarkroom.bsky.social/post/3mpjj5fn5x226"
+    },
+    {
+      "handle": "promarksolutions.bsky.social",
+      "text": "New site live for Lineham Excavating, a family run excavating and septic contractor in Olds serving Central Alberta. Need a website like this for your trades business? Promark Business Solutions build",
+      "url": "https://bsky.app/profile/promarksolutions.bsky.social/post/3mpjjg3yt2c2w"
+    },
+    {
+      "handle": "apfy.bsky.social",
+      "text": "Bidding a project? Verify subcontractor licenses first. Expired license = failed inspection = rework. Pull CA, FL, TX, NY board data automatically. 36 of 37 runs succeeded. Pay Per Result.\n\nhttps://ap",
+      "url": "https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k"
+    },
+    {
+      "handle": "darryl-grahamii.bsky.social",
+      "text": "A Phoenix contractor got 11 leads in a month from ChatGPT recommendations. No ads. He just made sure AI could find him. Most contractors still can't be found. Yet.",
+      "url": "https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mowgjv7n5m26"
+    },
+    {
+      "handle": "baadigi.bsky.social",
+      "text": "When search engines summarize the web, who actually gets recommended? Google AI Overviews, ChatGPT, and Perplexity are fundamentally changing how contractor leads find your business online. We just ma",
+      "url": "https://bsky.app/profile/baadigi.bsky.social/post/3moycz6z6fi2t"
+    },
+    {
+      "handle": "chloedenmark.bsky.social",
+      "text": "Also why is x-manufacturer in the building youre in? Because the architect and/or general contractor made a good deal for some shit. That\u2019s it. The install guys jump around company to company. So if t",
+      "url": "https://bsky.app/profile/chloedenmark.bsky.social/post/3mphskqhrhc2d"
+    },
+    {
+      "handle": "congresstracker.bsky.social",
+      "text": "[1/2] SB4898: A bill to implement recommendations of the Comptroller General of the United States for improving the Medicaid Recovery Audit Contractor program and identifying additional opportunities ",
+      "url": "https://bsky.app/profile/congresstracker.bsky.social/post/3mpieckhfsy2i"
+    },
+    {
+      "handle": "trustpartners.bsky.social",
+      "text": "One question every contractor should know the answer to:\n\nIf your tools were stolen tonight, what would your insurance actually cover?\n\nMany contractors are surprised to learn that General Liability i",
+      "url": "https://bsky.app/profile/trustpartners.bsky.social/post/3mpjvbo7ozv25"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Constructo \u2013 Construction WordPress Theme\n\n https://themes.stylelib.org/?p=6194 \n\n#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26"
+    },
+    {
+      "handle": "lordboise.bsky.social",
+      "text": "Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  \nI dislike Dean's implication that plumbing/HVAC business owners can't be effective po",
+      "url": "https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e"
+    },
+    {
+      "handle": "ghunkinking.bsky.social",
+      "text": "Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and ",
+      "url": "https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e"
+    },
+    {
+      "handle": "narrowit.bsky.social",
+      "text": "WORKFORCE DEVELOPMENT, INDIANA DEPARTMENT OF received a $5.10M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING...\n\nht",
+      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj33ci33s2i"
+    },
+    {
+      "handle": "narrowit.bsky.social",
+      "text": "OKLAHOMA EMPLOYMENT SECURITY COMM received a $5.10M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING  RESTART...\n\nhttp",
+      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj35gctan2e"
+    },
+    {
+      "handle": "narrowit.bsky.social",
+      "text": "LABOR & TRAINING RHODE ISLAND DEPARTMENT received a $4.50M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING...\n\nhttps:",
+      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj36ylwbd25"
+    },
+    {
+      "handle": "narrowit.bsky.social",
+      "text": "ALABAMA DEPARTMENT OF WORKFORCE received a $4.00M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING  RESTART...\n\nhttps:",
+      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj3ao4vdu25"
+    },
+    {
+      "handle": "refigman.bsky.social",
+      "text": "As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we\u2019re discriminated against the most in an attempt to bring required balan",
+      "url": "https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y"
+    },
+    {
+      "handle": "robmakesthat.bsky.social",
+      "text": "Just the trades though, right? Office workers can fuck all the way off, apparently.\n\nAs a small business owner (in Vancouver so you don\u2019t have to pretend to care) I might not be able to survive univer",
+      "url": "https://bsky.app/profile/robmakesthat.bsky.social/post/3lor5pvbu6s2h"
+    },
+    {
+      "handle": "mcrcommcentral.bsky.social",
+      "text": "Drum roll please... \ud83e\udd41\n\nWe're announcing our Spirit of Manchester 2026 shortlist! \ud83c\udf1f\n\nCongrats to all shortlisted this year! We can't wait to celebrate at our Awards night on 1 October 2026 \ud83c\udf89\n\nWant to f",
+      "url": "https://bsky.app/profile/mcrcommcentral.bsky.social/post/3mox5ex7zif2l"
+    },
+    {
+      "handle": "willawillnot.bsky.social",
+      "text": "we had a weird electrical thing going on in my office and the general contractor guys came to look at it, and i explained the reason the measurement was abnormal. to my horror they were like \"you seem",
+      "url": "https://bsky.app/profile/willawillnot.bsky.social/post/3mpanzjvrws2b"
+    },
+    {
+      "handle": "davidbaginskiy.bsky.social",
+      "text": "What's something that looks impressive from the outside but is harder than people realize? Business, parenting, sales, real estate, fitness, trades, content creation, leadership, or anything else.",
+      "url": "https://bsky.app/profile/davidbaginskiy.bsky.social/post/3mp2hevetmp2v"
+    },
+    {
+      "handle": "thedishwasher.bsky.social",
+      "text": "Is the idea of maximum contract \u201canti-labor\u201d? Yes\n\nBut in sports there are a lot of things that are anti labor like drafts, and standard rookie contracts and trades and there\u2019s an understanding that s",
+      "url": "https://bsky.app/profile/thedishwasher.bsky.social/post/3mp55dhkvas25"
+    },
+    {
+      "handle": "aptora.bsky.social",
+      "text": "Leave the guesswork behind, and let the numbers lead the way. \n\nWith Contractor Compass 360 from Aptora, you'll have all the key data you need to run your field service business successfully.\n\nInteres",
+      "url": "https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c"
+    },
+    {
+      "handle": "aptora.bsky.social",
+      "text": "Integrations you can count on. Aptora 360 is the software that will help your field service business succeed.\n\nWant to learn more or get started? Just click the link below or give us a call at (316) 2",
+      "url": "https://bsky.app/profile/aptora.bsky.social/post/3mmrwhrnws22b"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "ElectroServ \u2013 Fixing  Repair Service WordPress Theme\n\n https://themes.stylelib.org/?p=1849 \n\n#ancorathemes #building #business #construction #corporate #electrician #handyman #maintenance #renovation ",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mnqmvzmmyp2i"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Krafty \u2013 Repair and Construction WordPress Theme\n\n https://stylelib.org/?p=131526 \n\n#electrician #mwtemplates #painting #roofing #themeforest #wordpress #architecture #business #building #corporate #c",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mnwoax3odi2x"
+    },
+    {
+      "handle": "liberty2bfree.bsky.social",
+      "text": "One hires an Electrician bc they want the Electric Systems in their house/business improved.\n\nOne hires a Plumber bc they want the Plumbing Systems in their house/business improved.\n\nWhy did THEY hire",
+      "url": "https://bsky.app/profile/liberty2bfree.bsky.social/post/3mny2rbmtb22l"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Reneva \u2013  Small Business HTML Template\n\n https://themes.stylelib.org/?p=19089 \n\n#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m"
+    },
+    {
+      "handle": "faculty.bsky.social",
+      "text": "About the CEO exclusion: How are small business owners accounted for here\u2014tradesmen, for example. Would an independent plumber (LLC) be excluded?",
+      "url": "https://bsky.app/profile/faculty.bsky.social/post/3moxkyuz7722h"
+    },
+    {
+      "handle": "quemirasbobo.bsky.social",
+      "text": "Because it\u2019s their belief that immigrants \u201ctake\u201d from them\n\nNot a good analogy but remember Joe the Plumber who railed about taxes on the rich?\n\nHe wasn\u2019t a plumber, didn\u2019t own a business & wasn\u2019t a m",
+      "url": "https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "TheBuilt \u2013 Construction and Architecture WordPress theme\n\n https://stylelib.org/?p=101768 \n\n#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Fixhero \u2013 Handyman  Repair Services WordPress Theme\n\n https://themes.stylelib.org/?p=809526 \n\n#business #corporate #elementor #plumber #rstheme #themeforest #wordpress",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u"
+    },
+    {
+      "handle": "baadigi.bsky.social",
+      "text": "What happens when a homeowner asks an AI to compare your roofing business to your top competitor? If your website lacks semantic entity data, the AI won't even mention your name. We just published the",
+      "url": "https://bsky.app/profile/baadigi.bsky.social/post/3molvgn24jm2c"
+    },
+    {
+      "handle": "milayna.bsky.social",
+      "text": "Does that business do roofing? Probably. In the same way that Greenwater does pools. Incompetently, with poor materials, bad practice, no training. Because they aren't a pool business. They aren't the",
+      "url": "https://bsky.app/profile/milayna.bsky.social/post/3mooj2sx6yc2x"
+    },
+    {
+      "handle": "kylehugh.es",
+      "text": "There is so much work that doesn't get done because there is not enough attention available to plan the work, deploy the capital, and manage the resources. AI will give us infinite attention to do tho",
+      "url": "https://bsky.app/profile/kylehugh.es/post/3mor2sedr2k2x"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Construction \u2013 WordPress Theme\n\n https://stylelib.org/?p=289692 \n\n#constructor #electrician #handyman #painter #remodeling #renovation #themeforest #wordpress #architecture #business #plumber #buildin",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mo3f4vvcas2l"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "CarpetServ \u2013 Cleaning Company  Housekeeping WordPress Theme\n\n https://themes.stylelib.org/?p=22610 \n\n#agency #ancorathemes #business #electrician #handyman #maintenance #miscellaneous #plumber #renova",
+      "url": "https://bsky.app/profile/stylelib.org/post/3moaahxmlo422"
+>>>>>>> d51404a (sync local changes (font fix, cutover script))
     }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "id": "homework",
+  "vo": "23ea2181e3d5df2e87b8fb0275067500.mp3",
+  "assets": [
+    "scorecard",
+    "calculator"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "scorecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.09,
+      "type": "word",
+      "text": "FILL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.344,
+      "type": "word",
+      "text": "IT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "calculator",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 8.793,
+      "type": "word",
+      "text": "\u2014",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.706,
+      "type": "word",
+      "text": "IN",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.054,
+      "type": "word",
+      "text": "TODAY",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

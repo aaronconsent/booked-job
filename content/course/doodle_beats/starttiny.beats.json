@@ -1,0 +1,40 @@
+{
+  "id": "starttiny",
+  "vo": "ffb251f39f585c14f019099e03f2b8ce.mp3",
+  "assets": [
+    "moneyfire",
+    "coin"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "moneyfire",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.148,
+      "type": "word",
+      "text": "START",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.461,
+      "type": "word",
+      "text": "TINY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "coin",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    }
+  ]
+}

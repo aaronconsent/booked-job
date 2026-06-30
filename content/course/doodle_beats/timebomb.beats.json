@@ -1,0 +1,68 @@
+{
+  "id": "timebomb",
+  "vo": "d2568bf601b09f8bbbc95b85c0405ad3.mp3",
+  "assets": [
+    "eggsbasket",
+    "leadapp"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "eggsbasket",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.048,
+      "type": "word",
+      "text": "100%",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "leadapp",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 3.75,
+      "type": "word",
+      "text": "ONE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.982,
+      "type": "word",
+      "text": "APP",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.193,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.241,
+      "type": "word",
+      "text": "TIME",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.29,
+      "type": "word",
+      "text": "BOMB",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

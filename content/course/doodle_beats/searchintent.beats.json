@@ -1,0 +1,54 @@
+{
+  "id": "searchintent",
+  "vo": "8deef4d19486edc45af91df8cf390984.mp3",
+  "assets": [
+    "googleads",
+    "waterheater"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "googleads",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.662,
+      "type": "word",
+      "text": "SEARCH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.022,
+      "type": "word",
+      "text": "ADS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.846,
+      "type": "word",
+      "text": "BEAT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.005,
+      "type": "word",
+      "text": "BILLBOARDS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.0,
+      "type": "build",
+      "target": "waterheater",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    }
+  ]
+}

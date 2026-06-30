@@ -1,0 +1,47 @@
+{
+  "id": "twofree",
+  "vo": "a42478d11bc242eb6060278642ba3bee.mp3",
+  "assets": [
+    "phonemap",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phonemap",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ping"
+    },
+    {
+      "t": 0.313,
+      "type": "word",
+      "text": "TWO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.358,
+      "type": "word",
+      "text": "ARE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.544,
+      "type": "word",
+      "text": "FREE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.2,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "pop"
+    }
+  ]
+}

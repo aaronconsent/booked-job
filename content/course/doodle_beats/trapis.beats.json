@@ -1,0 +1,75 @@
+{
+  "id": "trapis",
+  "vo": "5f9adbaeeb1989c2082e1b83f265758b.mp3",
+  "assets": [
+    "mousetrap",
+    "leadapp"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.337,
+      "type": "word",
+      "text": "A",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.337,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "mousetrap",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.418,
+      "type": "word",
+      "text": "TRAP:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.0,
+      "type": "build",
+      "target": "leadapp",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 5.689,
+      "type": "word",
+      "text": "SLOW",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.585,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.482,
+      "type": "word",
+      "text": "BLIND",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

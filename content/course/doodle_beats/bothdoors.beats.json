@@ -1,0 +1,68 @@
+{
+  "id": "bothdoors",
+  "vo": "9eae4547711879951f93040f63b36ee1.mp3",
+  "assets": [
+    "searchbar",
+    "robot"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "searchbar",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.2,
+      "type": "build",
+      "target": "robot",
+      "anim": "popIn",
+      "sfx": "ping",
+      "diegetic": null
+    },
+    {
+      "t": 4.273,
+      "type": "word",
+      "text": "+",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.399,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.573,
+      "type": "word",
+      "text": "SEARCH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.909,
+      "type": "word",
+      "text": "BAR",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.606,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.722,
+      "type": "word",
+      "text": "ROBOT",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "doors",
+  "vo": "1bccb9424c70744d692395be45f689b1.mp3",
+  "assets": [
+    "door",
+    "door",
+    "door",
+    "door",
+    "door"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "door",
+      "anim": "drawOn",
+      "sfx": "thunk",
+      "diegetic": null
+    },
+    {
+      "t": 5.886,
+      "type": "word",
+      "text": "FIVE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.293,
+      "type": "word",
+      "text": "DOORS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.4,
+      "type": "build",
+      "target": "door",
+      "anim": "popIn",
+      "sfx": "thunk",
+      "diegetic": null
+    },
+    {
+      "t": 8.4,
+      "type": "build",
+      "target": "door",
+      "anim": "popIn",
+      "sfx": "thunk",
+      "diegetic": null
+    },
+    {
+      "t": 9.4,
+      "type": "build",
+      "target": "door",
+      "anim": "popIn",
+      "sfx": "thunk",
+      "diegetic": null
+    },
+    {
+      "t": 11.0,
+      "type": "build",
+      "target": "door",
+      "anim": "popIn",
+      "sfx": "thunk",
+      "diegetic": null
+    }
+  ]
+}

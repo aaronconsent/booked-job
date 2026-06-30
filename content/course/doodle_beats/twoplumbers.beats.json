@@ -1,0 +1,54 @@
+{
+  "id": "twoplumbers",
+  "vo": "d4d9eba24196f767ac2ae7d2f8ad5e99.mp3",
+  "assets": [
+    "profilecard",
+    "blankprofile"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "profilecard",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.0,
+      "type": "build",
+      "target": "blankprofile",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.496,
+      "type": "word",
+      "text": "SAME",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.891,
+      "type": "word",
+      "text": "SKILLS.",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.379,
+      "type": "word",
+      "text": "SAME",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.727,
+      "type": "word",
+      "text": "PRICE.",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

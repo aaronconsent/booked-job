@@ -1,0 +1,47 @@
+{
+  "id": "content",
+  "vo": "17513cce8e18482581dfe2ee3125e4d2.mp3",
+  "assets": [
+    "laptop",
+    "aiscreen"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "laptop",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.987,
+      "type": "word",
+      "text": "ANSWER",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.994,
+      "type": "word",
+      "text": "REAL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.0,
+      "type": "build",
+      "target": "aiscreen",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 9.555,
+      "type": "word",
+      "text": "QUESTIONS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

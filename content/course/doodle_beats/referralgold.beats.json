@@ -1,0 +1,47 @@
+{
+  "id": "referralgold",
+  "vo": "76e7617e360fae438c30364b6f73084e.mp3",
+  "assets": [
+    "handshake",
+    "piechart"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "handshake",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.231,
+      "type": "word",
+      "text": "REFERRALS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.344,
+      "type": "word",
+      "text": "GOLD",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.4,
+      "type": "build",
+      "target": "piechart",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 4.76,
+      "type": "word",
+      "text": "=",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "backwards",
+  "vo": "ef1078298700c1deb64b4d9e8c3384ad.mp3",
+  "assets": [
+    "moneybag",
+    "roofdamage"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.4,
+      "type": "build",
+      "target": "moneybag",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.935,
+      "type": "word",
+      "text": "DON'T",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.935,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    },
+    {
+      "t": 4.0,
+      "type": "build",
+      "target": "roofdamage",
+      "anim": "popIn",
+      "sfx": "buzz",
+      "diegetic": null
+    },
+    {
+      "t": 10.286,
+      "type": "word",
+      "text": "START",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.693,
+      "type": "word",
+      "text": "WITH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.855,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 10.983,
+      "type": "word",
+      "text": "ROOF",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

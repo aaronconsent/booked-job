@@ -1,0 +1,47 @@
+{
+  "id": "twofix",
+  "vo": "d42056bc028220ffed699189bcb7cdfe.mp3",
+  "assets": [
+    "leadhand",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "leadhand",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.486,
+      "type": "word",
+      "text": "JUST",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.776,
+      "type": "word",
+      "text": "TWO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.2,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 4.563,
+      "type": "word",
+      "text": "NUMBERS",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

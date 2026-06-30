@@ -1,0 +1,38 @@
+{
+  "id": "found",
+  "vo": "88046ea99b3c86f682e6470d9e2e6433.mp3",
+  "assets": [
+    "foundperson"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "foundperson",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.871,
+      "type": "word",
+      "text": "EASY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.173,
+      "type": "word",
+      "text": "TO",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.3,
+      "type": "word",
+      "text": "FIND",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

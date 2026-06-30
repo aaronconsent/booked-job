@@ -1,0 +1,47 @@
+{
+  "id": "twonumbers",
+  "vo": "3904b0fd58949c88fd1ef409bea3be1a.mp3",
+  "assets": [
+    "coin",
+    "dollarstack"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 3.042,
+      "type": "word",
+      "text": "CPL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.083,
+      "type": "word",
+      "text": "vs",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.125,
+      "type": "word",
+      "text": "CPBJ",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 9.125,
+      "type": "build",
+      "target": "dollarstack",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "ding"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cheapexp",
+  "vo": "a84b7d1000e8e88bd56c102a42d769ee.mp3",
+  "assets": [
+    "coin",
+    "calendar"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "CHEAP",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "coin",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": "ding"
+    },
+    {
+      "t": 0.395,
+      "type": "word",
+      "text": "IS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.534,
+      "type": "word",
+      "text": "EXPENSIVE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "calendar",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "worthit",
+  "vo": "501e14688140c5b8467389479aea07db.mp3",
+  "assets": [
+    "callbutton",
+    "handshake",
+    "calculator"
+  ],
+  "beats": [
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 2.6,
+      "type": "build",
+      "target": "handshake",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": null
+    },
+    {
+      "t": 2.914,
+      "type": "word",
+      "text": "WORTH",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.228,
+      "type": "word",
+      "text": "IT:",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.2,
+      "type": "build",
+      "target": "calculator",
+      "anim": "popIn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 4.388,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 5.486,
+      "type": "word",
+      "text": "CLOSE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 6.583,
+      "type": "word",
+      "text": "\u00b7",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 7.68,
+      "type": "word",
+      "text": "TRACK",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 8.034,
+      "type": "word",
+      "text": "FAST",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}

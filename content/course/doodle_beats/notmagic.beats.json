@@ -1,0 +1,68 @@
+{
+  "id": "notmagic",
+  "vo": "9fa0d180d00468e4e5c996e806e4f285.mp3",
+  "assets": [
+    "robot",
+    "reviewstars"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "robot",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.232,
+      "type": "word",
+      "text": "AI",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.788,
+      "type": "word",
+      "text": "JUST",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.4,
+      "type": "build",
+      "target": "reviewstars",
+      "anim": "popIn",
+      "sfx": "ding",
+      "diegetic": "pop"
+    },
+    {
+      "t": 2.733,
+      "type": "word",
+      "text": "REPEATS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.752,
+      "type": "word",
+      "text": "THE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 4.1,
+      "type": "word",
+      "text": "WEB",
+      "anim": "headBob",
+      "sfx": "tick"
+    }
+  ]
+}
