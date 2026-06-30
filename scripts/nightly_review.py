@@ -118,9 +118,10 @@ def build_prompts(prog, queues, has_prior):
         add("📝 Article pipeline thin", f"Only {queues['staged_articles']} articles staged to drip.",
             "Run another branch-series workflow batch and stage it to drip 2/day.")
 
-    # traffic always-on until analytics connected
-    add("🌐 Website traffic isn't tracked", "No analytics source is connected, so traffic goals show no data.",
-        "Set up Cloudflare Web Analytics (I'll add a CF token) so website visits show on the Goals page and feed the nightly review.")
+    # traffic prompt only while it's still unconfigured
+    if any(r.get("needs") == "analytics" for rows in prog.values() for r in rows):
+        add("🌐 Website traffic isn't tracked yet", "No Cloudflare token connected, so traffic goals show no data.",
+            "Set up Cloudflare analytics: create a CF API token (Zone → Analytics → Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page.")
 
     # weekly gap triggers (only once we can actually measure a window)
     for r in (prog.get("weekly", []) if has_prior else []):
@@ -163,6 +164,22 @@ def main():
     history = sorted(history, key=lambda h: h["date"])[-120:]
 
     prog = progress(goals, today_c, history, today, period_start, has_prior)
+
+    # patch website-traffic rows with real Cloudflare page views if configured
+    try:
+        import cf_analytics
+        tw = cf_analytics.windows(period_start, today)
+        if tw:
+            for cad in ("daily", "weekly", "monthly"):
+                for r in prog.get(cad, []):
+                    if r["key"] == "traffic":
+                        r["current"] = tw[cad]; r["needs"] = None
+                        tgt = r["target"]
+                        r["status"] = "green" if r["current"] >= tgt else ("yellow" if r["current"] >= tgt * 0.6 else "red")
+            log("Cloudflare traffic wired in.")
+    except Exception as e:
+        log(f"cf_analytics skipped: {str(e)[:100]}")
+
     queues = queue_health()
     prompts, top = build_prompts(prog, queues, has_prior)
 
