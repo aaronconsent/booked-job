@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 3,
+      "count": 10,
       "unit": "posts",
       "grade": "D",
       "group": "social",
@@ -463,8 +463,8 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 0,
-      "unit": "reels",
+      "count": 8,
+      "unit": "posts",
       "grade": "F",
       "group": "social",
       "followers": 0
@@ -472,7 +472,7 @@
     {
       "name": "YouTube",
       "status": "live",
-      "count": 0,
+      "count": 3,
       "unit": "shorts",
       "grade": "F",
       "group": "social",
@@ -498,7 +498,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "grade": "D",
       "group": "content"
@@ -506,7 +506,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 3,
       "grade": "D",
@@ -515,7 +515,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -524,7 +524,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -533,7 +533,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -542,7 +542,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "mirrors",
       "grade": "D",
       "group": "content"
@@ -558,7 +558,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 14,
+      "count": 15,
       "unit": "posts (Buffer)",
       "stat": "67 reach \u00b7 1 reactions",
       "views": 0,
@@ -569,7 +569,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 3,
+      "count": 10,
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
@@ -581,7 +581,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 18,
+      "count": 19,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",

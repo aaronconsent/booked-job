@@ -182,8 +182,8 @@ def channels(email_subs=0, followers=None):
     # (name, secret file, state file, state key, unit, kind-when-connected)
     reg = [
         ("Facebook", "fb.env", "state.json", "posted", "posts", "live"),
-        ("Instagram", "fb.env", "instagram_state.json", "done", "reels", "live"),
-        ("YouTube", "youtube.env", "youtube_state.json", "done", "shorts", "live"),
+        ("Instagram", "fb.env", "ig_state.json", "done", "posts", "live"),
+        ("YouTube", "youtube.env", "yt_state.json", "done", "shorts", "live"),
         ("Blogger", "blogger.env", "blogger_state.json", "done", "posts", "live"),
         ("Tumblr", "tumblr.env", "tumblr_state.json", "done", "posts", "live"),
         ("Telegraph", "telegraph.env", "telegraph_state.json", "done", "posts", "live"),
@@ -201,6 +201,17 @@ def channels(email_subs=0, followers=None):
         if followers.get(name) is not None:
             entry["followers"] = followers[name]
         out.append(entry)
+    # Reels + carousels are posts too — fold them into each platform's count so
+    # "Posts" reflects everything published there (they were previously uncounted).
+    # A reel fans out to FB + IG + TikTok. Stories are ephemeral (24h) -> excluded.
+    def _n(fname, key="done"):
+        return len(jload(os.path.join(ROOT, "content", fname), {}).get(key, []))
+    reels = _n("reels_state.json")
+    add = {"Facebook": reels + _n("fb_carousel_state.json"),
+           "Instagram": reels + _n("ig_carousel_state.json")}
+    for e in out:
+        if e["name"] in add and e["status"] == "live":
+            e["count"] += add[e["name"]]
     # Blog (always live — it's our own site); count = published articles
     arts = len(jload(os.path.join(ROOT, "content", "syndication_queue.json"), {}).get("items", []))
     out.insert(0, {"name": "Blog", "status": "live", "count": arts, "unit": "articles"})
@@ -226,14 +237,14 @@ def channels(email_subs=0, followers=None):
         except Exception:
             pass
     li = {"name": "LinkedIn", "status": "live" if buf else "pending",
-          "count": len(bs.get("linkedin", [])), "unit": "posts (Buffer)"}
+          "count": len(bs.get("linkedin", [])) + len(bs.get("linkedin_carousel", [])), "unit": "posts (Buffer)"}
     if li_m:
         li["stat"] = f"{int(li_m.get('reach', 0))} reach · {int(li_m.get('reactions', 0))} reactions"
         li["views"] = int(li_m.get("views", 0))
         li["likes"] = int(li_m.get("reactions", 0))
     out.append(li)
     tt = {"name": "TikTok", "status": "live" if buf else "off",
-          "count": len(bs.get("tiktok", [])), "unit": "videos (Buffer)"}
+          "count": len(bs.get("tiktok", [])) + len(bs.get("tiktok_carousel", [])) + reels, "unit": "videos (Buffer)"}
     if tt_m:
         tt["stat"] = f"{int(tt_m.get('views', 0))} views · {int(tt_m.get('reactions', 0))} reactions"
         tt["views"] = int(tt_m.get("views", 0))
