@@ -549,11 +549,14 @@
     },
     {
       "name": "Pinterest",
-      "status": "sandbox",
-      "count": 0,
-      "unit": "pins",
-      "grade": "F",
-      "group": "social"
+      "status": "live",
+      "count": 18,
+      "unit": "pins (Buffer)",
+      "grade": "C",
+      "group": "social",
+      "views": 0,
+      "likes": 0,
+      "stat": "0 impressions \u00b7 0 saves"
     },
     {
       "name": "Email",

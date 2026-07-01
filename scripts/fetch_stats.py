@@ -192,7 +192,6 @@ def channels(email_subs=0, followers=None):
         ("Threads", "threads.env", "threads_state.json", "done", "posts", "live"),
         ("Telegram", "telegram.env", "telegram_state.json", "done", "posts", "live"),
         ("GitHub Pages", "github.env", "ghpages_state.json", "done", "mirrors", "live"),
-        ("Pinterest", "pinterest.env", "pinterest_state.json", "done", "pins", "sandbox"),
     ]
     out = []
     for name, sec, stf, key, unit, kind in reg:
@@ -215,13 +214,15 @@ def channels(email_subs=0, followers=None):
     # LinkedIn + TikTok via Buffer (interim) — with engagement metrics from Buffer
     buf = os.path.exists(os.path.join(ROOT, "secrets", "buffer.env"))
     bs = jload(os.path.join(ROOT, "content", "buffer_state.json"), {})
-    li_m = tt_m = {}
+    li_m = tt_m = pin_m = {}
     if buf:
         try:
             sys.path.insert(0, HERE); import buffer_publish as BP
             be = BP.env()
             li_m = BP.metrics([be["BUFFER_LINKEDIN_CHANNEL"]])
             tt_m = BP.metrics([be["BUFFER_TIKTOK_CHANNEL"]])
+            if be.get("BUFFER_PINTEREST_CHANNEL"):
+                pin_m = BP.metrics([be["BUFFER_PINTEREST_CHANNEL"]])
         except Exception:
             pass
     li = {"name": "LinkedIn", "status": "live" if buf else "pending",
@@ -238,6 +239,14 @@ def channels(email_subs=0, followers=None):
         tt["views"] = int(tt_m.get("views", 0))
         tt["likes"] = int(tt_m.get("reactions", 0))
     out.append(tt)
+    # Pinterest via Buffer — pins posted from pinterest_buffer_state; stats from Buffer
+    pin = {"name": "Pinterest", "status": "live" if buf else "off", "unit": "pins (Buffer)",
+           "count": len(jload(os.path.join(ROOT, "content", "pinterest_buffer_state.json"), {}).get("done", []))}
+    if pin_m:
+        pin["views"] = int(pin_m.get("impressions", 0))   # Pinterest reports impressions, not views
+        pin["likes"] = int(pin_m.get("reactions", 0))
+        pin["stat"] = f"{int(pin_m.get('impressions', 0))} impressions · {int(pin_m.get('saves', 0))} saves"
+    out.append(pin)
     # Pending channels (built/ready, waiting on an external gate)
     out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
     content = {"Blog", "Podcast", "Blogger", "Tumblr", "Telegraph", "GitHub Pages", "Email"}
