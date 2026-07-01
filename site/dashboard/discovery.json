@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T06:51:31Z",
+  "updated": "2026-07-01T10:08:12Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,18 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 26,
         "link": "https://mastodon.social/tags/homeimprovement"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 7,
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#plumbing",
         "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#hvac",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 464801,
+        "followers": 464837,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22904,
+        "followers": 22905,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62095,
+      "followers": 62096,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15626,
+      "followers": 15634,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
     {
       "handle": "@trevorrowdyreed.bsky.social",
       "display": "Trevor Rowdy Reed",
-      "followers": 14583,
+      "followers": 14584,
       "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
       "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
     },
@@ -250,7 +250,7 @@
     {
       "handle": "@missrecreate.bsky.social",
       "display": "Miss Recreate",
-      "followers": 7428,
+      "followers": 7429,
       "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
       "link": "https://bsky.app/profile/missrecreate.bsky.social"
     },

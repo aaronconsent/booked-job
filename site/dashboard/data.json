@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T01:51",
+  "updated": "2026-07-01T05:08",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,25 +9,25 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 2,
+        "current": 3,
         "target": 30,
-        "pct": 7,
+        "pct": 10,
         "on_track": true
       },
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 12,
+        "current": 13,
         "target": 22,
-        "pct": 55,
+        "pct": 59,
         "on_track": true
       },
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 3,
+        "current": 4,
         "target": 60,
-        "pct": 5,
+        "pct": 7,
         "on_track": true
       },
       {
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 8,
+        "current": 9,
         "target": 800,
         "pct": 1,
         "on_track": false
@@ -108,46 +108,39 @@
       "date": "2026-07-02",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Two shops, same town, same price. One's got 12 reviews, the ",
+      "title": "The slow season isn't bad luck. It's a marketing problem you",
       "sub": "course promo"
     },
     {
       "date": "2026-07-03",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "New podcast: Get Booked, Not F***ed",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-07",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "The slow season isn't bad luck. It's a marketing problem you",
-      "sub": "course promo"
-    },
-    {
-      "date": "2026-07-07",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
       "title": "Porno or Plumbing?",
       "sub": "Reel"
     },
     {
-      "date": "2026-07-08",
+      "date": "2026-07-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two ",
       "sub": "podcast promo"
     },
     {
-      "date": "2026-07-09",
+      "date": "2026-07-07",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The one-star that started a podcast",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-08",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Most contractors think 'marketing' is a logo and a boosted p",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-10",
+      "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
@@ -155,20 +148,20 @@
     },
     {
       "date": "2026-07-10",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "The one-star that started a podcast",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Your $35 lead isn't $35. Once you count the ones that never ",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-10",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The cheapest bid costs the most",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every shop has had this exact conversation. \ud83e\udd1d",
@@ -176,17 +169,24 @@
     },
     {
       "date": "2026-07-14",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Customers find you through 5 doors. If one lead app is most ",
+      "sub": "course promo"
+    },
+    {
+      "date": "2026-07-14",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The cheapest bid costs the most",
+      "title": "Look what the last guy did",
       "sub": "Reel"
     },
     {
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Customers find you through 5 doors. If one lead app is most ",
-      "sub": "course promo"
+      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
+      "sub": "pricing drama"
     }
   ],
   "page": {
@@ -195,13 +195,13 @@
     "likes": 0
   },
   "content": {
-    "posts_published": 3,
+    "posts_published": 4,
     "reactions": 0,
-    "comments": 8,
+    "comments": 9,
     "shares": 0,
-    "reels_published": 2,
-    "posts_remaining": 93,
-    "reels_remaining": 13
+    "reels_published": 3,
+    "posts_remaining": 92,
+    "reels_remaining": 12
   },
   "ads": {
     "status": "\u2014",
@@ -215,8 +215,8 @@
     "connected": true,
     "subscribers": 0,
     "views": 2,
-    "videos": 12,
-    "shorts": 12
+    "videos": 13,
+    "shorts": 13
   },
   "instagram": {
     "connected": true,
@@ -450,7 +450,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 2,
+      "count": 3,
       "unit": "posts",
       "grade": "D",
       "views": 1,
@@ -490,14 +490,14 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
       "grade": "D"
     },
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
       "followers": 3,
       "grade": "D"
@@ -505,7 +505,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -521,7 +521,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
       "followers": 2,
       "grade": "D"
@@ -529,7 +529,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "mirrors",
       "grade": "D"
     },
@@ -575,7 +575,7 @@
   ],
   "funnel": {
     "reach": 0,
-    "engagement": 8,
+    "engagement": 9,
     "audience": 10,
     "cr_clicks": 8
   },
@@ -599,7 +599,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 125,
+        "value": 131,
         "grade": "B"
       },
       {
@@ -614,11 +614,11 @@
       },
       {
         "label": "Engagement",
-        "value": 8,
+        "value": 9,
         "grade": "D"
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 125 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 131 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }
