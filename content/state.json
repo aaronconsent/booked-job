@@ -2,12 +2,14 @@
   "page_created": "2026-06-25",
   "posted": [
     "course-angi",
-    "course-pricing"
+    "course-pricing",
+    "course-reviews"
   ],
-  "last_post_iso": "2026-06-30T18:08:42",
+  "last_post_iso": "2026-07-01T01:51:43",
   "by_date": {
     "2026-06-25": 1,
-    "2026-06-30": 2
+    "2026-06-30": 2,
+    "2026-07-01": 1
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }

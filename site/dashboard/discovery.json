@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T05:49:53Z",
+  "updated": "2026-07-01T06:51:31Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#contractor",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22902,
+        "followers": 22904,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -206,6 +206,13 @@
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
     {
+      "handle": "@patriciarichardson.bsky.social",
+      "display": "Patricia Richardson",
+      "followers": 31895,
+      "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
+      "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
+    },
+    {
       "handle": "@briney.org",
       "display": "Patrick Briney 🔵🌊🌊🌊",
       "followers": 30197,
@@ -222,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15623,
+      "followers": 15626,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -239,6 +246,13 @@
       "followers": 14332,
       "desc": "🚫DM’s  Calm, collected, confident, man.  Plumber that always  accomplish’s quality, professional plumbing. A golf profes",
       "link": "https://bsky.app/profile/plumergolf.bsky.social"
+    },
+    {
+      "handle": "@missrecreate.bsky.social",
+      "display": "Miss Recreate",
+      "followers": 7428,
+      "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
+      "link": "https://bsky.app/profile/missrecreate.bsky.social"
     },
     {
       "handle": "@nihl.mainbastards.online",
@@ -274,20 +288,6 @@
       "followers": 4419,
       "desc": "Mech & Robot Handyman. Senior Animator & background Artist. Drawing & animation teacher. Ink drinker. Seaplane and old w",
       "link": "https://bsky.app/profile/bouss.bsky.social"
-    },
-    {
-      "handle": "@laprofmme.bsky.social",
-      "display": "Laprofmme 🦬⚔️🏒 💙💛❤️‍🩹",
-      "followers": 4340,
-      "desc": "Historian, 🐶 🐩 mom, aspiring native plant gardener, knitter, vintage plumbing fixture enthusiast. Oxford comma and footn",
-      "link": "https://bsky.app/profile/laprofmme.bsky.social"
-    },
-    {
-      "handle": "@brokowski.bsky.social",
-      "display": "Bro Kow Ski",
-      "followers": 4285,
-      "desc": "FiFO, Extra Duty, The Enormities Known to Exist, Plumbing, the Milkman, Pineapples!, (and many more) Please share my idi",
-      "link": "https://bsky.app/profile/brokowski.bsky.social"
     }
   ]
 }

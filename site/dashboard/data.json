@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T00:49",
+  "updated": "2026-07-01T01:51",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -200,7 +200,7 @@
     "comments": 8,
     "shares": 0,
     "reels_published": 2,
-    "posts_remaining": 91,
+    "posts_remaining": 93,
     "reels_remaining": 13
   },
   "ads": {
@@ -436,7 +436,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 62,
+      "count": 64,
       "unit": "articles",
       "grade": "B"
     },
@@ -490,14 +490,14 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "grade": "D"
     },
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 3,
       "grade": "D"
@@ -505,7 +505,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 3,
+      "count": 4,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -513,7 +513,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 0,
       "grade": "F"
@@ -521,7 +521,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 2,
       "grade": "D"
@@ -529,7 +529,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "mirrors",
       "grade": "D"
     },
@@ -550,7 +550,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 12,
+      "count": 14,
       "unit": "posts (Buffer)",
       "stat": "61 reach \u00b7 1 reactions",
       "views": 0,
@@ -599,7 +599,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 115,
+        "value": 125,
         "grade": "B"
       },
       {
@@ -619,6 +619,6 @@
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 115 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 125 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }
