@@ -1,12 +1,13 @@
 {
   "done": [
     "website-leave",
-    "angi-leads",
-    "map-pack",
-    "unpaid-invoices",
-    "markup-margin",
     "slow-season",
+    "speed-window",
+    "unpaid-invoices",
+    "angi-leads",
+    "judge-first",
     "review-timing",
-    "speed-window"
+    "map-pack",
+    "markup-margin"
   ]
 }
