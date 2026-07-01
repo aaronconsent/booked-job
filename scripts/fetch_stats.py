@@ -298,6 +298,39 @@ def coverage():
     }
 
 
+def runway():
+    """Content runway per queue: how many days of content remain at the current
+    cadence. Powers the dashboard's low-content alert."""
+    import glob
+    def rem(qf, key, sf, sk="done"):
+        try:
+            q = jload(os.path.join(ROOT, "content", qf), {}).get(key, [])
+            st = set(jload(os.path.join(ROOT, "content", sf), {}).get(sk, []))
+            return len([i for i in q if (i.get("id") if isinstance(i, dict) else i) not in st])
+        except Exception:
+            return 0
+    staged = len(glob.glob(os.path.join(ROOT, "content", "staged", "*.json")))
+    pool = len(jload(os.path.join(ROOT, "content", "video_pool.json"), {}).get("videos", []))
+    # (label, remaining, per_day, evergreen?) — evergreen queues cycle, so "low" = thin rotation
+    rows = [
+        ("Facebook posts", rem("queue.json", "posts", "state.json", "posted"), 2, False),
+        ("Reels (FB+IG+TikTok)", rem("reels_queue.json", "reels", "reels_state.json"), 4, False),
+        ("YouTube/IG shorts", rem("yt_queue.json", "shorts", "yt_state.json"), 2, False),
+        ("Blog articles (drip)", staged, 2, False),
+        ("Video pool (evergreen)", pool, 0, True),
+    ]
+    out = []
+    for label, n, per, ever in rows:
+        if ever:
+            days = None
+            status = "red" if n < 6 else "amber" if n < 10 else "green"
+        else:
+            days = round(n / per, 1) if per else None
+            status = "red" if days is not None and days < 3 else "amber" if days is not None and days < 7 else "green"
+        out.append({"label": label, "remaining": n, "per_day": per, "days": days, "status": status})
+    return out
+
+
 def main():
     E = env()
     page, ptok, stok = E["FB_PAGE_ID"], E["FB_PAGE_TOKEN"], E.get("FB_SYSTEM_TOKEN", E["FB_LONGLIVED_USER_TOKEN"])
@@ -572,6 +605,7 @@ def main():
         "agents": enumerate_agents(),
         "channels": chs,
         "coverage": coverage(),
+        "runway": runway(),
         "funnel": funnel,
         "trends": trends,
         "mafia": mafia,

@@ -159,8 +159,25 @@ async function load(){
   try{ d=await (await fetch('data.json?'+Date.now())).json(); }catch(e){ return; }
   try{ cl=await (await fetch('changelog.json?'+Date.now())).json(); }catch(e){ cl={entries:[]}; }
   if($('updated')) $('updated').textContent=new Date(d.updated).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
-  renderScoreboard(d); renderCoverage(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
+  renderScoreboard(d); renderRunway(d); renderCoverage(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
   renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl);
+}
+
+function renderRunway(d){
+  const el=$('runway'); if(!el||!d.runway) return;
+  el.innerHTML=d.runway.map(r=>{
+    const val=r.days!=null?`${r.days}d`:'evergreen';
+    const w=r.days!=null?Math.max(4,Math.min(100,Math.round(r.days/14*100))):100;
+    return `<div class="rwrow rw-${r.status}"><div class="rwlab">${r.label}</div>
+      <div class="rwbar"><div class="rwfill" style="width:${w}%"></div></div>
+      <div class="rwval">${fmt(r.remaining)} left · <b>${val}</b></div></div>`;
+  }).join('');
+  const a=$('runwayAlert'); if(!a) return;
+  const low=d.runway.filter(r=>r.status!=='green').sort((x,y)=>(x.days??99)-(y.days??99));
+  if(low.length){const w=low[0];
+    a.textContent=`⚠ ${low.length} low — ${w.label}: ${w.days!=null?w.days+' days':'thin rotation'} left`;
+    a.className='rwalert warn';
+  } else { a.textContent='✓ all queues healthy'; a.className='rwalert ok'; }
 }
 
 function renderCoverage(d){
