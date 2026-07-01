@@ -20,8 +20,8 @@ STATE = os.path.join(ROOT, "content", "reels_state.json")
 LOG = os.path.join(ROOT, "content", "reels.log")
 OUTDIR = os.path.join(ROOT, "content", "reels")
 
-POST_DAYS = {0, 1, 2, 3, 4, 5, 6}  # daily — each reel fans to FB+IG+TikTok (~1/day each = safe-max)
-WINDOW = (6, 10)        # morning
+POST_DAYS = {0, 1, 2, 3, 4, 5, 6}  # daily — each reel fans to FB+IG+TikTok
+WINDOW = (6, 22)        # all day (uncapped — max reels, ElevenLabs spend OK'd by Aaron 2026-07-01)
 BACKEND = "elevenlabs"  # falls back by editing make_reel default if credits run out
 
 
@@ -61,8 +61,8 @@ def main():
             log(f"skip: outside reel window {WINDOW}"); return
         if state.get("last_iso"):
             gap = (now - dt.datetime.fromisoformat(state["last_iso"])).total_seconds() / 3600
-            if gap < 20:
-                log(f"skip: only {gap:.0f}h since last reel"); return
+            if gap < 4:                       # ~1 reel / 4h = up to ~4/day (was 20h)
+                log(f"skip: only {gap:.1f}h since last reel (<4h)"); return
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")
     pre = nxt.get("video")

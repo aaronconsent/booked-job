@@ -17,13 +17,27 @@ def env():
     return e
 
 
+def _save_refresh(new_rt):
+    """Tumblr ROTATES the refresh token on every use — persist the new one or the
+    next run gets invalid_grant (this was the HTTP 400 bug)."""
+    p = os.path.join(os.path.dirname(__file__), "..", "secrets", "tumblr.env")
+    lines = open(p).read().splitlines()
+    for i, l in enumerate(lines):
+        if l.startswith("TUMBLR_REFRESH_TOKEN="):
+            lines[i] = "TUMBLR_REFRESH_TOKEN=" + new_rt
+    open(p, "w").write("\n".join(lines) + "\n")
+
+
 def access_token(e):
     body = urllib.parse.urlencode({"grant_type": "refresh_token", "refresh_token": e["TUMBLR_REFRESH_TOKEN"],
         "client_id": e["TUMBLR_CLIENT_ID"], "client_secret": e["TUMBLR_CLIENT_SECRET"]}).encode()
     req = urllib.request.Request(TOKEN, data=body)
     req.add_header("Content-Type", "application/x-www-form-urlencoded")
     with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode())["access_token"]
+        d = json.loads(r.read().decode())
+    if d.get("refresh_token"):
+        _save_refresh(d["refresh_token"])   # persist the rotated token
+    return d["access_token"]
 
 
 def publish(text, link, link_title, link_desc, tags=None):
