@@ -480,6 +480,14 @@ def main():
         ch_views["Facebook"] = fv["data"][0]["values"][-1]["value"]
     except Exception:
         pass
+    # Instagram — account-level views (combines reels + feed + carousels). Gated behind
+    # instagram_manage_insights (App-Review); auto-fills once that permission lands.
+    if E.get("FB_IG_ID"):
+        try:
+            iv = get(f"{E['FB_IG_ID']}/insights", {"metric": "views", "period": "days_28", "metric_type": "total_value"}, stok)
+            ch_views["Instagram"] = iv["data"][0]["total_value"]["value"]
+        except Exception:
+            pass
     ch_foll = {"Facebook": pi.get("followers_count", 0), "Instagram": ig["followers"], "YouTube": yt["subscribers"]}
     ch_likes = {"Facebook": rx}  # reactions on recent FB posts (LinkedIn/TikTok set from Buffer above)
     for c in chs:
