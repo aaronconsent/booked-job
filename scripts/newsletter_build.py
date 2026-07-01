@@ -87,6 +87,26 @@ def main():
     if a.dry_run:
         print(f"SUBJECT: {subject}\n({len(html)} bytes html, {len(items)} items)"); return
 
+    # Weekly cadence gate — run_all calls this hourly, so without a gate every
+    # subscriber gets an email every run. Only send if it's been >= MIN_DAYS
+    # since the last send (or --force). This is the guard that was missing.
+    MIN_DAYS = 7
+    state_path = os.path.join(ROOT, "content", "newsletter_state.json")
+    state = {}
+    try:
+        state = json.load(open(state_path))
+    except Exception:
+        pass
+    last = state.get("last_sent")
+    if last and not a.force:
+        try:
+            since = (dt.datetime.now() - dt.datetime.fromisoformat(last)).total_seconds() / 86400
+        except Exception:
+            since = MIN_DAYS  # unparseable state -> don't block a legit send
+        if since < MIN_DAYS:
+            print(f"last sent {last} ({since:.1f}d ago) — weekly gate ({MIN_DAYS}d), skipping. Use --force to override.")
+            return
+
     if not os.path.exists(os.path.join(ROOT, "secrets", "resend.env")):
         print("Resend not connected yet (no secrets/resend.env) — skipping."); return
 
