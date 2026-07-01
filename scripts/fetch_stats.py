@@ -354,11 +354,28 @@ def main():
                 "refresh_token": ye["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
             at = json.loads(urllib.request.urlopen(urllib.request.Request(
                 "https://oauth2.googleapis.com/token", data=tbody), timeout=30).read().decode())["access_token"]
-            cr = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=statistics&mine=true")
-            cr.add_header("Authorization", f"Bearer {at}")
-            stt = json.loads(urllib.request.urlopen(cr, timeout=30).read().decode())["items"][0]["statistics"]
+            def yapi(path):
+                r = urllib.request.Request("https://www.googleapis.com/youtube/v3/" + path)
+                r.add_header("Authorization", f"Bearer {at}")
+                return json.loads(urllib.request.urlopen(r, timeout=30).read().decode())
+            ch = yapi("channels?part=statistics,contentDetails&mine=true")["items"][0]
+            stt = ch["statistics"]
+            # channels.viewCount EXCLUDES Shorts views — sum per-video views instead so
+            # Shorts are counted (paged through the uploads playlist).
+            uploads = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+            vids, tok_, pages = [], "", 0
+            while pages < 6:
+                pl = yapi(f"playlistItems?part=contentDetails&maxResults=50&playlistId={uploads}" + (f"&pageToken={tok_}" if tok_ else ""))
+                vids += [i["contentDetails"]["videoId"] for i in pl.get("items", [])]
+                tok_ = pl.get("nextPageToken"); pages += 1
+                if not tok_:
+                    break
+            total_views = 0
+            for i in range(0, len(vids), 50):
+                for v in yapi("videos?part=statistics&id=" + ",".join(vids[i:i + 50])).get("items", []):
+                    total_views += int(v["statistics"].get("viewCount", 0))
             yt = {"connected": True, "subscribers": int(stt.get("subscriberCount", 0)),
-                  "views": int(stt.get("viewCount", 0)), "videos": int(stt.get("videoCount", 0))}
+                  "views": total_views, "videos": int(stt.get("videoCount", 0))}
         except Exception:
             pass
     yt_done = len(jload("content/yt_state.json", {"done": []}).get("done", []))
