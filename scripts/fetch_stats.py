@@ -497,11 +497,14 @@ def main():
         ch_views["Facebook"] = fv["data"][0]["values"][-1]["value"]
     except Exception:
         pass
-    # Instagram — account-level views (combines reels + feed + carousels). Gated behind
-    # instagram_manage_insights (App-Review); auto-fills once that permission lands.
+    # Instagram — account-level views over the last 30 days (combines reels + posts +
+    # stories, per the metric's own definition). Needs instagram_manage_insights.
     if E.get("FB_IG_ID"):
         try:
-            iv = get(f"{E['FB_IG_ID']}/insights", {"metric": "views", "period": "days_28", "metric_type": "total_value"}, stok)
+            _until = int(dt.datetime.now().timestamp()); _since = _until - 30 * 86400
+            iv = get(f"{E['FB_IG_ID']}/insights",
+                     {"metric": "views", "period": "day", "metric_type": "total_value",
+                      "since": _since, "until": _until}, stok)
             ch_views["Instagram"] = iv["data"][0]["total_value"]["value"]
         except Exception:
             pass
