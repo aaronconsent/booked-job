@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-01T11:38",
+  "generated": "2026-07-01T12:53",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
     "label": "Month 1 \u2014 Aggressive scale"
   },
-  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Targets are deliberately aggressive: the machine produces at scale, so the goals push reach + audience, not just output.",
+  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-01 for the safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily) with pre-ads-realistic traffic ramp.",
   "progress": {
     "daily": [
       {
@@ -24,7 +24,7 @@
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
         "current": 36,
-        "target": 12,
+        "target": 22,
         "status": "green",
         "needs": null
       },
@@ -44,7 +44,17 @@
         "icon": "\ud83c\udf10",
         "label": "Website visits",
         "current": 366,
-        "target": 150,
+        "target": 40,
+        "status": "green",
+        "needs": null
+      },
+      {
+        "key": "yt_shorts",
+        "cat": "Video",
+        "icon": "\ud83d\udcfa",
+        "label": "YouTube Shorts",
+        "current": 1,
+        "target": 1,
         "status": "green",
         "needs": null
       }
@@ -66,7 +76,7 @@
         "icon": "\ud83d\udce3",
         "label": "Social posts",
         "current": 0,
-        "target": 80,
+        "target": 150,
         "status": "red",
         "needs": null
       },
@@ -86,7 +96,7 @@
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
         "current": 0,
-        "target": 5,
+        "target": 7,
         "status": "red",
         "needs": null
       },
@@ -115,8 +125,8 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1762,
-        "target": 1200,
+        "current": 1831,
+        "target": 300,
         "status": "green",
         "needs": null
       }
@@ -138,8 +148,8 @@
         "icon": "\ud83d\udce3",
         "label": "Social posts",
         "current": 36,
-        "target": 360,
-        "status": "green",
+        "target": 600,
+        "status": "yellow",
         "needs": null
       },
       {
@@ -158,8 +168,8 @@
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
         "current": 1,
-        "target": 22,
-        "status": "yellow",
+        "target": 30,
+        "status": "red",
         "needs": null
       },
       {
@@ -197,8 +207,8 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 732,
-        "target": 6000,
+        "current": 801,
+        "target": 1500,
         "status": "red",
         "needs": null
       }
@@ -229,8 +239,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "0/80 \u2014 80 short of pace.",
-      "prompt": "We're behind on social posts this week (0/80). Refill the social queues / add more variant cards."
+      "why": "0/150 \u2014 150 short of pace.",
+      "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",
@@ -239,8 +249,8 @@
     },
     {
       "title": "\ud83d\udcfa YouTube Shorts/videos behind this week",
-      "why": "0/5 \u2014 5 short of pace.",
-      "prompt": "We're behind on youtube shorts/videos this week (0/5). Produce more youtube shorts from the course/podcast."
+      "why": "0/7 \u2014 7 short of pace.",
+      "prompt": "We're behind on youtube shorts/videos this week (0/7). Produce more youtube shorts from the course/podcast."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",

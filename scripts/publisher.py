@@ -61,11 +61,11 @@ def posting_days(age_days):
     return {0, 1, 2, 3, 4, 5, 6}   # Mon-Sun
 
 
-def chosen_slot_for_today(today):
-    # Deterministic per-day jitter: pick which window today's post uses, so
-    # timing varies day to day without clock-like sameness.
+def chosen_slots_for_today(today):
+    # Safe-aggressive: TWO spaced windows/day (2 FB posts/day = the platform-safe
+    # ceiling for a page). Deterministic jitter varies which pair, day to day.
     h = int(hashlib.sha256(today.isoformat().encode()).hexdigest(), 16)
-    return ["am", "lunch", "am", "evening", "lunch"][h % 5]
+    return [["am", "evening"], ["am", "lunch"], ["lunch", "evening"]][h % 3]
 
 
 def next_unposted(queue, posted):
@@ -130,15 +130,15 @@ def main():
         if state["by_date"].get(today.isoformat(), 0) >= ramp_daily_cap(age):
             log("skip: daily cap reached.")
             return
-        slot = chosen_slot_for_today(today)
-        s, e = WINDOWS[slot]
-        if not (s <= now.hour < e):
-            log(f"skip: outside today's window '{slot}' ({s}-{e}h), now {now.hour}h.")
+        slots = chosen_slots_for_today(today)
+        if not any(WINDOWS[sl][0] <= now.hour < WINDOWS[sl][1] for sl in slots):
+            windows = ", ".join(f"{sl} {WINDOWS[sl][0]}-{WINDOWS[sl][1]}h" for sl in slots)
+            log(f"skip: outside today's windows ({windows}), now {now.hour}h.")
             return
         if state.get("last_post_iso"):
             gap = (now - dt.datetime.fromisoformat(state["last_post_iso"])).total_seconds() / 3600
-            if gap < 16:
-                log(f"skip: only {gap:.1f}h since last post (<16h).")
+            if gap < 7:
+                log(f"skip: only {gap:.1f}h since last post (<7h).")
                 return
 
     if a.dry_run:

@@ -517,6 +517,22 @@ def main():
             c["followers"] = ch_foll[c["name"]]
         if c["name"] in ch_likes and "likes" not in c:
             c["likes"] = ch_likes[c["name"]]
+    # ---- ORGANIC reach: sum every platform view/impression we can read + IG unique
+    # reach + ad reach. Replaces the old ads-only value that read ~0 with no ad spend. ----
+    total_impr = sum(int(c.get("views") or 0) for c in chs)
+    ig_reach = 0
+    if E.get("FB_IG_ID"):
+        try:
+            _u = int(dt.datetime.now().timestamp()); _s = _u - 30 * 86400
+            rr = get(f"{E['FB_IG_ID']}/insights", {"metric": "reach", "period": "day",
+                     "metric_type": "total_value", "since": _s, "until": _u}, stok)
+            ig_reach = int(rr["data"][0]["total_value"]["value"])
+        except Exception:
+            pass
+    funnel["reach"] = int(ads["reach"]) + int(ads["video_views"]) + total_impr + ig_reach
+    snap["reach"] = funnel["reach"]                         # snap is days[-1] — updates history too
+    json.dump({"days": days}, open(os.path.join(ROOT, "content", "metric_history.json"), "w"), indent=2)
+    trends["reach"] = _delta("reach")
     total_posts = sum(c.get("count", 0) for c in chs)
     GR = [
         ("Total Views", yt["views"] + ads["video_views"], [50, 500, 5000, 50000]),

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T08:39",
+  "updated": "2026-07-01T12:54",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
     "days_left": 29,
-    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Targets are deliberately aggressive: the machine produces at scale, so the goals push reach + audience, not just output.",
+    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-01 for the safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily) with pre-ads-realistic traffic ramp.",
     "items": [
       {
         "label": "Reels shipped",
@@ -18,16 +18,16 @@
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
         "current": 13,
-        "target": 22,
-        "pct": 59,
+        "target": 30,
+        "pct": 43,
         "on_track": true
       },
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
         "current": 4,
-        "target": 60,
-        "pct": 7,
+        "target": 90,
+        "pct": 4,
         "on_track": true
       },
       {
@@ -49,9 +49,9 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 2,
+        "current": 87,
         "target": 10000,
-        "pct": 0,
+        "pct": 1,
         "on_track": false
       },
       {
@@ -204,8 +204,8 @@
     "reels_remaining": 12
   },
   "ads": {
-    "status": "\u2014",
-    "daily_budget": null,
+    "status": "ACTIVE",
+    "daily_budget": 7.0,
     "spend": "0",
     "impressions": 0,
     "reach": 0,
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 2,
+    "views": 87,
     "videos": 13,
     "shorts": 13
   },
@@ -454,7 +454,7 @@
       "status": "live",
       "count": 10,
       "unit": "posts",
-      "grade": "D",
+      "grade": "C",
       "group": "social",
       "views": 1,
       "followers": 0,
@@ -465,19 +465,19 @@
       "status": "live",
       "count": 8,
       "unit": "posts",
-      "grade": "F",
+      "grade": "D",
       "group": "social",
-      "followers": 0,
-      "views": 11
+      "views": 11,
+      "followers": 0
     },
     {
       "name": "YouTube",
       "status": "live",
       "count": 3,
       "unit": "shorts",
-      "grade": "F",
+      "grade": "D",
       "group": "social",
-      "views": 86,
+      "views": 87,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "posts",
       "grade": "D",
       "group": "content"
@@ -507,16 +507,16 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "posts",
-      "followers": 3,
+      "followers": 5,
       "grade": "D",
       "group": "social"
     },
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "mirrors",
       "grade": "D",
       "group": "content"
@@ -575,7 +575,7 @@
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
       "likes": 0,
-      "grade": "D",
+      "grade": "C",
       "group": "social"
     },
     {
@@ -598,54 +598,6 @@
       "group": "social"
     }
   ],
-  "funnel": {
-    "reach": 0,
-    "engagement": 9,
-    "audience": 10,
-    "cr_clicks": 8
-  },
-  "trends": {
-    "audience": 0,
-    "engagement": 0,
-    "email": 0,
-    "reach": 0
-  },
-  "mafia": {
-    "metrics": [
-      {
-        "label": "Total Views",
-        "value": 2,
-        "grade": "F"
-      },
-      {
-        "label": "Total Clicks",
-        "value": 8,
-        "grade": "D"
-      },
-      {
-        "label": "Total Posts",
-        "value": 155,
-        "grade": "B"
-      },
-      {
-        "label": "Total Reach",
-        "value": 0,
-        "grade": "F"
-      },
-      {
-        "label": "Audience Size",
-        "value": 10,
-        "grade": "D"
-      },
-      {
-        "label": "Engagement",
-        "value": 9,
-        "grade": "D"
-      }
-    ],
-    "overall": "D",
-    "summary": "On the board, barely. 155 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
-  },
   "coverage": {
     "Facebook": [
       {
@@ -666,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -696,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -781,7 +733,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Video",
@@ -792,7 +744,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
@@ -807,7 +759,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
@@ -822,12 +774,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Polls",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Video",
@@ -845,5 +797,53 @@
         "status": "gap"
       }
     ]
+  },
+  "funnel": {
+    "reach": 544,
+    "engagement": 9,
+    "audience": 12,
+    "cr_clicks": 8
+  },
+  "trends": {
+    "audience": 0,
+    "engagement": 0,
+    "email": 0,
+    "reach": 0
+  },
+  "mafia": {
+    "metrics": [
+      {
+        "label": "Total Views",
+        "value": 87,
+        "grade": "D"
+      },
+      {
+        "label": "Total Clicks",
+        "value": 8,
+        "grade": "D"
+      },
+      {
+        "label": "Total Posts",
+        "value": 194,
+        "grade": "B"
+      },
+      {
+        "label": "Total Reach",
+        "value": 0,
+        "grade": "F"
+      },
+      {
+        "label": "Audience Size",
+        "value": 12,
+        "grade": "D"
+      },
+      {
+        "label": "Engagement",
+        "value": 9,
+        "grade": "D"
+      }
+    ],
+    "overall": "D",
+    "summary": "On the board, barely. 194 posts, 12 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }

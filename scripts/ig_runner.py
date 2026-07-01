@@ -19,8 +19,8 @@ QUEUE = os.path.join(ROOT, "content", "yt_queue.json")
 STATE = os.path.join(ROOT, "content", "ig_state.json")
 LOG = os.path.join(ROOT, "content", "ig.log")
 VDIR = os.path.join(ROOT, "site", "v")
-POST_DAYS = {1, 3}   # Tue, Thu
-WINDOW = (10, 14)
+POST_DAYS = {0, 1, 2, 3, 4, 5, 6}   # daily (safe-aggressive — IG tolerates 1-2/day)
+WINDOW = (9, 15)
 
 
 def log(m):
