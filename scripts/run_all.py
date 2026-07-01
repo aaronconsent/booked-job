@@ -20,6 +20,7 @@ AGENTS = [
     ("discover_communities.py", []), ("build_tasks.py", []), ("newsletter_build.py", []),
     ("publisher.py", []), ("ig_runner.py", []),
     ("reel_runner.py", []), ("reel_story_runner.py", []), ("story_runner.py", []),
+    ("video_pool_runner.py", []),
     ("blogger_runner.py", []), ("tumblr_runner.py", []), ("telegraph_runner.py", []), ("github_pages_runner.py", []),
     ("bluesky_runner.py", []), ("mastodon_runner.py", []), ("threads_runner.py", []),
     ("telegram_runner.py", []), ("telegram_poll_runner.py", []),
@@ -44,7 +45,7 @@ FORCE_OK = {"publisher.py", "ig_runner.py", "reel_runner.py", "reel_story_runner
             "bluesky_runner.py", "mastodon_runner.py", "threads_runner.py", "telegram_runner.py",
             "telegram_poll_runner.py", "buffer_runner.py", "buffer_tiktok_runner.py",
             "buffer_carousel_runner.py", "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py",
-            "ig_carousel_runner.py", "pinterest_buffer_runner.py", "yt_runner.py"}
+            "ig_carousel_runner.py", "pinterest_buffer_runner.py", "yt_runner.py", "video_pool_runner.py"}
 
 
 def log(m):

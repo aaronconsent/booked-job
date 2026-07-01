@@ -46,6 +46,24 @@ def publish(text, link, link_title, link_desc):
                  {"repo": s["did"], "collection": "app.bsky.feed.post", "record": record}, s["accessJwt"])
 
 
+def publish_video(text, video_url, alt=""):
+    """Post a native video. Uploads the mp4 as a blob and embeds it."""
+    e = env(); s = session(e); jwt = s["accessJwt"]
+    dl = urllib.request.Request(video_url, headers={"User-Agent": "curl/8.4.0"})  # CF blocks default UA
+    data = urllib.request.urlopen(dl, timeout=120).read()
+    up = urllib.request.Request(f"{PDS}/com.atproto.repo.uploadBlob", data=data, method="POST")
+    up.add_header("Content-Type", "video/mp4"); up.add_header("Authorization", f"Bearer {jwt}")
+    try:
+        blob = json.loads(urllib.request.urlopen(up, timeout=180).read().decode())["blob"]
+    except urllib.error.HTTPError as ex:
+        raise RuntimeError(f"blob upload {ex.code}: {ex.read().decode()[:200]}")
+    record = {"$type": "app.bsky.feed.post", "text": text[:300],
+              "createdAt": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+              "embed": {"$type": "app.bsky.embed.video", "video": blob, "alt": alt[:1000]}}
+    return _post("com.atproto.repo.createRecord",
+                 {"repo": s["did"], "collection": "app.bsky.feed.post", "record": record}, jwt)
+
+
 def publish_thread(first_text, link, link_title, link_desc, replies):
     """Post a thread: first post carries the link card, replies chain off it
     (threads earn ~3x more replies on Bluesky)."""

@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": "ad-arctic",
+      "file": "site/reels/ad-arctic.mp4",
+      "url": "https://booked-job.com/reels/ad-arctic.mp4",
+      "hook": "HVAC spite ad",
+      "caption": "Our competitor's radio ad \u2014 the one we paid to have made. Get Booked, Not F***ed, free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "ad-pauls",
+      "file": "site/reels/ad-pauls.mp4",
+      "url": "https://booked-job.com/reels/ad-pauls.mp4",
+      "hook": "The spite ad that opens the show",
+      "caption": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed \u2014 free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "ad-summit",
+      "file": "site/reels/ad-summit.mp4",
+      "url": "https://booked-job.com/reels/ad-summit.mp4",
+      "hook": "Roofing spite ad",
+      "caption": "We made our least-favorite roofer a radio ad he'll hate. From the podcast \u2014 free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "clip-porno2",
+      "file": "site/reels/clip-porno2.mp4",
+      "url": "https://booked-job.com/reels/clip-porno2.mp4",
+      "hook": "Porno or Plumbing R2",
+      "caption": "The dumbest, funniest game on the trades internet \u2014 round 2. Full episodes free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "clip-porno3",
+      "file": "site/reels/clip-porno3.mp4",
+      "url": "https://booked-job.com/reels/clip-porno3.mp4",
+      "hook": "Porno or Plumbing R3",
+      "caption": "Porno or Plumbing, round 3. You decide \u2014 adult film, or real jobsite quote? booked-job.com/podcast \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "clip-speed",
+      "file": "site/reels/clip-speed.mp4",
+      "url": "https://booked-job.com/reels/clip-speed.mp4",
+      "hook": "Answer your phone",
+      "caption": "You don't lose jobs on price \u2014 you lose them on the phone. New episode 'Answer Your Phone' free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "clip1-turd",
+      "file": "site/reels/clip1-turd.mp4",
+      "url": "https://booked-job.com/reels/clip1-turd.mp4",
+      "hook": "New podcast: Get Booked, Not F***ed",
+      "caption": "Two old tradesmen and an idiot apprentice talking real shop marketing. Episode 1 is live \u2014 listen free, link at booked-job.com/podcast. \ud83c\udfa7 #contractor #trades #podcast @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "clip2-game",
+      "file": "site/reels/clip2-game.mp4",
+      "url": "https://booked-job.com/reels/clip2-game.mp4",
+      "hook": "Porno or Plumbing?",
+      "caption": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed \u2014 full episodes free at booked-job.com/podcast. \ud83c\udfa7 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "clip3-onestar",
+      "file": "site/reels/clip3-onestar.mp4",
+      "url": "https://booked-job.com/reels/clip3-onestar.mp4",
+      "hook": "The one-star that started a podcast",
+      "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic"
+    },
+    {
+      "id": "is-angi-worth-it",
+      "file": "site/reels/is-angi-worth-it.mp4",
+      "url": "https://booked-job.com/reels/is-angi-worth-it.mp4",
+      "hook": "Is Angi actually worth it?",
+      "caption": "Angi sells your \"lead\" to a dozen guys, then you race to the bottom on price. Here's the real cost per booked job \u2014 full breakdown + a free calculator at booked-job.com. #contractor #trades #plumbing #hvac"
+    },
+    {
+      "id": "money-leaks-torque",
+      "file": "site/reels/money-leaks-torque.mp4",
+      "url": "https://booked-job.com/reels/money-leaks-torque.mp4",
+      "hook": "money leaks torque",
+      "caption": "Real contractor marketing, no fluff. \u2014 booked-job.com #contractor #trades"
+    },
+    {
+      "id": "money-leaks",
+      "file": "site/reels/money-leaks.mp4",
+      "url": "https://booked-job.com/reels/money-leaks.mp4",
+      "hook": "money leaks",
+      "caption": "Real contractor marketing, no fluff. \u2014 booked-job.com #contractor #trades"
+    }
+  ]
+}

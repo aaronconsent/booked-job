@@ -47,6 +47,11 @@ def send_photo(photo_url, caption=""):
     return _call("sendPhoto", {"photo": photo_url, "caption": caption[:1024], "parse_mode": "HTML"})
 
 
+def send_video(video_url, caption=""):
+    return _call("sendVideo", {"video": video_url, "caption": caption[:1024],
+                               "parse_mode": "HTML", "supports_streaming": "true"})
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(); ap.add_argument("--text", required=True)

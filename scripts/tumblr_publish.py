@@ -63,6 +63,25 @@ def publish(text, link, link_title, link_desc, tags=None):
         sys.exit(f"Tumblr publish failed {ex.code}: {ex.read().decode()[:400]}")
 
 
+def publish_video(text, video_url, tags=None):
+    """Post a native video (NPF video block) + caption."""
+    e = env(); tok = access_token(e); blog = e["TUMBLR_BLOG"]
+    payload = json.dumps({
+        "content": [
+            {"type": "video", "media": {"url": video_url, "type": "video/mp4"}},
+            {"type": "text", "text": text},
+        ],
+        "tags": ",".join(tags or []), "state": "published",
+    }).encode()
+    req = urllib.request.Request(f"https://api.tumblr.com/v2/blog/{blog}.tumblr.com/posts", data=payload, method="POST")
+    req.add_header("Authorization", f"Bearer {tok}"); req.add_header("Content-Type", "application/json")
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as ex:
+        raise RuntimeError(f"Tumblr video failed {ex.code}: {ex.read().decode()[:300]}")
+
+
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
