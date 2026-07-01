@@ -229,17 +229,21 @@ def channels(email_subs=0, followers=None):
     if li_m:
         li["stat"] = f"{int(li_m.get('reach', 0))} reach · {int(li_m.get('reactions', 0))} reactions"
         li["views"] = int(li_m.get("views", 0))
+        li["likes"] = int(li_m.get("reactions", 0))
     out.append(li)
     tt = {"name": "TikTok", "status": "live" if buf else "off",
           "count": len(bs.get("tiktok", [])), "unit": "videos (Buffer)"}
     if tt_m:
         tt["stat"] = f"{int(tt_m.get('views', 0))} views · {int(tt_m.get('reactions', 0))} reactions"
         tt["views"] = int(tt_m.get("views", 0))
+        tt["likes"] = int(tt_m.get("reactions", 0))
     out.append(tt)
     # Pending channels (built/ready, waiting on an external gate)
     out.append({"name": "Google Business", "status": "pending", "count": 0, "unit": "verifying"})
+    content = {"Blog", "Podcast", "Blogger", "Tumblr", "Telegraph", "GitHub Pages", "Email"}
     for e in out:
         e["grade"] = "—" if e["status"] in ("pending", "off") else _grade(e.get("followers", e["count"]), [1, 10, 50, 200])
+        e["group"] = "content" if e["name"] in content else "social"
     return out
 
 
@@ -426,11 +430,14 @@ def main():
     except Exception:
         pass
     ch_foll = {"Facebook": pi.get("followers_count", 0), "Instagram": ig["followers"], "YouTube": yt["subscribers"]}
+    ch_likes = {"Facebook": rx}  # reactions on recent FB posts (LinkedIn/TikTok set from Buffer above)
     for c in chs:
         if c["name"] in ch_views:
             c["views"] = ch_views[c["name"]]
         if c["name"] in ch_foll and "followers" not in c:
             c["followers"] = ch_foll[c["name"]]
+        if c["name"] in ch_likes and "likes" not in c:
+            c["likes"] = ch_likes[c["name"]]
     total_posts = sum(c.get("count", 0) for c in chs)
     GR = [
         ("Total Views", yt["views"] + ads["video_views"], [50, 500, 5000, 50000]),

@@ -438,14 +438,16 @@
       "status": "live",
       "count": 64,
       "unit": "articles",
-      "grade": "B"
+      "grade": "B",
+      "group": "content"
     },
     {
       "name": "Podcast",
       "status": "live",
       "count": 3,
       "unit": "episodes",
-      "grade": "D"
+      "grade": "D",
+      "group": "content"
     },
     {
       "name": "Facebook",
@@ -454,7 +456,9 @@
       "unit": "posts",
       "grade": "D",
       "views": 1,
-      "followers": 0
+      "followers": 0,
+      "group": "social",
+      "likes": 0
     },
     {
       "name": "Instagram",
@@ -462,7 +466,8 @@
       "count": 0,
       "unit": "reels",
       "grade": "F",
-      "followers": 0
+      "followers": 0,
+      "group": "social"
     },
     {
       "name": "YouTube",
@@ -471,28 +476,32 @@
       "unit": "shorts",
       "grade": "F",
       "views": 2,
-      "followers": 0
+      "followers": 0,
+      "group": "social"
     },
     {
       "name": "Blogger",
       "status": "live",
       "count": 4,
       "unit": "posts",
-      "grade": "D"
+      "grade": "D",
+      "group": "content"
     },
     {
       "name": "Tumblr",
       "status": "live",
       "count": 1,
       "unit": "posts",
-      "grade": "D"
+      "grade": "D",
+      "group": "content"
     },
     {
       "name": "Telegraph",
       "status": "live",
       "count": 6,
       "unit": "posts",
-      "grade": "D"
+      "grade": "D",
+      "group": "content"
     },
     {
       "name": "Bluesky",
@@ -500,7 +509,8 @@
       "count": 6,
       "unit": "posts",
       "followers": 3,
-      "grade": "D"
+      "grade": "D",
+      "group": "social"
     },
     {
       "name": "Mastodon",
@@ -508,7 +518,8 @@
       "count": 5,
       "unit": "posts",
       "followers": 0,
-      "grade": "F"
+      "grade": "F",
+      "group": "social"
     },
     {
       "name": "Threads",
@@ -516,7 +527,8 @@
       "count": 5,
       "unit": "posts",
       "followers": 0,
-      "grade": "F"
+      "grade": "F",
+      "group": "social"
     },
     {
       "name": "Telegram",
@@ -524,28 +536,32 @@
       "count": 6,
       "unit": "posts",
       "followers": 2,
-      "grade": "D"
+      "grade": "D",
+      "group": "social"
     },
     {
       "name": "GitHub Pages",
       "status": "live",
       "count": 6,
       "unit": "mirrors",
-      "grade": "D"
+      "grade": "D",
+      "group": "content"
     },
     {
       "name": "Pinterest",
       "status": "sandbox",
       "count": 0,
       "unit": "pins",
-      "grade": "F"
+      "grade": "F",
+      "group": "social"
     },
     {
       "name": "Email",
       "status": "live",
       "count": 5,
       "unit": "subs",
-      "grade": "D"
+      "grade": "D",
+      "group": "content"
     },
     {
       "name": "LinkedIn",
@@ -554,7 +570,9 @@
       "unit": "posts (Buffer)",
       "stat": "61 reach \u00b7 1 reactions",
       "views": 0,
-      "grade": "C"
+      "grade": "C",
+      "group": "social",
+      "likes": 1
     },
     {
       "name": "TikTok",
@@ -563,14 +581,17 @@
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
-      "grade": "D"
+      "grade": "D",
+      "group": "social",
+      "likes": 0
     },
     {
       "name": "Google Business",
       "status": "pending",
       "count": 0,
       "unit": "verifying",
-      "grade": "\u2014"
+      "grade": "\u2014",
+      "group": "social"
     }
   ],
   "funnel": {

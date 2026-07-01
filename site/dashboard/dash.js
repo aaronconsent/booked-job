@@ -4,19 +4,34 @@ const ORD={live:0,sandbox:1,pending:2,off:3};
 const EMO={Blog:'📝',Facebook:'👥',Instagram:'📸',YouTube:'🔔',Blogger:'✍️',Tumblr:'🌀',Telegraph:'📄',
   Bluesky:'🦋',Mastodon:'🐘',Threads:'🧵',Telegram:'✈️','GitHub Pages':'🐙',Pinterest:'📌',Email:'📧',
   LinkedIn:'💼',TikTok:'🎵','Google Business':'📍'};
+// fallback grouping when data.json predates the `group` field
+const CONTENT_CH=new Set(['Blog','Podcast','Blogger','Tumblr','Telegraph','GitHub Pages','Email']);
+const isContent=c=>c.group?c.group==='content':CONTENT_CH.has(c.name);
 function $(id){return document.getElementById(id);}
 function sortCh(ch){return [...ch].sort((a,b)=>(ORD[a.status]??9)-(ORD[b.status]??9));}
 
 function renderScoreboard(d){
   const el=$('scoreboard'); if(!el||!d.channels) return;
-  el.innerHTML=sortCh(d.channels).map(c=>{
-    const big=c.views!=null?c.views:(c.followers!=null?c.followers:c.count);
-    const unit=c.views!=null?'views':(c.followers!=null?'followers':c.unit);
-    const sub=c.status==='pending'?'Pending':(unit+' · '+c.status);
-    return `<div class="ccard" style="--st:${COL[c.status]||'#9ca3af'}">
+  const chs=sortCh(d.channels);
+  const val=v=>(v==null?'—':fmt(v));
+  const shell=(c,body,extra='')=>`<div class="ccard ${extra}" style="--st:${COL[c.status]||'#9ca3af'}">
       <div class="cc-top"><span class="cc-emo">${EMO[c.name]||'•'}</span><span class="cc-grade gcolor-${c.grade||'F'}">${c.grade||'—'}</span></div>
-      <div class="cc-val">${fmt(big)}</div><div class="cc-lab">${c.name}</div><div class="cc-sub">${sub}</div></div>`;
-  }).join('');
+      ${body}</div>`;
+  const contentCard=c=>{
+    const sub=c.status==='pending'?'Pending':(c.unit+' · '+c.status);
+    return shell(c,`<div class="cc-val">${fmt(c.count)}</div><div class="cc-lab">${c.name}</div><div class="cc-sub">${sub}</div>`);
+  };
+  const socialCard=c=>{
+    const sub=c.status==='pending'?'Pending':c.status;
+    const m=[['Posts',c.count],['Views',c.views],['Likes',c.likes],['Followers',c.followers]];
+    const grid=m.map(([k,v])=>`<div class="sm"><span class="smv">${val(v)}</span><span class="smk">${k}</span></div>`).join('');
+    return shell(c,`<div class="cc-lab">${c.name}</div><div class="cc-sub">${sub}</div><div class="smetrics">${grid}</div>`,'scard');
+  };
+  el.innerHTML=
+    `<div class="sb-group">📚 Content — what we've published</div>`+
+    chs.filter(isContent).map(contentCard).join('')+
+    `<div class="sb-group">📣 Social — audience &amp; engagement</div>`+
+    chs.filter(c=>!isContent(c)).map(socialCard).join('');
 }
 
 function renderFunnel(d){
