@@ -26,5 +26,51 @@
       "date": "2026-07-01",
       "count": 0
     }
+  },
+  "facebook": {
+    "posted": [
+      "ad-arctic"
+    ],
+    "last_iso": "2026-07-01T16:46:31",
+    "day": {
+      "date": "2026-07-01",
+      "count": 1
+    }
+  },
+  "pinterest": {
+    "posted": [],
+    "last_iso": null,
+    "day": {
+      "date": "2026-07-01",
+      "count": 0
+    }
+  },
+  "bluesky": {
+    "posted": [
+      "ad-arctic"
+    ],
+    "last_iso": "2026-07-01T16:46:31",
+    "day": {
+      "date": "2026-07-01",
+      "count": 1
+    }
+  },
+  "telegram": {
+    "posted": [
+      "ad-arctic"
+    ],
+    "last_iso": "2026-07-01T16:46:31",
+    "day": {
+      "date": "2026-07-01",
+      "count": 1
+    }
+  },
+  "tumblr": {
+    "posted": [],
+    "last_iso": null,
+    "day": {
+      "date": "2026-07-01",
+      "count": 0
+    }
   }
 }
