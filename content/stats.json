@@ -108,7 +108,19 @@
       "value": "81%",
       "source_name": "CallRail",
       "date": "2026",
-      "note": "88% favor businesses that respond to all reviews.",
+      "note": "Companion review-response stat lives separately as reviews-respond-all (88%, BrightLocal 2024).",
+      "confidence": "high"
+    },
+    {
+      "id": "reviews-respond-all",
+      "metric": "Consumers who would use a business that responds to all its reviews (positive and negative)",
+      "trade": "home services",
+      "channel": "reviews",
+      "value": "88%",
+      "source_name": "BrightLocal (Local Consumer Review Survey)",
+      "source_url": "https://www.brightlocal.com/research/local-consumer-review-survey-2024/",
+      "date": "2024",
+      "note": "vs 47% who would use a business that responds to none; consumers are 41% more likely to use a business that responds to all its reviews. Was mis-cited as 'CallRail 2026' across articles — corrected to BrightLocal LCRS 2024 on 2026-07-01.",
       "confidence": "high"
     },
     {
