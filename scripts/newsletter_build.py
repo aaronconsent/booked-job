@@ -87,10 +87,14 @@ def main():
     if a.dry_run:
         print(f"SUBJECT: {subject}\n({len(html)} bytes html, {len(items)} items)"); return
 
-    # Weekly cadence gate — run_all calls this hourly, so without a gate every
-    # subscriber gets an email every run. Only send if it's been >= MIN_DAYS
-    # since the last send (or --force). This is the guard that was missing.
-    MIN_DAYS = 7
+    # Send window — run_all calls this hourly, so without a gate every subscriber
+    # gets an email every run (this is the bug that sent one sub 5 emails a night).
+    # Locked to Tuesday ~6am Central (the cloud runs in TZ America/Chicago): top of
+    # the inbox before the trade's workday, on the best-performing B2B day.
+    # Mon=0..Tue=1 ; send hour (24h, Central) ; dedup window only guards against a
+    # second send the SAME Tuesday (runs are hours apart), so 2 days is plenty and
+    # never blocks next Tuesday (7 days out).
+    SEND_DOW, SEND_HOUR, MIN_DAYS = 1, 6, 2
     state_path = os.path.join(ROOT, "content", "newsletter_state.json")
     state = {}
     try:
@@ -98,14 +102,19 @@ def main():
     except Exception:
         pass
     last = state.get("last_sent")
-    if last and not a.force:
-        try:
-            since = (dt.datetime.now() - dt.datetime.fromisoformat(last)).total_seconds() / 86400
-        except Exception:
-            since = MIN_DAYS  # unparseable state -> don't block a legit send
-        if since < MIN_DAYS:
-            print(f"last sent {last} ({since:.1f}d ago) — weekly gate ({MIN_DAYS}d), skipping. Use --force to override.")
+    if not a.force:
+        now = dt.datetime.now()
+        if now.weekday() != SEND_DOW or now.hour < SEND_HOUR:
+            print(f"not the send window (Tue {SEND_HOUR:02d}:00 CT) — now {now:%a %H:%M}, skipping.")
             return
+        if last:
+            try:
+                since = (now - dt.datetime.fromisoformat(last)).total_seconds() / 86400
+            except Exception:
+                since = MIN_DAYS  # unparseable state -> don't block a legit send
+            if since < MIN_DAYS:
+                print(f"already sent {since:.1f}d ago (<{MIN_DAYS}d) — skipping to avoid a double send.")
+                return
 
     if not os.path.exists(os.path.join(ROOT, "secrets", "resend.env")):
         print("Resend not connected yet (no secrets/resend.env) — skipping."); return
