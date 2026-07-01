@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T05:08",
+  "updated": "2026-07-01T08:39",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -455,9 +455,9 @@
       "count": 3,
       "unit": "posts",
       "grade": "D",
+      "group": "social",
       "views": 1,
       "followers": 0,
-      "group": "social",
       "likes": 0
     },
     {
@@ -466,8 +466,8 @@
       "count": 0,
       "unit": "reels",
       "grade": "F",
-      "followers": 0,
-      "group": "social"
+      "group": "social",
+      "followers": 0
     },
     {
       "name": "YouTube",
@@ -475,9 +475,9 @@
       "count": 0,
       "unit": "shorts",
       "grade": "F",
+      "group": "social",
       "views": 2,
-      "followers": 0,
-      "group": "social"
+      "followers": 0
     },
     {
       "name": "Blogger",
@@ -498,7 +498,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "grade": "D",
       "group": "content"
@@ -506,7 +506,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 3,
       "grade": "D",
@@ -515,7 +515,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -524,7 +524,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -533,7 +533,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -542,21 +542,10 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "mirrors",
       "grade": "D",
       "group": "content"
-    },
-    {
-      "name": "Pinterest",
-      "status": "live",
-      "count": 18,
-      "unit": "pins (Buffer)",
-      "grade": "C",
-      "group": "social",
-      "views": 0,
-      "likes": 0,
-      "stat": "0 impressions \u00b7 0 saves"
     },
     {
       "name": "Email",
@@ -571,11 +560,11 @@
       "status": "live",
       "count": 14,
       "unit": "posts (Buffer)",
-      "stat": "61 reach \u00b7 1 reactions",
+      "stat": "67 reach \u00b7 1 reactions",
       "views": 0,
+      "likes": 1,
       "grade": "C",
-      "group": "social",
-      "likes": 1
+      "group": "social"
     },
     {
       "name": "TikTok",
@@ -584,9 +573,20 @@
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
+      "likes": 0,
       "grade": "D",
-      "group": "social",
-      "likes": 0
+      "group": "social"
+    },
+    {
+      "name": "Pinterest",
+      "status": "live",
+      "unit": "pins (Buffer)",
+      "count": 18,
+      "views": 0,
+      "likes": 0,
+      "stat": "0 impressions \u00b7 0 saves",
+      "grade": "C",
+      "group": "social"
     },
     {
       "name": "Google Business",
@@ -623,7 +623,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 131,
+        "value": 155,
         "grade": "B"
       },
       {
@@ -643,6 +643,6 @@
       }
     ],
     "overall": "D",
-    "summary": "On the board, barely. 131 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "summary": "On the board, barely. 155 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
   }
 }
