@@ -267,6 +267,37 @@ def channels(email_subs=0, followers=None):
     return out
 
 
+def coverage():
+    """Full post-type coverage per network: what we produce (live+count), what the
+    platform supports but we don't do yet (gap -> highlighted), and long-form video
+    (soon -> tracked as a separate project, not a gap). Counts come from state files."""
+    def n(f, k="done"):
+        return len(jload(os.path.join(ROOT, "content", f), {}).get(k, []))
+    bs = jload(os.path.join(ROOT, "content", "buffer_state.json"), {})
+    reels = n("reels_state.json")
+    stories = n("story_state.json") + n("reel_story_state.json")
+    L = lambda t, c: {"type": t, "status": "live", "count": c}
+    gap = lambda t: {"type": t, "status": "gap"}
+    soon = lambda t: {"type": t, "status": "soon"}
+    return {
+        "Facebook": [L("Posts", n("state.json", "posted")), L("Carousels", n("fb_carousel_state.json")),
+                     L("Reels", reels), L("Stories", stories), gap("Polls"), soon("Long video")],
+        "Instagram": [L("Posts", n("ig_state.json")), L("Carousels", n("ig_carousel_state.json")),
+                      L("Reels", reels), L("Stories", stories), soon("Long video")],
+        "YouTube": [L("Shorts", n("yt_state.json")), gap("Community posts"), soon("Long video")],
+        "TikTok": [L("Videos", len(bs.get("tiktok", [])) + reels), L("Photo carousels", len(bs.get("tiktok_carousel", []))),
+                   gap("Stories"), soon("Long video")],
+        "LinkedIn": [L("Posts", len(bs.get("linkedin", []))), L("Documents", len(bs.get("linkedin_carousel", []))),
+                     gap("Native video"), gap("Articles"), gap("Newsletter"), gap("Polls")],
+        "Pinterest": [L("Pins", n("pinterest_buffer_state.json")), gap("Video pins")],
+        "Bluesky": [L("Posts", n("bluesky_state.json")), gap("Video")],
+        "Mastodon": [L("Posts", n("mastodon_state.json")), gap("Video"), gap("Polls")],
+        "Threads": [L("Posts", n("threads_state.json")), gap("Video"), gap("Polls")],
+        "Telegram": [L("Posts", n("telegram_state.json")), L("Polls", n("telegram_poll_state.json")), gap("Video")],
+        "Tumblr": [L("Posts", n("tumblr_state.json")), gap("Video")],
+    }
+
+
 def main():
     E = env()
     page, ptok, stok = E["FB_PAGE_ID"], E["FB_PAGE_TOKEN"], E.get("FB_SYSTEM_TOKEN", E["FB_LONGLIVED_USER_TOKEN"])
@@ -496,6 +527,7 @@ def main():
         "email": {"subscribers": email_subs},
         "agents": enumerate_agents(),
         "channels": chs,
+        "coverage": coverage(),
         "funnel": funnel,
         "trends": trends,
         "mafia": mafia,

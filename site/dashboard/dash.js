@@ -159,8 +159,23 @@ async function load(){
   try{ d=await (await fetch('data.json?'+Date.now())).json(); }catch(e){ return; }
   try{ cl=await (await fetch('changelog.json?'+Date.now())).json(); }catch(e){ cl={entries:[]}; }
   if($('updated')) $('updated').textContent=new Date(d.updated).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
-  renderScoreboard(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
+  renderScoreboard(d); renderCoverage(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
   renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl);
+}
+
+function renderCoverage(d){
+  const el=$('coverage'); if(!el||!d.coverage) return;
+  const order=['Facebook','Instagram','YouTube','TikTok','LinkedIn','Pinterest','Bluesky','Mastodon','Threads','Telegram','Tumblr'];
+  let gaps=0;
+  el.innerHTML=order.filter(nm=>d.coverage[nm]).map(nm=>{
+    const cells=d.coverage[nm].map(c=>{
+      if(c.status==='live')  return `<span class="cov cov-live">${c.type} <b>${fmt(c.count)}</b></span>`;
+      if(c.status==='soon')  return `<span class="cov cov-soon">${c.type} · soon</span>`;
+      gaps++;                return `<span class="cov cov-gap">${c.type} · gap</span>`;
+    }).join('');
+    return `<div class="covrow"><div class="covnet">${EMO[nm]||''} ${nm}</div><div class="covcells">${cells}</div></div>`;
+  }).join('');
+  if($('covsum')) $('covsum').textContent=`${gaps} gap${gaps===1?'':'s'} to fill · long-form video is a separate project`;
 }
 // ===== Daily Tasks page =====
 function gradeLetter(p){return p>=90?'A':p>=80?'B':p>=70?'C':p>=60?'D':'F';}

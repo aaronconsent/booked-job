@@ -49,6 +49,17 @@ header{padding:26px 0 6px}
 .sm{display:flex;flex-direction:column}
 .smv{font-family:Anton,sans-serif;font-size:21px;line-height:1}
 .smk{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.03em;margin-top:2px}
+/* content coverage matrix */
+#coverage{display:flex;flex-direction:column}
+.covrow{display:flex;gap:14px;align-items:flex-start;padding:9px 0;border-bottom:1px solid var(--line)}
+.covrow:last-child{border-bottom:none}
+.covnet{flex:0 0 132px;font-weight:700;font-size:13px;padding-top:2px}
+.covcells{display:flex;flex-wrap:wrap;gap:6px}
+.cov{font-size:11px;padding:3px 9px;border-radius:20px;border:1px solid var(--line);white-space:nowrap}
+.cov-live{color:#86efac;border-color:#14532d;background:#052e16}
+.cov-live b{color:#fff;font-weight:800}
+.cov-gap{color:#fca5a5;border-color:#7f1d1d;background:#2a0a0a;font-weight:700}
+.cov-soon{color:var(--muted);opacity:.75}
 
 /* legacy stat grid (kept for compatibility) */
 .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}

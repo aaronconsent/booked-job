@@ -644,5 +644,205 @@
     ],
     "overall": "D",
     "summary": "On the board, barely. 155 posts, 10 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+  },
+  "coverage": {
+    "Facebook": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 3
+      },
+      {
+        "type": "Carousels",
+        "status": "live",
+        "count": 4
+      },
+      {
+        "type": "Reels",
+        "status": "live",
+        "count": 3
+      },
+      {
+        "type": "Stories",
+        "status": "live",
+        "count": 5
+      },
+      {
+        "type": "Polls",
+        "status": "gap"
+      },
+      {
+        "type": "Long video",
+        "status": "soon"
+      }
+    ],
+    "Instagram": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 1
+      },
+      {
+        "type": "Carousels",
+        "status": "live",
+        "count": 4
+      },
+      {
+        "type": "Reels",
+        "status": "live",
+        "count": 3
+      },
+      {
+        "type": "Stories",
+        "status": "live",
+        "count": 5
+      },
+      {
+        "type": "Long video",
+        "status": "soon"
+      }
+    ],
+    "YouTube": [
+      {
+        "type": "Shorts",
+        "status": "live",
+        "count": 3
+      },
+      {
+        "type": "Community posts",
+        "status": "gap"
+      },
+      {
+        "type": "Long video",
+        "status": "soon"
+      }
+    ],
+    "TikTok": [
+      {
+        "type": "Videos",
+        "status": "live",
+        "count": 6
+      },
+      {
+        "type": "Photo carousels",
+        "status": "live",
+        "count": 4
+      },
+      {
+        "type": "Stories",
+        "status": "gap"
+      },
+      {
+        "type": "Long video",
+        "status": "soon"
+      }
+    ],
+    "LinkedIn": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 14
+      },
+      {
+        "type": "Documents",
+        "status": "live",
+        "count": 1
+      },
+      {
+        "type": "Native video",
+        "status": "gap"
+      },
+      {
+        "type": "Articles",
+        "status": "gap"
+      },
+      {
+        "type": "Newsletter",
+        "status": "gap"
+      },
+      {
+        "type": "Polls",
+        "status": "gap"
+      }
+    ],
+    "Pinterest": [
+      {
+        "type": "Pins",
+        "status": "live",
+        "count": 19
+      },
+      {
+        "type": "Video pins",
+        "status": "gap"
+      }
+    ],
+    "Bluesky": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 8
+      },
+      {
+        "type": "Video",
+        "status": "gap"
+      }
+    ],
+    "Mastodon": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 7
+      },
+      {
+        "type": "Video",
+        "status": "gap"
+      },
+      {
+        "type": "Polls",
+        "status": "gap"
+      }
+    ],
+    "Threads": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 7
+      },
+      {
+        "type": "Video",
+        "status": "gap"
+      },
+      {
+        "type": "Polls",
+        "status": "gap"
+      }
+    ],
+    "Telegram": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 8
+      },
+      {
+        "type": "Polls",
+        "status": "live",
+        "count": 8
+      },
+      {
+        "type": "Video",
+        "status": "gap"
+      }
+    ],
+    "Tumblr": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 1
+      },
+      {
+        "type": "Video",
+        "status": "gap"
+      }
+    ]
   }
 }
