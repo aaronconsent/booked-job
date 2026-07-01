@@ -3,7 +3,7 @@ name: Booked Job automation
 on:
   schedule:
     - cron: '5 * * * *'        # hourly at :05 UTC; agents self-gate to their own windows
-    - cron: '30 2 * * *'       # 02:30 UTC = 9:30 PM CDT — nightly FORCE push to all channels
+    - cron: '23 2 * * *'       # 02:23 UTC = 9:23 PM CDT — nightly FORCE push (odd minute: GitHub drops :00/:30)
   workflow_dispatch:
     inputs:
       force:
@@ -82,7 +82,7 @@ jobs:
 
       - name: Run all agents
         env:
-          FORCE: ${{ (inputs.force || github.event.schedule == '30 2 * * *') && '1' || '' }}
+          FORCE: ${{ (inputs.force || github.event.schedule == '23 2 * * *') && '1' || '' }}
         run: python3 scripts/run_all.py
 
       - name: Commit + push (Cloudflare auto-deploys)
