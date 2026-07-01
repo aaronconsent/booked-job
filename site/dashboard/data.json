@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:44",
+  "updated": "2026-07-01T18:25",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 3,
+        "current": 4,
         "target": 30,
-        "pct": 10,
+        "pct": 13,
         "on_track": true
       },
       {
@@ -33,10 +33,10 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 1,
+        "current": 3306,
         "target": 6000,
-        "pct": 0,
-        "on_track": false
+        "pct": 55,
+        "on_track": true
       },
       {
         "label": "FB engagement",
@@ -115,7 +115,7 @@
       "date": "2026-07-03",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Porno or Plumbing?",
+      "title": "The one-star that started a podcast",
       "sub": "Reel"
     },
     {
@@ -129,7 +129,7 @@
       "date": "2026-07-07",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The one-star that started a podcast",
+      "title": "The cheapest bid costs the most",
       "sub": "Reel"
     },
     {
@@ -157,7 +157,7 @@
       "date": "2026-07-10",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The cheapest bid costs the most",
+      "title": "Look what the last guy did",
       "sub": "Reel"
     },
     {
@@ -178,7 +178,7 @@
       "date": "2026-07-14",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Look what the last guy did",
+      "title": "Slow season starts in summer",
       "sub": "Reel"
     },
     {
@@ -199,17 +199,17 @@
     "reactions": 0,
     "comments": 9,
     "shares": 0,
-    "reels_published": 3,
+    "reels_published": 4,
     "posts_remaining": 92,
-    "reels_remaining": 12
+    "reels_remaining": 11
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "0.02",
-    "impressions": 52,
-    "reach": 1,
-    "video_views": 1
+    "spend": "2.81",
+    "impressions": 3534,
+    "reach": 2308,
+    "video_views": 3306
   },
   "youtube": {
     "connected": true,
@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -463,11 +463,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "posts",
       "grade": "D",
       "group": "social",
-      "views": 13,
+      "views": 60,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 5,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 9,
+      "count": 10,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 9,
+      "count": 10,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "mirrors",
       "grade": "C",
       "group": "content"
@@ -570,7 +570,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "videos (Buffer)",
       "stat": "437 views \u00b7 0 reactions",
       "views": 437,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 20,
+      "count": 21,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -613,12 +613,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Polls",
@@ -643,12 +643,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Long video",
@@ -674,7 +674,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 6
+        "count": 7
       },
       {
         "type": "Photo carousels",
@@ -722,7 +722,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 20
+        "count": 21
       },
       {
         "type": "Video pins",
@@ -733,7 +733,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
@@ -744,7 +744,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Video",
@@ -759,7 +759,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Video",
@@ -774,12 +774,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Polls",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
@@ -799,7 +799,7 @@
     ]
   },
   "funnel": {
-    "reach": 552,
+    "reach": 6257,
     "engagement": 9,
     "audience": 12,
     "cr_clicks": 8
@@ -814,8 +814,8 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 90,
-        "grade": "D"
+        "value": 3395,
+        "grade": "C"
       },
       {
         "label": "Total Clicks",
@@ -824,13 +824,13 @@
       },
       {
         "label": "Total Posts",
-        "value": 202,
+        "value": 212,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 53,
-        "grade": "F"
+        "value": 5842,
+        "grade": "C"
       },
       {
         "label": "Audience Size",
@@ -843,7 +843,7 @@
         "grade": "D"
       }
     ],
-    "overall": "D",
-    "summary": "On the board, barely. 202 posts, 12 in the audience, 8 clicks toward Consent Resolve \u2014 real, but small. A D means the foundation works and the first signs of life are showing. To push to a C: more content volume (the single biggest lever), keep the engagement daemon running, and switch on the gated channels (Pinterest/GBP) the moment they're approved."
+    "overall": "C",
+    "summary": "Respectable for an early-stage brand. 212 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
