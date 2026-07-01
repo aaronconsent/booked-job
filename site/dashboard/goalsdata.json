@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T19:21",
+  "generated": "2026-07-01T00:55",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -13,9 +13,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": null,
+        "current": 2,
         "target": 2,
-        "status": "nodata",
+        "status": "green",
         "needs": null
       },
       {
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": null,
+        "current": 9,
         "target": 12,
-        "status": "nodata",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": null,
+        "current": 0,
         "target": 1,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -43,9 +43,9 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 84,
+        "current": 366,
         "target": 150,
-        "status": "red",
+        "status": "green",
         "needs": null
       }
     ],
@@ -55,9 +55,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": null,
+        "current": 0,
         "target": 14,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -65,9 +65,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": null,
+        "current": 0,
         "target": 80,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -75,9 +75,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": null,
+        "current": 0,
         "target": 7,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -85,9 +85,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": null,
+        "current": 0,
         "target": 5,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -95,9 +95,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": null,
+        "current": 0,
         "target": 120,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udd25",
         "label": "Engagement actions",
-        "current": null,
+        "current": 0,
         "target": 250,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -115,7 +115,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1401,
+        "current": 1472,
         "target": 1200,
         "status": "green",
         "needs": null
@@ -127,9 +127,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": null,
+        "current": 2,
         "target": 60,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -137,9 +137,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": null,
+        "current": 9,
         "target": 360,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -147,9 +147,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": null,
+        "current": 0,
         "target": 30,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -157,9 +157,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": null,
+        "current": 0,
         "target": 22,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -167,9 +167,9 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": null,
+        "current": 0,
         "target": 10000,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -177,9 +177,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": null,
+        "current": 0,
         "target": 600,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -187,9 +187,9 @@
         "cat": "Social",
         "icon": "\u2709\ufe0f",
         "label": "Email subscribers",
-        "current": null,
+        "current": 0,
         "target": 100,
-        "status": "nodata",
+        "status": "red",
         "needs": null
       },
       {
@@ -197,7 +197,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 371,
+        "current": 442,
         "target": 6000,
         "status": "red",
         "needs": null
@@ -205,14 +205,14 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 91,
+    "fb_ig_posts": 93,
     "reels": 13,
-    "staged_articles": 14
+    "staged_articles": 12
   },
   "counters": {
-    "articles": 62,
+    "articles": 64,
     "reels": 2,
-    "social_posts": 62,
+    "social_posts": 71,
     "followers": 5,
     "engagement": 8,
     "yt_views": 2,
@@ -220,6 +220,37 @@
     "email_subs": 5,
     "traffic": 0
   },
-  "top_move": "On pace \u2014 keep the machine running and review channel winners.",
-  "prompts": []
+  "top_move": "We're behind on articles this week (0/14). Run a content workflow batch (staged).",
+  "prompts": [
+    {
+      "title": "\ud83d\udcdd Articles behind this week",
+      "why": "0/14 \u2014 14 short of pace.",
+      "prompt": "We're behind on articles this week (0/14). Run a content workflow batch (staged)."
+    },
+    {
+      "title": "\ud83d\udce3 Social posts behind this week",
+      "why": "0/80 \u2014 80 short of pace.",
+      "prompt": "We're behind on social posts this week (0/80). Refill the social queues / add more variant cards."
+    },
+    {
+      "title": "\ud83c\udfac Reels behind this week",
+      "why": "0/7 \u2014 7 short of pace.",
+      "prompt": "We're behind on reels this week (0/7). Cut more podcast & course clips."
+    },
+    {
+      "title": "\ud83d\udcfa YouTube Shorts/videos behind this week",
+      "why": "0/5 \u2014 5 short of pace.",
+      "prompt": "We're behind on youtube shorts/videos this week (0/5). Produce more youtube shorts from the course/podcast."
+    },
+    {
+      "title": "\ud83d\udc65 New followers (all) behind this week",
+      "why": "0/120 \u2014 120 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (0/120). Refill the social queues / add more variant cards."
+    },
+    {
+      "title": "\ud83d\udd25 Engagement actions behind this week",
+      "why": "0/250 \u2014 250 short of pace.",
+      "prompt": "We're behind on engagement actions this week (0/250). Refill the social queues / add more variant cards."
+    }
+  ]
 }

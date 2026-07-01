@@ -27,6 +27,13 @@
       "engagement": 8,
       "email": 5,
       "reach": 0
+    },
+    {
+      "date": "2026-07-01",
+      "audience": 10,
+      "engagement": 8,
+      "email": 5,
+      "reach": 0
     }
   ]
 }

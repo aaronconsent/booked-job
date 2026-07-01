@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T00:17:56Z",
+  "updated": "2026-07-01T05:49:53Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 464802,
+        "followers": 464801,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22900,
+        "followers": 22902,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,28 +194,21 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62094,
+      "followers": 62095,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
     {
       "handle": "@cnice59.bsky.social",
       "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35238,
+      "followers": 35237,
       "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
     {
-      "handle": "@patriciarichardson.bsky.social",
-      "display": "Patricia Richardson",
-      "followers": 31895,
-      "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
-      "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
-    },
-    {
       "handle": "@briney.org",
       "display": "Patrick Briney 🔵🌊🌊🌊",
-      "followers": 30196,
+      "followers": 30197,
       "desc": "I reside in Texas. I'm a dry-humor kind of guy, an optimist. Married, dog lover, handyman, and love classic cars. Most i",
       "link": "https://bsky.app/profile/briney.org"
     },
@@ -229,14 +222,14 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15620,
+      "followers": 15623,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
     {
       "handle": "@trevorrowdyreed.bsky.social",
       "display": "Trevor Rowdy Reed",
-      "followers": 14584,
+      "followers": 14583,
       "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
       "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
     },
@@ -246,13 +239,6 @@
       "followers": 14332,
       "desc": "🚫DM’s  Calm, collected, confident, man.  Plumber that always  accomplish’s quality, professional plumbing. A golf profes",
       "link": "https://bsky.app/profile/plumergolf.bsky.social"
-    },
-    {
-      "handle": "@missrecreate.bsky.social",
-      "display": "Miss Recreate",
-      "followers": 7420,
-      "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
-      "link": "https://bsky.app/profile/missrecreate.bsky.social"
     },
     {
       "handle": "@nihl.mainbastards.online",
@@ -288,6 +274,20 @@
       "followers": 4419,
       "desc": "Mech & Robot Handyman. Senior Animator & background Artist. Drawing & animation teacher. Ink drinker. Seaplane and old w",
       "link": "https://bsky.app/profile/bouss.bsky.social"
+    },
+    {
+      "handle": "@laprofmme.bsky.social",
+      "display": "Laprofmme 🦬⚔️🏒 💙💛❤️‍🩹",
+      "followers": 4340,
+      "desc": "Historian, 🐶 🐩 mom, aspiring native plant gardener, knitter, vintage plumbing fixture enthusiast. Oxford comma and footn",
+      "link": "https://bsky.app/profile/laprofmme.bsky.social"
+    },
+    {
+      "handle": "@brokowski.bsky.social",
+      "display": "Bro Kow Ski",
+      "followers": 4285,
+      "desc": "FiFO, Extra Duty, The Enormities Known to Exist, Plumbing, the Milkman, Pineapples!, (and many more) Please share my idi",
+      "link": "https://bsky.app/profile/brokowski.bsky.social"
     }
   ]
 }
