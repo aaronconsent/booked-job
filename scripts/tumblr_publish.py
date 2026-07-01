@@ -63,20 +63,62 @@ def publish(text, link, link_title, link_desc, tags=None):
         sys.exit(f"Tumblr publish failed {ex.code}: {ex.read().decode()[:400]}")
 
 
+def _fetch_bytes(url):
+    """Download the mp4 so it can be attached as a multipart file part. Tumblr
+    NPF video blocks won't accept a plain remote URL in media.url — the binary
+    must be uploaded and referenced by identifier (that was the HTTP 400 bug)."""
+    req = urllib.request.Request(url, headers={"User-Agent": "booked-job/1.0"})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        return r.read()
+
+
+def _multipart(json_payload, ident, filename, filedata, mimetype="video/mp4"):
+    """Encode a multipart/form-data body: a 'json' part (NPF payload) + the
+    video file part named after the block's media identifier. Returns
+    (content_type_header, body_bytes)."""
+    boundary = "----bookedjob" + hex(abs(hash((ident, filename, len(filedata)))))[2:]
+    crlf = b"\r\n"; buf = []
+    # 'json' part — the NPF create payload
+    buf.append(("--" + boundary).encode())
+    buf.append(b'Content-Disposition: form-data; name="json"')
+    buf.append(b"Content-Type: application/json")
+    buf.append(b"")
+    buf.append(json_payload if isinstance(json_payload, bytes) else json_payload.encode())
+    # file part — name matches the block media identifier ("reel")
+    buf.append(("--" + boundary).encode())
+    buf.append(f'Content-Disposition: form-data; name="{ident}"; filename="{filename}"'.encode())
+    buf.append(f"Content-Type: {mimetype}".encode())
+    buf.append(b"")
+    buf.append(filedata)
+    buf.append(("--" + boundary + "--").encode())
+    buf.append(b"")
+    body = crlf.join(buf)
+    return f"multipart/form-data; boundary={boundary}", body
+
+
 def publish_video(text, video_url, tags=None):
-    """Post a native video (NPF video block) + caption."""
+    """Post a native video (NPF video block) + caption.
+
+    Tumblr NPF requires the mp4 binary to be uploaded as a multipart file part,
+    referenced from the block via {"identifier": ...}; a plain media.url is
+    rejected with HTTP 400 ("Something broke")."""
     e = env(); tok = access_token(e); blog = e["TUMBLR_BLOG"]
+    ident = "reel"
+    filename = os.path.basename(urllib.parse.urlparse(video_url).path) or "reel.mp4"
+    filedata = _fetch_bytes(video_url)
     payload = json.dumps({
         "content": [
-            {"type": "video", "media": {"url": video_url, "type": "video/mp4"}},
+            {"type": "video", "media": [{"type": "video/mp4", "identifier": ident}]},
             {"type": "text", "text": text},
         ],
         "tags": ",".join(tags or []), "state": "published",
-    }).encode()
-    req = urllib.request.Request(f"https://api.tumblr.com/v2/blog/{blog}.tumblr.com/posts", data=payload, method="POST")
-    req.add_header("Authorization", f"Bearer {tok}"); req.add_header("Content-Type", "application/json")
+    })
+    ctype, body = _multipart(payload, ident, filename, filedata)
+    req = urllib.request.Request(f"https://api.tumblr.com/v2/blog/{blog}.tumblr.com/posts", data=body, method="POST")
+    req.add_header("Authorization", f"Bearer {tok}"); req.add_header("Content-Type", ctype)
+    req.add_header("Content-Length", str(len(body)))
     try:
-        with urllib.request.urlopen(req, timeout=60) as r:
+        with urllib.request.urlopen(req, timeout=180) as r:
             return json.loads(r.read().decode())
     except urllib.error.HTTPError as ex:
         raise RuntimeError(f"Tumblr video failed {ex.code}: {ex.read().decode()[:300]}")
@@ -85,8 +127,13 @@ def publish_video(text, video_url, tags=None):
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
-    ap.add_argument("--text", required=True); ap.add_argument("--link", required=True)
+    ap.add_argument("--text", required=True)
+    ap.add_argument("--link", default=""); ap.add_argument("--video", default="")
     ap.add_argument("--title", default=""); ap.add_argument("--desc", default=""); ap.add_argument("--tags", default="")
     a = ap.parse_args()
-    res = publish(a.text, a.link, a.title, a.desc, [t.strip() for t in a.tags.split(",") if t.strip()])
+    tags = [t.strip() for t in a.tags.split(",") if t.strip()]
+    if a.video:
+        res = publish_video(a.text, a.video, tags)
+    else:
+        res = publish(a.text, a.link, a.title, a.desc, tags)
     print(json.dumps(res.get("response", res), indent=2))

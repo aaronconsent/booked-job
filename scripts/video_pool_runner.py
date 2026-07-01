@@ -73,6 +73,11 @@ def post_telegram(v):
     return telegram_publish.send_video(v["url"], v["caption"])
 
 
+def post_tumblr(v):
+    import tumblr_publish
+    return tumblr_publish.publish_video(v["caption"], v["url"], tags=(v.get("tags") or []))
+
+
 # name -> {cap: posts/day, post: fn, exclude?: [id-substrings to skip on this platform]}.
 # spacing is derived from cap. LinkedIn stays professional — no edgy podcast bits.
 PLATFORMS = {
@@ -83,7 +88,7 @@ PLATFORMS = {
     "pinterest": {"cap": 6, "post": post_pinterest, "exclude": ["porno"]},
     "bluesky":   {"cap": 4, "post": post_bluesky},
     "telegram":  {"cap": 1, "post": post_telegram},
-    # tumblr video pending (needs multipart NPF upload — follow-up)
+    "tumblr":    {"cap": 4, "post": post_tumblr},
 }
 
 

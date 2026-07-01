@@ -43,6 +43,19 @@ def render(a):
     lead = html.unescape(lead).strip()
     lead = (lead[:300].rsplit(".", 1)[0] + ".") if len(lead) > 300 else lead
     big, lab = a["statBig"], a["statLabel"]
+    # IMAGE GUARANTEE: generate a per-article stat card so every link share (Bluesky,
+    # Threads, FB, LinkedIn, etc.) renders with the article's headline number as og:image.
+    og_img = f"{B}/assets/og-default.png"
+    try:
+        import make_statcard
+        sd = os.path.join(ROOT, "site", "blog", slug); os.makedirs(sd, exist_ok=True)
+        msrc = re.search(r'\[([^\]]+)\]', lab)
+        src = (msrc.group(1) if msrc else "Booked Job").strip()
+        make_statcard.render({"value": big, "metric": re.sub(r'\s*\[[^\]]*\]', '', lab).split('·')[0].strip()[:80],
+                              "source_name": src[:28], "date": TODAY}, "sq", os.path.join(sd, "card.png"))
+        og_img = f"{url}card.png"
+    except Exception:
+        pass
     return f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -51,6 +64,8 @@ def render(a):
 <link rel="canonical" href="{url}" />
 <meta property="og:type" content="article" /><meta property="og:title" content="{a['title']}" />
 <meta property="og:description" content="{a['meta']}" /><meta property="og:url" content="{url}" />
+<meta property="og:image" content="{og_img}" /><meta property="og:image:width" content="1080" /><meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary_large_image" /><meta name="twitter:image" content="{og_img}" />
 <meta name="theme-color" content="#15171A" />
 <link rel="stylesheet" href="/assets/article.css" />
 <script type="application/ld+json">
