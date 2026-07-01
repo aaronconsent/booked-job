@@ -108,7 +108,7 @@ def publish_video(text, video_url, tags=None):
     filedata = _fetch_bytes(video_url)
     payload = json.dumps({
         "content": [
-            {"type": "video", "media": [{"type": "video/mp4", "identifier": ident}]},
+            {"type": "video", "media": {"type": "video/mp4", "identifier": ident}},
             {"type": "text", "text": text},
         ],
         "tags": ",".join(tags or []), "state": "published",
