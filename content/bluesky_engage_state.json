@@ -4,40 +4,105 @@
   "follows_today": 8,
   "likes_today": 12,
   "followed": [
-    "did:plc:wpj2udn25csexatc6ljen24y",
-    "did:plc:7d7h3kn6mvmlr4juk6a2iu7x",
-    "did:plc:l7ttxxlwkqxwebwfukgdt7e4",
-    "did:plc:sgoj33fhwdewhhvkoumojvgg",
-    "did:plc:pulzjz6r2p3lbl77o7jiwaoo",
-    "did:plc:vnbyg7haolvkle64ej7c6iud",
     "did:plc:nhi4kq63lgtdj5rajzjgi2qg",
-    "did:plc:mrfgil7opv3rfvpdablyt7ar",
-    "did:plc:yf5jiiqrfp7h3abrkxovtbm4",
     "did:plc:5t6lnn7slbckvjrnxnbdsj2v",
+    "did:plc:pulzjz6r2p3lbl77o7jiwaoo",
+    "did:plc:sgoj33fhwdewhhvkoumojvgg",
+    "did:plc:vnbyg7haolvkle64ej7c6iud",
     "did:plc:b4den2svmrecgrvdpadqlgkb",
-    "did:plc:pdvjdejvjinix4lnt4sgzg7r"
+    "did:plc:mrfgil7opv3rfvpdablyt7ar",
+    "did:plc:7d7h3kn6mvmlr4juk6a2iu7x",
+    "did:plc:yf5jiiqrfp7h3abrkxovtbm4",
+    "did:plc:wpj2udn25csexatc6ljen24y",
+    "did:plc:pdvjdejvjinix4lnt4sgzg7r",
+    "did:plc:l7ttxxlwkqxwebwfukgdt7e4"
   ],
   "liked": [
-    "at://did:plc:pdvjdejvjinix4lnt4sgzg7r/app.bsky.feed.post/3mp6pd7pnzj25",
-    "at://did:plc:mrfgil7opv3rfvpdablyt7ar/app.bsky.feed.post/3mpjwd4vdkc25",
-    "at://did:plc:vnbyg7haolvkle64ej7c6iud/app.bsky.feed.post/3mpjivh5xw22e",
-    "at://did:plc:6uqee4ponukowxlkuncuuf3o/app.bsky.feed.post/3lyykzs4wdk24",
-    "at://did:plc:jkcxqfsmsek6iplzsxrr4v4m/app.bsky.feed.post/3mphstkzam22h",
-    "at://did:plc:b4den2svmrecgrvdpadqlgkb/app.bsky.feed.post/3mdzns2xckc2k",
-    "at://did:plc:5t6lnn7slbckvjrnxnbdsj2v/app.bsky.feed.post/3mphkdxgyn22i",
-    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mirazvskfk2n",
-    "at://did:plc:nhi4kq63lgtdj5rajzjgi2qg/app.bsky.feed.post/3mpac4v5axr2c",
     "at://did:plc:sxoilieezggyac3ewdtr2hep/app.bsky.feed.post/3mp5eh3x77k2d",
     "at://did:plc:wpj2udn25csexatc6ljen24y/app.bsky.feed.post/3mpjkf4anhk2m",
-    "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27",
-    "at://did:plc:l7ttxxlwkqxwebwfukgdt7e4/app.bsky.feed.post/3mpjlsrdyc726",
-    "at://did:plc:xjfvduprefej5hz3tduhc3za/app.bsky.feed.post/3m3gisz3dik2k",
+    "at://did:plc:vnbyg7haolvkle64ej7c6iud/app.bsky.feed.post/3mpjivh5xw22e",
+    "at://did:plc:b4den2svmrecgrvdpadqlgkb/app.bsky.feed.post/3mdzns2xckc2k",
+    "at://did:plc:vgdwohw5iqdlqxarugyujfcj/app.bsky.feed.post/3mp2q4wrlwk2o",
     "at://did:plc:7d7h3kn6mvmlr4juk6a2iu7x/app.bsky.feed.post/3mpizql3h322d",
+    "at://did:plc:6uqee4ponukowxlkuncuuf3o/app.bsky.feed.post/3lyykzs4wdk24",
+    "at://did:plc:5t6lnn7slbckvjrnxnbdsj2v/app.bsky.feed.post/3mphkdxgyn22i",
+    "at://did:plc:jkcxqfsmsek6iplzsxrr4v4m/app.bsky.feed.post/3mphstkzam22h",
+    "at://did:plc:pdvjdejvjinix4lnt4sgzg7r/app.bsky.feed.post/3mp6pd7pnzj25",
+    "at://did:plc:mrfgil7opv3rfvpdablyt7ar/app.bsky.feed.post/3mpjwd4vdkc25",
+    "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27",
+    "at://did:plc:nhi4kq63lgtdj5rajzjgi2qg/app.bsky.feed.post/3mpac4v5axr2c",
+    "at://did:plc:xjfvduprefej5hz3tduhc3za/app.bsky.feed.post/3m3gisz3dik2k",
     "at://did:plc:4vg5cmq4uhcofox5tcunwxll/app.bsky.feed.post/3mpilgf4was2t",
+    "at://did:plc:l7ttxxlwkqxwebwfukgdt7e4/app.bsky.feed.post/3mpjlsrdyc726",
     "at://did:plc:sgoj33fhwdewhhvkoumojvgg/app.bsky.feed.post/3m42d337m6s2i",
-    "at://did:plc:vgdwohw5iqdlqxarugyujfcj/app.bsky.feed.post/3mp2q4wrlwk2o"
+    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mirazvskfk2n"
   ],
   "queue": [
+    {
+      "handle": "quemirasbobo.bsky.social",
+      "text": "Because it\u2019s their belief that immigrants \u201ctake\u201d from them\n\nNot a good analogy but remember Joe the Plumber who railed about taxes on the rich?\n\nHe wasn\u2019t a plumber, didn\u2019t own a business & wasn\u2019t a m",
+      "url": "https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "TheBuilt \u2013 Construction and Architecture WordPress theme\n\n https://stylelib.org/?p=101768 \n\n#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Fixhero \u2013 Handyman  Repair Services WordPress Theme\n\n https://themes.stylelib.org/?p=809526 \n\n#business #corporate #elementor #plumber #rstheme #themeforest #wordpress",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u"
+    },
+    {
+      "handle": "ninapryce.bsky.social",
+      "text": "Topline Pro is building the AI team that runs the business while the plumber stays under the sink.\n\nhttps://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress",
+      "url": "https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726"
+    },
+    {
+      "handle": "narrowit.bsky.social",
+      "text": "DELAWARE DEPARTMENT OF LABOR received a $2.50M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING  RESTART...\n\nhttps://w",
+      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpk7siyh6c2j"
+    },
+    {
+      "handle": "lordboise.bsky.social",
+      "text": "Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  \nI dislike Dean's implication that plumbing/HVAC business owners can't be effective po",
+      "url": "https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e"
+    },
+    {
+      "handle": "ghunkinking.bsky.social",
+      "text": "Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and ",
+      "url": "https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Constructo \u2013 Construction WordPress Theme\n\n https://themes.stylelib.org/?p=6194 \n\n#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26"
+    },
+    {
+      "handle": "novasolutions.bsky.social",
+      "text": "Skeptical of 'AI' for your trades business? Fair \u2014 most of it is hype. But one boring use case pays for itself: never letting a lead go unanswered. Missed-call text-back, 24/7 answers, auto-booking. N",
+      "url": "https://bsky.app/profile/novasolutions.bsky.social/post/3mphu4jta6c2t"
+    },
+    {
+      "handle": "beta8088proto.protogen.club",
+      "text": "For example, you go to a free comedy show at a community picnic. The comedian trades his time to make you laugh.\n\nOkay, is that \"business\"? What is the value of a laugh? Is his time actually worth som",
+      "url": "https://bsky.app/profile/beta8088proto.protogen.club/post/3mphvlh5ims2k"
+    },
+    {
+      "handle": "kdkheel.bsky.social",
+      "text": "This is a joke. Hospitalized for four months with Depression? Wasn't he making trades and doing other business?",
+      "url": "https://bsky.app/profile/kdkheel.bsky.social/post/3mpjdn3uf6s2i"
+    },
+    {
+      "handle": "thedarkroom.bsky.social",
+      "text": "i guess my question to congressman Kean (who was missing for 100+ days) is was he in the hospital and also making stock trades? his mental health is his own business.",
+      "url": "https://bsky.app/profile/thedarkroom.bsky.social/post/3mpjj5fn5x226"
+    },
+    {
+      "handle": "promarksolutions.bsky.social",
+      "text": "New site live for Lineham Excavating, a family run excavating and septic contractor in Olds serving Central Alberta. Need a website like this for your trades business? Promark Business Solutions build",
+      "url": "https://bsky.app/profile/promarksolutions.bsky.social/post/3mpjjg3yt2c2w"
+    },
     {
       "handle": "refigman.bsky.social",
       "text": "As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we\u2019re discriminated against the most in an attempt to bring required balan",
@@ -172,71 +237,6 @@
       "handle": "aptora.bsky.social",
       "text": "Leave the guesswork behind, and let the numbers lead the way. \n\nWith Contractor Compass 360 from Aptora, you'll have all the key data you need to run your field service business successfully.\n\nInteres",
       "url": "https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c"
-    },
-    {
-      "handle": "aptora.bsky.social",
-      "text": "Integrations you can count on. Aptora 360 is the software that will help your field service business succeed.\n\nWant to learn more or get started? Just click the link below or give us a call at (316) 2",
-      "url": "https://bsky.app/profile/aptora.bsky.social/post/3mmrwhrnws22b"
-    },
-    {
-      "handle": "chloedenmark.bsky.social",
-      "text": "Also why is x-manufacturer in the building youre in? Because the architect and/or general contractor made a good deal for some shit. That\u2019s it. The install guys jump around company to company. So if t",
-      "url": "https://bsky.app/profile/chloedenmark.bsky.social/post/3mphskqhrhc2d"
-    },
-    {
-      "handle": "congresstracker.bsky.social",
-      "text": "[1/2] SB4898: A bill to implement recommendations of the Comptroller General of the United States for improving the Medicaid Recovery Audit Contractor program and identifying additional opportunities ",
-      "url": "https://bsky.app/profile/congresstracker.bsky.social/post/3mpieckhfsy2i"
-    },
-    {
-      "handle": "trustpartners.bsky.social",
-      "text": "One question every contractor should know the answer to:\n\nIf your tools were stolen tonight, what would your insurance actually cover?\n\nMany contractors are surprised to learn that General Liability i",
-      "url": "https://bsky.app/profile/trustpartners.bsky.social/post/3mpjvbo7ozv25"
-    },
-    {
-      "handle": "narrowit.bsky.social",
-      "text": "WORKFORCE DEVELOPMENT, INDIANA DEPARTMENT OF received a $5.10M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING...\n\nht",
-      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj33ci33s2i"
-    },
-    {
-      "handle": "narrowit.bsky.social",
-      "text": "OKLAHOMA EMPLOYMENT SECURITY COMM received a $5.10M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING  RESTART...\n\nhttp",
-      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj35gctan2e"
-    },
-    {
-      "handle": "narrowit.bsky.social",
-      "text": "LABOR & TRAINING RHODE ISLAND DEPARTMENT received a $4.50M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING...\n\nhttps:",
-      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj36ylwbd25"
-    },
-    {
-      "handle": "narrowit.bsky.social",
-      "text": "ALABAMA DEPARTMENT OF WORKFORCE received a $4.00M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING  RESTART...\n\nhttps:",
-      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpj3ao4vdu25"
-    },
-    {
-      "handle": "faculty.bsky.social",
-      "text": "About the CEO exclusion: How are small business owners accounted for here\u2014tradesmen, for example. Would an independent plumber (LLC) be excluded?",
-      "url": "https://bsky.app/profile/faculty.bsky.social/post/3moxkyuz7722h"
-    },
-    {
-      "handle": "slothlydad.bsky.social",
-      "text": "Climate denial is reality denial. It's not going to win anyone the realist, pro-business vote.\n\nUnfortunately they seem hell-bent on arm-wrestling Reform for the racist plumber, Daily Mail pensioner, ",
-      "url": "https://bsky.app/profile/slothlydad.bsky.social/post/3mp4spqkwvs25"
-    },
-    {
-      "handle": "darryl-grahamii.bsky.social",
-      "text": "A Dallas plumber cut $800/month in Google Ads, focused on AI visibility for 60 days, and went from 4 leads to 11 a month at zero ad spend. Homeowners ask AI who to call now. Is your trade business in ",
-      "url": "https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mp7cmxlywr2g"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Primo \u2013 Construction Building Company\n\n https://stylelib.org/?p=329999 \n\n#builder #painter #sitetemplates #themeforest #architecture #business #plumber #building #company #corporate #creative #realest",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mpb7hz7zyp2t"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Reneva \u2013  Small Business HTML Template\n\n https://themes.stylelib.org/?p=19089 \n\n#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m"
     }
   ]
 }

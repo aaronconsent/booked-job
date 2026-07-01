@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T23:08:22Z",
+  "updated": "2026-07-01T00:17:56Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 24,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#plumbing",
-        "uses": 8,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -248,13 +248,6 @@
       "link": "https://bsky.app/profile/plumergolf.bsky.social"
     },
     {
-      "handle": "@jrcruz0822.bsky.social",
-      "display": "UNDERCOVER NINJA 💪🇵🇷",
-      "followers": 13681,
-      "desc": "VIETNAM VETERAN. GREAT PUERTO RICAN COOK,GOOD SENSE OF HUMOR, LOVE ANIMALS,DEMOCRAT, RETIRED HVAC MECHANIC, AND 638 META",
-      "link": "https://bsky.app/profile/jrcruz0822.bsky.social"
-    },
-    {
       "handle": "@missrecreate.bsky.social",
       "display": "Miss Recreate",
       "followers": 7420,
@@ -288,6 +281,13 @@
       "followers": 4434,
       "desc": "\"FACT: #COVID19 is NOT airborne\" WHO '20   \"a continuous spectrum of aerodynamic sizes, and no single cut off points sho",
       "link": "https://bsky.app/profile/simpson-ian.bsky.social"
+    },
+    {
+      "handle": "@bouss.bsky.social",
+      "display": "Bouss - Ink, Mechs & Robots -",
+      "followers": 4419,
+      "desc": "Mech & Robot Handyman. Senior Animator & background Artist. Drawing & animation teacher. Ink drinker. Seaplane and old w",
+      "link": "https://bsky.app/profile/bouss.bsky.social"
     }
   ]
 }
