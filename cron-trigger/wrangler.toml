@@ -1,0 +1,7 @@
+name = "booked-job-cron"
+main = "worker.js"
+compatibility_date = "2026-06-26"
+
+# Reliable scheduler for the automation workflow (replaces GitHub's flaky cron).
+[triggers]
+crons = ["5 * * * *", "23 2 * * *"]   # hourly + 9:23 PM CDT nightly force

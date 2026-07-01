@@ -845,5 +845,42 @@
     ],
     "overall": "C",
     "summary": "Respectable for an early-stage brand. 212 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
-  }
+  },
+  "runway": [
+    {
+      "label": "Facebook posts",
+      "remaining": 91,
+      "per_day": 2,
+      "days": 45.5,
+      "status": "green"
+    },
+    {
+      "label": "Reels \u2014 fresh renders",
+      "remaining": 11,
+      "per_day": 1,
+      "days": 11.0,
+      "status": "green"
+    },
+    {
+      "label": "YouTube/IG shorts",
+      "remaining": 11,
+      "per_day": 2,
+      "days": 5.5,
+      "status": "amber"
+    },
+    {
+      "label": "Blog articles (drip)",
+      "remaining": 24,
+      "per_day": 2,
+      "days": 12.0,
+      "status": "green"
+    },
+    {
+      "label": "Video pool (evergreen)",
+      "remaining": 12,
+      "per_day": 0,
+      "days": null,
+      "status": "green"
+    }
+  ]
 }

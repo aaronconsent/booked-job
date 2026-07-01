@@ -61,8 +61,8 @@ def main():
             log(f"skip: outside reel window {WINDOW}"); return
         if state.get("last_iso"):
             gap = (now - dt.datetime.fromisoformat(state["last_iso"])).total_seconds() / 3600
-            if gap < 4:                       # ~1 reel / 4h = up to ~4/day (was 20h)
-                log(f"skip: only {gap:.1f}h since last reel (<4h)"); return
+            if gap < 20:                      # 1 fresh render/day — the video POOL does the
+                log(f"skip: only {gap:.1f}h since last reel (<20h)"); return  # aggressive multi-platform distribution now
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")
     pre = nxt.get("video")

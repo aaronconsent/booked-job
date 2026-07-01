@@ -314,7 +314,7 @@ def runway():
     # (label, remaining, per_day, evergreen?) — evergreen queues cycle, so "low" = thin rotation
     rows = [
         ("Facebook posts", rem("queue.json", "posts", "state.json", "posted"), 2, False),
-        ("Reels (FB+IG+TikTok)", rem("reels_queue.json", "reels", "reels_state.json"), 4, False),
+        ("Reels — fresh renders", rem("reels_queue.json", "reels", "reels_state.json"), 1, False),
         ("YouTube/IG shorts", rem("yt_queue.json", "shorts", "yt_state.json"), 2, False),
         ("Blog articles (drip)", staged, 2, False),
         ("Video pool (evergreen)", pool, 0, True),
