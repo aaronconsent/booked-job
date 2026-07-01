@@ -85,6 +85,66 @@
       "series": "Real Trade Numbers",
       "go_live": "2026-07-07",
       "status": "pending"
+    },
+    {
+      "slug": "missed-calls-cost-contractors-invoices",
+      "series": "Marketing 101",
+      "go_live": "2026-07-02",
+      "status": "pending"
+    },
+    {
+      "slug": "website-conversion-98-percent-leave",
+      "series": "Website Conversion",
+      "go_live": "2026-07-02",
+      "status": "pending"
+    },
+    {
+      "slug": "respond-fast-land-more-jobs",
+      "series": "Lead Sources",
+      "go_live": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "slug": "plumbers-337-google-reviews-map-pack",
+      "series": "Local SEO",
+      "go_live": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "slug": "hvac-map-pack-519-reviews",
+      "series": "Local SEO",
+      "go_live": "2026-07-04",
+      "status": "pending"
+    },
+    {
+      "slug": "shared-leads-vs-direct-call-conversion-math",
+      "series": "Lead Sources",
+      "go_live": "2026-07-04",
+      "status": "pending"
+    },
+    {
+      "slug": "angi-refunds-15-22-percent-junk-leads-scam",
+      "series": "Marketing SCAM",
+      "go_live": "2026-07-05",
+      "status": "pending"
+    },
+    {
+      "slug": "google-ads-cpc-conversion-contractors",
+      "series": "Marketing 101",
+      "go_live": "2026-07-05",
+      "status": "pending"
+    },
+    {
+      "slug": "chatgpt-search-answer-engine-optimization-contractors",
+      "series": "Local SEO",
+      "go_live": "2026-07-06",
+      "status": "pending"
+    },
+    {
+      "slug": "homeowners-read-reviews-before-they-call",
+      "series": "Reviews",
+      "go_live": "2026-07-06",
+      "status": "pending"
     }
   ]
 }
