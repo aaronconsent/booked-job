@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:54",
+  "updated": "2026-07-01T14:05",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 87,
+        "current": 89,
         "target": 10000,
         "pct": 1,
         "on_track": false
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 87,
+    "views": 89,
     "videos": 13,
     "shorts": 13
   },
@@ -477,7 +477,7 @@
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 87,
+      "views": 89,
       "followers": 0
     },
     {
@@ -799,7 +799,7 @@
     ]
   },
   "funnel": {
-    "reach": 544,
+    "reach": 546,
     "engagement": 9,
     "audience": 12,
     "cr_clicks": 8
@@ -814,7 +814,7 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 87,
+        "value": 89,
         "grade": "D"
       },
       {
