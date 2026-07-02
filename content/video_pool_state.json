@@ -23,12 +23,13 @@
   },
   "linkedin": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-01T18:27:19",
+    "last_iso": "2026-07-02T09:37:31",
     "day": {
       "date": "2026-07-02",
-      "count": 0
+      "count": 1
     }
   },
   "facebook": {
@@ -63,12 +64,13 @@
   },
   "telegram": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-01T16:46:31",
+    "last_iso": "2026-07-02T09:37:31",
     "day": {
       "date": "2026-07-02",
-      "count": 0
+      "count": 1
     }
   },
   "tumblr": {

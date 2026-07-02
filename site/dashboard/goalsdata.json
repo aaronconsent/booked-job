@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T06:49",
+  "generated": "2026-07-02T09:39",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 14,
+        "current": 21,
         "target": 22,
         "status": "yellow",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 2306,
+        "current": 2361,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 81,
+        "current": 88,
         "target": 600,
         "status": "green",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1276,
+        "current": 1331,
         "target": 1500,
         "status": "yellow",
         "needs": null
@@ -216,15 +216,15 @@
   },
   "queues": {
     "fb_ig_posts": 94,
-    "reels": 12,
+    "reels": 15,
     "staged_articles": 18
   },
   "counters": {
     "articles": 68,
     "reels": 4,
-    "social_posts": 143,
+    "social_posts": 150,
     "followers": 7,
-    "engagement": 10,
+    "engagement": 11,
     "yt_views": 90,
     "yt_shorts": 13,
     "email_subs": 5,
