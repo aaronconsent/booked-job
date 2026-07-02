@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T18:25",
+  "updated": "2026-07-01T23:16",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,23 +25,23 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 4,
+        "current": 5,
         "target": 90,
-        "pct": 4,
+        "pct": 6,
         "on_track": true
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 3306,
+        "current": 7478,
         "target": 6000,
-        "pct": 55,
+        "pct": 100,
         "on_track": true
       },
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 9,
+        "current": 10,
         "target": 800,
         "pct": 1,
         "on_track": false
@@ -108,8 +108,8 @@
       "date": "2026-07-02",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The slow season isn't bad luck. It's a marketing problem you",
-      "sub": "course promo"
+      "title": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two ",
+      "sub": "podcast promo"
     },
     {
       "date": "2026-07-03",
@@ -122,8 +122,8 @@
       "date": "2026-07-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two ",
-      "sub": "podcast promo"
+      "title": "Most contractors think 'marketing' is a logo and a boosted p",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-07",
@@ -136,22 +136,22 @@
       "date": "2026-07-08",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Most contractors think 'marketing' is a logo and a boosted p",
-      "sub": "course promo"
+      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
-      "sub": "pricing drama"
+      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
-      "sub": "course promo"
+      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-10",
@@ -164,15 +164,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
-      "sub": "pricing drama"
+      "title": "Customers find you through 5 doors. If one lead app is most ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Customers find you through 5 doors. If one lead app is most ",
-      "sub": "course promo"
+      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-14",
@@ -185,8 +185,8 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
-      "sub": "pricing drama"
+      "title": "There are 3 free spots at the top of every local search. You",
+      "sub": "course promo"
     }
   ],
   "page": {
@@ -195,21 +195,21 @@
     "likes": 0
   },
   "content": {
-    "posts_published": 4,
+    "posts_published": 5,
     "reactions": 0,
-    "comments": 9,
+    "comments": 10,
     "shares": 0,
     "reels_published": 4,
-    "posts_remaining": 92,
+    "posts_remaining": 91,
     "reels_remaining": 11
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "2.81",
-    "impressions": 3534,
-    "reach": 2308,
-    "video_views": 3306
+    "spend": "4.85",
+    "impressions": 7499,
+    "reach": 5137,
+    "video_views": 7478
   },
   "youtube": {
     "connected": true,
@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "D",
       "group": "social",
-      "views": 60,
+      "views": 63,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "posts",
       "followers": 5,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "mirrors",
       "grade": "C",
       "group": "content"
@@ -559,7 +559,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 16,
+      "count": 17,
       "unit": "posts (Buffer)",
       "stat": "67 reach \u00b7 1 reactions",
       "views": 0,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 21,
+      "count": 22,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -603,7 +603,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Carousels",
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -694,7 +694,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 15
+        "count": 16
       },
       {
         "type": "Documents",
@@ -722,7 +722,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Video pins",
@@ -733,7 +733,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Video",
@@ -744,7 +744,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
@@ -759,7 +759,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
@@ -774,12 +774,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Polls",
         "status": "live",
-        "count": 11
+        "count": 1
       },
       {
         "type": "Video",
@@ -797,54 +797,6 @@
         "status": "gap"
       }
     ]
-  },
-  "funnel": {
-    "reach": 6257,
-    "engagement": 9,
-    "audience": 12,
-    "cr_clicks": 8
-  },
-  "trends": {
-    "audience": 0,
-    "engagement": 0,
-    "email": 0,
-    "reach": 0
-  },
-  "mafia": {
-    "metrics": [
-      {
-        "label": "Total Views",
-        "value": 3395,
-        "grade": "C"
-      },
-      {
-        "label": "Total Clicks",
-        "value": 8,
-        "grade": "D"
-      },
-      {
-        "label": "Total Posts",
-        "value": 212,
-        "grade": "A"
-      },
-      {
-        "label": "Total Reach",
-        "value": 5842,
-        "grade": "C"
-      },
-      {
-        "label": "Audience Size",
-        "value": 12,
-        "grade": "D"
-      },
-      {
-        "label": "Engagement",
-        "value": 9,
-        "grade": "D"
-      }
-    ],
-    "overall": "C",
-    "summary": "Respectable for an early-stage brand. 212 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   },
   "runway": [
     {
@@ -882,5 +834,53 @@
       "days": null,
       "status": "green"
     }
-  ]
+  ],
+  "funnel": {
+    "reach": 13264,
+    "engagement": 10,
+    "audience": 12,
+    "cr_clicks": 8
+  },
+  "trends": {
+    "audience": 0,
+    "engagement": 0,
+    "email": 0,
+    "reach": 0
+  },
+  "mafia": {
+    "metrics": [
+      {
+        "label": "Total Views",
+        "value": 7567,
+        "grade": "B"
+      },
+      {
+        "label": "Total Clicks",
+        "value": 8,
+        "grade": "D"
+      },
+      {
+        "label": "Total Posts",
+        "value": 221,
+        "grade": "A"
+      },
+      {
+        "label": "Total Reach",
+        "value": 12636,
+        "grade": "B"
+      },
+      {
+        "label": "Audience Size",
+        "value": 12,
+        "grade": "D"
+      },
+      {
+        "label": "Engagement",
+        "value": 10,
+        "grade": "D"
+      }
+    ],
+    "overall": "C",
+    "summary": "Respectable for an early-stage brand. 221 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+  }
 }
