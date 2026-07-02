@@ -537,6 +537,17 @@ def render_scene(scene, tmp, sidx, beats_dir):
         draw_words(d, revealed, scene.get("text_y", 130), scene.get("emph"))
         if scene.get("sub") and revealed:                    # small subtitle under the title
             d.text((W / 2, scene.get("text_y", 130) + 78), scene["sub"].upper(), font=F(46), fill=PAL_ACCENT, anchor="mm")
+        if scene.get("hero"):                                # GIANT hero number, pops in center-frame
+            ht = scene["hero"]; hy = int(H * 0.46)
+            hp = ease(min(1.0, (t - 0.25) / 0.4)) if t > 0.25 else 0.0
+            if hp > 0:
+                base = F(int(W * 0.34))
+                while d.textlength(ht, font=base) > W - 130 and base.size > 90:
+                    base = F(base.size - 12)
+                sz = int(base.size * (0.55 + 0.45 * hp))     # scale-up pop
+                hf = F(sz); tw = d.textlength(ht, font=hf)
+                d.text((W / 2, hy), ht, font=hf, fill=PAL_ACCENT, anchor="mm")
+                d.line([(W / 2 - tw / 2, hy + sz * 0.52), (W / 2 + tw / 2, hy + sz * 0.52)], fill=INK, width=max(8, sz // 22))
         cam = apply_camera(img.convert("RGB"), t, total, push=scene.get("push", 0.05))
         cam.save(os.path.join(frames_dir, f"{fi:04d}.png"))
     return frames_dir, nf, mp3, total, sfx_events
