@@ -88,7 +88,7 @@ PLATFORMS = {
     "pinterest": {"cap": 6, "post": post_pinterest, "exclude": ["porno"]},
     "bluesky":   {"cap": 4, "post": post_bluesky},
     "telegram":  {"cap": 1, "post": post_telegram},
-    "tumblr":    {"cap": 4, "post": post_tumblr},
+    "tumblr":    {"cap": 4, "post": post_tumblr, "exclude": ["porno"]},
 }
 
 

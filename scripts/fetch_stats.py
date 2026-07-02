@@ -296,7 +296,7 @@ def coverage():
         "Mastodon": [L("Posts", n("mastodon_state.json")), gap("Video"), gap("Polls")],
         "Threads": [L("Posts", n("threads_state.json")), gap("Video"), gap("Polls")],
         "Telegram": [L("Posts", n("telegram_state.json")), L("Polls", n("telegram_poll_state.json")), L("Video", vp("telegram"))],
-        "Tumblr": [L("Posts", n("tumblr_state.json")), gap("Video")],
+        "Tumblr": [L("Posts", n("tumblr_state.json")), L("Video", vp("tumblr"))],
     }
 
 

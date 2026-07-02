@@ -97,26 +97,32 @@ def _multipart(json_payload, ident, filename, filedata, mimetype="video/mp4"):
 
 
 def publish_video(text, video_url, tags=None):
-    """Post a native video (NPF video block) + caption.
-
-    Tumblr NPF requires the mp4 binary to be uploaded as a multipart file part,
-    referenced from the block via {"identifier": ...}; a plain media.url is
-    rejected with HTTP 400 ("Something broke")."""
+    """Post a native video + caption via Tumblr's LEGACY /post endpoint (type=video,
+    file as the `data` part). The NPF /posts endpoint rejects video uploads with an
+    opaque 400; the legacy endpoint accepts the raw mp4 and returns 201."""
     e = env(); tok = access_token(e); blog = e["TUMBLR_BLOG"]
-    ident = "reel"
-    filename = os.path.basename(urllib.parse.urlparse(video_url).path) or "reel.mp4"
     filedata = _fetch_bytes(video_url)
-    payload = json.dumps({
-        "content": [
-            {"type": "video", "media": {"type": "video/mp4", "identifier": ident}},
-            {"type": "text", "text": text},
-        ],
-        "tags": ",".join(tags or []), "state": "published",
-    })
-    ctype, body = _multipart(payload, ident, filename, filedata)
-    req = urllib.request.Request(f"https://api.tumblr.com/v2/blog/{blog}.tumblr.com/posts", data=body, method="POST")
-    req.add_header("Authorization", f"Bearer {tok}"); req.add_header("Content-Type", ctype)
-    req.add_header("Content-Length", str(len(body)))
+    filename = os.path.basename(urllib.parse.urlparse(video_url).path) or "reel.mp4"
+    boundary = "----bj" + os.urandom(6).hex()
+    crlf = b"\r\n"; buf = []
+
+    def field(name, val):
+        buf.append(("--" + boundary).encode())
+        buf.append(f'Content-Disposition: form-data; name="{name}"'.encode())
+        buf.append(b""); buf.append(val.encode() if isinstance(val, str) else val)
+
+    field("type", "video")
+    field("caption", text)
+    if tags:
+        field("tags", ",".join(tags))
+    buf.append(("--" + boundary).encode())
+    buf.append(f'Content-Disposition: form-data; name="data"; filename="{filename}"'.encode())
+    buf.append(b"Content-Type: video/mp4"); buf.append(b""); buf.append(filedata)
+    buf.append(("--" + boundary + "--").encode()); buf.append(b"")
+    body = crlf.join(buf)
+    req = urllib.request.Request(f"https://api.tumblr.com/v2/blog/{blog}.tumblr.com/post", data=body, method="POST")
+    req.add_header("Authorization", f"Bearer {tok}")
+    req.add_header("Content-Type", f"multipart/form-data; boundary={boundary}")
     try:
         with urllib.request.urlopen(req, timeout=180) as r:
             return json.loads(r.read().decode())
