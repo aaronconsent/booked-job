@@ -90,6 +90,27 @@
       "url": "https://booked-job.com/reels/explainer-lesson-01.mp4",
       "hook": "Marketing 101 \u00b7 Lesson 1",
       "caption": "Marketing 101, Lesson 1: what marketing actually is \u2014 the 3-minute version. Full course at booked-job.com #contractor #trades #marketing101"
+    },
+    {
+      "id": "rip-angi-rip",
+      "file": "site/reels/rip-angi-rip.mp4",
+      "url": "https://booked-job.com/reels/rip-angi-rip.mp4",
+      "hook": "Angi's $542 secret",
+      "caption": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades"
+    },
+    {
+      "id": "rip-reviews-rip",
+      "file": "site/reels/rip-reviews-rip.mp4",
+      "url": "https://booked-job.com/reels/rip-reviews-rip.mp4",
+      "hook": "519 reviews to rank",
+      "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews"
+    },
+    {
+      "id": "rip-speed-rip",
+      "file": "site/reels/rip-speed-rip.mp4",
+      "url": "https://booked-job.com/reels/rip-speed-rip.mp4",
+      "hook": "78% hire the first",
+      "caption": "78% of homeowners hire whoever responds first \u2014 not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades"
     }
   ]
 }
