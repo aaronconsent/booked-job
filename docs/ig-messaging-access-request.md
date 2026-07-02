@@ -29,6 +29,17 @@ Features** → search **`instagram_manage_messages`** → **Request Advanced Acc
 - A short **screencast** showing the inbox use (I can script it).
 - Confirmation it's first-party (one owned account).
 
+## Screencast script (Meta requires a short video — ~60s)
+Record your screen showing this exact flow:
+1. Open the Booked Job Instagram professional account → **Inbox/DMs**. Show a real incoming DM.
+2. Cut to your app/tool (the terminal running `python3 scripts/ig_dm_inbox.py`, or the
+   dashboard) → show the DM pulled into `content/ig_dm_inbox.md` — "we read our own
+   account's DMs into an internal inbox."
+3. Show a **human** typing a reply back in the Instagram app (not automated).
+4. Narrate: *"We use instagram_manage_messages to read incoming DMs on our own single
+   business account into a private inbox so our team replies by hand. No automation to
+   strangers, no bulk messaging, one owned account."*
+
 ## After approval
 `ig_dm_inbox.py` (already built + wired into run_all) auto-detects access and starts
 filling `content/ig_dm_inbox.md`. Nothing else to change.
