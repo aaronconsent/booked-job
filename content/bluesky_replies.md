@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@twisted-dimentions.bsky.social**: A giggle came from the demented being, hand covering mouth oh so politely. 
+
+"I see, quite troublesome. My enemy is a plumber who wears red, saves princesses, classic hero business. 
+
+Kirby was it? I'
+  → https://bsky.app/profile/twisted-dimentions.bsky.social/post/3mpmnjbo5vn2j
+
+- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
+  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
+
 - **@kylehugh.es**: There is so much work that doesn't get done because there is not enough attention available to plan the work, deploy the capital, and manage the resources. AI will give us infinite attention to do tho
   → https://bsky.app/profile/kylehugh.es/post/3mor2sedr2k2x
 
@@ -192,19 +202,3 @@ Why did THEY hire
 
 #agency #ancorathemes #business #electrician #handyman #maintenance #miscellaneous #plumber #renova
   → https://bsky.app/profile/stylelib.org/post/3moaahxmlo422
-
-- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
-
- https://stylelib.org/?p=130816 
-
-#builder #constructioncompany #electrician #factory #handyman #themeforest #wordpress #architecture #business #in
-  → https://bsky.app/profile/stylelib.org/post/3mocwjqah5w2h
-
-- **@mdrepros.bsky.social**: 🏡 WHAT IF YOUR HOME COULD GROW YOUR BUSINESS TOO?
-21680 Leitersburg Pike gives you both.
-💰 Seller is offering $10,000 toward your closing costs!
-Whether you're a:
-✅ Contractor
-✅ Landscaper
-✅ Electrici
-  → https://bsky.app/profile/mdrepros.bsky.social/post/3modsmnqiyk2y

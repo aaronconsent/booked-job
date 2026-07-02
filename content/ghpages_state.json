@@ -1,18 +1,19 @@
 {
   "done": [
-    "should-you-pay-for-leads",
-    "how-to-price-a-job",
-    "what-marketing-actually-is",
-    "why-reviews-win-the-call",
-    "google-ads-without-burning-cash",
-    "cost-per-lead-vs-cost-per-booked-job",
-    "contractor-website-one-job",
-    "google-business-profile-for-contractors",
-    "where-customers-find-contractors",
     "get-found-by-google-and-ai",
     "surviving-the-slow-season",
-    "get-more-google-reviews",
-    "is-angi-worth-it"
+    "marketing-scorecard-for-contractors",
+    "what-marketing-actually-is",
+    "where-customers-find-contractors",
+    "is-angi-worth-it",
+    "cost-per-lead-vs-cost-per-booked-job",
+    "should-you-pay-for-leads",
+    "google-ads-without-burning-cash",
+    "contractor-website-one-job",
+    "google-business-profile-for-contractors",
+    "how-to-price-a-job",
+    "why-reviews-win-the-call",
+    "get-more-google-reviews"
   ],
   "pages_enabled": true
 }

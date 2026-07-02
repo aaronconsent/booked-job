@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T23:19",
+  "generated": "2026-07-02T03:24",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 2,
+        "current": 3,
         "target": 2,
         "status": "green",
         "needs": null
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 67,
+        "current": 7,
         "target": 22,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -43,7 +43,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 366,
+        "current": 647,
         "target": 40,
         "status": "green",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 2118,
+        "current": 2224,
         "target": 300,
         "status": "green",
         "needs": null
@@ -137,9 +137,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 2,
+        "current": 5,
         "target": 60,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 67,
+        "current": 74,
         "target": 600,
         "status": "green",
         "needs": null
@@ -159,7 +159,7 @@
         "label": "Reels",
         "current": 2,
         "target": 30,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1088,
+        "current": 1194,
         "target": 1500,
         "status": "yellow",
         "needs": null
@@ -215,14 +215,14 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 91,
+    "fb_ig_posts": 94,
     "reels": 11,
-    "staged_articles": 22
+    "staged_articles": 19
   },
   "counters": {
-    "articles": 64,
+    "articles": 67,
     "reels": 4,
-    "social_posts": 129,
+    "social_posts": 136,
     "followers": 7,
     "engagement": 10,
     "yt_views": 89,
