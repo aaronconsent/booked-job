@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T09:25",
+  "updated": "2026-07-02T11:59",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 7525,
+        "current": 7542,
         "target": 6000,
         "pct": 100,
         "on_track": true
@@ -206,10 +206,10 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "4.9",
-    "impressions": 7547,
-    "reach": 5173,
-    "video_views": 7525
+    "spend": "5.07",
+    "impressions": 7563,
+    "reach": 5178,
+    "video_views": 7542
   },
   "youtube": {
     "connected": true,
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "followers": 5,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 14,
+      "count": 15,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "mirrors",
       "grade": "C",
       "group": "content"
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 25,
+      "count": 26,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 4
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 4
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 1
+        "count": 2
       },
       {
         "type": "Articles",
@@ -723,7 +723,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 25
+        "count": 26
       },
       {
         "type": "Video pins",
@@ -735,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 15
+        "count": 16
       },
       {
         "type": "Video",
@@ -744,21 +744,6 @@
       }
     ],
     "Mastodon": [
-      {
-        "type": "Posts",
-        "status": "live",
-        "count": 13
-      },
-      {
-        "type": "Video",
-        "status": "gap"
-      },
-      {
-        "type": "Polls",
-        "status": "gap"
-      }
-    ],
-    "Threads": [
       {
         "type": "Posts",
         "status": "live",
@@ -773,21 +758,36 @@
         "status": "gap"
       }
     ],
-    "Telegram": [
+    "Threads": [
       {
         "type": "Posts",
         "status": "live",
         "count": 15
       },
       {
+        "type": "Video",
+        "status": "gap"
+      },
+      {
+        "type": "Polls",
+        "status": "gap"
+      }
+    ],
+    "Telegram": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 16
+      },
+      {
         "type": "Polls",
         "status": "live",
-        "count": 4
+        "count": 5
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 1
+        "count": 2
       }
     ],
     "Tumblr": [
@@ -841,7 +841,7 @@
     }
   ],
   "funnel": {
-    "reach": 13368,
+    "reach": 13390,
     "engagement": 11,
     "audience": 12,
     "cr_clicks": 8
@@ -856,7 +856,7 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 7615,
+        "value": 7632,
         "grade": "B"
       },
       {
@@ -866,12 +866,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 246,
+        "value": 253,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 12720,
+        "value": 12741,
         "grade": "B"
       },
       {
@@ -886,6 +886,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 246 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 253 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

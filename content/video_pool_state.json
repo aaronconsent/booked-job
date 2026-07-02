@@ -2,23 +2,25 @@
   "ig": {
     "posted": [
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-07-02T06:43:40",
+    "last_iso": "2026-07-02T12:11:14",
     "day": {
       "date": "2026-07-02",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
     "posted": [
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-07-02T06:43:40",
+    "last_iso": "2026-07-02T12:11:14",
     "day": {
       "date": "2026-07-02",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -35,12 +37,13 @@
   "facebook": {
     "posted": [
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-07-02T06:43:40",
+    "last_iso": "2026-07-02T12:11:14",
     "day": {
       "date": "2026-07-02",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -54,12 +57,13 @@
   "bluesky": {
     "posted": [
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-07-02T06:43:40",
+    "last_iso": "2026-07-02T12:11:14",
     "day": {
       "date": "2026-07-02",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {

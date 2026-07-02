@@ -4,80 +4,245 @@
   "follows_today": 8,
   "likes_today": 12,
   "followed": [
+    "did:plc:kwrozpzmd4j7tudshlo7v7ep",
+    "did:plc:khssxrydvcapbp23tqkr7qpn",
+    "did:plc:vnbyg7haolvkle64ej7c6iud",
+    "did:plc:oj3dghalmx4n7h7zkevt4lnk",
+    "did:plc:b4den2svmrecgrvdpadqlgkb",
     "did:plc:psndybsgwtykryrrft3usse7",
     "did:plc:l7ttxxlwkqxwebwfukgdt7e4",
-    "did:plc:342rw5msmn4f2rmqpd6pkume",
-    "did:plc:yrrzoshyxx5dx5p2lnkl6n4n",
-    "did:plc:b4den2svmrecgrvdpadqlgkb",
-    "did:plc:u6zoeeccfpk36jt2dg6dvj23",
-    "did:plc:qf44qdr7t4ke7mfvtbjww5k3",
-    "did:plc:bsls5elwkns7h4bsmziyfri2",
-    "did:plc:sgoj33fhwdewhhvkoumojvgg",
-    "did:plc:pdvjdejvjinix4lnt4sgzg7r",
-    "did:plc:usi3l6p7lfnlj2pmxm2efqwy",
-    "did:plc:vnbyg7haolvkle64ej7c6iud",
-    "did:plc:2s7bdfknl4wgfjf7ynzia4dn",
-    "did:plc:vsz4y7jktj55gqwipcye7rux",
-    "did:plc:7d7h3kn6mvmlr4juk6a2iu7x",
-    "did:plc:5t6lnn7slbckvjrnxnbdsj2v",
-    "did:plc:cyr6a7bgsbfvhjqxwbtb5vq4",
-    "did:plc:yf5jiiqrfp7h3abrkxovtbm4",
-    "did:plc:mrfgil7opv3rfvpdablyt7ar",
-    "did:plc:34xxyldc36zhmuwd6p5rcxvf",
-    "did:plc:kwrozpzmd4j7tudshlo7v7ep",
-    "did:plc:wpj2udn25csexatc6ljen24y",
-    "did:plc:oj3dghalmx4n7h7zkevt4lnk",
-    "did:plc:hjbge6rr76s2d7d3iazcgnqp",
-    "did:plc:vtdp7tpbufb7uw7tnewwpxzh",
-    "did:plc:nhi4kq63lgtdj5rajzjgi2qg",
     "did:plc:pulzjz6r2p3lbl77o7jiwaoo",
-    "did:plc:khssxrydvcapbp23tqkr7qpn"
+    "did:plc:hjbge6rr76s2d7d3iazcgnqp",
+    "did:plc:wpj2udn25csexatc6ljen24y",
+    "did:plc:qf44qdr7t4ke7mfvtbjww5k3",
+    "did:plc:cyr6a7bgsbfvhjqxwbtb5vq4",
+    "did:plc:342rw5msmn4f2rmqpd6pkume",
+    "did:plc:5t6lnn7slbckvjrnxnbdsj2v",
+    "did:plc:sgoj33fhwdewhhvkoumojvgg",
+    "did:plc:34xxyldc36zhmuwd6p5rcxvf",
+    "did:plc:yrrzoshyxx5dx5p2lnkl6n4n",
+    "did:plc:nhi4kq63lgtdj5rajzjgi2qg",
+    "did:plc:7d7h3kn6mvmlr4juk6a2iu7x",
+    "did:plc:yf5jiiqrfp7h3abrkxovtbm4",
+    "did:plc:usi3l6p7lfnlj2pmxm2efqwy",
+    "did:plc:vsz4y7jktj55gqwipcye7rux",
+    "did:plc:u6zoeeccfpk36jt2dg6dvj23",
+    "did:plc:bsls5elwkns7h4bsmziyfri2",
+    "did:plc:2s7bdfknl4wgfjf7ynzia4dn",
+    "did:plc:mrfgil7opv3rfvpdablyt7ar",
+    "did:plc:pdvjdejvjinix4lnt4sgzg7r",
+    "did:plc:vtdp7tpbufb7uw7tnewwpxzh"
   ],
   "liked": [
     "at://did:plc:hjbge6rr76s2d7d3iazcgnqp/app.bsky.feed.post/3moxybkzuap2u",
-    "at://did:plc:5t6lnn7slbckvjrnxnbdsj2v/app.bsky.feed.post/3mphkdxgyn22i",
-    "at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3mp7y6gurg22i",
-    "at://did:plc:bsls5elwkns7h4bsmziyfri2/app.bsky.feed.post/3mp4xcxkmmk2i",
-    "at://did:plc:yrrzoshyxx5dx5p2lnkl6n4n/app.bsky.feed.post/3mpnkzga34kyz",
-    "at://did:plc:usi3l6p7lfnlj2pmxm2efqwy/app.bsky.feed.post/3mpg5sankh22c",
-    "at://did:plc:u6zoeeccfpk36jt2dg6dvj23/app.bsky.feed.post/3mpfwo63bld2a",
-    "at://did:plc:oj3dghalmx4n7h7zkevt4lnk/app.bsky.feed.post/3moycz6z6fi2t",
-    "at://did:plc:qf44qdr7t4ke7mfvtbjww5k3/app.bsky.feed.post/3mpaczjvzkn2h",
-    "at://did:plc:342rw5msmn4f2rmqpd6pkume/app.bsky.feed.post/3mpk7siyh6c2j",
-    "at://did:plc:6uqee4ponukowxlkuncuuf3o/app.bsky.feed.post/3lyykzs4wdk24",
-    "at://did:plc:sgoj33fhwdewhhvkoumojvgg/app.bsky.feed.post/3m42d337m6s2i",
-    "at://did:plc:hjbge6rr76s2d7d3iazcgnqp/app.bsky.feed.post/3mpm437kzkj2o",
-    "at://did:plc:ccu6vex4jtqy7jx6xudm44lf/app.bsky.feed.post/3mpjnjz3z4m2s",
-    "at://did:plc:vnbyg7haolvkle64ej7c6iud/app.bsky.feed.post/3mpjivh5xw22e",
-    "at://did:plc:sxoilieezggyac3ewdtr2hep/app.bsky.feed.post/3mp5eh3x77k2d",
-    "at://did:plc:khssxrydvcapbp23tqkr7qpn/app.bsky.feed.post/3mpjyrflytk27",
-    "at://did:plc:pdvjdejvjinix4lnt4sgzg7r/app.bsky.feed.post/3mp6pd7pnzj25",
-    "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27",
-    "at://did:plc:rl5jzjfxy5nh6ashtizsbxei/app.bsky.feed.post/3mowgjv7n5m26",
-    "at://did:plc:24id6y3qwwpv3mfy7743zn7g/app.bsky.feed.post/3mpjjfytboy24",
-    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mirazvskfk2n",
-    "at://did:plc:vsz4y7jktj55gqwipcye7rux/app.bsky.feed.post/3mpmnjbo5vn2j",
-    "at://did:plc:l7ttxxlwkqxwebwfukgdt7e4/app.bsky.feed.post/3mpjlsrdyc726",
-    "at://did:plc:wpj2udn25csexatc6ljen24y/app.bsky.feed.post/3mpjkf4anhk2m",
-    "at://did:plc:cyr6a7bgsbfvhjqxwbtb5vq4/app.bsky.feed.post/3mpjnwqplnk2y",
-    "at://did:plc:yfer2dpsn5ywbemzlwiywtjx/app.bsky.feed.post/3mpm6jipwuc2x",
-    "at://did:plc:34xxyldc36zhmuwd6p5rcxvf/app.bsky.feed.post/3mpn6luc5cs2i",
-    "at://did:plc:vtdp7tpbufb7uw7tnewwpxzh/app.bsky.feed.post/3mpk22xe4sk2d",
-    "at://did:plc:7d7h3kn6mvmlr4juk6a2iu7x/app.bsky.feed.post/3mpizql3h322d",
-    "at://did:plc:xjfvduprefej5hz3tduhc3za/app.bsky.feed.post/3m3gisz3dik2k",
-    "at://did:plc:nhi4kq63lgtdj5rajzjgi2qg/app.bsky.feed.post/3mpac4v5axr2c",
-    "at://did:plc:4vg5cmq4uhcofox5tcunwxll/app.bsky.feed.post/3mpilgf4was2t",
-    "at://did:plc:vgdwohw5iqdlqxarugyujfcj/app.bsky.feed.post/3mp2q4wrlwk2o",
-    "at://did:plc:b4den2svmrecgrvdpadqlgkb/app.bsky.feed.post/3mdzns2xckc2k",
-    "at://did:plc:psndybsgwtykryrrft3usse7/app.bsky.feed.post/3mpmq53srmk2s",
     "at://did:plc:jkcxqfsmsek6iplzsxrr4v4m/app.bsky.feed.post/3mphstkzam22h",
-    "at://did:plc:bs46pnhkm4vd4ff6d2rl6ulk/app.bsky.feed.post/3mpmhdmbumi2p",
-    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mphocbqpxs2l",
-    "at://did:plc:kwrozpzmd4j7tudshlo7v7ep/app.bsky.feed.post/3mpjsiytsq22b",
     "at://did:plc:mrfgil7opv3rfvpdablyt7ar/app.bsky.feed.post/3mpjwd4vdkc25",
-    "at://did:plc:2s7bdfknl4wgfjf7ynzia4dn/app.bsky.feed.post/3mphdump73s2v"
+    "at://did:plc:yfer2dpsn5ywbemzlwiywtjx/app.bsky.feed.post/3mpm6jipwuc2x",
+    "at://did:plc:4vg5cmq4uhcofox5tcunwxll/app.bsky.feed.post/3mpilgf4was2t",
+    "at://did:plc:pdvjdejvjinix4lnt4sgzg7r/app.bsky.feed.post/3mp6pd7pnzj25",
+    "at://did:plc:qf44qdr7t4ke7mfvtbjww5k3/app.bsky.feed.post/3mpaczjvzkn2h",
+    "at://did:plc:rl5jzjfxy5nh6ashtizsbxei/app.bsky.feed.post/3mowgjv7n5m26",
+    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mirazvskfk2n",
+    "at://did:plc:sxoilieezggyac3ewdtr2hep/app.bsky.feed.post/3mp5eh3x77k2d",
+    "at://did:plc:ccu6vex4jtqy7jx6xudm44lf/app.bsky.feed.post/3mpjnjz3z4m2s",
+    "at://did:plc:pulzjz6r2p3lbl77o7jiwaoo/app.bsky.feed.post/3mphocbqpxs2l",
+    "at://did:plc:khssxrydvcapbp23tqkr7qpn/app.bsky.feed.post/3mpjyrflytk27",
+    "at://did:plc:psndybsgwtykryrrft3usse7/app.bsky.feed.post/3mpmq53srmk2s",
+    "at://did:plc:342rw5msmn4f2rmqpd6pkume/app.bsky.feed.post/3mpk7siyh6c2j",
+    "at://did:plc:oj3dghalmx4n7h7zkevt4lnk/app.bsky.feed.post/3moycz6z6fi2t",
+    "at://did:plc:6uqee4ponukowxlkuncuuf3o/app.bsky.feed.post/3lyykzs4wdk24",
+    "at://did:plc:l7ttxxlwkqxwebwfukgdt7e4/app.bsky.feed.post/3mpjlsrdyc726",
+    "at://did:plc:cyr6a7bgsbfvhjqxwbtb5vq4/app.bsky.feed.post/3mpjnwqplnk2y",
+    "at://did:plc:nhi4kq63lgtdj5rajzjgi2qg/app.bsky.feed.post/3mpac4v5axr2c",
+    "at://did:plc:wpj2udn25csexatc6ljen24y/app.bsky.feed.post/3mpjkf4anhk2m",
+    "at://did:plc:7d7h3kn6mvmlr4juk6a2iu7x/app.bsky.feed.post/3mpizql3h322d",
+    "at://did:plc:u6zoeeccfpk36jt2dg6dvj23/app.bsky.feed.post/3mpfwo63bld2a",
+    "at://did:plc:kwrozpzmd4j7tudshlo7v7ep/app.bsky.feed.post/3mpjsiytsq22b",
+    "at://did:plc:sgoj33fhwdewhhvkoumojvgg/app.bsky.feed.post/3m42d337m6s2i",
+    "at://did:plc:bs46pnhkm4vd4ff6d2rl6ulk/app.bsky.feed.post/3mpmhdmbumi2p",
+    "at://did:plc:vgdwohw5iqdlqxarugyujfcj/app.bsky.feed.post/3mp2q4wrlwk2o",
+    "at://did:plc:yrrzoshyxx5dx5p2lnkl6n4n/app.bsky.feed.post/3mpnkzga34kyz",
+    "at://did:plc:34xxyldc36zhmuwd6p5rcxvf/app.bsky.feed.post/3mpn6luc5cs2i",
+    "at://did:plc:yf5jiiqrfp7h3abrkxovtbm4/app.bsky.feed.post/3mlrue5q4ec27",
+    "at://did:plc:bsls5elwkns7h4bsmziyfri2/app.bsky.feed.post/3mp4xcxkmmk2i",
+    "at://did:plc:vtdp7tpbufb7uw7tnewwpxzh/app.bsky.feed.post/3mpk22xe4sk2d",
+    "at://did:plc:vsz4y7jktj55gqwipcye7rux/app.bsky.feed.post/3mpmnjbo5vn2j",
+    "at://did:plc:5t6lnn7slbckvjrnxnbdsj2v/app.bsky.feed.post/3mphkdxgyn22i",
+    "at://did:plc:hjbge6rr76s2d7d3iazcgnqp/app.bsky.feed.post/3mpm437kzkj2o",
+    "at://did:plc:xjfvduprefej5hz3tduhc3za/app.bsky.feed.post/3m3gisz3dik2k",
+    "at://did:plc:2s7bdfknl4wgfjf7ynzia4dn/app.bsky.feed.post/3mphdump73s2v",
+    "at://did:plc:usi3l6p7lfnlj2pmxm2efqwy/app.bsky.feed.post/3mpg5sankh22c",
+    "at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3mp7y6gurg22i",
+    "at://did:plc:vnbyg7haolvkle64ej7c6iud/app.bsky.feed.post/3mpjivh5xw22e",
+    "at://did:plc:24id6y3qwwpv3mfy7743zn7g/app.bsky.feed.post/3mpjjfytboy24",
+    "at://did:plc:b4den2svmrecgrvdpadqlgkb/app.bsky.feed.post/3mdzns2xckc2k"
   ],
   "queue": [
+    {
+      "handle": "riversdaughter.bsky.social",
+      "text": "*ahem*\n\nYour attention, please!\n\nDo you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  \n\nBoston, North & South Shores, ",
+      "url": "https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22"
+    },
+    {
+      "handle": "happyineurope.bsky.social",
+      "text": "My friends and I gave it a C.  Leads looked bored out of their minds.  Last half hour saved it from being a D.  And what was the purpose of the contractor boyfriend?  Ridiculous.",
+      "url": "https://bsky.app/profile/happyineurope.bsky.social/post/3mmwudseiyk2b"
+    },
+    {
+      "handle": "apfy.bsky.social",
+      "text": "Expanding home services? The real competitor is the licensing board. Pull verified contractor data across CA, FL, TX, NY. 37 of 38 runs succeeded this month. Pay Per Result.\n\nhttps://apify.com/sleek_w",
+      "url": "https://bsky.app/profile/apfy.bsky.social/post/3mnkpv74akr2a"
+    },
+    {
+      "handle": "apfy.bsky.social",
+      "text": "License expired mid-project? Compliance disaster. This pulls license status, bond info, and expiry dates from state boards \u2014 catch lapses before they cost you. 168 runs. Pay Per Result.\n\nhttps://apify",
+      "url": "https://bsky.app/profile/apfy.bsky.social/post/3mnpqvy6ysg2h"
+    },
+    {
+      "handle": "jaimi.bsky.social",
+      "text": "The genocide praise goes along with the tattoo, and his serial lying about it, and the Blackwater love before he joined their latest rebrand. Why are you cool with war crimes & genocide? And being lie",
+      "url": "https://bsky.app/profile/jaimi.bsky.social/post/3mnqwdzo7cc27"
+    },
+    {
+      "handle": "aptora.bsky.social",
+      "text": "Leave the guesswork behind, and let the numbers lead the way. \n\nWith Contractor Compass 360 from Aptora, you'll have all the key data you need to run your field service business successfully.\n\nInteres",
+      "url": "https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c"
+    },
+    {
+      "handle": "aptora.bsky.social",
+      "text": "Integrations you can count on. Aptora 360 is the software that will help your field service business succeed.\n\nWant to learn more or get started? Just click the link below or give us a call at (316) 2",
+      "url": "https://bsky.app/profile/aptora.bsky.social/post/3mmrwhrnws22b"
+    },
+    {
+      "handle": "kylehugh.es",
+      "text": "There is so much work that doesn't get done because there is not enough attention available to plan the work, deploy the capital, and manage the resources. AI will give us infinite attention to do tho",
+      "url": "https://bsky.app/profile/kylehugh.es/post/3mor2sedr2k2x"
+    },
+    {
+      "handle": "refigman.bsky.social",
+      "text": "As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we\u2019re discriminated against the most in an attempt to bring required balan",
+      "url": "https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y"
+    },
+    {
+      "handle": "robmakesthat.bsky.social",
+      "text": "Just the trades though, right? Office workers can fuck all the way off, apparently.\n\nAs a small business owner (in Vancouver so you don\u2019t have to pretend to care) I might not be able to survive univer",
+      "url": "https://bsky.app/profile/robmakesthat.bsky.social/post/3lor5pvbu6s2h"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "Reneva \u2013  Small Business HTML Template\n\n https://themes.stylelib.org/?p=19089 \n\n#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m"
+    },
+    {
+      "handle": "stylelib.org",
+      "text": "WoodWorker \u2013 Carpenter Handy Service WordPress Theme\n\n https://themes.stylelib.org/?p=640 \n\n#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy",
+      "url": "https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p"
+    },
+    {
+      "handle": "thewebmavericks.bsky.social",
+      "text": "AI search is real and it's local. \"Find me a plumber near me\" is being asked to ChatGPT, not just Google. Is your business in the answer?",
+      "url": "https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s"
+    },
+    {
+      "handle": "mackaracka.bsky.social",
+      "text": "If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva",
+      "url": "https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k"
+    },
+    {
+      "handle": "lordboise.bsky.social",
+      "text": "Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  \nI dislike Dean's implication that plumbing/HVAC business owners can't be effective po",
+      "url": "https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Timnath, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Timnath, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C genera",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkootikmy2k"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Englewood, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Englewood, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C ge",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkoqt4iza2u"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Lakewood, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Lakewood, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C gene",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkoqvndwi2u"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Littleton, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Littleton, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C ge",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkorgvwsk2z"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Centennial, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Centennial, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C ",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkorywxys2b"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Highlands Ranch, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Highlands Ranch, CO? Josh Brooks Construction (License CON-24-0152) is a license",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkorzjl3r2u"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Mead, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Mead, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C general cont",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkos4noi22z"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Firestone, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Firestone, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C ge",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkosjd5vr2x"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Dacono, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Dacono, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C general ",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkoszhz3f2e"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Erie, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Erie, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C general cont",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkota72h52l"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Brighton, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Brighton, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C gene",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkotpyy6b2a"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Eaton, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Eaton, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C general co",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkotsk52f2e"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Berthoud, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Berthoud, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C gene",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkotuptfr2x"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Lafayette, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Lafayette, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C ge",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkouiplxj2u"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Hudson, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Hudson, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C general ",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkov4ssxy2k"
+    },
+    {
+      "handle": "joshbrooks77.bsky.social",
+      "text": "Roofing Contractor in Lochbuie, CO: The Complete 2026\u00a0Guide\n\nDirect Answer Who is the best roofing contractor in Lochbuie, CO? Josh Brooks Construction (License CON-24-0152) is a licensed Class C gene",
+      "url": "https://bsky.app/profile/joshbrooks77.bsky.social/post/3mpkovvajtf2e"
+    },
+    {
+      "handle": "leospalteholz.bsky.social",
+      "text": "My dad built our house back in the 90s.  He could have never have afforded to have it built, it only worked because he did much of the work himself and was his own general contractor.  Could he have p",
+      "url": "https://bsky.app/profile/leospalteholz.bsky.social/post/3mpmuw2ewn22c"
+    },
+    {
+      "handle": "louisey.bsky.social",
+      "text": "I've been begging our school district to start a VoTech division to our high school. It could include: trades, hospitality, communication/IT, business, paralegal, etc. Not every student is college bou",
+      "url": "https://bsky.app/profile/louisey.bsky.social/post/3mpoixn6ehc27"
+    },
     {
       "handle": "narrowit.bsky.social",
       "text": "WORKFORCE DEVELOPMENT, INDIANA DEPARTMENT OF received a $5.10M federal grant. Purpose: THE REENTRY EMPLOYMENT IN SKILLED TRADES, ADVANCED MANUFACTURING, REGISTERED APPRENTICESHIPS, AND TRAINING...\n\nht",
@@ -112,171 +277,6 @@
       "handle": "stylelib.org",
       "text": "Construction \u2013 WordPress Theme\n\n https://stylelib.org/?p=289692 \n\n#constructor #electrician #handyman #painter #remodeling #renovation #themeforest #wordpress #architecture #business #plumber #buildin",
       "url": "https://bsky.app/profile/stylelib.org/post/3mo3f4vvcas2l"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "CarpetServ \u2013 Cleaning Company  Housekeeping WordPress Theme\n\n https://themes.stylelib.org/?p=22610 \n\n#agency #ancorathemes #business #electrician #handyman #maintenance #miscellaneous #plumber #renova",
-      "url": "https://bsky.app/profile/stylelib.org/post/3moaahxmlo422"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Bauer \u2013 Construction and Industrial WordPress Theme\n\n https://stylelib.org/?p=130816 \n\n#builder #constructioncompany #electrician #factory #handyman #themeforest #wordpress #architecture #business #in",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mocwjqah5w2h"
-    },
-    {
-      "handle": "mdrepros.bsky.social",
-      "text": "\ud83c\udfe1 WHAT IF YOUR HOME COULD GROW YOUR BUSINESS TOO?\n21680 Leitersburg Pike gives you both.\n\ud83d\udcb0 Seller is offering $10,000 toward your closing costs!\nWhether you're a:\n\u2705 Contractor\n\u2705 Landscaper\n\u2705 Electrici",
-      "url": "https://bsky.app/profile/mdrepros.bsky.social/post/3modsmnqiyk2y"
-    },
-    {
-      "handle": "taskvirtual.bsky.social",
-      "text": "Electricians are not just losing jobs on-site. They are losing them in the office. \nTaskVirtual VAs help manage the backend so your crew can stay focused on the work. Would you outsource this? \n\nVirtu",
-      "url": "https://bsky.app/profile/taskvirtual.bsky.social/post/3mofxftma3c2h"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Fouens \u2013 Carpet Cleaning Company HTML Template\n\n https://stylelib.org/?p=117085 \n\n#cleaning #electrician #handyman #sitetemplates #themeforest #business #plumber #corporate #maintenance",
-      "url": "https://bsky.app/profile/stylelib.org/post/3molg43oin52n"
-    },
-    {
-      "handle": "kjiveson78.bsky.social",
-      "text": "I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the ",
-      "url": "https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w"
-    },
-    {
-      "handle": "texascontractorseo.bsky.social",
-      "text": "1. Since partnering with Texas Contractor SEO, our Houston pool construction leads have doubled! More visibility means more projects. Ready to grow your pool business? https://texascontractorseo.com/l",
-      "url": "https://bsky.app/profile/texascontractorseo.bsky.social/post/3mnt42rvbud2r"
-    },
-    {
-      "handle": "apfy.bsky.social",
-      "text": "Bidding a project? Verify subcontractor licenses first. Expired license = failed inspection = rework. Pull CA, FL, TX, NY board data automatically. 36 of 37 runs succeeded. Pay Per Result.\n\nhttps://ap",
-      "url": "https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k"
-    },
-    {
-      "handle": "eriikkkkkkkkk.bsky.social",
-      "text": "I'm not sure airports (?) are a suitable channel for defence contractor marketing. Nah from me.",
-      "url": "https://bsky.app/profile/eriikkkkkkkkk.bsky.social/post/3mnky2cabos2k"
-    },
-    {
-      "handle": "attorneysmedia.bsky.social",
-      "text": "\ud83c\udf1f **Navigating Contractor Agreements: Protect Your Business Today!** \ud83c\udf1f\n\nAre you a Dallas marketing agency owner? \ud83e\udd14 Drafting the right Independent Contractor Agreement is crucial to safeguard your busi",
-      "url": "https://bsky.app/profile/attorneysmedia.bsky.social/post/3mpnmrxmqgd26"
-    },
-    {
-      "handle": "baadigi.bsky.social",
-      "text": "What happens when a homeowner asks an AI to compare your roofing business to your top competitor? If your website lacks semantic entity data, the AI won't even mention your name. We just published the",
-      "url": "https://bsky.app/profile/baadigi.bsky.social/post/3molvgn24jm2c"
-    },
-    {
-      "handle": "milayna.bsky.social",
-      "text": "Does that business do roofing? Probably. In the same way that Greenwater does pools. Incompetently, with poor materials, bad practice, no training. Because they aren't a pool business. They aren't the",
-      "url": "https://bsky.app/profile/milayna.bsky.social/post/3mooj2sx6yc2x"
-    },
-    {
-      "handle": "mcrcommcentral.bsky.social",
-      "text": "Drum roll please... \ud83e\udd41\n\nWe're announcing our Spirit of Manchester 2026 shortlist! \ud83c\udf1f\n\nCongrats to all shortlisted this year! We can't wait to celebrate at our Awards night on 1 October 2026 \ud83c\udf89\n\nWant to f",
-      "url": "https://bsky.app/profile/mcrcommcentral.bsky.social/post/3mox5ex7zif2l"
-    },
-    {
-      "handle": "olduktvlistings.bsky.social",
-      "text": "29/06/1959 Radio Times: Featuring Star Ballroom Championships; The Ted Heath Show; Shadow of a Pale Horse; Wilfred Pickles and Daphne Anderson in 'Value for Money'; The Archers; Summer Holidays and mo",
-      "url": "https://bsky.app/profile/olduktvlistings.bsky.social/post/3mpfwo63bld2a"
-    },
-    {
-      "handle": "darryl-grahamii.bsky.social",
-      "text": "A Dallas plumber cut $800/month in Google Ads, focused on AI visibility for 60 days, and went from 4 leads to 11 a month at zero ad spend. Homeowners ask AI who to call now. Is your trade business in ",
-      "url": "https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mp7cmxlywr2g"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Primo \u2013 Construction Building Company\n\n https://stylelib.org/?p=329999 \n\n#builder #painter #sitetemplates #themeforest #architecture #business #plumber #building #company #corporate #creative #realest",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mpb7hz7zyp2t"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Constructo \u2013 Construction WordPress Theme\n\n https://themes.stylelib.org/?p=6194 \n\n#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26"
-    },
-    {
-      "handle": "quemirasbobo.bsky.social",
-      "text": "Because it\u2019s their belief that immigrants \u201ctake\u201d from them\n\nNot a good analogy but remember Joe the Plumber who railed about taxes on the rich?\n\nHe wasn\u2019t a plumber, didn\u2019t own a business & wasn\u2019t a m",
-      "url": "https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "TheBuilt \u2013 Construction and Architecture WordPress theme\n\n https://stylelib.org/?p=101768 \n\n#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q"
-    },
-    {
-      "handle": "stylelib.org",
-      "text": "Fixhero \u2013 Handyman  Repair Services WordPress Theme\n\n https://themes.stylelib.org/?p=809526 \n\n#business #corporate #elementor #plumber #rstheme #themeforest #wordpress",
-      "url": "https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u"
-    },
-    {
-      "handle": "ninapryce.bsky.social",
-      "text": "Topline Pro is building the AI team that runs the business while the plumber stays under the sink.\n\nhttps://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress",
-      "url": "https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726"
-    },
-    {
-      "handle": "localgrowth.bsky.social",
-      "text": "1/3\nKeyword-stuffing your business name? Cute idea. Bad clicks.\n\n1) If your Google name reads like an ad (e.g., \u201cChicago Plumber \u2014 24/7\u201d), put the real name back. Names build trust; slogans belong in ",
-      "url": "https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26"
-    },
-    {
-      "handle": "narrowit.bsky.social",
-      "text": "SIGO VALIANT JV LLC received a $28.87M federal award. Purpose: THE GENERAL CONTRACTOR SHALL PROVIDE ALL LABOR, MATERIALS, EQUIPMENT, QUALIFIED SUPERVISION, AND OTHER ITEMS TO...\n\nhttps://www.narrowit.",
-      "url": "https://bsky.app/profile/narrowit.bsky.social/post/3mpo3nogwg22l"
-    },
-    {
-      "handle": "kdkheel.bsky.social",
-      "text": "This is a joke. Hospitalized for four months with Depression? Wasn't he making trades and doing other business?",
-      "url": "https://bsky.app/profile/kdkheel.bsky.social/post/3mpjdn3uf6s2i"
-    },
-    {
-      "handle": "thedarkroom.bsky.social",
-      "text": "i guess my question to congressman Kean (who was missing for 100+ days) is was he in the hospital and also making stock trades? his mental health is his own business.",
-      "url": "https://bsky.app/profile/thedarkroom.bsky.social/post/3mpjj5fn5x226"
-    },
-    {
-      "handle": "promarksolutions.bsky.social",
-      "text": "New site live for Lineham Excavating, a family run excavating and septic contractor in Olds serving Central Alberta. Need a website like this for your trades business? Promark Business Solutions build",
-      "url": "https://bsky.app/profile/promarksolutions.bsky.social/post/3mpjjg3yt2c2w"
-    },
-    {
-      "handle": "truegoode.bsky.social",
-      "text": "Interesting that the small business tax gap increased somewhat from around Brexit.\nSmall trades going back to the EU reducing competition in the UK so relatively scarce builders etc can demand, and be",
-      "url": "https://bsky.app/profile/truegoode.bsky.social/post/3mpls32ekm22j"
-    },
-    {
-      "handle": "murderedbybluesky.bsky.social",
-      "text": "Really? What questions does it raise? Besides how do we restore integrity - or at least something that passes for it - to that office?\n\nThe system: stock trades, crypto money, foreign-linked business,",
-      "url": "https://bsky.app/profile/murderedbybluesky.bsky.social/post/3mpnnyxl5os2r"
-    },
-    {
-      "handle": "ghunkinking.bsky.social",
-      "text": "Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and ",
-      "url": "https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e"
-    },
-    {
-      "handle": "darryl-grahamii.bsky.social",
-      "text": "A Phoenix contractor got 11 leads in a month from ChatGPT recommendations. No ads. He just made sure AI could find him. Most contractors still can't be found. Yet.",
-      "url": "https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mowgjv7n5m26"
-    },
-    {
-      "handle": "baadigi.bsky.social",
-      "text": "When search engines summarize the web, who actually gets recommended? Google AI Overviews, ChatGPT, and Perplexity are fundamentally changing how contractor leads find your business online. We just ma",
-      "url": "https://bsky.app/profile/baadigi.bsky.social/post/3moycz6z6fi2t"
-    },
-    {
-      "handle": "twisted-dimentions.bsky.social",
-      "text": "A giggle came from the demented being, hand covering mouth oh so politely. \n\n\"I see, quite troublesome. My enemy is a plumber who wears red, saves princesses, classic hero business. \n\nKirby was it? I'",
-      "url": "https://bsky.app/profile/twisted-dimentions.bsky.social/post/3mpmnjbo5vn2j"
-    },
-    {
-      "handle": "rmappleby.uk",
-      "text": "But does that not just mean that they\u2019ve not been keeping their books properly? Surely it can\u2019t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea ",
-      "url": "https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz"
     }
   ]
 }
