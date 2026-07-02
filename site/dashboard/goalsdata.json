@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T12:13",
+  "generated": "2026-07-02T13:57",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 28,
+        "current": 36,
         "target": 22,
         "status": "green",
         "needs": null
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 2410,
+        "current": 2470,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 95,
+        "current": 103,
         "target": 600,
         "status": "green",
         "needs": null
@@ -157,9 +157,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 2,
+        "current": 3,
         "target": 30,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 1380,
+        "current": 1440,
         "target": 1500,
         "status": "yellow",
         "needs": null
@@ -216,13 +216,13 @@
   },
   "queues": {
     "fb_ig_posts": 94,
-    "reels": 15,
+    "reels": 14,
     "staged_articles": 18
   },
   "counters": {
     "articles": 68,
-    "reels": 4,
-    "social_posts": 157,
+    "reels": 5,
+    "social_posts": 165,
     "followers": 7,
     "engagement": 11,
     "yt_views": 90,
