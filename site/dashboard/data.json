@@ -703,7 +703,8 @@
       },
       {
         "type": "Native video",
-        "status": "gap"
+        "status": "live",
+        "count": 1
       },
       {
         "type": "Articles",
@@ -726,7 +727,8 @@
       },
       {
         "type": "Video pins",
-        "status": "gap"
+        "status": "live",
+        "count": 0
       }
     ],
     "Bluesky": [
@@ -737,7 +739,8 @@
       },
       {
         "type": "Video",
-        "status": "gap"
+        "status": "live",
+        "count": 1
       }
     ],
     "Mastodon": [
@@ -783,7 +786,8 @@
       },
       {
         "type": "Video",
-        "status": "gap"
+        "status": "live",
+        "count": 1
       }
     ],
     "Tumblr": [
@@ -808,9 +812,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 11,
+      "remaining": 12,
       "per_day": 1,
-      "days": 11.0,
+      "days": 12.0,
       "status": "green"
     },
     {
@@ -829,7 +833,7 @@
     },
     {
       "label": "Video pool (evergreen)",
-      "remaining": 12,
+      "remaining": 13,
       "per_day": 0,
       "days": null,
       "status": "green"

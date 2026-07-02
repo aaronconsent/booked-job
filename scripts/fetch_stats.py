@@ -279,6 +279,8 @@ def coverage():
     L = lambda t, c: {"type": t, "status": "live", "count": c}
     gap = lambda t: {"type": t, "status": "gap"}
     soon = lambda t: {"type": t, "status": "soon"}
+    vps = jload(os.path.join(ROOT, "content", "video_pool_state.json"), {})   # per-platform video-pool distribution
+    vp = lambda plat: len(vps.get(plat, {}).get("posted", []))
     return {
         "Facebook": [L("Posts", n("state.json", "posted")), L("Carousels", n("fb_carousel_state.json")),
                      L("Reels", reels), L("Stories", stories), gap("Polls"), soon("Long video")],
@@ -288,12 +290,12 @@ def coverage():
         "TikTok": [L("Videos", len(bs.get("tiktok", [])) + reels), L("Photo carousels", len(bs.get("tiktok_carousel", []))),
                    gap("Stories"), soon("Long video")],
         "LinkedIn": [L("Posts", len(bs.get("linkedin", []))), L("Documents", len(bs.get("linkedin_carousel", []))),
-                     gap("Native video"), gap("Articles"), gap("Newsletter"), gap("Polls")],
-        "Pinterest": [L("Pins", n("pinterest_buffer_state.json")), gap("Video pins")],
-        "Bluesky": [L("Posts", n("bluesky_state.json")), gap("Video")],
+                     L("Native video", vp("linkedin")), gap("Articles"), gap("Newsletter"), gap("Polls")],
+        "Pinterest": [L("Pins", n("pinterest_buffer_state.json")), L("Video pins", vp("pinterest"))],
+        "Bluesky": [L("Posts", n("bluesky_state.json")), L("Video", vp("bluesky"))],
         "Mastodon": [L("Posts", n("mastodon_state.json")), gap("Video"), gap("Polls")],
         "Threads": [L("Posts", n("threads_state.json")), gap("Video"), gap("Polls")],
-        "Telegram": [L("Posts", n("telegram_state.json")), L("Polls", n("telegram_poll_state.json")), gap("Video")],
+        "Telegram": [L("Posts", n("telegram_state.json")), L("Polls", n("telegram_poll_state.json")), L("Video", vp("telegram"))],
         "Tumblr": [L("Posts", n("tumblr_state.json")), gap("Video")],
     }
 

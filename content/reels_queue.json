@@ -89,6 +89,12 @@
       "hook": "Roofing spite ad",
       "description": "We made our least-favorite roofer a radio ad he'll hate. From the podcast \u2014 free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic",
       "video": "content/podcast/clips/ad-summit.mp4"
+    },
+    {
+      "id": "explainer-lesson-01",
+      "hook": "Nobody taught you marketing",
+      "description": "Marketing 101, Lesson 1: what marketing actually is \u2014 the 3-minute version. Full course at booked-job.com #contractor #trades #marketing101",
+      "video": "site/reels/explainer-lesson-01.mp4"
     }
   ]
 }
