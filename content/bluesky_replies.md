@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@darryl-grahamii.bsky.social**: A Phoenix contractor got 11 leads in a month from ChatGPT recommendations. No ads. He just made sure AI could find him. Most contractors still can't be found. Yet.
+  → https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mowgjv7n5m26
+
+- **@baadigi.bsky.social**: When search engines summarize the web, who actually gets recommended? Google AI Overviews, ChatGPT, and Perplexity are fundamentally changing how contractor leads find your business online. We just ma
+  → https://bsky.app/profile/baadigi.bsky.social/post/3moycz6z6fi2t
+
 - **@twisted-dimentions.bsky.social**: A giggle came from the demented being, hand covering mouth oh so politely. 
 
 "I see, quite troublesome. My enemy is a plumber who wears red, saves princesses, classic hero business. 
@@ -188,17 +194,3 @@ One hires a Plumber bc they want the Plumbing Systems in their house/business im
 
 Why did THEY hire
   → https://bsky.app/profile/liberty2bfree.bsky.social/post/3mny2rbmtb22l
-
-- **@stylelib.org**: Construction – WordPress Theme
-
- https://stylelib.org/?p=289692 
-
-#constructor #electrician #handyman #painter #remodeling #renovation #themeforest #wordpress #architecture #business #plumber #buildin
-  → https://bsky.app/profile/stylelib.org/post/3mo3f4vvcas2l
-
-- **@stylelib.org**: CarpetServ – Cleaning Company  Housekeeping WordPress Theme
-
- https://themes.stylelib.org/?p=22610 
-
-#agency #ancorathemes #business #electrician #handyman #maintenance #miscellaneous #plumber #renova
-  → https://bsky.app/profile/stylelib.org/post/3moaahxmlo422

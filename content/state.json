@@ -3,14 +3,16 @@
   "posted": [
     "course-slowseason",
     "course-pricing",
-    "course-reviews",
-    "course-angi"
+    "course-angi",
+    "podcast-launch",
+    "course-reviews"
   ],
-  "last_post_iso": "2026-07-01T18:25:59",
+  "last_post_iso": "2026-07-02T06:42:14",
   "by_date": {
     "2026-06-25": 1,
     "2026-06-30": 2,
-    "2026-07-01": 2
+    "2026-07-01": 2,
+    "2026-07-02": 1
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }

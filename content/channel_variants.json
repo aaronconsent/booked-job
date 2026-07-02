@@ -1748,5 +1748,19 @@
   "telegram": {
    "text": "Every call to your shop that goes to voicemail is a job calling the next guy. Homeowners hire whoever answers first. Stop buying leads. Answer the phone."
   }
+ },
+ "website-conversion-98-percent-leave": {
+  "threads": {
+   "text": "The typical contractor website converts 2-3% of visitors. Meaning ~98% leave without calling you (WebFX 2026).\n\nYou don't have a traffic problem. You have a conversion problem.\n\nBuying more clicks at 2% just sends more people through the same leak."
+  },
+  "bluesky": {
+   "text": "~98% of people who visit your contractor site leave without calling — the typical site converts just 2-3% (WebFX 2026).\n\nMore traffic won't fix that. You already paid ~$6.59/click (LocaliQ 2025) to get them there. Fix the page: click-to-call, phone above the fold, one job.\n\nbooked-job.com"
+  },
+  "mastodon": {
+   "text": "The typical contractor website converts just 2-3% of visitors — about 98% leave without contacting anyone (WebFX 2026).\n\nWhen calls slow down, most contractors buy more traffic. But at 2%, more traffic just sends more people through the same leak. You don't have a traffic problem. You have a conversion problem.\n\nThree fixes: click-to-call on mobile, phone number above the fold, one job for the whole page.\n\nbooked-job.com"
+  },
+  "telegram": {
+   "text": "<b>98% of your website visitors leave without calling.</b>\n\nThe typical contractor site converts just 2-3% (WebFX 2026). You already paid ~$6.59 a click to get them there (LocaliQ 2025) — the page is where you lose them.\n\nDon't buy more traffic. Fix the page: click-to-call on mobile, phone number above the fold, one job for the whole site.\n\nhttps://booked-job.com/blog/website-conversion-98-percent-leave/"
+  }
  }
 }

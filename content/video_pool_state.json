@@ -1,21 +1,23 @@
 {
   "ig": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-01T16:06:14",
+    "last_iso": "2026-07-02T06:43:40",
     "day": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "count": 1
     }
   },
   "tiktok": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-01T16:07:31",
+    "last_iso": "2026-07-02T06:43:40",
     "day": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "count": 1
     }
   },
@@ -25,17 +27,18 @@
     ],
     "last_iso": "2026-07-01T18:27:19",
     "day": {
-      "date": "2026-07-01",
-      "count": 1
+      "date": "2026-07-02",
+      "count": 0
     }
   },
   "facebook": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-01T16:46:31",
+    "last_iso": "2026-07-02T06:43:40",
     "day": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "count": 1
     }
   },
@@ -43,17 +46,18 @@
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "count": 0
     }
   },
   "bluesky": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-01T16:46:31",
+    "last_iso": "2026-07-02T06:43:40",
     "day": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "count": 1
     }
   },
@@ -63,8 +67,8 @@
     ],
     "last_iso": "2026-07-01T16:46:31",
     "day": {
-      "date": "2026-07-01",
-      "count": 1
+      "date": "2026-07-02",
+      "count": 0
     }
   },
   "tumblr": {

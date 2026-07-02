@@ -99,7 +99,8 @@
       "slug": "website-conversion-98-percent-leave",
       "series": "Website Conversion",
       "go_live": "2026-07-02",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-02"
     },
     {
       "slug": "respond-fast-land-more-jobs",

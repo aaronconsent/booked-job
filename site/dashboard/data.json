@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T03:20",
+  "updated": "2026-07-02T06:41",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 89,
+        "current": 90,
         "target": 10000,
         "pct": 1,
         "on_track": false
@@ -200,8 +200,8 @@
     "comments": 10,
     "shares": 0,
     "reels_published": 4,
-    "posts_remaining": 91,
-    "reels_remaining": 11
+    "posts_remaining": 94,
+    "reels_remaining": 12
   },
   "ads": {
     "status": "ACTIVE",
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 89,
+    "views": 90,
     "videos": 13,
     "shorts": 13
   },
@@ -436,7 +436,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 64,
+      "count": 67,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "D",
       "group": "social",
-      "views": 63,
+      "views": 64,
       "followers": 0
     },
     {
@@ -477,7 +477,7 @@
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 89,
+      "views": 90,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "followers": 5,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 12,
+      "count": 13,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 12,
+      "count": 13,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "mirrors",
       "grade": "C",
       "group": "content"
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 23,
+      "count": 24,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -806,9 +806,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 91,
+      "remaining": 94,
       "per_day": 2,
-      "days": 45.5,
+      "days": 47.0,
       "status": "green"
     },
     {
@@ -841,7 +841,7 @@
     }
   ],
   "funnel": {
-    "reach": 13345,
+    "reach": 13348,
     "engagement": 10,
     "audience": 12,
     "cr_clicks": 8
@@ -856,7 +856,7 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 7612,
+        "value": 7613,
         "grade": "B"
       },
       {
@@ -866,7 +866,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 228,
+        "value": 238,
         "grade": "A"
       },
       {
@@ -886,6 +886,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 228 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 238 posts, 12 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
