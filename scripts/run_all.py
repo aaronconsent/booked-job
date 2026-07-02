@@ -34,6 +34,7 @@ AGENTS = [
     ("fb_report.py", []),
     ("blog_drip_runner.py", []),
     ("nightly_review.py", ["--no-fetch"]),
+    ("health_alert.py", []),
 ]
 MEDIA = {"reel_runner.py", "reel_story_runner.py", "story_runner.py", "buffer_carousel_runner.py",
          "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py", "ig_carousel_runner.py",
@@ -59,6 +60,11 @@ def main():
     if force:
         log("FORCE MODE — pushing the next queued item to every channel, bypassing time gates.")
     ok = fail = skip = 0
+    hp = os.path.join(ROOT, "content", "agent_health.json")
+    try:
+        health = __import__("json").load(open(hp))
+    except Exception:
+        health = {}
     for script, args in AGENTS:
         if light and script in MEDIA:
             skip += 1; continue
@@ -68,18 +74,23 @@ def main():
         a = list(args)
         if force and script in FORCE_OK and "--force" not in a:
             a.append("--force")
+        rc = None
         try:
             r = subprocess.run([sys.executable, p, *a], cwd=ROOT, timeout=900, capture_output=True, text=True)
+            rc = r.returncode
             tail = (r.stdout.strip().splitlines() or [""])[-1][:140]
-            log(f"{script}: rc={r.returncode} {tail}")
-            ok += 1 if r.returncode == 0 else 0
-            fail += 0 if r.returncode == 0 else 1
-            if r.returncode != 0 and r.stderr.strip():
+            log(f"{script}: rc={rc} {tail}")
+            ok += 1 if rc == 0 else 0
+            fail += 0 if rc == 0 else 1
+            if rc != 0 and r.stderr.strip():
                 log(f"   stderr: {r.stderr.strip().splitlines()[-1][:160]}")
         except subprocess.TimeoutExpired:
             fail += 1; log(f"{script}: TIMEOUT")
         except Exception as e:
             fail += 1; log(f"{script}: ERROR {str(e)[:140]}")
+        # per-agent consecutive-failure tracking (feeds health_alert.py)
+        health[script] = 0 if rc == 0 else health.get(script, 0) + 1
+    __import__("json").dump(health, open(hp, "w"), indent=2)
     log(f"run_all done — {ok} ok, {fail} failed, {skip} skipped")
 
 
