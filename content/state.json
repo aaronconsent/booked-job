@@ -1,18 +1,19 @@
 {
   "page_created": "2026-06-25",
   "posted": [
-    "course-slowseason",
-    "course-pricing",
     "course-angi",
+    "course-pricing",
+    "course-reviews",
     "podcast-launch",
-    "course-reviews"
+    "art-what-marketing",
+    "course-slowseason"
   ],
-  "last_post_iso": "2026-07-02T06:42:14",
+  "last_post_iso": "2026-07-02T19:17:06",
   "by_date": {
     "2026-06-25": 1,
     "2026-06-30": 2,
     "2026-07-01": 2,
-    "2026-07-02": 1
+    "2026-07-02": 2
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }

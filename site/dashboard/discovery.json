@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:16:11Z",
+  "updated": "2026-07-03T00:16:55Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,23 +78,23 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 29,
+        "uses": 23,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#contractor",
-        "uses": 18,
+        "uses": 16,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#hvac",
         "uses": 5,
         "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#contractors",
@@ -194,7 +194,7 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62103,
+      "followers": 62104,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
@@ -208,7 +208,7 @@
     {
       "handle": "@patriciarichardson.bsky.social",
       "display": "Patricia Richardson",
-      "followers": 31896,
+      "followers": 31898,
       "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
       "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15761,
+      "followers": 15776,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@crybringer.bsky.social",
       "display": "crybringer",
-      "followers": 4574,
+      "followers": 4575,
       "desc": "Contractor (Miss Monster, Skullgirls, etc.), commission artist, comic creator (small-press, online)  ⭐ https://patreon.c",
       "link": "https://bsky.app/profile/crybringer.bsky.social"
     },
