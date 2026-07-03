@@ -4,12 +4,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-07-02T17:18:00",
+    "last_iso": "2026-07-03T06:40:59",
     "day": {
-      "date": "2026-07-02",
-      "count": 3
+      "date": "2026-07-03",
+      "count": 1
     }
   },
   "tiktok": {
@@ -18,12 +19,13 @@
       "ad-pauls",
       "ad-summit",
       "clip-porno2",
-      "clip-porno3"
+      "clip-porno3",
+      "clip-speed"
     ],
-    "last_iso": "2026-07-02T19:18:23",
+    "last_iso": "2026-07-03T06:40:59",
     "day": {
-      "date": "2026-07-02",
-      "count": 4
+      "date": "2026-07-03",
+      "count": 1
     }
   },
   "linkedin": {
@@ -31,12 +33,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-speed"
+      "clip-speed",
+      "clip1-turd"
     ],
-    "last_iso": "2026-07-02T17:18:00",
+    "last_iso": "2026-07-03T06:40:59",
     "day": {
-      "date": "2026-07-02",
-      "count": 3
+      "date": "2026-07-03",
+      "count": 1
     }
   },
   "facebook": {
@@ -44,19 +47,20 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-07-02T17:18:00",
+    "last_iso": "2026-07-03T06:40:59",
     "day": {
-      "date": "2026-07-02",
-      "count": 3
+      "date": "2026-07-03",
+      "count": 1
     }
   },
   "pinterest": {
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "count": 0
     }
   },
@@ -65,22 +69,24 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-07-02T17:18:00",
+    "last_iso": "2026-07-03T06:40:59",
     "day": {
-      "date": "2026-07-02",
-      "count": 3
+      "date": "2026-07-03",
+      "count": 1
     }
   },
   "telegram": {
     "posted": [
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-07-02T09:37:31",
+    "last_iso": "2026-07-03T06:40:59",
     "day": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "count": 1
     }
   },
@@ -90,8 +96,8 @@
     ],
     "last_iso": "2026-07-02T05:53:13",
     "day": {
-      "date": "2026-07-02",
-      "count": 1
+      "date": "2026-07-03",
+      "count": 0
     }
   }
 }

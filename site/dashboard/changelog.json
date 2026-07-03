@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: White-Label Markup: Is Your Agency Reselling Offshore Work?"
+    },
+    {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T06:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T06:40",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published post: pricing pick two"
+    },
+    {
       "ts": "2026-07-03T03:22",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "GitHub Pages canonical-mirror LIVE at contractors.webhd.com (aged-domain subdomain) — first article mirrored, dofollow links home."
-    },
-    {
-      "ts": "2026-06-26T15:51",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T15:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Built the Google review machine: /review page + review-ask email (review_blast.py) + link-in-bio CTA. Ready once the Booked Job GBP is verified."
-    },
-    {
-      "ts": "2026-06-26T14:59",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Dashboard self-updating: agent list now auto-derived from launchd plists; added IG followers + email subscribers stats/goals."
-    },
-    {
-      "ts": "2026-06-26T14:08",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Instagram Reels connected (12th agent) — first IG Reel live on @bookedjob. Videos now fan out to FB Reels + YouTube Shorts + IG."
-    },
-    {
-      "ts": "2026-06-26T13:03",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Email list + automated newsletter live: capture endpoint + weekly Resend digest (first send verified)."
-    },
-    {
-      "ts": "2026-06-26T13:02",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
-    },
-    {
-      "ts": "2026-06-26T12:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Tumblr connected (channel 3/4) — first syndication + backlink posted to booked-job.tumblr.com."
-    },
-    {
-      "ts": "2026-06-26T12:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Tumblr (backlink): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
     }
   ]
 }

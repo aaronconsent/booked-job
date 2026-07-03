@@ -1828,5 +1828,19 @@
   "telegram": {
    "text": "Want more jobs without spending a dime more?\n\nAnswer faster.\n\nA fast reply makes you far more likely to win the job, and homeowners tend to hire the first pro to respond.\n\nSpeed is the cheapest ROI lever there is."
   }
+ },
+ "plumbers-337-google-reviews-map-pack": {
+  "threads": {
+   "text": "We scraped the plumbers ranking on Google Maps in Austin & Dallas. Median review count to make the map pack: 337 (Booked Job GBP scrape, 2026). Most shops have a fraction of that. You're not losing to a better plumber — you're losing to one with a longer review list. Ask on every job."
+  },
+  "bluesky": {
+   "text": "Plumbers: the median review count of shops ranking in the TX map pack is 337 (Booked Job scrape, 2026). Pull up your profile. Not close? You're not losing to a better plumber — you're losing to one who asked on every job. That's the whole fix."
+  },
+  "mastodon": {
+   "text": "We scraped top-ranked plumbers in TX metros. Median Google reviews to show up in the map pack: 337 (Booked Job GBP scrape, 2026). Roofing's bar was 144, electrical 64. Plumbing runs high because of job volume — which means every ticket is a review you're not asking for. Fix the cadence."
+  },
+  "telegram": {
+   "text": "The real bar to rank in the plumbing map pack: 337 Google reviews (median of TX shops on page 1 — Booked Job GBP scrape, 2026). 91% of people read reviews before hiring (BrightLocal). The gap isn't a wall, it's a cadence problem: text a review link after every single job."
+  }
  }
 }
