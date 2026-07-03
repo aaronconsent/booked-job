@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-03T03:22",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): White-Label Markup: Is Your Agency Reselling Offshore Work?"
+    },
+    {
+      "ts": "2026-07-03T03:22",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): The \"47 Errors\" SEO Audit Scam Contractors Fall For"
+    },
+    {
+      "ts": "2026-07-03T03:22",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
+      "ts": "2026-07-03T03:22",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: White-Label Markup: Is Your Agency Reselling Offshore Work?"
+    },
+    {
+      "ts": "2026-07-03T03:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: The \"47 Errors\" SEO Audit Scam Contractors Fall For"
+    },
+    {
+      "ts": "2026-07-03T03:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
+      "ts": "2026-07-03T03:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
+      "ts": "2026-07-03T03:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
       "ts": "2026-07-02T23:54",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to Tumblr (backlink): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T12:09",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Dropped the podcast channel (Spotify/Apple submission friction not worth it). Blogger syndication stays."
-    },
-    {
-      "ts": "2026-06-26T11:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Launched the Booked Job podcast (ElevenLabs audio + RSS, hosted on-site). Episode 1 'Is Angi Worth It?' live; submit feed to Spotify/Apple once."
-    },
-    {
-      "ts": "2026-06-26T11:48",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T11:25",
-      "kind": "strategy",
-      "icon": "🧭",
-      "text": "Dashboard now multi-channel: live YouTube stats (subs/views/Shorts) + YouTube goals, and the Strategy panel rebuilt to reflect the full FB + YouTube + SEO/AEO research-backed plan."
-    },
-    {
-      "ts": "2026-06-26T11:18",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: Is Angi Worth It for Contractors? The Real Cost Per Job"
-    },
-    {
-      "ts": "2026-06-26T10:41",
-      "kind": "build",
-      "icon": "🛠️",
-      "text": "Built the autonomous YouTube Shorts channel (faceless video -> Data API upload, Mon/Wed/Fri) -- our strongest AI-citation signal. Awaiting channel + OAuth connect."
-    },
-    {
-      "ts": "2026-06-26T08:19",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Launched SEO/AEO foundation: blog + 'Is Angi Worth It?' pillar with a True-Cost-of-an-Angi-Lead calculator, schema, robots/sitemap, and a contractor-story collector."
-    },
-    {
-      "ts": "2026-06-26T07:29",
-      "kind": "strategy",
-      "icon": "🧭",
-      "text": "Set Month-1 targets (reasoned, leading-indicator weighted) and took ownership of growth — recalibrating weekly."
     }
   ]
 }

@@ -32,13 +32,15 @@
       "slug": "lead-resellers-double-selling-same-lead-scam",
       "series": "Marketing SCAM",
       "go_live": "2026-07-03",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-03"
     },
     {
       "slug": "aged-leads-sold-as-exclusive-scam",
       "series": "Marketing SCAM",
       "go_live": "2026-07-03",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-03"
     },
     {
       "slug": "directory-listing-shakedown-scam",
@@ -106,7 +108,8 @@
       "slug": "respond-fast-land-more-jobs",
       "series": "Lead Sources",
       "go_live": "2026-07-03",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-03"
     },
     {
       "slug": "plumbers-337-google-reviews-map-pack",
