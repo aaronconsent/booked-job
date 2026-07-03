@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T11:40:09Z",
+  "updated": "2026-07-03T14:29:01Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -122,14 +122,14 @@
         "link": "https://mastodon.social/tags/hvacdrives"
       },
       {
-        "tag": "#HVACsystems",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACsystems"
-      },
-      {
         "tag": "#hvacproject",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacproject"
+      },
+      {
+        "tag": "#HVACsystems",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACsystems"
       },
       {
         "tag": "#PlumbingLambeth",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22927,
+        "followers": 22928,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -208,7 +208,7 @@
     {
       "handle": "@patriciarichardson.bsky.social",
       "display": "Patricia Richardson",
-      "followers": 31897,
+      "followers": 31896,
       "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
       "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15873,
+      "followers": 15897,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
     {
       "handle": "@trevorrowdyreed.bsky.social",
       "display": "Trevor Rowdy Reed",
-      "followers": 14585,
+      "followers": 14586,
       "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
       "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
     },

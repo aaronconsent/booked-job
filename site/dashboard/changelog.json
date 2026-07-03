@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-03T09:41",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: Stop Renting Your Leads (Angi, Thumbtack, HomeAdvisor)"
+    },
+    {
+      "ts": "2026-07-03T09:41",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T09:41",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: The True Cost of Hiring a Marketing Agency (Contractors)"
+    },
+    {
+      "ts": "2026-07-03T09:41",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T09:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Fake Google Maps Listings: The Phantom Competitor Scam"
+    },
+    {
+      "ts": "2026-07-03T09:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: The True Cost of Hiring a Marketing Agency (Contractors)"
+    },
+    {
+      "ts": "2026-07-03T09:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): The True Cost of Hiring a Marketing Agency (Contractors)"
+    },
+    {
+      "ts": "2026-07-03T09:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: The True Cost of Hiring a Marketing Agency (Contractors)"
+    },
+    {
       "ts": "2026-07-03T06:42",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Connected Telegram (channel @bookedjobrobot bot → 'bookedjob' channel); first article posted."
-    },
-    {
-      "ts": "2026-06-26T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T17:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Pinterest (backlink): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T17:17",
-      "kind": "blog",
-      "icon": "•",
-      "text": "Published 3 new articles (pricing, Google reviews, slow season) — feed now 4 items for LinkedIn importer."
-    },
-    {
-      "ts": "2026-06-26T16:39",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Connected Telegraph + Bluesky + Mastodon syndication (3 more surfaces); added rel=me Mastodon verification link."
-    },
-    {
-      "ts": "2026-06-26T16:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T16:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T16:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T16:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "GitHub Pages canonical-mirror LIVE at contractors.webhd.com (aged-domain subdomain) — first article mirrored, dofollow links home."
     }
   ]
 }
