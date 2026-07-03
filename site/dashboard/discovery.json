@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:21:08Z",
+  "updated": "2026-07-03T20:20:53Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 26,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -98,8 +98,23 @@
       },
       {
         "tag": "#contractors",
-        "uses": 1,
+        "uses": 2,
         "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#Hvacousticpetpanels",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
+      },
+      {
+        "tag": "#hvacousticpolypanels",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticpolypanels"
+      },
+      {
+        "tag": "#hvacousticpolyboards",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticpolyboards"
       },
       {
         "tag": "#ContractorDefinitions",
@@ -117,21 +132,6 @@
         "link": "https://mastodon.social/tags/hvacunits"
       },
       {
-        "tag": "#hvacdrives",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacdrives"
-      },
-      {
-        "tag": "#hvacproject",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacproject"
-      },
-      {
-        "tag": "#HVACsystems",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACsystems"
-      },
-      {
         "tag": "#PlumbingLambeth",
         "uses": 0,
         "link": "https://mastodon.social/tags/PlumbingLambeth"
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 464861,
+        "followers": 464925,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -150,12 +150,12 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35580,
+        "followers": 35581,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22929,
+        "followers": 22930,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62106,
+      "followers": 62105,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15920,
+      "followers": 15923,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
     {
       "handle": "@trevorrowdyreed.bsky.social",
       "display": "Trevor Rowdy Reed",
-      "followers": 14586,
+      "followers": 14587,
       "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
       "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
     },
