@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:16",
+  "updated": "2026-07-02T23:52",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,15 +25,15 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 6,
+        "current": 7,
         "target": 90,
-        "pct": 7,
+        "pct": 8,
         "on_track": true
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 7612,
+        "current": 8205,
         "target": 6000,
         "pct": 100,
         "on_track": true
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 11,
+        "current": 12,
         "target": 800,
-        "pct": 1,
+        "pct": 2,
         "on_track": false
       },
       {
@@ -115,8 +115,8 @@
       "date": "2026-07-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Most contractors think 'marketing' is a logo and a boosted p",
-      "sub": "course promo"
+      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-07",
@@ -129,22 +129,22 @@
       "date": "2026-07-08",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
-      "sub": "pricing drama"
+      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Your $35 lead isn't $35. Once you count the ones that never ",
-      "sub": "course promo"
+      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every shop has had this exact conversation. \ud83e\udd1d",
-      "sub": "pricing drama"
+      "title": "Customers find you through 5 doors. If one lead app is most ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
@@ -157,15 +157,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Customers find you through 5 doors. If one lead app is most ",
-      "sub": "course promo"
+      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
-      "sub": "pricing drama"
+      "title": "There are 3 free spots at the top of every local search. You",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
@@ -178,15 +178,15 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "There are 3 free spots at the top of every local search. You",
-      "sub": "course promo"
+      "title": "What's the worst \u201cthe last guy did it\u201d job you've walked int",
+      "sub": "hack job"
     },
     {
       "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "What's the worst \u201cthe last guy did it\u201d job you've walked int",
-      "sub": "hack job"
+      "title": "98% of people leave a contractor website without calling. It",
+      "sub": "course promo"
     }
   ],
   "page": {
@@ -195,21 +195,21 @@
     "likes": 0
   },
   "content": {
-    "posts_published": 6,
+    "posts_published": 7,
     "reactions": 0,
-    "comments": 11,
+    "comments": 12,
     "shares": 0,
     "reels_published": 5,
-    "posts_remaining": 94,
+    "posts_remaining": 93,
     "reels_remaining": 14
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "5.81",
-    "impressions": 7633,
-    "reach": 5239,
-    "video_views": 7612
+    "spend": "12.85",
+    "impressions": 8241,
+    "reach": 5649,
+    "video_views": 8205
   },
   "youtube": {
     "connected": true,
@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 14,
+      "count": 15,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 118,
+      "views": 122,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 20,
+      "count": 21,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 20,
+      "count": 21,
       "unit": "posts",
       "followers": 6,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 18,
+      "count": 19,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 19,
+      "count": 20,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 20,
+      "count": 21,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 20,
+      "count": 21,
       "unit": "mirrors",
       "grade": "C",
       "group": "content"
@@ -559,7 +559,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 20,
+      "count": 21,
       "unit": "posts (Buffer)",
       "stat": "166 reach \u00b7 1 reactions",
       "views": 0,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 30,
+      "count": 31,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -603,7 +603,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Carousels",
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -694,7 +694,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Documents",
@@ -723,7 +723,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 30
+        "count": 31
       },
       {
         "type": "Video pins",
@@ -735,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 20
+        "count": 21
       },
       {
         "type": "Video",
@@ -744,21 +744,6 @@
       }
     ],
     "Mastodon": [
-      {
-        "type": "Posts",
-        "status": "live",
-        "count": 18
-      },
-      {
-        "type": "Video",
-        "status": "gap"
-      },
-      {
-        "type": "Polls",
-        "status": "gap"
-      }
-    ],
-    "Threads": [
       {
         "type": "Posts",
         "status": "live",
@@ -773,16 +758,31 @@
         "status": "gap"
       }
     ],
-    "Telegram": [
+    "Threads": [
       {
         "type": "Posts",
         "status": "live",
         "count": 20
       },
       {
+        "type": "Video",
+        "status": "gap"
+      },
+      {
+        "type": "Polls",
+        "status": "gap"
+      }
+    ],
+    "Telegram": [
+      {
+        "type": "Posts",
+        "status": "live",
+        "count": 21
+      },
+      {
         "type": "Polls",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Video",
@@ -806,9 +806,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 94,
+      "remaining": 93,
       "per_day": 2,
-      "days": 47.0,
+      "days": 46.5,
       "status": "green"
     },
     {
@@ -841,8 +841,8 @@
     }
   ],
   "funnel": {
-    "reach": 13609,
-    "engagement": 11,
+    "reach": 14620,
+    "engagement": 12,
     "audience": 13,
     "cr_clicks": 8
   },
@@ -856,7 +856,7 @@
     "metrics": [
       {
         "label": "Total Views",
-        "value": 7702,
+        "value": 8295,
         "grade": "B"
       },
       {
@@ -866,12 +866,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 287,
+        "value": 296,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 12872,
+        "value": 13890,
         "grade": "B"
       },
       {
@@ -881,11 +881,11 @@
       },
       {
         "label": "Engagement",
-        "value": 11,
+        "value": 12,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 287 posts, 13 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 296 posts, 13 audience, 8 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
