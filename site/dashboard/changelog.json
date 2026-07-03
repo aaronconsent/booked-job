@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "ts": "2026-07-03T11:57",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: How to Spend Your First $10K in Marketing as a Contractor"
+    },
+    {
+      "ts": "2026-07-03T11:57",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: The True Cost of Hiring a Marketing Agency (Contractors)"
+    },
+    {
+      "ts": "2026-07-03T11:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: The Free Marketing Demo That Turns Into a Surprise Bill"
+    },
+    {
+      "ts": "2026-07-03T11:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: How to Spend Your First $10K in Marketing as a Contractor"
+    },
+    {
+      "ts": "2026-07-03T11:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): How to Spend Your First $10K in Marketing as a Contractor"
+    },
+    {
+      "ts": "2026-07-03T11:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: How to Spend Your First $10K in Marketing as a Contractor"
+    },
+    {
+      "ts": "2026-07-03T11:54",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published Reel: The cheapest bid costs the most"
+    },
+    {
       "ts": "2026-07-03T09:41",
       "kind": "reel",
       "icon": "🎬",
@@ -1157,48 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "TikTok LIVE via Buffer (video posting) — both Buffer channels publishing; first video queued."
-    },
-    {
-      "ts": "2026-06-27T09:30",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to TikTok (Buffer): is-angi-worth-it"
-    },
-    {
-      "ts": "2026-06-27T08:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "LinkedIn LIVE via Buffer (interim); TikTok connected — Buffer GraphQL API integrated."
-    },
-    {
-      "ts": "2026-06-27T08:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-27T05:28",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "YouTube auto-CTA LIVE (force-ssl scope added) — CTA comments driving to booked-job.com on every video."
-    },
-    {
-      "ts": "2026-06-26T18:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Connected Threads (@bookedjob) + Telegram — both live; Threads token auto-refreshes."
-    },
-    {
-      "ts": "2026-06-26T18:42",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Is Angi Worth It for Contractors? The Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-06-26T18:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Connected Telegram (channel @bookedjobrobot bot → 'bookedjob' channel); first article posted."
     }
   ]
 }
