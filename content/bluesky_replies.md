@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ucghawaii.bsky.social**: What does it take to bring a build to life? 🛠️✨
+
+Welcome to United Construction Group (UCG). As a premier Design-Build general contractor, we manage your project from concept to final walk-through—han
+  → https://bsky.app/profile/ucghawaii.bsky.social/post/3mpriaqxglg25
+
+- **@taos575.bsky.social**: That is absolutely the definition of skimming off the top. Since when has Trump become a licensed general contractor in DC? This entire Trump regime and crime family is robbing the taxpayers in ways u
+  → https://bsky.app/profile/taos575.bsky.social/post/3mpribejfks24
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -174,12 +182,3 @@ He wasn’t a plumber, didn’t own a business & wasn’t a m
 
 https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
   → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
-
-- **@localgrowth.bsky.social**: 1/3
-Keyword-stuffing your business name? Cute idea. Bad clicks.
-
-1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
-  → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
-
-- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
-  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz

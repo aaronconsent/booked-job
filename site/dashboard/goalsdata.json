@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T23:48",
+  "generated": "2026-07-04T03:01",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 4,
+        "current": 3,
         "target": 2,
         "status": "green",
         "needs": null
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 73,
+        "current": 9,
         "target": 22,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -43,7 +43,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 581,
+        "current": 641,
         "target": 40,
         "status": "green",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3305,
+        "current": 3008,
         "target": 300,
         "status": "green",
         "needs": null
@@ -137,7 +137,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 10,
+        "current": 13,
         "target": 60,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 208,
+        "current": 217,
         "target": 600,
         "status": "green",
         "needs": null
@@ -159,7 +159,7 @@
         "label": "Reels",
         "current": 4,
         "target": 30,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 4,
+        "current": 3,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 2323,
+        "current": 2390,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -215,15 +215,15 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 95,
+    "fb_ig_posts": 98,
     "reels": 13,
-    "staged_articles": 14
+    "staged_articles": 11
   },
   "counters": {
-    "articles": 72,
+    "articles": 75,
     "reels": 6,
-    "social_posts": 270,
-    "followers": 9,
+    "social_posts": 279,
+    "followers": 8,
     "engagement": 13,
     "yt_views": 94,
     "yt_shorts": 14,

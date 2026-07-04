@@ -46,13 +46,15 @@
       "slug": "directory-listing-shakedown-scam",
       "series": "Marketing SCAM",
       "go_live": "2026-07-04",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-04"
     },
     {
       "slug": "best-leads-for-hvac-contractors",
       "series": "Should You Buy Leads",
       "go_live": "2026-07-04",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-04"
     },
     {
       "slug": "best-leads-for-plumbers",
@@ -122,7 +124,8 @@
       "slug": "hvac-map-pack-519-reviews",
       "series": "Local SEO",
       "go_live": "2026-07-04",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-04"
     },
     {
       "slug": "shared-leads-vs-direct-call-conversion-math",
