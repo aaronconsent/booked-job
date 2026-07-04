@@ -1908,5 +1908,19 @@
   "telegram": {
    "text": "<b>HVAC's brutal Map Pack math:</b> the median contractor ranking on Google Maps has <b>519 reviews</b> (Booked Job GBP scrape, 2026, TX metros). Half the ranked field has more. That's 8x electrical's 64 — the hardest trade to crack. No shortcut: ask every customer, every job. https://booked-job.com/blog/hvac-map-pack-519-reviews/"
   }
+ },
+ "shared-leads-vs-direct-call-conversion-math": {
+  "threads": {
+   "text": "Shared leads convert at 6-10%. A direct call converts at up to 40% (2026 lead-network data). The gap isn't your sales skill — it's that Angi/Thumbtack sold the same lead to 4-12 other pros. You're racing a crowd for one phone number. Buy exclusive, build owned."
+  },
+  "bluesky": {
+   "text": "Shared leads: 6-10% close. Organic: 18-24%. Direct call: up to 40% (2026 lead-network data). You're racing 4-12 pros for the same homeowner on shared leads. 78% hire whoever answers first (Lead Connect 2026). Owned channels convert far better. Do the math."
+  },
+  "mastodon": {
+   "text": "Shared leads from Angi/Thumbtack convert at just 6-10%. Organic at 18-24%. A direct call at up to 40% (2026 lead-network data). The reason: shared leads are sold to 4-12 pros, so you're racing a crowd for one call. Cost per booked job — LSA ~$168, Thumbtack ~$250, Angi ~$542 (2026). Buy exclusive. Build owned."
+  },
+  "telegram": {
+   "text": "Shared leads convert at 6-10%. A direct call converts at up to 40%.\n\n2026 lead-network data: shared 6-10% / organic 18-24% / direct up to 40%. You lose on shared leads because they're sold to 4-12 pros — you're racing a crowd for one phone number.\n\nCost per BOOKED job: LSA ~$168, Thumbtack ~$250, Angi/HomeAdvisor ~$542 (2026).\n\nBuy exclusive. Build owned.\n\nhttps://booked-job.com/blog/shared-leads-vs-direct-call-conversion-math/"
+  }
  }
 }

@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @ucghawaii.bsky.social: “What does it take to bring a build to life? 🛠️✨  Welcome to United Construction Group (UCG…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/ucghawaii.bsky.social/post/3mpriaqxglg25",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @taos575.bsky.social: “That is absolutely the definition of skimming off the top. Since when has Trump become a l…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/taos575.bsky.social/post/3mpribejfks24",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @lordboise.bsky.social: “Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualifie…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @attorneysmedia.bsky.social: “🌟 **Navigating Contractor Agreements: Protect Your Business Today!** 🌟  Are you a Dallas m…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @texascontractorseo.bsky.social: “1. Since partnering with Texas Contractor SEO, our Houston pool construction leads have do…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/texascontractorseo.bsky.social/post/3mnt42rvbud2r",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @apfy.bsky.social: “Bidding a project? Verify subcontractor licenses first. Expired license = failed inspectio…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @darryl-grahamii.bsky.social: “A Phoenix contractor got 11 leads in a month from ChatGPT recommendations. No ads. He just…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mowgjv7n5m26",
       "est": "2 min"
     }
   ],
