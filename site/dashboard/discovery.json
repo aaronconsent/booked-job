@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T00:15:17Z",
+  "updated": "2026-07-04T04:44:42Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -95,6 +95,11 @@
         "tag": "#plumbing",
         "uses": 4,
         "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#Hvacousticpetpanels",
@@ -127,14 +132,9 @@
         "link": "https://mastodon.social/tags/ContractorDefinitions"
       },
       {
-        "tag": "#handyman",
+        "tag": "#contractortracker",
         "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#hvacunits",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacunits"
+        "link": "https://mastodon.social/tags/contractortracker"
       }
     ],
     "accounts": [
@@ -201,35 +201,35 @@
     {
       "handle": "@cnice59.bsky.social",
       "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35238,
+      "followers": 35237,
       "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
     {
       "handle": "@patriciarichardson.bsky.social",
       "display": "Patricia Richardson",
-      "followers": 31896,
+      "followers": 31895,
       "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
       "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
     },
     {
       "handle": "@briney.org",
       "display": "Patrick Briney 🔵🌊🌊🌊",
-      "followers": 30200,
+      "followers": 30199,
       "desc": "I reside in Texas. I'm a dry-humor kind of guy, an optimist. Married, dog lover, handyman, and love classic cars. Most i",
       "link": "https://bsky.app/profile/briney.org"
     },
     {
       "handle": "@lleweyb63.bsky.social",
       "display": "Brian",
-      "followers": 23193,
+      "followers": 23192,
       "desc": "#VoteBlue, resister! Started here on 11/7/24. Ended twitter 11/13/24  🚫NO PORN, WILL BLOCK!!🚫DM’s.  #BlueCrew 🌊  Living ",
       "link": "https://bsky.app/profile/lleweyb63.bsky.social"
     },
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 15961,
+      "followers": 15999,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@plumergolf.bsky.social",
       "display": "MD 🇺🇦🇺🇸🇨🇦",
-      "followers": 14335,
+      "followers": 14334,
       "desc": "🚫DM’s  Calm, collected, confident, man.  Plumber that always  accomplish’s quality, professional plumbing. A golf profes",
       "link": "https://bsky.app/profile/plumergolf.bsky.social"
     },
