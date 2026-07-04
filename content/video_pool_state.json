@@ -7,12 +7,13 @@
       "clip-porno2",
       "clip-porno3",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip2-game"
     ],
-    "last_iso": "2026-07-03T17:15:53",
+    "last_iso": "2026-07-04T07:15:09",
     "day": {
-      "date": "2026-07-03",
-      "count": 3
+      "date": "2026-07-04",
+      "count": 1
     }
   },
   "tiktok": {
@@ -25,12 +26,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-07-03T19:16:46",
+    "last_iso": "2026-07-04T07:15:09",
     "day": {
-      "date": "2026-07-03",
-      "count": 4
+      "date": "2026-07-04",
+      "count": 1
     }
   },
   "linkedin": {
@@ -41,12 +43,13 @@
       "clip-speed",
       "clip1-turd",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-07-03T17:15:53",
+    "last_iso": "2026-07-04T07:15:09",
     "day": {
-      "date": "2026-07-03",
-      "count": 3
+      "date": "2026-07-04",
+      "count": 1
     }
   },
   "facebook": {
@@ -57,19 +60,20 @@
       "clip-porno2",
       "clip-porno3",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip2-game"
     ],
-    "last_iso": "2026-07-03T17:15:53",
+    "last_iso": "2026-07-04T07:15:09",
     "day": {
-      "date": "2026-07-03",
-      "count": 3
+      "date": "2026-07-04",
+      "count": 1
     }
   },
   "pinterest": {
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "count": 0
     }
   },
@@ -81,23 +85,25 @@
       "clip-porno2",
       "clip-porno3",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip2-game"
     ],
-    "last_iso": "2026-07-03T17:15:53",
+    "last_iso": "2026-07-04T07:15:09",
     "day": {
-      "date": "2026-07-03",
-      "count": 3
+      "date": "2026-07-04",
+      "count": 1
     }
   },
   "telegram": {
     "posted": [
       "ad-arctic",
       "ad-pauls",
-      "ad-summit"
+      "ad-summit",
+      "clip-porno2"
     ],
-    "last_iso": "2026-07-03T06:40:59",
+    "last_iso": "2026-07-04T07:15:09",
     "day": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "count": 1
     }
   },
@@ -107,7 +113,7 @@
     ],
     "last_iso": "2026-07-02T05:53:13",
     "day": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "count": 0
     }
   }
