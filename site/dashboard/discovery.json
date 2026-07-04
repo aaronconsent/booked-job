@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T20:15:01Z",
+  "updated": "2026-07-04T22:07:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 464926,
+        "followers": 464943,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22935,
+        "followers": 22934,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 726,
+        "followers": 727,
         "link": "https://mastodon.social/@Noshir"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62110,
+      "followers": 62109,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
     {
       "handle": "@cnice59.bsky.social",
       "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35238,
+      "followers": 35239,
       "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@briney.org",
       "display": "Patrick Briney 🔵🌊🌊🌊",
-      "followers": 30199,
+      "followers": 30198,
       "desc": "I reside in Texas. I'm a dry-humor kind of guy, an optimist. Married, dog lover, handyman, and love classic cars. Most i",
       "link": "https://bsky.app/profile/briney.org"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16081,
+      "followers": 16090,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
