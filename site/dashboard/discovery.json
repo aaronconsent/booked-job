@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T19:39:16Z",
+  "updated": "2026-07-05T21:15:09Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#handyman",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
         "tag": "#Hvacousticpetpanels",
         "uses": 1,
         "link": "https://mastodon.social/tags/Hvacousticpetpanels"
@@ -130,17 +135,12 @@
         "tag": "#ContractorDefinitions",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorDefinitions"
-      },
-      {
-        "tag": "#contractortracker",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractortracker"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 464943,
+        "followers": 464944,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 727,
+        "followers": 728,
         "link": "https://mastodon.social/@Noshir"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62109,
+      "followers": 62110,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16193,
+      "followers": 16209,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
