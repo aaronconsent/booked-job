@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-07-05T10:36",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: Your First Meta Ad: When Facebook Beats Google for Contractors (and When It Doesn't)"
+    },
+    {
+      "ts": "2026-07-05T10:36",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
+    },
+    {
+      "ts": "2026-07-05T10:36",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: First 30 Days, Almost No Money: A Contractor's Warm-Up Plan"
+    },
+    {
+      "ts": "2026-07-05T10:36",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: Your First Meta Ad: When Facebook Beats Google for Contractors (and When It Doesn't)"
+    },
+    {
+      "ts": "2026-07-05T10:36",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): Your First Meta Ad: When Facebook Beats Google for Contractors (and When It Doesn't)"
+    },
+    {
+      "ts": "2026-07-05T10:36",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Your First Meta Ad: When Facebook Beats Google for Contractors (and When It Doesn't)"
+    },
+    {
       "ts": "2026-07-05T09:15",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Threads: Google Local Services Ads: The Better Lead Math"
-    },
-    {
-      "ts": "2026-07-02T13:55",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Contractor Referrals & Repeat Customers: Your Cheapest Marketing"
-    },
-    {
-      "ts": "2026-07-02T13:55",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: The \"I Audited Your Site\" Cold Pitch: A Contractor Scam Tell"
-    },
-    {
-      "ts": "2026-07-02T13:55",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): The \"I Audited Your Site\" Cold Pitch: A Contractor Scam Tell"
-    },
-    {
-      "ts": "2026-07-02T13:55",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: The \"I Audited Your Site\" Cold Pitch: A Contractor Scam Tell"
-    },
-    {
-      "ts": "2026-07-02T13:54",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: The one-star that started a podcast"
-    },
-    {
-      "ts": "2026-07-02T12:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Google Local Services Ads: The Better Lead Math"
     }
   ]
 }
