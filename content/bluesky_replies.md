@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@olduktvlistings.bsky.social**: 29/06/1959 Radio Times: Featuring Star Ballroom Championships; The Ted Heath Show; Shadow of a Pale Horse; Wilfred Pickles and Daphne Anderson in 'Value for Money'; The Archers; Summer Holidays and mo
+  → https://bsky.app/profile/olduktvlistings.bsky.social/post/3mpfwo63bld2a
+
+- **@coastalkeys.bsky.social**: 1. Do you provide mobile locksmith service?
+
+Yes! Coastal Keys Locksmith LLC is a fully mobile locksmith. We come directly to your home, business, or vehicle throughout Panama City, Panama City Beach,
+  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mpqe3lndlu2f
+
+- **@papillonjaune77.bsky.social**: Conducting business while the Senate is I'm recess?? Just retire and go home. These ppl hang on to their seats until the last breath. This is not public service. As if he hasn't done enough damage dur
+  → https://bsky.app/profile/papillonjaune77.bsky.social/post/3mpqesruulk2r
+
 - **@quemirasbobo.bsky.social**: Because it’s their belief that immigrants “take” from them
 
 Not a good analogy but remember Joe the Plumber who railed about taxes on the rich?
@@ -188,16 +199,3 @@ As a small business owner (in Vancouver so you don’t have to pretend to care) 
 
 - **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
   → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@apfy.bsky.social**: Expanding home services? The real competitor is the licensing board. Pull verified contractor data across CA, FL, TX, NY. 37 of 38 runs succeeded this month. Pay Per Result.
-
-https://apify.com/sleek_w
-  → https://bsky.app/profile/apfy.bsky.social/post/3mnkpv74akr2a
-
-- **@apfy.bsky.social**: License expired mid-project? Compliance disaster. This pulls license status, bond info, and expiry dates from state boards — catch lapses before they cost you. 168 runs. Pay Per Result.
-
-https://apify
-  → https://bsky.app/profile/apfy.bsky.social/post/3mnpqvy6ysg2h
-
-- **@jaimi.bsky.social**: The genocide praise goes along with the tattoo, and his serial lying about it, and the Blackwater love before he joined their latest rebrand. Why are you cool with war crimes & genocide? And being lie
-  → https://bsky.app/profile/jaimi.bsky.social/post/3mnqwdzo7cc27
