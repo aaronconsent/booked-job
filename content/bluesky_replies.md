@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mcrcommcentral.bsky.social**: Drum roll please... 🥁
+
+We're announcing our Spirit of Manchester 2026 shortlist! 🌟
+
+Congrats to all shortlisted this year! We can't wait to celebrate at our Awards night on 1 October 2026 🎉
+
+Want to f
+  → https://bsky.app/profile/mcrcommcentral.bsky.social/post/3mox5ex7zif2l
+
 - **@olduktvlistings.bsky.social**: 29/06/1959 Radio Times: Featuring Star Ballroom Championships; The Ted Heath Show; Shadow of a Pale Horse; Wilfred Pickles and Daphne Anderson in 'Value for Money'; The Archers; Summer Holidays and mo
   → https://bsky.app/profile/olduktvlistings.bsky.social/post/3mpfwo63bld2a
 
@@ -196,6 +205,3 @@ As a small business owner (in Vancouver so you don’t have to pretend to care) 
 
 - **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
   → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k

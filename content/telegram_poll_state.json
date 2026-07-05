@@ -1,14 +1,15 @@
 {
   "done": [
-    "speed-window",
-    "markup-margin",
-    "judge-first",
-    "review-timing",
     "cheaper-job",
-    "website-leave",
+    "review-timing",
     "slow-season",
-    "angi-leads",
+    "judge-first",
+    "ai-search",
+    "markup-margin",
+    "website-leave",
     "unpaid-invoices",
-    "map-pack"
+    "map-pack",
+    "speed-window",
+    "angi-leads"
   ]
 }

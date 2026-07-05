@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T06:10",
+  "updated": "2026-07-05T09:02",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 7,
+        "current": 8,
         "target": 30,
-        "pct": 23,
+        "pct": 27,
         "on_track": true
       },
       {
@@ -25,15 +25,15 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 11,
+        "current": 12,
         "target": 90,
-        "pct": 12,
+        "pct": 13,
         "on_track": false
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 10550,
+        "current": 10595,
         "target": 6000,
         "pct": 100,
         "on_track": true
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 18,
+        "current": 21,
         "target": 800,
-        "pct": 2,
+        "pct": 3,
         "on_track": false
       },
       {
@@ -57,9 +57,9 @@
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 2,
+        "current": 3,
         "target": 400,
-        "pct": 0,
+        "pct": 1,
         "on_track": false
       },
       {
@@ -89,7 +89,7 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 2,
+        "current": 3,
         "target": 300,
         "pct": 1,
         "on_track": false
@@ -108,32 +108,25 @@
       "date": "2026-07-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Cheap work isn't cheap. It's just paid for twice. Seen it?",
-      "sub": "pricing drama"
+      "title": "There are 3 free spots at the top of every local search. You",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-07",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Slow season starts in summer",
+      "title": "The 5-minute favor that isn't",
       "sub": "Reel"
     },
     {
       "date": "2026-07-08",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "There are 3 free spots at the top of every local search. You",
-      "sub": "course promo"
-    },
-    {
-      "date": "2026-07-09",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "What's the worst \u201cthe last guy did it\u201d job you've walked int",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-10",
+      "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "98% of people leave a contractor website without calling. It",
@@ -141,20 +134,20 @@
     },
     {
       "date": "2026-07-10",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "The 5-minute favor that isn't",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Found behind the drywall this week: a garden hose doing a P-",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-10",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The spite ad that opens the show",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Before a customer ever hears your voice, they've judged you ",
@@ -162,54 +155,61 @@
     },
     {
       "date": "2026-07-14",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "The spite ad that opens the show",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Drop the runner-up below. \ud83d\udc47",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-07-14",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Answer your phone",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Should you pay for leads? Sometimes gold (LSA), sometimes a ",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-17",
+      "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
       "sub": "homeowner says"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Most contractors who 'tried Google Ads' just never answered ",
+      "sub": "course promo"
     }
   ],
   "page": {
     "name": "Booked Job",
-    "followers": 2,
-    "likes": 2
+    "followers": 3,
+    "likes": 3
   },
   "content": {
-    "posts_published": 11,
-    "reactions": 4,
+    "posts_published": 12,
+    "reactions": 7,
     "comments": 14,
     "shares": 0,
-    "reels_published": 7,
-    "posts_remaining": 101,
-    "reels_remaining": 12
+    "reels_published": 8,
+    "posts_remaining": 100,
+    "reels_remaining": 11
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "37.43",
-    "impressions": 10606,
-    "reach": 7502,
-    "video_views": 10550
+    "spend": "37.88",
+    "impressions": 10644,
+    "reach": 7565,
+    "video_views": 10595
   },
   "youtube": {
     "connected": true,
@@ -221,7 +221,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 18
+    "media": 19
   },
   "email": {
     "subscribers": 5
@@ -452,22 +452,22 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 21,
+      "count": 23,
       "unit": "posts",
       "grade": "C",
       "group": "social",
       "views": 776,
-      "followers": 2,
-      "likes": 4
+      "followers": 3,
+      "likes": 7
     },
     {
       "name": "Instagram",
       "status": "live",
-      "count": 12,
+      "count": 13,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 359,
+      "views": 387,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
       "followers": 5,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 39,
+      "count": 40,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 41,
+      "count": 42,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "mirrors",
       "grade": "C",
       "group": "content"
@@ -559,7 +559,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 39,
+      "count": 40,
       "unit": "posts (Buffer)",
       "stat": "256 reach \u00b7 2 reactions",
       "views": 0,
@@ -570,7 +570,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 16,
+      "count": 17,
       "unit": "videos (Buffer)",
       "stat": "2011 views \u00b7 13 reactions",
       "views": 2011,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 51,
+      "count": 52,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -603,7 +603,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Carousels",
@@ -613,12 +613,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -643,12 +643,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -674,7 +674,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 12
+        "count": 13
       },
       {
         "type": "Photo carousels",
@@ -694,7 +694,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 38
+        "count": 39
       },
       {
         "type": "Documents",
@@ -704,7 +704,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Articles",
@@ -723,7 +723,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Video pins",
@@ -735,19 +735,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 10
+        "count": 11
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 39
+        "count": 40
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Video",
@@ -777,17 +777,17 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Polls",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 4
+        "count": 5
       }
     ],
     "Tumblr": [
@@ -806,16 +806,16 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 101,
+      "remaining": 100,
       "per_day": 2,
-      "days": 50.5,
+      "days": 50.0,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 12,
+      "remaining": 11,
       "per_day": 1,
-      "days": 12.0,
+      "days": 11.0,
       "status": "green"
     },
     {
@@ -841,22 +841,22 @@
     }
   ],
   "funnel": {
-    "reach": 21629,
-    "engagement": 18,
-    "audience": 14,
+    "reach": 21791,
+    "engagement": 21,
+    "audience": 15,
     "cr_clicks": 10
   },
   "trends": {
-    "audience": 5,
-    "engagement": 16,
+    "audience": 6,
+    "engagement": 19,
     "email": 0,
-    "reach": 21629
+    "reach": 21791
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 10644,
+        "value": 10689,
         "grade": "B"
       },
       {
@@ -866,26 +866,26 @@
       },
       {
         "label": "Total Posts",
-        "value": 484,
+        "value": 496,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 18108,
+        "value": 18209,
         "grade": "B"
       },
       {
         "label": "Audience Size",
-        "value": 14,
+        "value": 15,
         "grade": "D"
       },
       {
         "label": "Engagement",
-        "value": 18,
+        "value": 21,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 484 posts, 14 audience, 10 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 496 posts, 15 audience, 10 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

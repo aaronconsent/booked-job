@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-05T09:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to TikTok (Buffer): slow-season"
+    },
+    {
+      "ts": "2026-07-05T09:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): Contractor Social Media Setup: Which Accounts Actually Matter"
+    },
+    {
+      "ts": "2026-07-05T09:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
+    },
+    {
+      "ts": "2026-07-05T09:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
+    },
+    {
+      "ts": "2026-07-05T09:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: How to Get Your First 50 Reviews Fast (Exact Texts + Timing)"
+    },
+    {
+      "ts": "2026-07-05T09:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
+    },
+    {
+      "ts": "2026-07-05T09:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
+    },
+    {
+      "ts": "2026-07-05T09:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
+    },
+    {
       "ts": "2026-07-05T06:14",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Telegram: Google Local Services Ads: The Better Lead Math"
-    },
-    {
-      "ts": "2026-07-02T12:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Contractor Referrals & Repeat Customers: Your Cheapest Marketing"
-    },
-    {
-      "ts": "2026-07-02T12:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Speed to Lead for Contractors: Why You're Losing Jobs You Already Paid For"
-    },
-    {
-      "ts": "2026-07-02T12:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Google Local Services Ads: The Better Lead Math"
-    },
-    {
-      "ts": "2026-07-02T12:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Google Local Services Ads: The Better Lead Math"
-    },
-    {
-      "ts": "2026-07-02T12:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Google Local Services Ads: The Better Lead Math"
-    },
-    {
-      "ts": "2026-07-02T09:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Contractor Referrals & Repeat Customers: Your Cheapest Marketing"
-    },
-    {
-      "ts": "2026-07-02T09:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Speed to Lead for Contractors: Why You're Losing Jobs You Already Paid For"
-    },
-    {
-      "ts": "2026-07-02T09:37",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: The Contractor Marketing Scorecard: 5 Numbers to Track Monthly"
     }
   ]
 }
