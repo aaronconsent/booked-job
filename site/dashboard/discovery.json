@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T17:23:38Z",
+  "updated": "2026-07-05T19:39:16Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -117,6 +117,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#RoofingClub",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/RoofingClub"
+      },
+      {
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
@@ -130,11 +135,6 @@
         "tag": "#contractortracker",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractortracker"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
       }
     ],
     "accounts": [
@@ -201,7 +201,7 @@
     {
       "handle": "@cnice59.bsky.social",
       "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35240,
+      "followers": 35241,
       "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16184,
+      "followers": 16193,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
     {
       "handle": "@trevorrowdyreed.bsky.social",
       "display": "Trevor Rowdy Reed",
-      "followers": 14586,
+      "followers": 14587,
       "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
       "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
     },
