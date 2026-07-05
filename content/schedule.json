@@ -60,13 +60,15 @@
       "slug": "best-leads-for-plumbers",
       "series": "Should You Buy Leads",
       "go_live": "2026-07-05",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-05"
     },
     {
       "slug": "best-leads-for-roofers",
       "series": "Should You Buy Leads",
       "go_live": "2026-07-05",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-05"
     },
     {
       "slug": "best-leads-for-electricians",
@@ -138,7 +140,8 @@
       "slug": "angi-refunds-15-22-percent-junk-leads-scam",
       "series": "Marketing SCAM",
       "go_live": "2026-07-05",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-05"
     },
     {
       "slug": "google-ads-cpc-conversion-contractors",
