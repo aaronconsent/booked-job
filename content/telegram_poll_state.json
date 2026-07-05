@@ -1,10 +1,11 @@
 {
   "done": [
-    "slow-season",
     "unpaid-invoices",
-    "markup-margin",
+    "angi-leads",
     "review-timing",
     "website-leave",
-    "angi-leads"
+    "markup-margin",
+    "slow-season",
+    "speed-window"
   ]
 }

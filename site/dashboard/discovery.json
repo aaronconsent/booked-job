@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:07:44Z",
+  "updated": "2026-07-05T00:10:34Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 23,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,13 +93,8 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 6,
+        "uses": 3,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#Hvacousticpetpanels",
@@ -135,6 +130,11 @@
         "tag": "#contractortracker",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractortracker"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
       }
     ],
     "accounts": [
@@ -194,14 +194,14 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62109,
+      "followers": 62110,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
     {
       "handle": "@cnice59.bsky.social",
       "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35239,
+      "followers": 35240,
       "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@briney.org",
       "display": "Patrick Briney 🔵🌊🌊🌊",
-      "followers": 30198,
+      "followers": 30199,
       "desc": "I reside in Texas. I'm a dry-humor kind of guy, an optimist. Married, dog lover, handyman, and love classic cars. Most i",
       "link": "https://bsky.app/profile/briney.org"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16090,
+      "followers": 16101,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -250,7 +250,7 @@
     {
       "handle": "@missrecreate.bsky.social",
       "display": "Miss Recreate",
-      "followers": 7444,
+      "followers": 7445,
       "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
       "link": "https://bsky.app/profile/missrecreate.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@crybringer.bsky.social",
       "display": "crybringer",
-      "followers": 4576,
+      "followers": 4577,
       "desc": "Contractor (Miss Monster, Skullgirls, etc.), commission artist, comic creator (small-press, online)  ⭐ https://patreon.c",
       "link": "https://bsky.app/profile/crybringer.bsky.social"
     },

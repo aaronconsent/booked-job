@@ -1,24 +1,25 @@
 {
   "page_created": "2026-06-25",
   "posted": [
-    "podcast-launch",
-    "pricing-insurance",
-    "course-slowseason",
     "course-angi",
     "course-reviews",
+    "course-pricing",
+    "pricing-insurance",
     "pricing-pick-two",
-    "art-cpl",
+    "podcast-launch",
     "art-what-marketing",
-    "course-pricing"
+    "art-cpl",
+    "art-5doors",
+    "course-slowseason"
   ],
-  "last_post_iso": "2026-07-04T07:13:44",
+  "last_post_iso": "2026-07-04T19:10:43",
   "by_date": {
     "2026-06-25": 1,
     "2026-06-30": 2,
     "2026-07-01": 2,
     "2026-07-02": 2,
     "2026-07-03": 2,
-    "2026-07-04": 1
+    "2026-07-04": 2
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }
