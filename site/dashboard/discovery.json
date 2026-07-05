@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:15:09Z",
+  "updated": "2026-07-05T23:13:42Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,13 +88,18 @@
       },
       {
         "tag": "#hvac",
-        "uses": 7,
+        "uses": 9,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
         "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#handyman",
@@ -115,11 +120,6 @@
         "tag": "#hvacousticpolyboards",
         "uses": 1,
         "link": "https://mastodon.social/tags/hvacousticpolyboards"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingClub",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22934,
+        "followers": 22944,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -222,14 +222,14 @@
     {
       "handle": "@lleweyb63.bsky.social",
       "display": "Brian",
-      "followers": 23191,
+      "followers": 23192,
       "desc": "#VoteBlue, resister! Started here on 11/7/24. Ended twitter 11/13/24  🚫NO PORN, WILL BLOCK!!🚫DM’s.  #BlueCrew 🌊  Living ",
       "link": "https://bsky.app/profile/lleweyb63.bsky.social"
     },
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16209,
+      "followers": 16233,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@crybringer.bsky.social",
       "display": "crybringer",
-      "followers": 4579,
+      "followers": 4578,
       "desc": "Contractor (Miss Monster, Skullgirls, etc.), commission artist, comic creator (small-press, online)  ⭐ https://patreon.c",
       "link": "https://bsky.app/profile/crybringer.bsky.social"
     },

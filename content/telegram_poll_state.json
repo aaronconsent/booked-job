@@ -1,8 +1,9 @@
 {
   "done": [
     "unpaid-invoices",
-    "markup-margin",
+    "slow-season",
     "angi-leads",
-    "review-timing"
+    "review-timing",
+    "markup-margin"
   ]
 }

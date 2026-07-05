@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-07-05T18:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: Why Nobody Clicks Your AI-Generated Poster"
+    },
+    {
+      "ts": "2026-07-05T18:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: Vanity Numbers and Direct Mailers: Do They Still Book Jobs?"
+    },
+    {
+      "ts": "2026-07-05T18:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Truck Wraps: The Rolling-Billboard Math (and How to Actually Measure It)"
+    },
+    {
+      "ts": "2026-07-05T18:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: Why Nobody Clicks Your AI-Generated Poster"
+    },
+    {
+      "ts": "2026-07-05T18:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): Why Nobody Clicks Your AI-Generated Poster"
+    },
+    {
+      "ts": "2026-07-05T18:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Why Nobody Clicks Your AI-Generated Poster"
+    },
+    {
       "ts": "2026-07-05T16:17",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to GitHub Pages (canonical backlink): White-Label Markup: Is Your Agency Reselling Offshore Work?"
-    },
-    {
-      "ts": "2026-07-02T23:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: White-Label Markup: Is Your Agency Reselling Offshore Work?"
-    },
-    {
-      "ts": "2026-07-02T19:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): The \\\"Limited-Time SEO Offer\\\" Trick, Decoded"
-    },
-    {
-      "ts": "2026-07-02T19:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: The \"47 Errors\" SEO Audit Scam Contractors Fall For"
-    },
-    {
-      "ts": "2026-07-02T19:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: The \\\"Limited-Time SEO Offer\\\" Trick, Decoded"
-    },
-    {
-      "ts": "2026-07-02T19:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: \\\"Guaranteed #1 on Google\\\" Is Always a Lie — Here's Why"
-    },
-    {
-      "ts": "2026-07-02T19:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: The \"47 Errors\" SEO Audit Scam Contractors Fall For"
     }
   ]
 }
