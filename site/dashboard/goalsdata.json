@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T03:18",
+  "generated": "2026-07-05T06:17",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 16,
+        "current": 25,
         "target": 22,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3279,
+        "current": 3350,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 297,
+        "current": 306,
         "target": 600,
         "status": "green",
         "needs": null
@@ -157,9 +157,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 5,
+        "current": 6,
         "target": 30,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3000,
+        "current": 3071,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -215,14 +215,14 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 101,
-    "reels": 12,
+    "fb_ig_posts": 100,
+    "reels": 11,
     "staged_articles": 6
   },
   "counters": {
     "articles": 80,
-    "reels": 7,
-    "social_posts": 359,
+    "reels": 8,
+    "social_posts": 368,
     "followers": 9,
     "engagement": 18,
     "yt_views": 94,
