@@ -6,7 +6,7 @@ import json, os, subprocess
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 MANIFEST_DIR = os.path.join(ROOT, "..", "remotion-studio", "public", "audio")
-EP_DIR = os.path.join(ROOT, "site", "podcast")
+EP_DIR = os.path.join(ROOT, "..", "remotion-studio", "out")
 OUT_DIR = os.path.join(ROOT, "site", "reels")
 BASE = "https://booked-job.com"
 INTRO, GAP, FPS, PAD = 96, 7, 30, 0.35
@@ -62,7 +62,7 @@ def add_ytq(pid, hook):
 
 def cut(ep):
     mpath = os.path.join(MANIFEST_DIR, ep, "manifest.json")
-    vpath = os.path.join(EP_DIR, f"{ep}.mp4")
+    vpath = os.path.join(EP_DIR, f"booked-job-{ep}.mp4")
     if not (os.path.exists(mpath) and os.path.exists(vpath)):
         print(f"  {ep}: missing manifest or video"); return 0
     m = json.load(open(mpath)); starts = line_secs(m)

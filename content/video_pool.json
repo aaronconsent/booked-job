@@ -40,32 +40,6 @@
       ]
     },
     {
-      "id": "pod-ep02-rules",
-      "file": "site/reels/pod-ep02-rules.mp4",
-      "url": "https://booked-job.com/reels/pod-ep02-rules.mp4",
-      "hook": "3 rules to get more Google reviews",
-      "caption": "3 rules to get more Google reviews — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ]
-    },
-    {
-      "id": "pod-ep02-stars",
-      "file": "site/reels/pod-ep02-stars.mp4",
-      "url": "https://booked-job.com/reels/pod-ep02-stars.mp4",
-      "hook": "91% won't call you under 4 stars",
-      "caption": "91% won't call you under 4 stars — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ]
-    },
-    {
       "id": "pod-ep01-verdict",
       "file": "site/reels/pod-ep01-verdict.mp4",
       "url": "https://booked-job.com/reels/pod-ep01-verdict.mp4",
@@ -97,6 +71,32 @@
       "url": "https://booked-job.com/reels/pod-ep01-cost.mp4",
       "hook": "$542 vs $168 — the Angi tax",
       "caption": "$542 vs $168 — the Angi tax — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep02-rules",
+      "file": "site/reels/pod-ep02-rules.mp4",
+      "url": "https://booked-job.com/reels/pod-ep02-rules.mp4",
+      "hook": "3 rules to get more Google reviews",
+      "caption": "3 rules to get more Google reviews — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep02-stars",
+      "file": "site/reels/pod-ep02-stars.mp4",
+      "url": "https://booked-job.com/reels/pod-ep02-stars.mp4",
+      "hook": "91% won't call you under 4 stars",
+      "caption": "91% won't call you under 4 stars — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
       "tags": [
         "contractor",
         "homeservices",

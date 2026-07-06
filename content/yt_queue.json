@@ -40,32 +40,6 @@
       "video": "site/reels/pod-ep03-trap.mp4"
     },
     {
-      "id": "pod-ep02-rules",
-      "hook": "3 rules to get more Google reviews",
-      "title": "3 rules to get more Google reviews #Shorts",
-      "description": "3 rules to get more Google reviews\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-rules.mp4"
-    },
-    {
-      "id": "pod-ep02-stars",
-      "hook": "91% won't call you under 4 stars",
-      "title": "91% won't call you under 4 stars #Shorts",
-      "description": "91% won't call you under 4 stars\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-stars.mp4"
-    },
-    {
       "id": "pod-ep01-verdict",
       "hook": "When to fire Angi",
       "title": "When to fire Angi #Shorts",
@@ -103,6 +77,32 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep01-cost.mp4"
+    },
+    {
+      "id": "pod-ep02-rules",
+      "hook": "3 rules to get more Google reviews",
+      "title": "3 rules to get more Google reviews #Shorts",
+      "description": "3 rules to get more Google reviews\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-rules.mp4"
+    },
+    {
+      "id": "pod-ep02-stars",
+      "hook": "91% won't call you under 4 stars",
+      "title": "91% won't call you under 4 stars #Shorts",
+      "description": "91% won't call you under 4 stars\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-stars.mp4"
     },
     {
       "id": "bj-angi",

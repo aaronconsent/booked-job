@@ -14,7 +14,7 @@ TAGS = ["contractor marketing", "home services marketing", "lead generation", "h
 # id -> (source filename, SEO title, description)
 EPS = {
     "podcast-ep01": (
-        "booked-job-podcast-ep01.mp4",
+        "booked-job-podcast-ep01-wide.mp4",
         "Is Angi Worth It for Contractors? The REAL Math | Get Booked, Not F***ed Ep.01",
         "Everybody asks: is Angi worth it? We do the real math — not the sales pitch. Why an Angi "
         "booked job actually costs ~$542 vs ~$168 on Google Local Service Ads, why they refund "
@@ -22,14 +22,14 @@ EPS = {
         "sense. Two tradesmen, no fluff.\n\nGet the free playbook: https://booked-job.com\n\n"
         "#contractor #homeservices #angi #leadgeneration"),
     "podcast-ep02": (
-        "booked-job-podcast-ep02.mp4",
+        "booked-job-podcast-ep02-wide.mp4",
         "How to Get More Google Reviews (The Contractor Playbook) | Get Booked, Not F***ed Ep.02",
         "91% of people won't even call a shop under 4 stars. Here's the exact system to get more "
         "Google reviews without feeling desperate: ask at the peak, one-tap link, reply to every "
         "review. Why you need ~519 to rank #1 in HVAC, and why buying fake reviews will nuke your "
         "profile.\n\nFree playbook: https://booked-job.com\n\n#googlereviews #contractor #localseo"),
     "podcast-ep03": (
-        "booked-job-podcast-ep03.mp4",
+        "booked-job-podcast-ep03-wide.mp4",
         "Cost Per Lead vs Cost Per Booked Job — The 2 Numbers | Get Booked, Not F***ed Ep.03",
         "Cost per lead is the number they WANT you watching — and it's a lie. The only number that "
         "pays your mortgage is cost per booked job. Angi ~$542, Thumbtack ~$250, Google LSA ~$168. "
