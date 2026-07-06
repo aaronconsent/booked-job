@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-06T04:11",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): Your First Meta Ad: When Facebook Beats Google for Contractors (and When It Doesn't)"
+    },
+    {
+      "ts": "2026-07-06T04:11",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
+    },
+    {
+      "ts": "2026-07-06T04:11",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: Why Home-Service Customers Buy the Way They Do"
+    },
+    {
+      "ts": "2026-07-06T04:11",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
+    },
+    {
+      "ts": "2026-07-06T04:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Vanity Numbers and Direct Mailers: Do They Still Book Jobs?"
+    },
+    {
+      "ts": "2026-07-06T04:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: Why Home-Service Customers Buy the Way They Do"
+    },
+    {
+      "ts": "2026-07-06T04:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): Why Home-Service Customers Buy the Way They Do"
+    },
+    {
+      "ts": "2026-07-06T04:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Why Home-Service Customers Buy the Way They Do"
+    },
+    {
       "ts": "2026-07-05T23:25",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to GitHub Pages (canonical backlink): The Free Marketing Demo That Turns Into a Surprise Bill"
-    },
-    {
-      "ts": "2026-07-03T06:42",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: The Free Marketing Demo That Turns Into a Surprise Bill"
-    },
-    {
-      "ts": "2026-07-03T06:40",
-      "kind": "post",
-      "icon": "📝",
-      "text": "Published post: pricing pick two"
-    },
-    {
-      "ts": "2026-07-03T03:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): White-Label Markup: Is Your Agency Reselling Offshore Work?"
-    },
-    {
-      "ts": "2026-07-03T03:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): The \"47 Errors\" SEO Audit Scam Contractors Fall For"
-    },
-    {
-      "ts": "2026-07-03T03:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Fake Google Maps Listings: The Phantom Competitor Scam"
-    },
-    {
-      "ts": "2026-07-03T03:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: White-Label Markup: Is Your Agency Reselling Offshore Work?"
-    },
-    {
-      "ts": "2026-07-03T03:21",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: The \"47 Errors\" SEO Audit Scam Contractors Fall For"
-    },
-    {
-      "ts": "2026-07-03T03:21",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Fake Google Maps Listings: The Phantom Competitor Scam"
     }
   ]
 }

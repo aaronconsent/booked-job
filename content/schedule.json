@@ -74,13 +74,15 @@
       "slug": "best-leads-for-electricians",
       "series": "Should You Buy Leads",
       "go_live": "2026-07-06",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-06"
     },
     {
       "slug": "how-many-reviews-hvac-needs-to-rank",
       "series": "Real Trade Numbers",
       "go_live": "2026-07-06",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-06"
     },
     {
       "slug": "how-many-reviews-plumbers-need-to-rank",
@@ -154,7 +156,8 @@
       "slug": "chatgpt-search-answer-engine-optimization-contractors",
       "series": "Local SEO",
       "go_live": "2026-07-06",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-06"
     },
     {
       "slug": "homeowners-read-reviews-before-they-call",

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-05T23:23",
+  "updated": "2026-07-06T04:08",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 25,
+    "days_left": 24,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-01 for the safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily) with pre-ads-realistic traffic ramp.",
     "items": [
       {
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 11450,
+        "current": 11469,
         "target": 6000,
         "pct": 100,
         "on_track": true
@@ -206,10 +206,10 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "46.63",
-    "impressions": 11539,
-    "reach": 8064,
-    "video_views": 11450
+    "spend": "46.84",
+    "impressions": 11559,
+    "reach": 8103,
+    "video_views": 11469
   },
   "youtube": {
     "connected": true,
@@ -456,7 +456,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 776,
+      "views": 1176,
       "followers": 3,
       "likes": 6
     },
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 420,
+      "views": 469,
       "followers": 0
     },
     {
@@ -499,15 +499,15 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 49,
+      "count": 50,
       "unit": "posts",
-      "grade": "C",
+      "grade": "B",
       "group": "content"
     },
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 49,
+      "count": 50,
       "unit": "posts",
       "followers": 7,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 48,
+      "count": 49,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 49,
+      "count": 50,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,9 +543,9 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 49,
+      "count": 50,
       "unit": "mirrors",
-      "grade": "C",
+      "grade": "B",
       "group": "content"
     },
     {
@@ -559,7 +559,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 43,
+      "count": 44,
       "unit": "posts (Buffer)",
       "stat": "256 reach \u00b7 2 reactions",
       "views": 0,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 58,
+      "count": 59,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -694,7 +694,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Documents",
@@ -723,7 +723,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 58
+        "count": 59
       },
       {
         "type": "Video pins",
@@ -735,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 49
+        "count": 50
       },
       {
         "type": "Video",
@@ -747,7 +747,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 46
+        "count": 47
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 48
+        "count": 49
       },
       {
         "type": "Video",
@@ -777,12 +777,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 49
+        "count": 50
       },
       {
         "type": "Polls",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Video",
@@ -841,37 +841,37 @@
     }
   ],
   "funnel": {
-    "reach": 23202,
+    "reach": 23744,
     "engagement": 20,
     "audience": 18,
-    "cr_clicks": 10
+    "cr_clicks": 11
   },
   "trends": {
-    "audience": 9,
+    "audience": 8,
     "engagement": 18,
     "email": 0,
-    "reach": 23202
+    "reach": 23744
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 11544,
+        "value": 11563,
         "grade": "B"
       },
       {
         "label": "Total Clicks",
-        "value": 10,
+        "value": 11,
         "grade": "D"
       },
       {
         "label": "Total Posts",
-        "value": 542,
+        "value": 550,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 19603,
+        "value": 19662,
         "grade": "B"
       },
       {
@@ -886,6 +886,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 542 posts, 18 audience, 10 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 550 posts, 18 audience, 11 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
