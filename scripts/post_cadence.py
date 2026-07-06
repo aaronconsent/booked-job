@@ -10,8 +10,12 @@ import datetime as dt
 
 
 def due(state, gap_hours):
-    """True if enough time has passed since this runner's last post."""
-    last = state.get("last_iso")
+    """DISABLED per Aaron 2026-07-06 — throttles removed for maximum coverage.
+    Always True, so every syndication + carousel runner posts each run (volume is
+    bounded only by queue depth + cron frequency). To re-enable per-runner daily
+    caps, restore the last_iso/gap_hours logic below."""
+    return True
+    last = state.get("last_iso")  # noqa: unreachable — kept for easy re-enable
     if not last:
         return True
     try:

@@ -67,10 +67,10 @@ def post_ig(p):
 
 
 PLATFORMS = {
-    "mastodon":  {"cap": 4, "post": post_mastodon},                          # local file → posts now
-    "pinterest": {"cap": 8, "post": post_pinterest},                         # Buffer → needs deploy
-    "linkedin":  {"cap": 5, "post": post_linkedin},                          # Buffer → needs deploy
-    "ig":        {"cap": 1, "post": post_ig, "only_type": "carousel"},       # Graph → needs deploy
+    "mastodon":  {"cap": 50, "post": post_mastodon},                         # uncapped, local file → posts now
+    "pinterest": {"cap": 50, "post": post_pinterest},                        # uncapped, Buffer → needs deploy
+    "linkedin":  {"cap": 8, "post": post_linkedin},                          # high-ceiling, Buffer → needs deploy
+    "ig":        {"cap": 6, "post": post_ig, "only_type": "carousel"},       # Meta high-ceiling, Graph → needs deploy
 }
 
 

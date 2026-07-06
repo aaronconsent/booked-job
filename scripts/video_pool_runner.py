@@ -81,14 +81,14 @@ def post_tumblr(v):
 # name -> {cap: posts/day, post: fn, exclude?: [id-substrings to skip on this platform]}.
 # spacing is derived from cap. LinkedIn stays professional — no edgy podcast bits.
 PLATFORMS = {
-    "facebook":  {"cap": 4, "post": post_fb},
-    "ig":        {"cap": 3, "post": post_ig},
-    "tiktok":    {"cap": 5, "post": post_tiktok},                              # raised now Buffer has 10-12 slots/day
-    "linkedin":  {"cap": 5, "post": post_linkedin, "exclude": ["porno", "clip2-game"]},
-    "pinterest": {"cap": 8, "post": post_pinterest, "exclude": ["porno"]},     # Pinterest is evergreen-friendly
-    "bluesky":   {"cap": 4, "post": post_bluesky},
-    "telegram":  {"cap": 1, "post": post_telegram},
-    "tumblr":    {"cap": 4, "post": post_tumblr, "exclude": ["porno"]},
+    "facebook":  {"cap": 8, "post": post_fb},                                  # Meta high-ceiling (ban-safe max)
+    "ig":        {"cap": 6, "post": post_ig},                                  # Meta high-ceiling (ban-safe max)
+    "tiktok":    {"cap": 50, "post": post_tiktok},                             # uncapped (Buffer's own slots throttle)
+    "linkedin":  {"cap": 8, "post": post_linkedin, "exclude": ["porno", "clip2-game"]},  # high-ceiling
+    "pinterest": {"cap": 50, "post": post_pinterest, "exclude": ["porno"]},    # uncapped — evergreen-friendly
+    "bluesky":   {"cap": 50, "post": post_bluesky},                            # uncapped
+    "telegram":  {"cap": 50, "post": post_telegram},                           # uncapped
+    "tumblr":    {"cap": 50, "post": post_tumblr, "exclude": ["porno"]},       # uncapped
 }
 
 

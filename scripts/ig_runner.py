@@ -20,7 +20,7 @@ STATE = os.path.join(ROOT, "content", "ig_state.json")
 LOG = os.path.join(ROOT, "content", "ig.log")
 VDIR = os.path.join(ROOT, "site", "v")
 POST_DAYS = {0, 1, 2, 3, 4, 5, 6}   # daily (safe-aggressive — IG tolerates 1-2/day)
-WINDOW = (9, 15)
+WINDOW = (8, 20)   # widened per Aaron 2026-07-06 — more of the day (Meta high-ceiling)
 
 
 def log(m):

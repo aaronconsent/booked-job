@@ -50,8 +50,8 @@ def save_state(state):
 def ramp_daily_cap(age_days):
     # Warm-up ramp from STRATEGY.md: wk1 ~3/wk, wk2 ~4/wk, wk3+ up to 5-6/wk.
     # Implemented as posting-DAYS allowed + 1/day cap (quality > volume).
-    return 2  # safe-aggressive: up to 2 quality FB posts/day (3-5 is the platform ceiling;
-              # held at 2 so we don't outrun content supply — raise once the variant engine feeds it)
+    return 8  # high-ceiling per Aaron 2026-07-06: up to 8 FB text posts/day (ban-safe max;
+              # combined with reels/video/carousels/stories, keeps FB aggressive but under spam flags)
 
 
 def posting_days(age_days):
