@@ -23,7 +23,6 @@ AGENTS = [
     ("video_pool_runner.py", []),
     ("blogger_runner.py", []), ("tumblr_runner.py", []), ("telegraph_runner.py", []), ("github_pages_runner.py", []),
     ("bluesky_runner.py", []), ("mastodon_runner.py", []), ("threads_runner.py", []),
-    ("telegram_runner.py", []), ("telegram_poll_runner.py", []),
     ("buffer_runner.py", []), ("buffer_tiktok_runner.py", []),
     ("buffer_carousel_runner.py", []), ("buffer_tiktok_carousel_runner.py", []),
     ("fb_carousel_runner.py", []), ("ig_carousel_runner.py", []),
@@ -38,7 +37,7 @@ AGENTS = [
     ("blog_drip_runner.py", []),
     ("nightly_review.py", ["--no-fetch"]),
     ("health_alert.py", []),
-    ("founder_digest.py", []),   # DMs Aaron a status rollup ~every 2h + on major events
+    ("founder_digest.py", []),   # emails Aaron a status rollup ~every 2h + on major events
 ]
 MEDIA = {"reel_runner.py", "reel_story_runner.py", "story_runner.py", "buffer_carousel_runner.py",
          "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py", "ig_carousel_runner.py",
@@ -47,8 +46,8 @@ MEDIA = {"reel_runner.py", "reel_story_runner.py", "story_runner.py", "buffer_ca
 # Excludes blog_drip (must stay date-gated) and the build/engage/fetch scripts.
 FORCE_OK = {"publisher.py", "ig_runner.py", "reel_runner.py", "reel_story_runner.py", "story_runner.py",
             "blogger_runner.py", "tumblr_runner.py", "telegraph_runner.py", "github_pages_runner.py",
-            "bluesky_runner.py", "mastodon_runner.py", "threads_runner.py", "telegram_runner.py",
-            "telegram_poll_runner.py", "buffer_runner.py", "buffer_tiktok_runner.py",
+            "bluesky_runner.py", "mastodon_runner.py", "threads_runner.py",
+            "buffer_runner.py", "buffer_tiktok_runner.py",
             "buffer_carousel_runner.py", "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py",
             "ig_carousel_runner.py", "pinterest_buffer_runner.py", "yt_runner.py", "video_pool_runner.py",
             "image_pool_runner.py", "podcast_runner.py"}

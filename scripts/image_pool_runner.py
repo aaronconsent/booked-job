@@ -75,18 +75,15 @@ def post_fb(p):
         raise RuntimeError(str(ex))
 
 
-def post_telegram(p):
-    import telegram_publish   # native photo — needs the public image URL (deploy)
-    return telegram_publish.send_photo(p["images"][0], p["caption"][:1000])
 
 
 PLATFORMS = {
-    "mastodon":  {"cap": 50, "post": post_mastodon},                         # uncapped, local file → posts now
-    "pinterest": {"cap": 50, "post": post_pinterest},                        # uncapped, Buffer → needs deploy
-    "linkedin":  {"cap": 8, "post": post_linkedin},                          # high-ceiling, Buffer → needs deploy
-    "ig":        {"cap": 6, "post": post_ig, "only_type": "carousel"},       # Meta high-ceiling, Graph → needs deploy
-    "facebook":  {"cap": 3, "post": post_fb},                                # low cap — FB already saturated (Meta ceiling)
-    "telegram":  {"cap": 50, "post": post_telegram},                         # uncapped — currently gets zero images
+    "mastodon":  {"cap": 50, "post": post_mastodon},                         # native local file → posts now
+    "ig":        {"cap": 6, "post": post_ig, "only_type": "carousel"},       # native Graph carousel
+    "facebook":  {"cap": 3, "post": post_fb},                                # native local file
+    # pinterest + linkedin removed 2026-07-06: Buffer single-image path returned UnexpectedError and
+    # was redundant — Pinterest pins come from pinterest_buffer_runner; LinkedIn gets carousels/text/video.
+    # telegram removed 2026-07-06 (channel retired).
 }
 
 

@@ -68,11 +68,6 @@ def post_bluesky(v):
     return bluesky_publish.publish_video(v["caption"][:300], v["url"], alt=v.get("hook", ""))
 
 
-def post_telegram(v):
-    import telegram_publish
-    return telegram_publish.send_video(v["url"], v["caption"])
-
-
 def post_tumblr(v):
     import tumblr_publish
     return tumblr_publish.publish_video(v["caption"], v["url"], tags=(v.get("tags") or []))
@@ -87,8 +82,8 @@ PLATFORMS = {
     "linkedin":  {"cap": 8, "post": post_linkedin, "exclude": ["porno", "clip2-game"]},  # high-ceiling
     "pinterest": {"cap": 50, "post": post_pinterest, "exclude": ["porno"]},    # uncapped — evergreen-friendly
     "bluesky":   {"cap": 50, "post": post_bluesky},                            # uncapped
-    "telegram":  {"cap": 50, "post": post_telegram},                           # uncapped
     "tumblr":    {"cap": 50, "post": post_tumblr, "exclude": ["porno"]},       # uncapped
+    # telegram removed 2026-07-06 (channel retired)
 }
 
 
