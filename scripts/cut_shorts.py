@@ -15,17 +15,29 @@ TAGS = ["contractor", "homeservices", "leadgeneration", "marketing"]
 # episode -> [{slug, s, e, hook}]  (s,e = inclusive line indices, 0-based)
 HIGHLIGHTS = {
     "podcast-ep01": [
-        {"slug": "cost", "s": 9, "e": 12, "hook": "$542 vs $168 — the Angi tax"},
-        {"slug": "ftc", "s": 13, "e": 19, "hook": "The $7.2M FTC fine on Angi's leads"},
-        {"slug": "verdict", "s": 28, "e": 32, "hook": "When to fire Angi"},
+        {"slug": "shared", "s": 3, "e": 6, "hook": "One Angi lead — sold to 5 other guys"},
+        {"slug": "wrongnum", "s": 7, "e": 10, "hook": "The number Angi doesn't want you doing"},
+        {"slug": "cost", "s": 10, "e": 12, "hook": "$542 vs $168 — the Angi tax"},
+        {"slug": "refunds", "s": 13, "e": 16, "hook": "Why Angi refunds 15-22% of your leads"},
+        {"slug": "ftc", "s": 17, "e": 20, "hook": "The $7.2M FTC fine on Angi's leads"},
+        {"slug": "starter", "s": 21, "e": 24, "hook": "The ONE time Angi actually makes sense"},
+        {"slug": "speed", "s": 25, "e": 28, "hook": "Answer in 5 minutes or lose the job"},
+        {"slug": "verdict", "s": 29, "e": 32, "hook": "When to fire Angi"},
     ],
     "podcast-ep02": [
-        {"slug": "stars", "s": 3, "e": 8, "hook": "91% won't call you under 4 stars"},
-        {"slug": "rules", "s": 11, "e": 16, "hook": "3 rules to get more Google reviews"},
+        {"slug": "invisible", "s": 3, "e": 5, "hook": "91% won't call a shop under 4 stars"},
+        {"slug": "howmany", "s": 6, "e": 9, "hook": "519 reviews to rank #1 — you've got 12"},
+        {"slug": "peak", "s": 10, "e": 12, "hook": "Ask for the review at the PEAK"},
+        {"slug": "onetap", "s": 13, "e": 17, "hook": "The 2 review rules nobody follows"},
+        {"slug": "fake", "s": 18, "e": 20, "hook": "Never buy fake reviews — here's why"},
+        {"slug": "system", "s": 21, "e": 22, "hook": "The 90-day review system"},
     ],
     "podcast-ep03": [
+        {"slug": "lie", "s": 0, "e": 3, "hook": "Cost per lead is a lie"},
         {"slug": "trap", "s": 5, "e": 8, "hook": "Why the 'cheap' lead is the expensive one"},
-        {"slug": "channels", "s": 9, "e": 13, "hook": "Angi vs Thumbtack vs Google — real cost"},
+        {"slug": "channels", "s": 9, "e": 11, "hook": "Angi vs Thumbtack vs Google — real cost"},
+        {"slug": "exclusive", "s": 12, "e": 15, "hook": "Why an 'expensive' exclusive lead wins"},
+        {"slug": "track", "s": 16, "e": 18, "hook": "The 1 number that cuts half your ad spend"},
         {"slug": "verdict", "s": 19, "e": 21, "hook": "The 2 numbers every contractor tracks"},
     ],
 }
