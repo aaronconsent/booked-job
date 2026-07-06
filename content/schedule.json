@@ -165,6 +165,54 @@
       "go_live": "2026-07-06",
       "status": "live",
       "published": "2026-07-06"
+    },
+    {
+      "slug": "is-angi-worth-it-the-real-math",
+      "series": "The Podcast",
+      "go_live": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "slug": "homeadvisor-ftc-72-million-fine",
+      "series": "The Podcast",
+      "go_live": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "slug": "when-angi-actually-works",
+      "series": "The Podcast",
+      "go_live": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "slug": "why-homeowners-skip-shops-under-4-stars",
+      "series": "The Podcast",
+      "go_live": "2026-07-09",
+      "status": "pending"
+    },
+    {
+      "slug": "one-tap-google-review-system",
+      "series": "The Podcast",
+      "go_live": "2026-07-09",
+      "status": "pending"
+    },
+    {
+      "slug": "buying-fake-google-reviews-risk",
+      "series": "The Podcast",
+      "go_live": "2026-07-09",
+      "status": "pending"
+    },
+    {
+      "slug": "cost-per-lead-is-the-wrong-number",
+      "series": "The Podcast",
+      "go_live": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "slug": "lead-cost-per-booked-job-by-channel",
+      "series": "The Podcast",
+      "go_live": "2026-07-10",
+      "status": "pending"
     }
   ]
 }
