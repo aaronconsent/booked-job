@@ -1,6 +1,110 @@
 {
   "videos": [
     {
+      "id": "pod-ep03-verdict",
+      "file": "site/reels/pod-ep03-verdict.mp4",
+      "url": "https://booked-job.com/reels/pod-ep03-verdict.mp4",
+      "hook": "The 2 numbers every contractor tracks",
+      "caption": "The 2 numbers every contractor tracks — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep03-channels",
+      "file": "site/reels/pod-ep03-channels.mp4",
+      "url": "https://booked-job.com/reels/pod-ep03-channels.mp4",
+      "hook": "Angi vs Thumbtack vs Google — real cost",
+      "caption": "Angi vs Thumbtack vs Google — real cost — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep03-trap",
+      "file": "site/reels/pod-ep03-trap.mp4",
+      "url": "https://booked-job.com/reels/pod-ep03-trap.mp4",
+      "hook": "Why the 'cheap' lead is the expensive one",
+      "caption": "Why the 'cheap' lead is the expensive one — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep02-rules",
+      "file": "site/reels/pod-ep02-rules.mp4",
+      "url": "https://booked-job.com/reels/pod-ep02-rules.mp4",
+      "hook": "3 rules to get more Google reviews",
+      "caption": "3 rules to get more Google reviews — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep02-stars",
+      "file": "site/reels/pod-ep02-stars.mp4",
+      "url": "https://booked-job.com/reels/pod-ep02-stars.mp4",
+      "hook": "91% won't call you under 4 stars",
+      "caption": "91% won't call you under 4 stars — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep01-verdict",
+      "file": "site/reels/pod-ep01-verdict.mp4",
+      "url": "https://booked-job.com/reels/pod-ep01-verdict.mp4",
+      "hook": "When to fire Angi",
+      "caption": "When to fire Angi — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep01-ftc",
+      "file": "site/reels/pod-ep01-ftc.mp4",
+      "url": "https://booked-job.com/reels/pod-ep01-ftc.mp4",
+      "hook": "The $7.2M FTC fine on Angi's leads",
+      "caption": "The $7.2M FTC fine on Angi's leads — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
+      "id": "pod-ep01-cost",
+      "file": "site/reels/pod-ep01-cost.mp4",
+      "url": "https://booked-job.com/reels/pod-ep01-cost.mp4",
+      "hook": "$542 vs $168 — the Angi tax",
+      "caption": "$542 vs $168 — the Angi tax — the full breakdown's on the pod. Free playbook: https://booked-job.com 👇",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ]
+    },
+    {
       "id": "bj-angi",
       "file": "site/reels/bj-angi.mp4",
       "url": "https://booked-job.com/reels/bj-angi.mp4",
