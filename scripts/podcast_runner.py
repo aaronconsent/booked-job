@@ -85,6 +85,24 @@ def main():
     state["done"] = list(done); state["last_iso"] = now.isoformat(timespec="seconds")
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"PUBLISHED episode '{nxt['id']}' -> https://youtu.be/{vid}")
+
+    # repurpose: push the episode (as its YouTube link) into the syndication machine so
+    # every text channel promotes it — the long-form can't be hosted (>25MB CF asset cap),
+    # so we distribute the LINK, driving views back to the video. Native FB/LinkedIn video
+    # re-upload would need a new uploader; link promotion uses proven rails.
+    try:
+        sp = os.path.join(ROOT, "content", "syndication_queue.json")
+        synd = json.load(open(sp)); sid = f"pod-{nxt['id']}"
+        if not any(i["id"] == sid for i in synd["items"]):
+            synd["items"].append({
+                "id": sid, "title": nxt["title"].split("|")[0].strip(), "short_title": "New episode",
+                "blurb": nxt["description"].split("\n")[0][:280], "url": f"https://youtu.be/{vid}",
+                "labels": nxt.get("tags", ["The Podcast"])[:4], "posted": {}})
+            json.dump(synd, open(sp, "w"), indent=2)
+            log(f"syndication: queued episode link as '{sid}' for all text channels")
+    except Exception as e:
+        log(f"syndication inject failed (non-fatal): {str(e)[:120]}")
+
     try:
         import log_change
         log_change.add("podcast", f"Published podcast episode: {nxt['title'].split('|')[0].strip()}")

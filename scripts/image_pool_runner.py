@@ -66,11 +66,27 @@ def post_ig(p):
     return ig_publish.publish_carousel(p["images"], p["caption"])   # Graph carousel, needs public URLs
 
 
+def post_fb(p):
+    import fb_post   # native single-photo, LOCAL file — no deploy needed (reuses proven _upload_photo)
+    try:
+        e = fb_post.load_env()
+        return fb_post._upload_photo(e["FB_PAGE_ID"], localpath(p["images"][0]), p["caption"][:1900], e["FB_PAGE_TOKEN"])
+    except SystemExit as ex:                                        # _upload_photo/load_env exit on error — don't kill the run
+        raise RuntimeError(str(ex))
+
+
+def post_telegram(p):
+    import telegram_publish   # native photo — needs the public image URL (deploy)
+    return telegram_publish.send_photo(p["images"][0], p["caption"][:1000])
+
+
 PLATFORMS = {
     "mastodon":  {"cap": 50, "post": post_mastodon},                         # uncapped, local file → posts now
     "pinterest": {"cap": 50, "post": post_pinterest},                        # uncapped, Buffer → needs deploy
     "linkedin":  {"cap": 8, "post": post_linkedin},                          # high-ceiling, Buffer → needs deploy
     "ig":        {"cap": 6, "post": post_ig, "only_type": "carousel"},       # Meta high-ceiling, Graph → needs deploy
+    "facebook":  {"cap": 3, "post": post_fb},                                # low cap — FB already saturated (Meta ceiling)
+    "telegram":  {"cap": 50, "post": post_telegram},                         # uncapped — currently gets zero images
 }
 
 
