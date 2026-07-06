@@ -2068,5 +2068,19 @@
   "telegram": {
    "text": "<b>35% of homeowners now ask ChatGPT before they Google you.</b>\n\n35% use AI tools at discovery vs 13.6% who start with traditional search (2026 search-behavior data).\n\nThe AI names a short list — sometimes one name — and that contractor gets the call. Reviews and clear content decide who it names. Almost no competitor is optimizing for this yet.\n\nhttps://booked-job.com/blog/chatgpt-search-answer-engine-optimization-contractors/"
   }
+ },
+ "homeowners-read-reviews-before-they-call": {
+  "threads": {
+   "text": "Homeowners read your reviews before they call — and most won't touch a low-rated shop. Your review profile is the gate. Fail the quick glance and you never even know you lost the job."
+  },
+  "bluesky": {
+   "text": "Most people read local reviews before they hire, and most won't consider a low-rated business. And they lean on Google specifically. Reviews are the gatekeeper — the sale is won or lost before your phone rings. booked-job.com"
+  },
+  "mastodon": {
+   "text": "Homeowners read reviews before they call, and most won't consider a low-rated business. Most rely on Google reviews to decide. And most favor businesses that reply to all their reviews — a free edge almost no contractor uses. booked-job.com"
+  },
+  "telegram": {
+   "text": "<b>They read your reviews before they call.</b> And most won't consider a low-rated shop. Most rely on Google reviews, and most favor businesses that reply to every review — cheapest edge you're not using. https://booked-job.com/blog/homeowners-read-reviews-before-they-call/"
+  }
  }
 }

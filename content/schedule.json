@@ -163,7 +163,8 @@
       "slug": "homeowners-read-reviews-before-they-call",
       "series": "Reviews",
       "go_live": "2026-07-06",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-06"
     }
   ]
 }
