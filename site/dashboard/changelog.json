@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-06T12:15",
+      "kind": "podcast",
+      "icon": "•",
+      "text": "Published podcast episode: Is Angi Worth It for Contractors? The REAL Math"
+    },
+    {
+      "ts": "2026-07-06T12:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to TikTok (Buffer): quick-favor"
+    },
+    {
+      "ts": "2026-07-06T12:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Telegram: The 3-Hours-a-Month Marketing Plan for Contractors Who Hate Marketing"
+    },
+    {
+      "ts": "2026-07-06T12:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: The One Trust Signal That Matters Most for the Trades"
+    },
+    {
+      "ts": "2026-07-06T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
+    },
+    {
+      "ts": "2026-07-06T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: The 3-Hours-a-Month Marketing Plan for Contractors Who Hate Marketing"
+    },
+    {
+      "ts": "2026-07-06T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): The 3-Hours-a-Month Marketing Plan for Contractors Who Hate Marketing"
+    },
+    {
+      "ts": "2026-07-06T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: The 3-Hours-a-Month Marketing Plan for Contractors Who Hate Marketing"
+    },
+    {
       "ts": "2026-07-06T09:01",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to Telegraph: How to Spend Your First $10K in Marketing as a Contractor"
-    },
-    {
-      "ts": "2026-07-03T11:54",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: The cheapest bid costs the most"
-    },
-    {
-      "ts": "2026-07-03T09:41",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: Stop Renting Your Leads (Angi, Thumbtack, HomeAdvisor)"
-    },
-    {
-      "ts": "2026-07-03T09:41",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): The Free Marketing Demo That Turns Into a Surprise Bill"
-    },
-    {
-      "ts": "2026-07-03T09:41",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: The True Cost of Hiring a Marketing Agency (Contractors)"
-    },
-    {
-      "ts": "2026-07-03T09:41",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: The Free Marketing Demo That Turns Into a Surprise Bill"
-    },
-    {
-      "ts": "2026-07-03T09:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Fake Google Maps Listings: The Phantom Competitor Scam"
-    },
-    {
-      "ts": "2026-07-03T09:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: The True Cost of Hiring a Marketing Agency (Contractors)"
-    },
-    {
-      "ts": "2026-07-03T09:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): The True Cost of Hiring a Marketing Agency (Contractors)"
     }
   ]
 }
