@@ -1,0 +1,61 @@
+{
+  "id": "s2",
+  "vo": "dde5874023074e614a2384ceebb970bb.mp3",
+  "assets": [
+    "phone",
+    "ghost"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "phone",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "ghost",
+      "anim": "popIn",
+      "sfx": "whoosh",
+      "diegetic": null
+    },
+    {
+      "t": 1.811,
+      "type": "word",
+      "text": "\u2192",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.997,
+      "type": "word",
+      "text": "RINGS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.659,
+      "type": "word",
+      "text": "VOICEMAIL",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.659,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "s0",
+  "vo": "29293a8b632d8dd688d16314e4690bfe.mp3",
+  "assets": [
+    "stopwatch",
+    "callbutton"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "callbutton",
+      "anim": "drawOn",
+      "sfx": "pop",
+      "diegetic": null
+    },
+    {
+      "t": 1.358,
+      "type": "word",
+      "text": "HOMEOWNERS",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.358,
+      "type": "build",
+      "target": "stopwatch",
+      "anim": "popIn",
+      "sfx": "tick",
+      "diegetic": null
+    },
+    {
+      "t": 1.997,
+      "type": "word",
+      "text": "HIRE",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.997,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "s3",
+  "vo": "3826401835207a5e8745cb798d3f9756.mp3",
+  "assets": [
+    "housetruck"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "housetruck",
+      "anim": "slideIn",
+      "sfx": "zip",
+      "diegetic": "rumble"
+    },
+    {
+      "t": 0.372,
+      "type": "word",
+      "text": "JOB",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.133,
+      "type": "word",
+      "text": "\u2192",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 1.498,
+      "type": "word",
+      "text": "NEXT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.266,
+      "type": "word",
+      "text": "GUY",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 2.266,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

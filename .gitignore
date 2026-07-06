@@ -25,3 +25,4 @@ content/course/.img_cache/
 content/course/.recraft_cache/
 secrets/fal.env
 content/course/.clip_cache/
+.wrangler/

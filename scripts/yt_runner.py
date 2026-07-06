@@ -67,17 +67,31 @@ def main():
                 log(f"skip: only {gap:.0f}h since last Short"); return
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")
-    log(f"building Short '{nxt['id']}' …")
-    try:
-        make_reel.build(nxt["hook"], nxt["script"], out, backend="elevenlabs")
-    except SystemExit as e:
-        log(f"BUILD FAILED '{nxt['id']}': {e}"); return
+    pre = nxt.get("video")
+    if pre:   # pre-rendered clip (e.g. Remotion reels) — upload as-is, no re-render
+        src = pre if os.path.isabs(pre) else os.path.join(ROOT, pre)
+        if not os.path.exists(src):
+            log(f"PRE-RENDERED MISSING '{nxt['id']}': {src}"); return
+        out = src
+        log(f"using pre-rendered video '{nxt['id']}' -> {out}")
+    else:
+        log(f"building Short '{nxt['id']}' …")
+        try:
+            make_reel.build(nxt["hook"], nxt["script"], out, backend="elevenlabs")
+        except SystemExit as e:
+            log(f"BUILD FAILED '{nxt['id']}': {e}"); return
 
     if a.dry_run:
         log(f"DRY-RUN built {out}, not uploading"); return
 
     res = yt_upload.publish(out, nxt["title"], nxt["description"], nxt["tags"], privacy="public")
     vid = res.get("id")
+    if vid and nxt.get("thumbnail"):
+        tp = nxt["thumbnail"] if os.path.isabs(nxt["thumbnail"]) else os.path.join(ROOT, nxt["thumbnail"])
+        try:
+            yt_upload.set_thumbnail(vid, tp); log(f"set custom thumbnail for {vid}")
+        except Exception as e:
+            log(f"thumbnail set FAILED for {vid}: {str(e)[:140]}")
     done.add(nxt["id"])
     state["done"] = list(done); state["last_iso"] = now.isoformat(timespec="seconds")
     json.dump(state, open(STATE, "w"), indent=2)

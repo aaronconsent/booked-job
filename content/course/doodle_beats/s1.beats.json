@@ -1,0 +1,52 @@
+{
+  "id": "s1",
+  "vo": "e0c53f90b9c290ce37fe6591df71bf0d.mp3",
+  "assets": [
+    "truck"
+  ],
+  "beats": [
+    {
+      "t": 0.0,
+      "type": "word",
+      "text": "NOT",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 0.0,
+      "type": "enter",
+      "target": "character",
+      "anim": "slideIn",
+      "sfx": "whoosh"
+    },
+    {
+      "t": 0.05,
+      "type": "build",
+      "target": "truck",
+      "anim": "slideIn",
+      "sfx": "zip",
+      "diegetic": "rumble"
+    },
+    {
+      "t": 1.649,
+      "type": "word",
+      "text": "BEST.",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.413,
+      "type": "word",
+      "text": "FASTEST.",
+      "anim": "headBob",
+      "sfx": "tick"
+    },
+    {
+      "t": 3.413,
+      "type": "gesture",
+      "target": "character.armFront",
+      "anim": "armRaise",
+      "sfx": "pop"
+    }
+  ]
+}

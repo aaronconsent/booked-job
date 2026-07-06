@@ -27,6 +27,7 @@ AGENTS = [
     ("buffer_runner.py", []), ("buffer_tiktok_runner.py", []),
     ("buffer_carousel_runner.py", []), ("buffer_tiktok_carousel_runner.py", []),
     ("fb_carousel_runner.py", []), ("ig_carousel_runner.py", []),
+    ("image_pool_runner.py", []),
     ("pinterest_buffer_runner.py", []), ("email_drip_runner.py", []),
     ("bluesky_feed_refresh.py", []), ("yt_runner.py", []),
     ("bluesky_engage.py", []), ("threads_engage.py", []), ("fb_engage.py", []),
@@ -46,7 +47,8 @@ FORCE_OK = {"publisher.py", "ig_runner.py", "reel_runner.py", "reel_story_runner
             "bluesky_runner.py", "mastodon_runner.py", "threads_runner.py", "telegram_runner.py",
             "telegram_poll_runner.py", "buffer_runner.py", "buffer_tiktok_runner.py",
             "buffer_carousel_runner.py", "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py",
-            "ig_carousel_runner.py", "pinterest_buffer_runner.py", "yt_runner.py", "video_pool_runner.py"}
+            "ig_carousel_runner.py", "pinterest_buffer_runner.py", "yt_runner.py", "video_pool_runner.py",
+            "image_pool_runner.py"}
 
 
 def log(m):

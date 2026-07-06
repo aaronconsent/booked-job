@@ -74,6 +74,19 @@ def publish(video, title, description, tags, privacy="public", category="22"):
     return res
 
 
+def set_thumbnail(video_id, image_path):
+    """Set a custom thumbnail on an uploaded video (thumbnails.set)."""
+    e = env(); tok = access_token(e)
+    data = open(image_path, "rb").read()
+    ct = "image/png" if image_path.lower().endswith(".png") else "image/jpeg"
+    req = urllib.request.Request(
+        f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={video_id}",
+        data=data, method="POST",
+        headers={"Authorization": f"Bearer {tok}", "Content-Type": ct, "Content-Length": str(len(data))})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        return json.loads(r.read().decode())
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--video", required=True)
