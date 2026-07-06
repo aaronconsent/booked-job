@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T15:16",
+  "generated": "2026-07-06T17:28",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 31,
+        "current": 38,
         "target": 22,
         "status": "green",
         "needs": null
@@ -53,7 +53,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 2,
+        "current": 3,
         "target": 1,
         "status": "green",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3940,
+        "current": 3992,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 391,
+        "current": 398,
         "target": 600,
         "status": "green",
         "needs": null
@@ -167,9 +167,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 4,
+        "current": 5,
         "target": 30,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3856,
+        "current": 3908,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -217,26 +217,21 @@
   "queues": {
     "fb_ig_posts": 104,
     "reels": 10,
-    "staged_articles": 2
+    "staged_articles": 10
   },
   "counters": {
     "articles": 84,
     "reels": 9,
-    "social_posts": 453,
+    "social_posts": 460,
     "followers": 14,
     "engagement": 20,
     "yt_views": 97,
-    "yt_shorts": 16,
+    "yt_shorts": 17,
     "email_subs": 5,
     "traffic": 0
   },
-  "top_move": "Run another branch-series workflow batch and stage it to drip 2/day.",
+  "top_move": "We're behind on articles this week (0/14). Run a content workflow batch (staged).",
   "prompts": [
-    {
-      "title": "\ud83d\udcdd Article pipeline thin",
-      "why": "Only 2 articles staged to drip.",
-      "prompt": "Run another branch-series workflow batch and stage it to drip 2/day."
-    },
     {
       "title": "\ud83d\udcdd Articles behind this week",
       "why": "0/14 \u2014 14 short of pace.",
