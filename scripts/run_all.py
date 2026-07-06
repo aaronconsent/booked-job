@@ -38,6 +38,7 @@ AGENTS = [
     ("blog_drip_runner.py", []),
     ("nightly_review.py", ["--no-fetch"]),
     ("health_alert.py", []),
+    ("founder_digest.py", []),   # DMs Aaron a status rollup ~every 2h + on major events
 ]
 MEDIA = {"reel_runner.py", "reel_story_runner.py", "story_runner.py", "buffer_carousel_runner.py",
          "buffer_tiktok_carousel_runner.py", "fb_carousel_runner.py", "ig_carousel_runner.py",
