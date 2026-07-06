@@ -1,11 +1,6 @@
 {
   "version": "0.0.1",
   "configurations": [
-    {
-      "name": "booked-job-site",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8787", "--directory", "site"],
-      "port": 8787
-    }
+    { "name": "dashboard", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8899", "--directory", "site"], "port": 8899 }
   ]
 }

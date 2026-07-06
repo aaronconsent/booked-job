@@ -132,6 +132,18 @@ function renderActivity(cl){
     <div class="tx">${e.text}</div><div class="tm">${new Date(e.ts).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})}</div></div></div>`).join('');
 }
 
+function renderRecent(r){
+  if(!$('recent')) return;
+  const posts=(r.posts||[]);
+  const ic={facebook:'📘',instagram:'📸',ig:'📸',youtube:'▶️',tiktok:'🎵',linkedin:'💼',bluesky:'🦋',telegram:'✈️',tumblr:'🌀',mastodon:'🐘',pinterest:'📌',threads:'🧵',blogger:'📝',blog:'📝'};
+  if($('recentsum')) $('recentsum').textContent = posts.length ? `${posts.length} posts · ${new Set(posts.map(p=>p.channel)).size} channels` : 'none yet';
+  $('recent').innerHTML = posts.slice(0,24).map(p=>{
+    const t=new Date(p.ts).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+    const link=p.url?`<a class="rp-l" href="${p.url}" target="_blank" rel="noopener">↗</a>`:'';
+    return `<div class="rp"><span class="rp-c">${ic[p.channel]||'•'} ${p.channel}</span><span class="rp-i">${p.item}</span><span class="rp-t">${t}</span>${link}</div>`;
+  }).join('') || '<div class="muted" style="padding:8px 4px">No posts logged yet — first automated run will populate this.</div>';
+}
+
 function renderMafia(d){
   if(!$('mafiaMetrics')||!d.mafia) return;
   const m=d.mafia;
@@ -155,12 +167,13 @@ function initMafia(){
 }
 
 async function load(){
-  let d,cl;
+  let d,cl,rec;
   try{ d=await (await fetch('data.json?'+Date.now())).json(); }catch(e){ return; }
   try{ cl=await (await fetch('changelog.json?'+Date.now())).json(); }catch(e){ cl={entries:[]}; }
+  try{ rec=await (await fetch('recent.json?'+Date.now())).json(); }catch(e){ rec={posts:[]}; }
   if($('updated')) $('updated').textContent=new Date(d.updated).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
   renderScoreboard(d); renderRunway(d); renderCoverage(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
-  renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl);
+  renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl); renderRecent(rec);
 }
 
 function renderRunway(d){

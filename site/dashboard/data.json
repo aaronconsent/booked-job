@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T08:58",
+  "updated": "2026-07-06T09:23",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 8,
+        "current": 9,
         "target": 30,
-        "pct": 27,
+        "pct": 30,
         "on_track": true
       },
       {
@@ -115,7 +115,7 @@
       "date": "2026-07-07",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The 5-minute favor that isn't",
+      "title": "The spite ad that opens the show",
       "sub": "Reel"
     },
     {
@@ -143,7 +143,7 @@
       "date": "2026-07-10",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The spite ad that opens the show",
+      "title": "Answer your phone",
       "sub": "Reel"
     },
     {
@@ -164,7 +164,7 @@
       "date": "2026-07-14",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Answer your phone",
+      "title": "Porno or Plumbing R2",
       "sub": "Reel"
     },
     {
@@ -199,9 +199,9 @@
     "reactions": 6,
     "comments": 14,
     "shares": 0,
-    "reels_published": 8,
-    "posts_remaining": 103,
-    "reels_remaining": 11
+    "reels_published": 9,
+    "posts_remaining": 104,
+    "reels_remaining": 10
   },
   "ads": {
     "status": "ACTIVE",
@@ -221,7 +221,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 23
+    "media": 24
   },
   "email": {
     "subscribers": 5
@@ -436,7 +436,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 83,
+      "count": 84,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 23,
+      "count": 24,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -463,11 +463,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 510,
+      "views": 516,
       "followers": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "posts",
       "followers": 7,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 48,
+      "count": 49,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 50,
+      "count": 51,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -534,7 +534,7 @@
     {
       "name": "Telegram",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "mirrors",
       "grade": "B",
       "group": "content"
@@ -570,7 +570,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 18,
+      "count": 19,
       "unit": "videos (Buffer)",
       "stat": "2871 views \u00b7 16 reactions",
       "views": 2871,
@@ -613,12 +613,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Polls",
@@ -643,12 +643,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Long video",
@@ -674,7 +674,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 14
+        "count": 15
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 1
+        "count": 2
       },
       {
         "type": "Articles",
@@ -735,19 +735,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 13
+        "count": 14
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 48
+        "count": 49
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Video",
@@ -777,17 +777,17 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Polls",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 5
+        "count": 6
       }
     ],
     "Tumblr": [
@@ -806,24 +806,24 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 103,
+      "remaining": 104,
       "per_day": 2,
-      "days": 51.5,
+      "days": 52.0,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 11,
+      "remaining": 10,
       "per_day": 1,
-      "days": 11.0,
+      "days": 10.0,
       "status": "green"
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 10,
+      "remaining": 40,
       "per_day": 2,
-      "days": 5.0,
-      "status": "amber"
+      "days": 20.0,
+      "status": "green"
     },
     {
       "label": "Blog articles (drip)",
@@ -834,14 +834,14 @@
     },
     {
       "label": "Video pool (evergreen)",
-      "remaining": 16,
+      "remaining": 47,
       "per_day": 0,
       "days": null,
       "status": "green"
     }
   ],
   "funnel": {
-    "reach": 24681,
+    "reach": 24690,
     "engagement": 20,
     "audience": 18,
     "cr_clicks": 11
@@ -850,7 +850,7 @@
     "audience": 8,
     "engagement": 18,
     "email": 0,
-    "reach": 24681
+    "reach": 24690
   },
   "mafia": {
     "metrics": [
@@ -866,7 +866,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 562,
+        "value": 572,
         "grade": "A"
       },
       {
@@ -886,6 +886,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 562 posts, 18 audience, 11 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 572 posts, 18 audience, 11 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

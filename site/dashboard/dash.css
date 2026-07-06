@@ -259,3 +259,14 @@ footer{color:var(--muted);font-size:12px;text-align:center;margin-top:34px}
 .tagpill:hover{border-color:rgba(255,106,0,.4)}
 .tagpill span{font-size:10px;color:var(--muted);font-family:'JetBrains Mono',monospace}
 .dupd{font-size:11px;color:var(--muted);font-family:'JetBrains Mono',monospace;margin-top:12px;padding-top:10px;border-top:1px solid var(--line)}
+
+/* Recent Posts feed */
+.recent{display:flex;flex-direction:column;gap:2px}
+.rp{display:grid;grid-template-columns:150px 1fr auto auto;gap:12px;align-items:center;padding:7px 8px;border-radius:8px;font-size:13px}
+.rp:nth-child(odd){background:rgba(255,255,255,0.035)}
+.rp-c{font-weight:600;white-space:nowrap;text-transform:capitalize}
+.rp-i{color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rp-t{color:var(--muted);font-size:12px;white-space:nowrap}
+.rp-l{text-decoration:none;opacity:.65}
+.rp-l:hover{opacity:1}
+@media(max-width:640px){.rp{grid-template-columns:118px 1fr auto}.rp-t{display:none}}

@@ -33,6 +33,7 @@ AGENTS = [
     ("bluesky_engage.py", []), ("threads_engage.py", []), ("fb_engage.py", []),
     ("ig_engage.py", []), ("youtube_engage.py", []), ("ig_dm_inbox.py", []),
     ("fb_report.py", []),
+    ("build_recent.py", []),
     ("blog_drip_runner.py", []),
     ("nightly_review.py", ["--no-fetch"]),
     ("health_alert.py", []),
