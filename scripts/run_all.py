@@ -34,6 +34,7 @@ AGENTS = [
     ("ig_engage.py", []), ("youtube_engage.py", []), ("ig_dm_inbox.py", []),
     ("fb_report.py", []),
     ("build_recent.py", []),
+    ("build_podcast_feed.py", []), ("build_podcast_blog.py", []),
     ("blog_drip_runner.py", []),
     ("nightly_review.py", ["--no-fetch"]),
     ("health_alert.py", []),
