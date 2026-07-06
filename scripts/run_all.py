@@ -30,8 +30,7 @@ AGENTS = [
     ("image_pool_runner.py", []),
     ("pinterest_buffer_runner.py", []), ("email_drip_runner.py", []),
     ("bluesky_feed_refresh.py", []), ("yt_runner.py", []),
-    # ("podcast_runner.py", []),  # PAUSED: video→YouTube long-form. Reuses podcast_queue.json which
-    # is the existing AUDIO pipeline's queue. Re-enable after separating onto its own video queue.
+    ("podcast_runner.py", []),  # video→YouTube long-form (own queue: podcast_video_queue.json)
     ("bluesky_engage.py", []), ("threads_engage.py", []), ("fb_engage.py", []),
     ("ig_engage.py", []), ("youtube_engage.py", []), ("ig_dm_inbox.py", []),
     ("fb_report.py", []),

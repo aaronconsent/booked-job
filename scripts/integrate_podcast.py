@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""Stage rendered podcast episodes into the site for hosting + build
-content/podcast_queue.json (SEO title/description/tags) for podcast_runner.py."""
+"""Stage rendered podcast VIDEO episodes into the site + build
+content/podcast_video_queue.json (SEO title/description/tags) for podcast_runner.py.
+NOTE: this is the VIDEO/YouTube track — separate from the existing audio podcast
+pipeline (podcast.py -> podcast_queue.json / feed.xml). Do not merge the two."""
 import json, os, shutil
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
@@ -45,18 +47,19 @@ def main():
     staged = 0
     for eid, (src_name, title, desc) in EPS.items():
         src = os.path.join(SRC, src_name)
-        if not os.path.exists(src):
-            print(f"  skip {eid}: not rendered ({src_name})"); continue
         dst = os.path.join(DEST, f"{eid}.mp4")
-        shutil.copy(src, dst); staged += 1
+        if os.path.exists(src):
+            shutil.copy(src, dst); staged += 1
+        elif not os.path.exists(dst):
+            print(f"  skip {eid}: not rendered ({src_name}) and not already staged"); continue
         thumb = f"site/podcast/{eid}-thumb.png"
         q["episodes"].append({
             "id": eid, "title": title, "description": desc, "tags": TAGS,
             "video": f"site/podcast/{eid}.mp4", "url": f"{BASE}/podcast/{eid}.mp4",
             "thumbnail": thumb if os.path.exists(os.path.join(ROOT, thumb)) else None,
         })
-    json.dump(q, open(os.path.join(ROOT, "content", "podcast_queue.json"), "w"), indent=2, ensure_ascii=False)
-    print(f"staged {staged} episodes -> site/podcast/; podcast_queue.json: {len(q['episodes'])} episodes")
+    json.dump(q, open(os.path.join(ROOT, "content", "podcast_video_queue.json"), "w"), indent=2, ensure_ascii=False)
+    print(f"staged {staged} episodes -> site/podcast/; podcast_video_queue.json: {len(q['episodes'])} episodes")
 
 
 if __name__ == "__main__":

@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
-"""Upload the next long-form podcast episode to YouTube (a real video, NOT a Short).
-Reads content/podcast_queue.json; state content/podcast_state.json. Paced: at most
-one episode per run, min 20h apart, in the active window. --force bypasses gates."""
+"""Upload the next long-form podcast VIDEO episode to YouTube (a real video, NOT a Short).
+Reads content/podcast_video_queue.json; state content/podcast_video_state.json. This is
+the VIDEO track — separate from the existing audio podcast (podcast.py / podcast_queue.json).
+Paced: at most one episode per run, min 20h apart, in the active window. --force bypasses gates."""
 import argparse, datetime as dt, json, os, sys, urllib.request
 import yt_upload
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-QUEUE = os.path.join(ROOT, "content", "podcast_queue.json")
-STATE = os.path.join(ROOT, "content", "podcast_state.json")
-LOG = os.path.join(ROOT, "content", "podcast.log")
+QUEUE = os.path.join(ROOT, "content", "podcast_video_queue.json")
+STATE = os.path.join(ROOT, "content", "podcast_video_state.json")
+LOG = os.path.join(ROOT, "content", "podcast_video.log")
 WINDOW = (9, 21)
 GAP_HOURS = 20
 CATEGORY = "27"  # Education
