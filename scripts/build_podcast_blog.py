@@ -33,8 +33,8 @@ audio,video,iframe{{width:100%;border-radius:12px;margin:14px 0}}.muted{{color:#
 <p class="muted">🎙️ Get Booked, Not F***ed · The Podcast</p>
 <h1>{html.escape(clean_title)}</h1>
 <p class="muted">{meta}</p>
-<video controls preload="metadata" poster="{BASE}/podcast/cover.png" src="{BASE}/podcast/{ep}.mp4"></video>
-<p>🎧 <a href="{BASE}/podcast/{ep}.mp3">Listen (audio)</a> · <a href="{BASE}/podcast/feed.xml">Subscribe (RSS)</a></p>
+<audio controls preload="metadata" src="{BASE}/podcast/{ep}.mp3"></audio>
+<p>🎧 <a href="{BASE}/podcast/feed.xml">Subscribe (Apple/Spotify RSS)</a> · 📺 <a href="{BASE}">Watch the full video</a></p>
 <div class="cta">Want the free playbook behind these numbers? → <a href="{BASE}">booked-job.com</a></div>
 <h2>Full transcript</h2>
 {turns}
