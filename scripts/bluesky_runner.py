@@ -31,6 +31,9 @@ def main():
         print(json.dumps({"done": len(done), "remaining": [i["id"] for i in items if i["id"] not in done]}, indent=2)); return
     if not os.path.exists(os.path.join(ROOT, "secrets", "bluesky.env")):
         log("Bluesky not connected (no secrets/bluesky.env) — skipping."); return
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 4):
+        log("skip: Bluesky cadence gate (~6/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Bluesky."); return
@@ -43,7 +46,7 @@ def main():
         res = bluesky_publish.publish_thread(teaser[:300], nxt["url"], nxt["title"], nxt.get("blurb", "")[:300], chain)
     else:
         res = bluesky_publish.publish(teaser[:300], nxt["url"], nxt["title"], nxt.get("blurb", "")[:300])
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED '{nxt['id']}' to Bluesky -> {res.get('uri')}")
     try:

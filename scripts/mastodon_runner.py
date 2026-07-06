@@ -32,6 +32,9 @@ def main():
         print(json.dumps({"done": len(done), "remaining": [i["id"] for i in items if i["id"] not in done]}, indent=2)); return
     if not os.path.exists(os.path.join(ROOT, "secrets", "mastodon.env")):
         log("Mastodon not connected (no secrets/mastodon.env) — skipping."); return
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 4):
+        log("skip: Mastodon cadence gate (~6/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Mastodon."); return
@@ -53,7 +56,7 @@ def main():
     except Exception as ex:
         log(f"media attach skipped: {ex}")
     res = mastodon_publish.publish(text[:500], media_ids)
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED '{nxt['id']}' to Mastodon -> {res.get('url')}")
     try:

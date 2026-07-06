@@ -45,6 +45,9 @@ def main():
     if not os.path.exists(os.path.join(ROOT, "secrets", "blogger.env")) and not a.dry_run:
         log("Blogger not connected yet (no secrets/blogger.env) — skipping."); return
 
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 8):
+        log("skip: Blogger cadence gate (~3/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — add items to content/syndication_queue.json"); return
@@ -54,7 +57,7 @@ def main():
 
     import blogger_publish
     res = blogger_publish.publish(nxt["title"], nxt["content_html"], nxt.get("labels", []))
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"SYNDICATED '{nxt['id']}' -> {res.get('url')}")
     try:

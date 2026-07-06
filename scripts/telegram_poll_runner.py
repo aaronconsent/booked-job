@@ -32,6 +32,9 @@ def main():
         print(json.dumps({"done": len(done), "remaining": [p["id"] for p in polls if p["id"] not in done]}, indent=2)); return
     if not os.path.exists(os.path.join(ROOT, "secrets", "telegram.env")):
         log("Telegram not connected — skipping."); return
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 12):
+        log("skip: Telegram poll cadence gate (~2/day)"); return
     nxt = next((p for p in polls if p["id"] not in done), None)
     if not nxt:
         # cycle back to the start so the channel always has fresh polls
@@ -40,7 +43,7 @@ def main():
         log("no polls configured."); return
     import telegram_publish
     res = telegram_publish.send_poll(nxt["q"], nxt["options"], nxt.get("correct"), nxt.get("explain"))
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED poll '{nxt['id']}' (msg {res.get('result', {}).get('message_id')})")
 

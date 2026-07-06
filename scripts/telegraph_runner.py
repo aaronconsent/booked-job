@@ -56,13 +56,16 @@ def main():
     if not os.path.exists(os.path.join(ROOT, "secrets", "telegraph.env")):
         log("Telegraph not connected (no secrets/telegraph.env) — run telegraph_publish.py --setup."); return
 
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 6):
+        log("skip: Telegraph cadence gate (~4/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Telegraph."); return
 
     import telegraph_publish
     res = telegraph_publish.publish(nxt["title"], nodes_from(nxt))
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"PUBLISHED '{nxt['id']}' to Telegraph -> {res.get('url')}")
     try:

@@ -31,6 +31,9 @@ def main():
         print(json.dumps({"done": len(done), "remaining": [i["id"] for i in items if i["id"] not in done]}, indent=2)); return
     if not os.path.exists(os.path.join(ROOT, "secrets", "threads.env")):
         log("Threads not connected (no secrets/threads.env) — skipping."); return
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 4):
+        log("skip: Threads cadence gate (~6/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Threads."); return
@@ -53,7 +56,7 @@ def main():
             rr = threads_publish.publish_reply(r, pid); pid = rr.get("id", pid)
         except Exception as ex:
             log(f"chain reply failed: {ex}")
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED '{nxt['id']}' to Threads (+{len(chain)} chain replies) -> {res.get('id')}")
     try:

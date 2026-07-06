@@ -32,6 +32,9 @@ def main():
         print(json.dumps({"done": len(done), "remaining": [i["id"] for i in items if i["id"] not in done]}, indent=2)); return
     if not os.path.exists(os.path.join(ROOT, "secrets", "telegram.env")):
         log("Telegram not connected (no secrets/telegram.env) — skipping."); return
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 6):
+        log("skip: Telegram cadence gate (~4/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Telegram."); return
@@ -44,7 +47,7 @@ def main():
         text = f"<b>{title}</b>\n\n{blurb}\n\n{nxt['url']}"
     import telegram_publish
     res = telegram_publish.send_message(text)
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     mid = res.get("result", {}).get("message_id")
     log(f"POSTED '{nxt['id']}' to Telegram (msg {mid})")

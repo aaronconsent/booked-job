@@ -77,6 +77,9 @@ def main():
         state["pages_enabled"] = True
         json.dump(state, open(STATE, "w"), indent=2)
 
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 8):
+        log("skip: GitHub Pages cadence gate (~3/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for GitHub Pages."); return
@@ -85,7 +88,7 @@ def main():
     if not html:
         log(f"no source article for '{nxt['id']}' (site/blog/{nxt['id']}/index.html) — skip."); return
     url = github_pages_publish.put_file(f"{nxt['id']}/index.html", html, f"syndicate: {nxt['id']}")
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"SYNDICATED '{nxt['id']}' to GitHub Pages -> {url}")
     try:

@@ -44,6 +44,9 @@ def main():
     if not os.path.exists(os.path.join(ROOT, "secrets", "tumblr.env")) and not a.dry_run:
         log("Tumblr not connected yet (no secrets/tumblr.env) — skipping."); return
 
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 4):
+        log("skip: Tumblr cadence gate (~6/day)"); return
     nxt = next((i for i in items if i["id"] not in done), None)
     if not nxt:
         log("syndication queue empty — nothing new for Tumblr."); return
@@ -54,7 +57,7 @@ def main():
 
     import tumblr_publish
     res = tumblr_publish.publish(text, nxt["url"], nxt["title"], nxt.get("blurb", ""), nxt.get("labels", []))
-    done.add(nxt["id"]); state["done"] = list(done)
+    done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"POSTED '{nxt['id']}' to Tumblr -> {res.get('response', {}).get('id_string', 'ok')}")
     try:
