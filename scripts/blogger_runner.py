@@ -56,7 +56,13 @@ def main():
         log(f"DRY-RUN would publish '{nxt['id']}' to Blogger"); return
 
     import blogger_publish
-    res = blogger_publish.publish(nxt["title"], nxt["content_html"], nxt.get("labels", []))
+    # queue items carry blurb + canonical url (not full HTML) — build a summary post with a
+    # dofollow backlink, matching this runner's brief (summaries, not SEO-cannibalizing dupes).
+    url = nxt.get("url", "https://booked-job.com/blog/")
+    html = nxt.get("content_html") or (
+        f"<p>{nxt.get('blurb') or nxt.get('short_title') or nxt['title']}</p>\n"
+        f'<p><a href="{url}">Read the full breakdown on Booked Job &rarr;</a></p>')
+    res = blogger_publish.publish(nxt["title"], html, nxt.get("labels", []))
     done.add(nxt["id"]); state["done"] = list(done); post_cadence.stamp(state)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"SYNDICATED '{nxt['id']}' -> {res.get('url')}")
