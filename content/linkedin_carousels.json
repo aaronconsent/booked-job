@@ -44,6 +44,94 @@
         {"kind": "point", "headline": "Don't go dark on marketing", "body": "It's cheapest when competitors go quiet. Pour in then, not at peak prices."},
         {"kind": "cover", "headline": "The full playbook.", "body": "booked-job.com/blog/surviving-the-slow-season"}
       ]
+    },
+    "cost-per-booked-job": {
+      "title": "The Only Number That Matters",
+      "slides": [
+        {"kind": "cover", "headline": "Cost per lead is a lie", "body": "The only number that pays your mortgage is cost per booked JOB."},
+        {"kind": "point", "headline": "CPL hides the close rate", "body": "A $35 lead you win 1-in-12 times isn't cheap — it's $420 a job before you swing a hammer."},
+        {"kind": "point", "headline": "Do the real math", "body": "Angi ≈ $542 a booked job. Thumbtack ≈ $250. Google LSA ≈ $168. Same trade, wildly different truth."},
+        {"kind": "point", "headline": "Cheap means a bidding war", "body": "Shared leads go to 5–12 pros. You're not buying a customer — you're buying an at-bat against 8 other trucks."},
+        {"kind": "point", "headline": "Track it per channel", "body": "Ad spend ÷ jobs booked, monthly, per source. Kill what loses. Feed what wins."},
+        {"kind": "cover", "headline": "Know your number.", "body": "Free cost-per-job calculator → booked-job.com"}
+      ]
+    },
+    "answer-your-phone": {
+      "title": "Answer Your Phone (Speed to Lead)",
+      "slides": [
+        {"kind": "cover", "headline": "Answer your phone.", "body": "The cheapest marketing upgrade in the trades costs $0."},
+        {"kind": "point", "headline": "First to answer usually wins", "body": "Homeowners call down the list. The first live human tends to book the job."},
+        {"kind": "point", "headline": "5 minutes is the cliff", "body": "Call back in 5 minutes vs 30 and you're up to 100× more likely to actually connect."},
+        {"kind": "point", "headline": "Missed call? Auto-text back", "body": "'Sorry we missed you — what's going on?' sent instantly saves the job."},
+        {"kind": "point", "headline": "Voicemail is where jobs die", "body": "Nobody leaves one anymore. If you can't answer, forward it or use an answering service."},
+        {"kind": "cover", "headline": "Speed wins.", "body": "The full speed-to-lead playbook → booked-job.com"}
+      ]
+    },
+    "google-business-profile": {
+      "title": "Your GBP Is Your Storefront",
+      "slides": [
+        {"kind": "cover", "headline": "Your Google Business Profile is your storefront", "body": "And most contractors leave it half-empty."},
+        {"kind": "point", "headline": "Fill in EVERY field", "body": "Services, service areas, hours, description. Google ranks complete profiles over lazy ones."},
+        {"kind": "point", "headline": "Photos = trust + ranking", "body": "Add job photos weekly. Fresh-photo profiles get more calls and direction requests."},
+        {"kind": "point", "headline": "Post like it's social", "body": "A Google Post every week — offers, tips, finished jobs. Free space on the results page."},
+        {"kind": "point", "headline": "Reviews are the ranking fuel", "body": "Steady, recent reviews with keywords ('water heater install') push you up the map pack."},
+        {"kind": "cover", "headline": "Own the map.", "body": "Free GBP checklist → booked-job.com"}
+      ]
+    },
+    "website-that-books": {
+      "title": "Why Your Website Doesn't Book Jobs",
+      "slides": [
+        {"kind": "cover", "headline": "Why your website doesn't book jobs", "body": "It looks fine. It just doesn't SELL."},
+        {"kind": "point", "headline": "No phone number up top", "body": "If they have to hunt for how to reach you, they're already calling a competitor."},
+        {"kind": "point", "headline": "You listed services, not outcomes", "body": "Homeowners don't want 'HVAC installation.' They want 'cool house by Friday.'"},
+        {"kind": "point", "headline": "Zero proof", "body": "No reviews, no photos, no faces. Trust is the whole game — put it on page one."},
+        {"kind": "point", "headline": "Slow = gone", "body": "3 seconds to load or half your visitors bounce. Speed is a booking feature."},
+        {"kind": "cover", "headline": "Turn clicks into calls.", "body": "Free website teardown → booked-job.com"}
+      ]
+    },
+    "facebook-vs-google": {
+      "title": "Facebook or Google?",
+      "slides": [
+        {"kind": "cover", "headline": "Facebook or Google?", "body": "Where a contractor's ad dollar actually works."},
+        {"kind": "point", "headline": "Google catches demand", "body": "Someone typing 'emergency plumber near me' is ready to book NOW. That's the money."},
+        {"kind": "point", "headline": "Facebook creates demand", "body": "Nobody scrolls Facebook needing a roof. Great for brand + big-ticket, slow for emergencies."},
+        {"kind": "point", "headline": "Start where the intent is", "body": "Small budget? Google Local Service Ads first — pay per lead, badge included."},
+        {"kind": "point", "headline": "Then layer social", "body": "Once the phone rings from Google, use Facebook to stay famous in your zip code."},
+        {"kind": "cover", "headline": "Spend where it books.", "body": "Free channel guide → booked-job.com"}
+      ]
+    },
+    "referrals-on-autopilot": {
+      "title": "A Referral Engine That Runs Itself",
+      "slides": [
+        {"kind": "cover", "headline": "A referral engine that runs itself", "body": "Your cheapest, highest-close pipeline — systematized."},
+        {"kind": "point", "headline": "Ask at the peak", "body": "The moment the job's done and they're thrilled: 'Know anyone else who needs this?'"},
+        {"kind": "point", "headline": "Make sharing effortless", "body": "A card, a text link, a $25 thank-you. Remove every ounce of friction."},
+        {"kind": "point", "headline": "Reward BOTH sides", "body": "Give the referrer and the new customer something. It doubles the reason to share."},
+        {"kind": "point", "headline": "Follow up 30 days later", "body": "'How's it holding up — and thanks again for any referrals.' Stay top of mind."},
+        {"kind": "cover", "headline": "Turn jobs into more jobs.", "body": "Free referral kit → booked-job.com"}
+      ]
+    },
+    "five-numbers-to-track": {
+      "title": "The 5 Numbers Every Contractor Should Know",
+      "slides": [
+        {"kind": "cover", "headline": "The 5 numbers every contractor should know", "body": "Run the business — don't let it run you."},
+        {"kind": "point", "headline": "1. Cost per booked job", "body": "Per lead source. The only marketing number that touches your bank account."},
+        {"kind": "point", "headline": "2. Close rate", "body": "Quotes sent vs jobs won. If it's low, it's a follow-up problem, not a lead problem."},
+        {"kind": "point", "headline": "3. Average job value", "body": "Nudge it up with good/better/best options. Same trucks, bigger tickets."},
+        {"kind": "point", "headline": "4. Gross margin  ·  5. Booked weeks ahead", "body": "Margin says if it's worth it. Backlog says when to spend on marketing."},
+        {"kind": "cover", "headline": "See your business clearly.", "body": "Free numbers dashboard → booked-job.com"}
+      ]
+    },
+    "exclusive-vs-shared-leads": {
+      "title": "Why Cheap Leads Cost the Most",
+      "slides": [
+        {"kind": "cover", "headline": "Why cheap leads cost the most", "body": "Shared vs exclusive, in real dollars."},
+        {"kind": "point", "headline": "The '$35' shared lead", "body": "Sold to 8 pros. ~1-in-8 close. Real cost per job: hundreds — plus the race to the phone."},
+        {"kind": "point", "headline": "The '$90' exclusive lead", "body": "Only yours. Close ~1-in-3. Often CHEAPER per booked job than the 'cheap' one."},
+        {"kind": "point", "headline": "Shared leads train shoppers", "body": "Five calls in ten minutes = a bidding war you win only on price."},
+        {"kind": "point", "headline": "Exclusive = a real conversation", "body": "No competition on the line. You sell value, protect margin, book the job."},
+        {"kind": "cover", "headline": "Price leads by BOOKED jobs.", "body": "Free lead calculator → booked-job.com"}
+      ]
     }
   }
 }

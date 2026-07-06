@@ -58,7 +58,9 @@ def main():
     if not os.path.exists(os.path.join(ROOT, "secrets", "fb.env")):
         log("FB/IG not connected — skipping."); return
     # 2) post next un-posted whose images are all live
-    import ig_publish
+    import ig_publish, post_cadence
+    if not a.force and not post_cadence.due(state, 8):
+        log("skip: IG carousel cadence gate (~3/day)"); return
     for slug, c in cfg.items():
         if slug in done:
             continue
@@ -70,7 +72,7 @@ def main():
             res = ig_publish.publish_carousel(urls, caption_for(slug, c))
         except Exception as ex:
             log(f"IG carousel failed for '{slug}': {ex}"); return
-        done.add(slug); state["done"] = list(done)
+        done.add(slug); state["done"] = list(done); post_cadence.stamp(state)
         json.dump(state, open(STATE, "w"), indent=2)
         log(f"POSTED IG carousel '{slug}' -> {res.get('id')}")
         try:

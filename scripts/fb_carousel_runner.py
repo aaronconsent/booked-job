@@ -62,6 +62,9 @@ def main():
     if a.status:
         print(json.dumps({"done": list(done)}, indent=2)); return
     e = env(); page = e["FB_PAGE_ID"]; tok = e["FB_PAGE_TOKEN"]
+    import post_cadence
+    if not a.force and not post_cadence.due(state, 8):
+        log("skip: FB carousel cadence gate (~3/day)"); return
     q = load(os.path.join(ROOT, "content", "syndication_queue.json"), {"items": []})["items"]
     for slug, c in cfg.items():
         if slug in done:
@@ -86,7 +89,7 @@ def main():
             _post(f"{post['id']}/comments", {"message": f"Full breakdown 👉 {url}", "access_token": tok})
         except Exception as ex:
             log(f"FB carousel failed for '{slug}': {ex}"); return
-        done.add(slug); state["done"] = list(done)
+        done.add(slug); state["done"] = list(done); post_cadence.stamp(state)
         json.dump(state, open(STATE, "w"), indent=2)
         log(f"POSTED FB carousel '{slug}' -> {post.get('id')}")
         return
