@@ -1,13 +1,15 @@
 {
   "done": [
+    "slow-season",
+    "angi-leads",
     "map-pack",
+    "cheaper-job",
     "review-timing",
     "markup-margin",
+    "website-leave",
     "unpaid-invoices",
     "speed-window",
-    "slow-season",
-    "website-leave",
-    "judge-first",
-    "angi-leads"
-  ]
+    "judge-first"
+  ],
+  "last_iso": "2026-07-06T15:12:54"
 }

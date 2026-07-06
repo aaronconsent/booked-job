@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T12:18",
+  "generated": "2026-07-06T15:16",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 23,
+        "current": 31,
         "target": 22,
         "status": "green",
         "needs": null
@@ -53,7 +53,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 2,
         "target": 1,
         "status": "green",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3882,
+        "current": 3940,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 383,
+        "current": 391,
         "target": 600,
         "status": "green",
         "needs": null
@@ -167,7 +167,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 3,
+        "current": 4,
         "target": 30,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 8,
+        "current": 9,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 3798,
+        "current": 3856,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -222,11 +222,11 @@
   "counters": {
     "articles": 84,
     "reels": 9,
-    "social_posts": 445,
-    "followers": 13,
+    "social_posts": 453,
+    "followers": 14,
     "engagement": 20,
     "yt_views": 97,
-    "yt_shorts": 15,
+    "yt_shorts": 16,
     "email_subs": 5,
     "traffic": 0
   },

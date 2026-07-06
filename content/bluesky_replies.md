@@ -2,6 +2,10 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
 
  https://stylelib.org/?p=117085 
@@ -183,8 +187,3 @@ He wasn’t a plumber, didn’t own a business & wasn’t a m
 
 #business #corporate #elementor #plumber #rstheme #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u
-
-- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
-
-https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
