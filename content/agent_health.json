@@ -38,7 +38,7 @@
   "blog_drip_runner.py": 0,
   "nightly_review.py": 0,
   "health_alert.py": 0,
-  "image_pool_runner.py": 3,
+  "image_pool_runner.py": 0,
   "podcast_runner.py": 0,
   "build_recent.py": 0,
   "founder_digest.py": 0

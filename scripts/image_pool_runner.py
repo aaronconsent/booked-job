@@ -135,7 +135,7 @@ def main():
             st["posted"].append(p["id"]); st["last_iso"] = now.isoformat(timespec="seconds")
             st["day"]["count"] += 1
             log(f"{name}: POSTED '{p['id']}' -> {st['day']['count']}/{cap} today")
-        except Exception as ex:
+        except (Exception, SystemExit) as ex:   # some publishers sys.exit() on API error — don't let one kill the rest
             log(f"{name}: FAILED '{p['id']}': {str(ex)[:160]}")
     if not a.dry_run:
         json.dump(state, open(STATE, "w"), indent=2)
