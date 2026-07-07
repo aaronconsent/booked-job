@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T20:56:45Z",
+  "updated": "2026-07-07T22:20:10Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,14 +97,14 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#contractors",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#roofing",
         "uses": 2,
         "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#handyman",
@@ -208,7 +208,7 @@
     {
       "handle": "@patriciarichardson.bsky.social",
       "display": "Patricia Richardson",
-      "followers": 31898,
+      "followers": 31897,
       "desc": "Best known as the Mom on Home Improvement and Alan Alda’s Chief of Staff on the last two years of The West Wing. Mom,Mim",
       "link": "https://bsky.app/profile/patriciarichardson.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16323,
+      "followers": 16325,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -243,14 +243,14 @@
     {
       "handle": "@plumergolf.bsky.social",
       "display": "MD 🇺🇦🇺🇸🇨🇦",
-      "followers": 14337,
+      "followers": 14338,
       "desc": "🚫DM’s  Calm, collected, confident, man.  Plumber that always  accomplish’s quality, professional plumbing. A golf profes",
       "link": "https://bsky.app/profile/plumergolf.bsky.social"
     },
     {
       "handle": "@missrecreate.bsky.social",
       "display": "Miss Recreate",
-      "followers": 7446,
+      "followers": 7447,
       "desc": "Gen X - PNW - Dogs - Music - Books - Reluctant Gardener - Wife of a Veteran - Mama - Believer in Facts Matter - Kindness",
       "link": "https://bsky.app/profile/missrecreate.bsky.social"
     },
