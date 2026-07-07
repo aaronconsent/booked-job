@@ -1,38 +1,44 @@
 {
-  "updated": "2026-07-07T13:25",
+  "updated": "2026-07-07T16:02",
   "posts": [
     {
-      "ts": "2026-07-07T13:14:43",
-      "channel": "mastodon",
-      "item": "card-rev-plumb",
+      "ts": "2026-07-07T16:00:21",
+      "channel": "facebook",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-07-07T13:14:39",
+      "ts": "2026-07-07T15:59:44",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-07-07T15:59:40",
       "channel": "threads",
-      "item": "gc-general-contractor-marketing-numbers",
+      "item": "painting-contractor-marketing-numbers",
       "url": null
     },
     {
-      "ts": "2026-07-07T13:14:08",
+      "ts": "2026-07-07T15:59:13",
       "channel": "mastodon",
-      "item": "google-lsa-yes-or-no",
-      "url": "https://mastodon.social/@bookedjob/116880051303327610"
+      "item": "marketing-trends-nobody-is-talking-about",
+      "url": "https://mastodon.social/@bookedjob/116880700395522120"
     },
     {
-      "ts": "2026-07-07T13:14:06",
+      "ts": "2026-07-07T15:59:11",
       "channel": "bluesky",
-      "item": "painting-contractor-marketing-numbers",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3"
+      "item": "how-many-google-reviews-to-rank",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq3iou"
     },
     {
-      "ts": "2026-07-07T13:14:04",
+      "ts": "2026-07-07T15:59:08",
       "channel": "telegraph",
-      "item": "painting-contractor-marketing-numbers",
-      "url": "https://telegra.ph/Painting-Contractor-Marketing-Numb"
+      "item": "how-many-google-reviews-to-rank",
+      "url": "https://telegra.ph/How-Many-Google-Reviews-You-Need-to-Rank"
     },
     {
-      "ts": "2026-07-07T13:13:22",
+      "ts": "2026-07-07T15:58:29",
       "channel": "facebook",
       "item": "pod-ep03-verdict",
       "url": null

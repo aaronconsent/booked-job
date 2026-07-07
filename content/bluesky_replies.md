@@ -2,6 +2,56 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@milayna.bsky.social**: Does that business do roofing? Probably. In the same way that Greenwater does pools. Incompetently, with poor materials, bad practice, no training. Because they aren't a pool business. They aren't the
+  → https://bsky.app/profile/milayna.bsky.social/post/3mooj2sx6yc2x
+
+- **@kylehugh.es**: There is so much work that doesn't get done because there is not enough attention available to plan the work, deploy the capital, and manage the resources. AI will give us infinite attention to do tho
+  → https://bsky.app/profile/kylehugh.es/post/3mor2sedr2k2x
+
+- **@stylelib.org**: Reneva –  Small Business HTML Template
+
+ https://themes.stylelib.org/?p=19089 
+
+#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
+  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
+
+- **@stylelib.org**: Fixhero – Handyman  Repair Services WordPress Theme
+
+ https://themes.stylelib.org/?p=809526 
+
+#business #corporate #elementor #plumber #rstheme #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u
+
+- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
+  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
+
+- **@aptora.bsky.social**: Leave the guesswork behind, and let the numbers lead the way. 
+
+With Contractor Compass 360 from Aptora, you'll have all the key data you need to run your field service business successfully.
+
+Interes
+  → https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c
+
+- **@aptora.bsky.social**: Integrations you can count on. Aptora 360 is the software that will help your field service business succeed.
+
+Want to learn more or get started? Just click the link below or give us a call at (316) 2
+  → https://bsky.app/profile/aptora.bsky.social/post/3mmrwhrnws22b
+
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mq2h3w4jbo2m
+
+- **@olduktvlistings.bsky.social**: 29/06/1959 Radio Times: Featuring Star Ballroom Championships; The Ted Heath Show; Shadow of a Pale Horse; Wilfred Pickles and Daphne Anderson in 'Value for Money'; The Archers; Summer Holidays and mo
+  → https://bsky.app/profile/olduktvlistings.bsky.social/post/3mpfwo63bld2a
+
+- **@coastalkeys.bsky.social**: 1. Do you provide mobile locksmith service?
+
+Yes! Coastal Keys Locksmith LLC is a fully mobile locksmith. We come directly to your home, business, or vehicle throughout Panama City, Panama City Beach,
+  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mpqe3lndlu2f
+
+- **@papillonjaune77.bsky.social**: Conducting business while the Senate is I'm recess?? Just retire and go home. These ppl hang on to their seats until the last breath. This is not public service. As if he hasn't done enough damage dur
+  → https://bsky.app/profile/papillonjaune77.bsky.social/post/3mpqesruulk2r
+
 - **@quemirasbobo.bsky.social**: Because it’s their belief that immigrants “take” from them
 
 Not a good analogy but remember Joe the Plumber who railed about taxes on the rich?
@@ -148,52 +198,3 @@ Are you a Dallas marketing agency owner? 🤔 Drafting the right Independent Con
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@robmakesthat.bsky.social**: Just the trades though, right? Office workers can fuck all the way off, apparently.
-
-As a small business owner (in Vancouver so you don’t have to pretend to care) I might not be able to survive univer
-  → https://bsky.app/profile/robmakesthat.bsky.social/post/3lor5pvbu6s2h
-
-- **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
-  → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
-
-- **@taos575.bsky.social**: That is absolutely the definition of skimming off the top. Since when has Trump become a licensed general contractor in DC? This entire Trump regime and crime family is robbing the taxpayers in ways u
-  → https://bsky.app/profile/taos575.bsky.social/post/3mpribejfks24
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
-  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
-
-- **@dbunkapp.bsky.social**: It's fascinating how some see Trump's massive stock trades as just business, yet they ignore the glaring conflict of interest. What's next for… https://social.dbunk.app/functions/v1/og-proxy/fc/hows-t
-  → https://bsky.app/profile/dbunkapp.bsky.social/post/3mprdjtgqe52j
-
-- **@dailyfactchecker.bsky.social**: It's fascinating how some see Trump's massive stock trades as just business, yet they ignore the glaring conflict of interest. What's next for… https://social.dbunk.app/functions/v1/og-proxy/fc/hows-t
-  → https://bsky.app/profile/dailyfactchecker.bsky.social/post/3mprdlf435f2z
-
-- **@yknot05.bsky.social**: Possibly b/c of the language gap, ppl across the rest of Cda are unaware of potential wages.
-Newflders flew across the country to work in oil fields for weeks at a time.
-Working trades elsewhere in Cd
-  → https://bsky.app/profile/yknot05.bsky.social/post/3mptieundcc2u
-
-- **@baadigi.bsky.social**: What happens when a homeowner asks an AI to compare your roofing business to your top competitor? If your website lacks semantic entity data, the AI won't even mention your name. We just published the
-  → https://bsky.app/profile/baadigi.bsky.social/post/3molvgn24jm2c
