@@ -1,40 +1,46 @@
 {
-  "updated": "2026-07-07T07:13",
+  "updated": "2026-07-07T10:55",
   "posts": [
     {
-      "ts": "2026-07-07T07:11:04",
-      "channel": "threads",
-      "item": "google-lsa-yes-or-no",
+      "ts": "2026-07-07T10:52:47",
+      "channel": "facebook",
+      "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-07-07T07:10:25",
+      "ts": "2026-07-07T10:52:00",
       "channel": "mastodon",
-      "item": "the-tracking-method-offline-marketing",
-      "url": "https://mastodon.social/@bookedjob/116878621104523313"
+      "item": "card-reviews",
+      "url": null
     },
     {
-      "ts": "2026-07-07T07:10:23",
+      "ts": "2026-07-07T10:51:54",
+      "channel": "threads",
+      "item": "marketing-trends-nobody-is-talking-about",
+      "url": null
+    },
+    {
+      "ts": "2026-07-07T10:51:02",
+      "channel": "mastodon",
+      "item": "ai-101-for-contractors",
+      "url": "https://mastodon.social/@bookedjob/116879488601168822"
+    },
+    {
+      "ts": "2026-07-07T10:51:00",
       "channel": "bluesky",
-      "item": "marketing-trends-nobody-is-talking-about",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.pos"
+      "item": "gc-general-contractor-marketing-numbers",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post"
     },
     {
-      "ts": "2026-07-07T07:10:21",
+      "ts": "2026-07-07T10:50:57",
       "channel": "telegraph",
-      "item": "marketing-trends-nobody-is-talking-about",
-      "url": "https://telegra.ph/Marketing-Trends-Nobody-Is-Talk"
+      "item": "gc-general-contractor-marketing-numbers",
+      "url": "https://telegra.ph/General-Contractor-Marketing-Num"
     },
     {
-      "ts": "2026-07-07T07:10:13",
+      "ts": "2026-07-07T10:50:48",
       "channel": "facebook",
       "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-07T07:08:48",
-      "channel": "fb",
-      "item": "ad-pauls",
       "url": null
     }
   ]
