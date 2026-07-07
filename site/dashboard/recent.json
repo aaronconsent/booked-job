@@ -1,47 +1,29 @@
 {
-  "updated": "2026-07-06T19:23",
+  "updated": "2026-07-07T00:07",
   "posts": [
     {
-      "ts": "2026-07-06T19:21:57",
-      "channel": "facebook",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-07-06T19:21:16",
-      "channel": "mastodon",
-      "item": "card-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-07-06T19:21:11",
+      "ts": "2026-07-07T00:05:08",
       "channel": "threads",
-      "item": "do-yard-signs-still-work-for-contractors",
+      "item": "the-tracking-method-offline-marketing",
       "url": null
     },
     {
-      "ts": "2026-07-06T19:20:40",
+      "ts": "2026-07-07T00:04:44",
       "channel": "mastodon",
-      "item": "three-hours-a-month-marketing-plan",
-      "url": "https://mastodon.social/@bookedjob/116875830248219213"
+      "item": "first-content-that-isnt-cringe",
+      "url": "https://mastodon.social/@bookedjob/116876947248520673"
     },
     {
-      "ts": "2026-07-06T19:20:38",
+      "ts": "2026-07-07T00:04:42",
       "channel": "bluesky",
-      "item": "the-tracking-method-offline-marketing",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3"
+      "item": "ai-101-for-contractors",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mpzte4qgrl2x"
     },
     {
-      "ts": "2026-07-06T19:20:37",
+      "ts": "2026-07-07T00:04:40",
       "channel": "telegraph",
-      "item": "the-tracking-method-offline-marketing",
-      "url": "https://telegra.ph/The-Tracking-Method-Know-Which-Off"
-    },
-    {
-      "ts": "2026-07-06T19:19:31",
-      "channel": "facebook",
-      "item": "pod-ep03-verdict",
-      "url": null
+      "item": "ai-101-for-contractors",
+      "url": "https://telegra.ph/AI-101-for-Contractors-What-Actually-Helps-and-Wh"
     }
   ]
 }

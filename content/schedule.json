@@ -88,13 +88,15 @@
       "slug": "how-many-reviews-plumbers-need-to-rank",
       "series": "Real Trade Numbers",
       "go_live": "2026-07-07",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-07"
     },
     {
       "slug": "how-many-reviews-roofers-need-to-rank",
       "series": "Real Trade Numbers",
       "go_live": "2026-07-07",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-07"
     },
     {
       "slug": "missed-calls-cost-contractors-invoices",

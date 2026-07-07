@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@pinnacledigital.bsky.social**: Real talk  how many calls did your business miss this week?
+
+No judgment.
+
+Most trades and service business owners genuinely do not know.
+
+Their phone rings while they are:
+
+🔧 Under a vehicle
+🏠 On a r
+  → https://bsky.app/profile/pinnacledigital.bsky.social/post/3mpzfw7alqi2p
+
 - **@votevaxresist.bsky.social**: Just because it’s “unthinkable” doesn’t mean HE hasn’t thought of it. I’m pretty sure though that he can’t think of a way to defend his trades as part of his “official” business. But, he’s going to ke
   → https://bsky.app/profile/votevaxresist.bsky.social/post/3mpyppggxv222
 
@@ -177,8 +189,3 @@ Working trades elsewhere in Cd
 
 - **@leospalteholz.bsky.social**: My dad built our house back in the 90s.  He could have never have afforded to have it built, it only worked because he did much of the work himself and was his own general contractor.  Could he have p
   → https://bsky.app/profile/leospalteholz.bsky.social/post/3mpmuw2ewn22c
-
-- **@narrowit.bsky.social**: SIGO VALIANT JV LLC received a $28.87M federal award. Purpose: THE GENERAL CONTRACTOR SHALL PROVIDE ALL LABOR, MATERIALS, EQUIPMENT, QUALIFIED SUPERVISION, AND OTHER ITEMS TO...
-
-https://www.narrowit.
-  → https://bsky.app/profile/narrowit.bsky.social/post/3mpo3nogwg22l
