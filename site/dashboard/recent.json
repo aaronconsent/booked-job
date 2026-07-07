@@ -1,44 +1,38 @@
 {
-  "updated": "2026-07-07T10:55",
+  "updated": "2026-07-07T13:25",
   "posts": [
     {
-      "ts": "2026-07-07T10:52:47",
-      "channel": "facebook",
-      "item": "card-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-07-07T10:52:00",
+      "ts": "2026-07-07T13:14:43",
       "channel": "mastodon",
-      "item": "card-reviews",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-07-07T10:51:54",
+      "ts": "2026-07-07T13:14:39",
       "channel": "threads",
-      "item": "marketing-trends-nobody-is-talking-about",
+      "item": "gc-general-contractor-marketing-numbers",
       "url": null
     },
     {
-      "ts": "2026-07-07T10:51:02",
+      "ts": "2026-07-07T13:14:08",
       "channel": "mastodon",
-      "item": "ai-101-for-contractors",
-      "url": "https://mastodon.social/@bookedjob/116879488601168822"
+      "item": "google-lsa-yes-or-no",
+      "url": "https://mastodon.social/@bookedjob/116880051303327610"
     },
     {
-      "ts": "2026-07-07T10:51:00",
+      "ts": "2026-07-07T13:14:06",
       "channel": "bluesky",
-      "item": "gc-general-contractor-marketing-numbers",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post"
+      "item": "painting-contractor-marketing-numbers",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3"
     },
     {
-      "ts": "2026-07-07T10:50:57",
+      "ts": "2026-07-07T13:14:04",
       "channel": "telegraph",
-      "item": "gc-general-contractor-marketing-numbers",
-      "url": "https://telegra.ph/General-Contractor-Marketing-Num"
+      "item": "painting-contractor-marketing-numbers",
+      "url": "https://telegra.ph/Painting-Contractor-Marketing-Numb"
     },
     {
-      "ts": "2026-07-07T10:50:48",
+      "ts": "2026-07-07T13:13:22",
       "channel": "facebook",
       "item": "pod-ep03-verdict",
       "url": null

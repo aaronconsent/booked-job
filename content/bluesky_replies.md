@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@quemirasbobo.bsky.social**: Because it’s their belief that immigrants “take” from them
+
+Not a good analogy but remember Joe the Plumber who railed about taxes on the rich?
+
+He wasn’t a plumber, didn’t own a business & wasn’t a m
+  → https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g
+
+- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
+
+ https://stylelib.org/?p=101768 
+
+#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac
+  → https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q
+
 - **@pinnacledigital.bsky.social**: Real talk  how many calls did your business miss this week?
 
 No judgment.
@@ -183,9 +197,3 @@ Working trades elsewhere in Cd
 
 - **@baadigi.bsky.social**: What happens when a homeowner asks an AI to compare your roofing business to your top competitor? If your website lacks semantic entity data, the AI won't even mention your name. We just published the
   → https://bsky.app/profile/baadigi.bsky.social/post/3molvgn24jm2c
-
-- **@milayna.bsky.social**: Does that business do roofing? Probably. In the same way that Greenwater does pools. Incompetently, with poor materials, bad practice, no training. Because they aren't a pool business. They aren't the
-  → https://bsky.app/profile/milayna.bsky.social/post/3mooj2sx6yc2x
-
-- **@leospalteholz.bsky.social**: My dad built our house back in the 90s.  He could have never have afforded to have it built, it only worked because he did much of the work himself and was his own general contractor.  Could he have p
-  → https://bsky.app/profile/leospalteholz.bsky.social/post/3mpmuw2ewn22c
