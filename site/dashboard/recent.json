@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-07T00:07",
+  "updated": "2026-07-07T03:41",
   "posts": [
     {
-      "ts": "2026-07-07T00:05:08",
+      "ts": "2026-07-07T03:38:14",
       "channel": "threads",
-      "item": "the-tracking-method-offline-marketing",
+      "item": "ai-101-for-contractors",
       "url": null
     },
     {
-      "ts": "2026-07-07T00:04:44",
+      "ts": "2026-07-07T03:37:43",
       "channel": "mastodon",
-      "item": "first-content-that-isnt-cringe",
-      "url": "https://mastodon.social/@bookedjob/116876947248520673"
+      "item": "do-yard-signs-still-work-for-contractors",
+      "url": "https://mastodon.social/@bookedjob/116877784718276209"
     },
     {
-      "ts": "2026-07-07T00:04:42",
+      "ts": "2026-07-07T03:37:42",
       "channel": "bluesky",
-      "item": "ai-101-for-contractors",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mpzte4qgrl2x"
+      "item": "google-lsa-yes-or-no",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq27axt54a2x"
     },
     {
-      "ts": "2026-07-07T00:04:40",
+      "ts": "2026-07-07T03:37:39",
       "channel": "telegraph",
-      "item": "ai-101-for-contractors",
-      "url": "https://telegra.ph/AI-101-for-Contractors-What-Actually-Helps-and-Wh"
+      "item": "google-lsa-yes-or-no",
+      "url": "https://telegra.ph/Google-Local-Services-Ads-Yes-or-No-The-Honest-Verd"
     }
   ]
 }
