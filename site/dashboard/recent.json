@@ -1,29 +1,41 @@
 {
-  "updated": "2026-07-07T03:41",
+  "updated": "2026-07-07T07:13",
   "posts": [
     {
-      "ts": "2026-07-07T03:38:14",
+      "ts": "2026-07-07T07:11:04",
       "channel": "threads",
-      "item": "ai-101-for-contractors",
+      "item": "google-lsa-yes-or-no",
       "url": null
     },
     {
-      "ts": "2026-07-07T03:37:43",
+      "ts": "2026-07-07T07:10:25",
       "channel": "mastodon",
-      "item": "do-yard-signs-still-work-for-contractors",
-      "url": "https://mastodon.social/@bookedjob/116877784718276209"
+      "item": "the-tracking-method-offline-marketing",
+      "url": "https://mastodon.social/@bookedjob/116878621104523313"
     },
     {
-      "ts": "2026-07-07T03:37:42",
+      "ts": "2026-07-07T07:10:23",
       "channel": "bluesky",
-      "item": "google-lsa-yes-or-no",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq27axt54a2x"
+      "item": "marketing-trends-nobody-is-talking-about",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.pos"
     },
     {
-      "ts": "2026-07-07T03:37:39",
+      "ts": "2026-07-07T07:10:21",
       "channel": "telegraph",
-      "item": "google-lsa-yes-or-no",
-      "url": "https://telegra.ph/Google-Local-Services-Ads-Yes-or-No-The-Honest-Verd"
+      "item": "marketing-trends-nobody-is-talking-about",
+      "url": "https://telegra.ph/Marketing-Trends-Nobody-Is-Talk"
+    },
+    {
+      "ts": "2026-07-07T07:10:13",
+      "channel": "facebook",
+      "item": "pod-ep03-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-07-07T07:08:48",
+      "channel": "fb",
+      "item": "ad-pauls",
+      "url": null
     }
   ]
 }
