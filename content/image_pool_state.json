@@ -1,9 +1,28 @@
 {
   "mastodon": {
     "posted": [
+      "card-cpbj",
+      "card-angi"
+    ],
+    "last_iso": "2026-07-06T19:21:13",
+    "day": {
+      "date": "2026-07-06",
+      "count": 2
+    }
+  },
+  "ig": {
+    "posted": [],
+    "last_iso": null,
+    "day": {
+      "date": "2026-07-06",
+      "count": 0
+    }
+  },
+  "facebook": {
+    "posted": [
       "card-cpbj"
     ],
-    "last_iso": "2026-07-06T08:04:37",
+    "last_iso": "2026-07-06T19:21:13",
     "day": {
       "date": "2026-07-06",
       "count": 1
