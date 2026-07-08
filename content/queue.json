@@ -959,6 +959,22 @@
       "image": null,
       "link": "https://booked-job.com/blog/when-angi-actually-works/",
       "comment": "Full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "art2-contractor-marketing-sta",
+      "archetype": "branch-series",
+      "caption": "Every contractor-marketing number that matters, in one sourced page: $542 vs $168 per booked job, the 4-star cliff, the 5-minute rule, the 98% who leave your website. Bookmark it.",
+      "image": null,
+      "link": "https://booked-job.com/blog/contractor-marketing-statistics/",
+      "comment": "Full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "art2-angi-alternatives",
+      "archetype": "branch-series",
+      "caption": "Leaving Angi? Ranked by cost per booked job: Google LSA ~$168, Thumbtack ~$250, Angi ~$542 \u2014 and the owned channels that beat all three long-term. The honest comparison.",
+      "image": null,
+      "link": "https://booked-job.com/blog/angi-alternatives/",
+      "comment": "Full breakdown \ud83d\udc47"
     }
   ]
 }

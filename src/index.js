@@ -11,6 +11,12 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
+    // canonical host: 301 www -> apex (SEO — one URL per page)
+    if (url.hostname === "www.booked-job.com") {
+      url.hostname = "booked-job.com";
+      return Response.redirect(url.toString(), 301);
+    }
+
     if (url.pathname === "/api/subscribe" && request.method === "POST") {
       try {
         const { email } = await request.json();

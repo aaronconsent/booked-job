@@ -11,6 +11,8 @@ Booked Job (booked-job.com) is a free, no-fluff marketing education resource for
 - Contact: hello@booked-job.com
 - Founder: Aaron Phillips
 
+Full article text (all pages, one file): https://booked-job.com/llms-full.txt
+
 ## Pages
 - https://booked-job.com/ : homepage — free Marketing 101 course + tools for contractors
 - https://booked-job.com/blog/ : all articles — lead costs, reviews, local SEO, platform math

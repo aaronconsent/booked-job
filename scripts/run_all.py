@@ -35,6 +35,7 @@ AGENTS = [
     ("fb_report.py", []),
     ("build_recent.py", []),
     ("blog_drip_runner.py", []),
+    ("build_llms_full.py", []),   # AEO: full-content file for AI engines, refreshed after drip
     ("nightly_review.py", ["--no-fetch"]),
     ("health_alert.py", []),
     ("founder_digest.py", []),   # emails Aaron a status rollup ~every 2h + on major events

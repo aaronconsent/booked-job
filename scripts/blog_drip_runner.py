@@ -72,6 +72,12 @@ def main():
             it["status"] = "live"; it["published"] = today.isoformat()
     json.dump(sched, open(SCHEDULE, "w"), indent=2)
     log(f"PUBLISHED {len(built)} staged articles: {', '.join(built)}")
+    try:   # instant Bing/AI-engine indexing for the new URLs
+        import indexnow
+        code = indexnow.submit([f"https://booked-job.com/blog/{s}/" for s in built])
+        log(f"IndexNow pinged {len(built)} new URLs -> HTTP {code}")
+    except Exception as e:
+        log(f"IndexNow ping failed (non-fatal): {str(e)[:100]}")
 
     # deploy (skip on CI — the Actions workflow does one commit+push for the whole run)
     if os.environ.get("CI"):
