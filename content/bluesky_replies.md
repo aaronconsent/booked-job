@@ -2,6 +2,38 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
+  → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
+
+- **@coastalkeys.bsky.social**: 1. Do you provide mobile locksmith service?
+
+Yes! Coastal Keys Locksmith LLC is a fully mobile locksmith. We come directly to your home, business, or vehicle throughout Panama City, Panama City Beach,
+  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mpqe3lndlu2f
+
+- **@papillonjaune77.bsky.social**: Conducting business while the Senate is I'm recess?? Just retire and go home. These ppl hang on to their seats until the last breath. This is not public service. As if he hasn't done enough damage dur
+  → https://bsky.app/profile/papillonjaune77.bsky.social/post/3mpqesruulk2r
+
+- **@quemirasbobo.bsky.social**: Because it’s their belief that immigrants “take” from them
+
+Not a good analogy but remember Joe the Plumber who railed about taxes on the rich?
+
+He wasn’t a plumber, didn’t own a business & wasn’t a m
+  → https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g
+
+- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
+
+ https://stylelib.org/?p=101768 
+
+#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac
+  → https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
 - **@votevaxresist.bsky.social**: Just because it’s “unthinkable” doesn’t mean HE hasn’t thought of it. I’m pretty sure though that he can’t think of a way to defend his trades as part of his “official” business. But, he’s going to ke
   → https://bsky.app/profile/votevaxresist.bsky.social/post/3mpyppggxv222
 
@@ -167,32 +199,3 @@ Boston, North & South Shores,
 
 #architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
   → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
-
-- **@stylelib.org**: Fixhero – Handyman  Repair Services WordPress Theme
-
- https://themes.stylelib.org/?p=809526 
-
-#business #corporate #elementor #plumber #rstheme #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@aptora.bsky.social**: Leave the guesswork behind, and let the numbers lead the way. 
-
-With Contractor Compass 360 from Aptora, you'll have all the key data you need to run your field service business successfully.
-
-Interes
-  → https://bsky.app/profile/aptora.bsky.social/post/3mmcveylbh22c
-
-- **@aptora.bsky.social**: Integrations you can count on. Aptora 360 is the software that will help your field service business succeed.
-
-Want to learn more or get started? Just click the link below or give us a call at (316) 2
-  → https://bsky.app/profile/aptora.bsky.social/post/3mmrwhrnws22b
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mq2h3w4jbo2m
-
-- **@olduktvlistings.bsky.social**: 29/06/1959 Radio Times: Featuring Star Ballroom Championships; The Ted Heath Show; Shadow of a Pale Horse; Wilfred Pickles and Daphne Anderson in 'Value for Money'; The Archers; Summer Holidays and mo
-  → https://bsky.app/profile/olduktvlistings.bsky.social/post/3mpfwo63bld2a

@@ -1,64 +1,52 @@
 {
-  "updated": "2026-07-08T14:57",
+  "updated": "2026-07-08T16:25",
   "posts": [
     {
-      "ts": "2026-07-08T14:55:03",
-      "channel": "mastodon",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T14:54:07",
-      "channel": "threads",
-      "item": "respond-fast-land-more-jobs",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T14:53:58",
-      "channel": "mastodon",
-      "item": "lead-resellers-double-selling-same-lead-scam",
-      "url": "https://mastodon.social/@bookedjob/116886106190757"
-    },
-    {
-      "ts": "2026-07-08T14:53:57",
-      "channel": "bluesky",
-      "item": "plumbers-337-google-reviews-map-pack",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3m"
-    },
-    {
-      "ts": "2026-07-08T14:53:55",
-      "channel": "telegraph",
-      "item": "plumbers-337-google-reviews-map-pack",
-      "url": "https://telegra.ph/Plumbers-Need-337-Google-Reviews-to"
-    },
-    {
-      "ts": "2026-07-08T14:53:52",
-      "channel": "bluesky",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T14:53:49",
-      "channel": "linkedin",
-      "item": "pod-ep03-track",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T14:53:48",
-      "channel": "tiktok",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T14:53:47",
-      "channel": "ig",
-      "item": "pod-ep03-track",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T14:53:03",
+      "ts": "2026-07-08T16:24:35",
       "channel": "facebook",
-      "item": "pod-ep03-track",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T16:23:51",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T16:22:56",
+      "channel": "threads",
+      "item": "plumbers-337-google-reviews-map-pack",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T16:22:44",
+      "channel": "mastodon",
+      "item": "aged-leads-sold-as-exclusive-scam",
+      "url": "https://mastodon.social/@bookedjob/116886455209388594"
+    },
+    {
+      "ts": "2026-07-08T16:22:43",
+      "channel": "bluesky",
+      "item": "directory-listing-shakedown-scam",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq62h"
+    },
+    {
+      "ts": "2026-07-08T16:22:41",
+      "channel": "telegraph",
+      "item": "directory-listing-shakedown-scam",
+      "url": "https://telegra.ph/The-Directory-Listing-Shakedown-The-Pay"
+    },
+    {
+      "ts": "2026-07-08T16:22:40",
+      "channel": "bluesky",
+      "item": "pod-ep03-channels",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T16:22:38",
+      "channel": "tiktok",
+      "item": "pod-ep03-channels",
       "url": null
     }
   ]

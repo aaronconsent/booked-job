@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T16:07",
+  "updated": "2026-07-08T16:20",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 13585,
+        "current": 13587,
         "target": 45000,
         "pct": 30,
         "on_track": true
@@ -209,7 +209,7 @@
     "spend": "68.53",
     "impressions": 13707,
     "reach": 9371,
-    "video_views": 13585
+    "video_views": 13587
   },
   "youtube": {
     "connected": true,
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 556,
+      "views": 557,
       "followers": 0
     },
     {
@@ -841,7 +841,7 @@
     }
   ],
   "funnel": {
-    "reach": 28764,
+    "reach": 28770,
     "engagement": 18,
     "audience": 19,
     "cr_clicks": 15
@@ -850,13 +850,13 @@
     "audience": 7,
     "engagement": 8,
     "email": 0,
-    "reach": 15500
+    "reach": 15506
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 13691,
+        "value": 13693,
         "grade": "B"
       },
       {

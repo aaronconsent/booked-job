@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-08T14:57",
+  "generated": "2026-07-08T16:25",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
     "label": "Month 1 \u2014 Aggressive scale"
   },
-  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views target raised 6k\u219245k after week-1 pace blew past it; audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
+  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
   "progress": {
     "daily": [
       {
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 6,
+        "current": 7,
         "target": 2,
         "status": "green",
         "needs": null
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 52,
+        "current": 60,
         "target": 22,
         "status": "green",
         "needs": null
@@ -65,7 +65,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 28,
+        "current": 29,
         "target": 14,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 462,
+        "current": 470,
         "target": 150,
         "status": "green",
         "needs": null
@@ -115,7 +115,7 @@
         "cat": "Social",
         "icon": "\ud83d\udd25",
         "label": "Engagement actions",
-        "current": 7,
+        "current": 8,
         "target": 250,
         "status": "red",
         "needs": null
@@ -137,7 +137,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 30,
+        "current": 31,
         "target": 60,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 529,
+        "current": 537,
         "target": 600,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 102,
+        "current": 104,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -220,12 +220,12 @@
     "staged_articles": 5
   },
   "counters": {
-    "articles": 92,
+    "articles": 93,
     "reels": 11,
-    "social_posts": 591,
+    "social_posts": 599,
     "followers": 14,
-    "engagement": 17,
-    "yt_views": 104,
+    "engagement": 18,
+    "yt_views": 106,
     "yt_shorts": 19,
     "email_subs": 5,
     "traffic": 0
@@ -249,8 +249,8 @@
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
-      "why": "7/250 \u2014 243 short of pace.",
-      "prompt": "We're behind on engagement actions this week (7/250). Refill the social queues / add more variant cards."
+      "why": "8/250 \u2014 242 short of pace.",
+      "prompt": "We're behind on engagement actions this week (8/250). Refill the social queues / add more variant cards."
     }
   ]
 }
