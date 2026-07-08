@@ -133,7 +133,7 @@ def compose(title, page_url, host):
 def send(to, subject, html, resend_env):
     req = urllib.request.Request("https://api.resend.com/emails",
                                  data=json.dumps({"from": resend_env["RESEND_FROM"], "to": [to],
-                                                  "reply_to": "hello@aaron.chat",
+                                                  "reply_to": "hello@booked-job.com",   # CF Email Routing -> Aaron's inbox
                                                   "subject": subject, "html": html}).encode(), method="POST")
     req.add_header("Authorization", f"Bearer {resend_env['RESEND_API_KEY']}")
     req.add_header("Content-Type", "application/json"); req.add_header("User-Agent", "curl/8.4.0")
