@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
+  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
+- **@stylelib.org**: Fixhero – Handyman  Repair Services WordPress Theme
+
+ https://themes.stylelib.org/?p=809526 
+
+#business #corporate #elementor #plumber #rstheme #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u
+
+- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
+  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
+
+- **@texascontractorseo.bsky.social**: Did you know commercial excavation search demand spikes the moment a project moves from planning to mobilization? Contractors suddenly need reliable crews and heavy equipment on tight timelines — and 
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczis77p2r
+
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
 - **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
   → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
 
@@ -169,33 +191,3 @@ Boston, North & South Shores,
 
 #architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
   → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
-  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
-
-- **@milayna.bsky.social**: Does that business do roofing? Probably. In the same way that Greenwater does pools. Incompetently, with poor materials, bad practice, no training. Because they aren't a pool business. They aren't the
-  → https://bsky.app/profile/milayna.bsky.social/post/3mooj2sx6yc2x
-
-- **@kylehugh.es**: There is so much work that doesn't get done because there is not enough attention available to plan the work, deploy the capital, and manage the resources. AI will give us infinite attention to do tho
-  → https://bsky.app/profile/kylehugh.es/post/3mor2sedr2k2x
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m

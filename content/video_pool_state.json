@@ -16,12 +16,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-07-08T14:52:39",
+    "last_iso": "2026-07-08T18:21:48",
     "day": {
       "date": "2026-07-08",
-      "count": 2
+      "count": 3
     }
   },
   "tiktok": {
@@ -30,12 +31,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-07-08T16:22:37",
+    "last_iso": "2026-07-08T18:21:48",
     "day": {
       "date": "2026-07-08",
-      "count": 4
+      "count": 5
     }
   },
   "linkedin": {
@@ -43,12 +45,13 @@
       "ad-arctic",
       "ad-pauls",
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-07-08T14:52:39",
+    "last_iso": "2026-07-08T18:21:48",
     "day": {
       "date": "2026-07-08",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -68,12 +71,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-07-08T14:52:39",
+    "last_iso": "2026-07-08T18:21:48",
     "day": {
       "date": "2026-07-08",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
@@ -103,12 +107,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-07-08T16:22:37",
+    "last_iso": "2026-07-08T18:21:48",
     "day": {
       "date": "2026-07-08",
-      "count": 4
+      "count": 5
     }
   },
   "telegram": {
