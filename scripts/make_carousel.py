@@ -12,10 +12,15 @@ OUTDIR = os.path.join(ROOT, "site", "docs")
 
 
 def font(path, size, fb="/Library/Fonts/Arial Unicode.ttf"):
-    try:
-        return ImageFont.truetype(path, size)
-    except Exception:
-        return ImageFont.truetype(fb, size)
+    # fallback chain ends on Linux fonts so cloud (GitHub Actions) renders don't crash
+    for p in (path, fb,
+              "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"):
+        try:
+            return ImageFont.truetype(p, size)
+        except Exception:
+            continue
+    return ImageFont.load_default()
 
 
 BLACK = lambda s: font("/System/Library/Fonts/Supplemental/Arial Black.ttf", s)

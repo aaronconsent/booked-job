@@ -86,7 +86,9 @@ PLATFORMS = {
     "ig":        {"cap": 6, "post": post_ig},                                  # Meta high-ceiling (ban-safe max)
     "tiktok":    {"cap": 50, "post": post_tiktok},                             # uncapped (Buffer's own slots throttle)
     "linkedin":  {"cap": 8, "post": post_linkedin, "exclude": ["porno", "clip2-game"]},  # high-ceiling
-    "pinterest": {"cap": 50, "post": post_pinterest, "exclude": ["porno"]},    # uncapped — evergreen-friendly
+    # pinterest removed from VIDEO pool 2026-07-08: Buffer video→Pinterest has never succeeded
+    # (UnexpectedError every attempt; known limitation — images work, video doesn't).
+    # Pinterest still gets pins via pinterest_buffer_runner + image_pool.
     "bluesky":   {"cap": 50, "post": post_bluesky},                            # uncapped
     "tumblr":    {"cap": 50, "post": post_tumblr, "exclude": ["porno"]},       # uncapped
     # telegram removed 2026-07-06 (channel retired)
