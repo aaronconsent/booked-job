@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Cost Per Booked Job Calculator — the real price of a lead | Booked Job</title>
+<meta name="description" content="Free calculator: turn cost per lead + close rate into cost per BOOKED job — the number that actually pays your mortgage. Compare against Angi, Thumbtack, and Google LSA benchmarks." />
+<link rel="canonical" href="https://booked-job.com/tools/cost-per-booked-job-calculator/" />
+<meta property="og:type" content="website" /><meta property="og:title" content="Cost Per Booked Job Calculator" />
+<meta property="og:description" content="Turn cost per lead + close rate into the number that actually pays your mortgage." />
+<meta property="og:url" content="https://booked-job.com/tools/cost-per-booked-job-calculator/" />
+<meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
+<meta name="theme-color" content="#15171A" />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Cost Per Booked Job Calculator",
+"url":"https://booked-job.com/tools/cost-per-booked-job-calculator/","applicationCategory":"BusinessApplication",
+"operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+"description":"Free calculator that converts cost per lead and close rate into cost per booked job for contractors.",
+"publisher":{"@type":"Organization","name":"Booked Job","url":"https://booked-job.com/"}}
+</script>
+<style>
+.tool{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}
+.tool label{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}
+.tool input{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}
+.tool input:focus{border-color:#FF6A00;outline:none}
+.res{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}
+.res .big{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}
+.res .lab{color:#A8A29E;margin-top:6px;font-size:15px}
+.bench{margin-top:18px;font-size:15px;color:#CFCAC4}
+.bench b{color:#FFD23F}
+.linkbox{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}
+</style>
+</head><body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="/tools/">All free tools</a>
+</div></header><div class="tape"></div>
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › <a href="/tools/">Tools</a> › Cost Per Booked Job Calculator</p>
+  <h1>Cost Per <em>Booked Job</em> Calculator</h1>
+  <div class="answer"><b>Why this number:</b> cost per lead hides your close rate. Cost per booked job — lead price ÷ close rate — is what a customer actually costs you. It's the only fair way to compare Angi vs Google vs referrals.</div>
+
+  <div class="tool">
+    <label for="cpl">What you pay per lead ($)</label>
+    <input id="cpl" type="number" value="35" min="0" step="1" />
+    <label for="close">Of every 10 of these leads, how many do you win?</label>
+    <input id="close" type="number" value="2" min="0" max="10" step="0.5" />
+    <label for="job">Average job value ($ — optional, for the margin check)</label>
+    <input id="job" type="number" value="450" min="0" step="10" />
+    <div class="res">
+      <div class="big" id="out">$175</div>
+      <div class="lab">your real cost per <b>booked job</b></div>
+      <div class="bench" id="pct"></div>
+      <div class="bench">Benchmarks (typical, per booked job): <b>Google LSA ≈ $168</b> · <b>Thumbtack ≈ $250</b> · <b>Angi ≈ $542</b> — see <a href="/blog/contractor-marketing-statistics/">the sourced stats</a>.</div>
+    </div>
+  </div>
+
+  <h2>How to read it</h2>
+  <p>A "$35 lead" you win 2 times in 10 is a <b>$175 job acquisition</b>. The same $35 lead at a 1-in-12 close is $420. Cheap leads with low close rates (shared leads sold to a dozen pros) are usually the most expensive customers you can buy. Full breakdown: <a href="/blog/cost-per-lead-vs-cost-per-booked-job/">cost per lead vs cost per booked job</a> and <a href="/blog/is-angi-worth-it/">is Angi worth it?</a></p>
+
+  <h2>Link to this calculator</h2>
+  <p>Writing about lead costs? You're welcome to link or cite this tool:</p>
+  <div class="linkbox">&lt;a href="https://booked-job.com/tools/cost-per-booked-job-calculator/"&gt;Cost Per Booked Job Calculator — Booked Job&lt;/a&gt;</div>
+
+  <div class="answer"><b>Next step:</b> Get the free Marketing 101 course + tools at <a href="https://booked-job.com/">booked-job.com</a>. Get found. Get picked. Get booked.</div>
+</article>
+<footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script>
+function calc(){
+  var cpl=+document.getElementById('cpl').value||0,
+      c10=+document.getElementById('close').value||0,
+      job=+document.getElementById('job').value||0;
+  var rate=c10/10;
+  var cpbj=rate>0?cpl/rate:0;
+  document.getElementById('out').textContent=cpbj>0?'$'+Math.round(cpbj).toLocaleString():'—';
+  var p=document.getElementById('pct');
+  p.textContent=(job>0&&cpbj>0)?'That’s '+Math.round(cpbj/job*100)+'% of a $'+job.toLocaleString()+' job gone before you start the work.':'';
+}
+document.querySelectorAll('.tool input').forEach(function(i){i.addEventListener('input',calc)});
+calc();
+</script>
+</body></html>

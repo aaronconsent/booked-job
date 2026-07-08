@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Google Review Calculator — how many reviews do you need? | Booked Job</title>
+<meta name="description" content="Free calculator: how many new 5-star Google reviews you need to hit a target rating and catch the competitor ahead of you — and how long it takes at your monthly pace." />
+<link rel="canonical" href="https://booked-job.com/tools/google-review-calculator/" />
+<meta property="og:type" content="website" /><meta property="og:title" content="Google Review Calculator" />
+<meta property="og:description" content="How many 5-star reviews to hit your target rating and catch your competitor — free calculator." />
+<meta property="og:url" content="https://booked-job.com/tools/google-review-calculator/" />
+<meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
+<meta name="theme-color" content="#15171A" />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Google Review Calculator",
+"url":"https://booked-job.com/tools/google-review-calculator/","applicationCategory":"BusinessApplication",
+"operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+"description":"Free calculator showing how many 5-star Google reviews a contractor needs to reach a target rating and overtake a competitor.",
+"publisher":{"@type":"Organization","name":"Booked Job","url":"https://booked-job.com/"}}
+</script>
+<style>
+.tool{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}
+.tool label{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}
+.tool input{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}
+.tool input:focus{border-color:#FF6A00;outline:none}
+.res{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}
+.res .big{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}
+.res .lab{color:#A8A29E;margin-top:6px;font-size:15px}
+.bench{margin-top:14px;font-size:15px;color:#CFCAC4}
+.bench b{color:#FFD23F}
+.linkbox{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}
+</style>
+</head><body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="/tools/">All free tools</a>
+</div></header><div class="tape"></div>
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › <a href="/tools/">Tools</a> › Google Review Calculator</p>
+  <h1>Google <em>Review</em> Calculator</h1>
+  <div class="answer"><b>Why this number:</b> 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026), and the map pack rewards count + recency. This tells you exactly how many 5-star reviews you need — and how long it takes at your current pace.</div>
+
+  <div class="tool">
+    <label for="mine">Your current review count</label>
+    <input id="mine" type="number" value="24" min="0" step="1" />
+    <label for="rating">Your current rating (stars)</label>
+    <input id="rating" type="number" value="4.2" min="1" max="5" step="0.1" />
+    <label for="target">Target rating (stars)</label>
+    <input id="target" type="number" value="4.7" min="1" max="5" step="0.1" />
+    <label for="comp">The competitor you want to catch (their review count)</label>
+    <input id="comp" type="number" value="120" min="0" step="1" />
+    <label for="pace">New reviews you can get per month</label>
+    <input id="pace" type="number" value="6" min="0" step="1" />
+    <div class="res">
+      <div class="big" id="need">—</div>
+      <div class="lab">new 5-star reviews to hit your target rating</div>
+      <div class="bench" id="catchup"></div>
+      <div class="bench" id="time"></div>
+      <div class="bench">Context: median plumber in the map pack has <b>~337</b> reviews; #1 in a competitive HVAC market takes <b>~519</b> — <a href="/blog/contractor-marketing-statistics/">sourced stats</a>.</div>
+    </div>
+  </div>
+
+  <h2>How to actually get them</h2>
+  <p>Ask at peak gratitude (job just done), send the direct link within the hour, ask everyone — never gate, never pay (that's now <a href="/blog/buying-fake-google-reviews-risk/">explicitly illegal</a>). The full system: <a href="/blog/get-more-google-reviews/">how to get more Google reviews</a> and <a href="/blog/one-tap-google-review-system/">the one-tap system</a>.</p>
+
+  <h2>Link to this calculator</h2>
+  <div class="linkbox">&lt;a href="https://booked-job.com/tools/google-review-calculator/"&gt;Google Review Calculator — Booked Job&lt;/a&gt;</div>
+
+  <div class="answer"><b>Next step:</b> Get the free Marketing 101 course + tools at <a href="https://booked-job.com/">booked-job.com</a>. Get found. Get picked. Get booked.</div>
+</article>
+<footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script>
+function calc(){
+  var n=+document.getElementById('mine').value||0,
+      r=+document.getElementById('rating').value||0,
+      t=+document.getElementById('target').value||0,
+      comp=+document.getElementById('comp').value||0,
+      pace=+document.getElementById('pace').value||0;
+  // x new 5-star reviews so (n*r + 5x)/(n+x) >= t  ->  x >= n(t-r)/(5-t)
+  var need = (t>=5) ? Infinity : Math.max(0, Math.ceil(n*(t-r)/(5-t)));
+  var out=document.getElementById('need');
+  out.textContent = isFinite(need) ? need.toLocaleString() : 'n/a';
+  var gap=Math.max(0,comp-n);
+  document.getElementById('catchup').textContent = gap>0 ? ('Catching that competitor also takes '+gap.toLocaleString()+' more reviews (any rating).') : 'You already out-count that competitor — protect the lead with steady velocity.';
+  var months = pace>0 ? Math.ceil(Math.max(need===Infinity?0:need, gap)/pace) : null;
+  document.getElementById('time').textContent = months!==null ? ('At '+pace+'/month: roughly '+months+' month'+(months===1?'':'s')+' to get there. Start this week.') : '';
+}
+document.querySelectorAll('.tool input').forEach(function(i){i.addEventListener('input',calc)});
+calc();
+</script>
+</body></html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Job Pricing Calculator — price for margin, not markup | Booked Job</title>
+<meta name="description" content="Free contractor job pricing calculator: cost + target margin → the price to quote. Shows the markup-vs-margin gap that quietly eats profit on every job." />
+<link rel="canonical" href="https://booked-job.com/tools/job-pricing-calculator/" />
+<meta property="og:type" content="website" /><meta property="og:title" content="Job Pricing Calculator" />
+<meta property="og:description" content="Cost + target margin → the price to quote. Markup is not margin." />
+<meta property="og:url" content="https://booked-job.com/tools/job-pricing-calculator/" />
+<meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
+<meta name="theme-color" content="#15171A" />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Job Pricing Calculator",
+"url":"https://booked-job.com/tools/job-pricing-calculator/","applicationCategory":"BusinessApplication",
+"operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+"description":"Free calculator that turns job cost and target margin into the price a contractor should quote, and shows the markup-vs-margin difference.",
+"publisher":{"@type":"Organization","name":"Booked Job","url":"https://booked-job.com/"}}
+</script>
+<style>
+.tool{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}
+.tool label{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}
+.tool input{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}
+.tool input:focus{border-color:#FF6A00;outline:none}
+.res{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}
+.res .big{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}
+.res .lab{color:#A8A29E;margin-top:6px;font-size:15px}
+.bench{margin-top:14px;font-size:15px;color:#CFCAC4}
+.bench b{color:#FFD23F}
+.linkbox{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}
+</style>
+</head><body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="/tools/">All free tools</a>
+</div></header><div class="tape"></div>
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › <a href="/tools/">Tools</a> › Job Pricing Calculator</p>
+  <h1>Job <em>Pricing</em> Calculator</h1>
+  <div class="answer"><b>The trap:</b> markup is not margin. A 50% markup is only a 33% margin — and that gap is on every job you quote, all year. Price = cost ÷ (1 − target margin).</div>
+
+  <div class="tool">
+    <label for="cost">Your total cost for the job ($ — labor, materials, overhead share)</label>
+    <input id="cost" type="number" value="400" min="0" step="10" />
+    <label for="margin">Target profit margin (%)</label>
+    <input id="margin" type="number" value="45" min="0" max="95" step="1" />
+    <div class="res">
+      <div class="big" id="price">$727</div>
+      <div class="lab">the price to quote</div>
+      <div class="bench" id="markup"></div>
+      <div class="bench" id="trap"></div>
+    </div>
+  </div>
+
+  <h2>How to read it</h2>
+  <p>Most shops "add 50%" to cost and believe they're making 50%. They're making 33%. Dividing by (1 − margin) instead of multiplying by (1 + markup) is the difference between guessing and pricing. More math like this: <a href="/blog/how-to-price-a-job/">how to price a job</a> and the <a href="/blog/contractor-marketing-statistics/">2026 stats roundup</a>.</p>
+
+  <h2>Link to this calculator</h2>
+  <div class="linkbox">&lt;a href="https://booked-job.com/tools/job-pricing-calculator/"&gt;Job Pricing Calculator — Booked Job&lt;/a&gt;</div>
+
+  <div class="answer"><b>Next step:</b> Get the free Marketing 101 course + tools at <a href="https://booked-job.com/">booked-job.com</a>. Get found. Get picked. Get booked.</div>
+</article>
+<footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script>
+function calc(){
+  var c=+document.getElementById('cost').value||0,
+      m=(+document.getElementById('margin').value||0)/100;
+  var price = m<1 ? c/(1-m) : 0;
+  document.getElementById('price').textContent = price>0 ? '$'+Math.round(price).toLocaleString() : '—';
+  if(price>0&&c>0){
+    var mk=Math.round((price/c-1)*100);
+    document.getElementById('markup').textContent='That’s a '+mk+'% markup on cost — notice it’s bigger than the '+Math.round(m*100)+'% margin.';
+    var naive=c*(1+m);
+    document.getElementById('trap').textContent='If you’d just "added '+Math.round(m*100)+'%" you’d quote $'+Math.round(naive).toLocaleString()+' and make only '+Math.round((1-c/naive)*100)+'% — leaving $'+Math.round(price-naive).toLocaleString()+' on the table.';
+  } else {
+    document.getElementById('markup').textContent=''; document.getElementById('trap').textContent='';
+  }
+}
+document.querySelectorAll('.tool input').forEach(function(i){i.addEventListener('input',calc)});
+calc();
+</script>
+</body></html>
