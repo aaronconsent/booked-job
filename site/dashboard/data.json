@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T07:49",
+  "updated": "2026-07-08T10:31",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 10,
+        "current": 11,
         "target": 30,
-        "pct": 33,
+        "pct": 37,
         "on_track": true
       },
       {
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 13481,
+        "current": 13499,
         "target": 6000,
         "pct": 100,
         "on_track": true
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 18,
+        "current": 17,
         "target": 800,
         "pct": 2,
         "on_track": false
@@ -122,7 +122,7 @@
       "date": "2026-07-10",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Answer your phone",
+      "title": "Porno or Plumbing R2",
       "sub": "Reel"
     },
     {
@@ -143,7 +143,7 @@
       "date": "2026-07-14",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Porno or Plumbing R2",
+      "title": "HVAC spite ad",
       "sub": "Reel"
     },
     {
@@ -171,7 +171,7 @@
       "date": "2026-07-17",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "HVAC spite ad",
+      "title": "Porno or Plumbing R3",
       "sub": "Reel"
     },
     {
@@ -196,20 +196,20 @@
   },
   "content": {
     "posts_published": 14,
-    "reactions": 9,
-    "comments": 9,
+    "reactions": 10,
+    "comments": 7,
     "shares": 0,
-    "reels_published": 10,
+    "reels_published": 11,
     "posts_remaining": 107,
-    "reels_remaining": 9
+    "reels_remaining": 8
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "67.33",
-    "impressions": 13591,
-    "reach": 9328,
-    "video_views": 13481
+    "spend": "67.56",
+    "impressions": 13612,
+    "reach": 9342,
+    "video_views": 13499
   },
   "youtube": {
     "connected": true,
@@ -452,18 +452,18 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 27,
+      "count": 28,
       "unit": "posts",
       "grade": "C",
       "group": "social",
       "views": 1786,
       "followers": 3,
-      "likes": 9
+      "likes": 10
     },
     {
       "name": "Instagram",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -483,7 +483,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 18,
+      "count": 19,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 67,
+      "count": 68,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 67,
+      "count": 68,
       "unit": "posts",
       "followers": 8,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 64,
+      "count": 65,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 66,
+      "count": 67,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 67,
+      "count": 68,
       "unit": "mirrors",
       "grade": "B",
       "group": "content"
@@ -559,7 +559,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 66,
+      "count": 67,
       "unit": "posts (Buffer)",
       "stat": "340 reach \u00b7 4 reactions",
       "views": 0,
@@ -570,7 +570,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 21,
+      "count": 22,
       "unit": "videos (Buffer)",
       "stat": "2871 views \u00b7 16 reactions",
       "views": 2871,
@@ -613,12 +613,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -643,12 +643,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -674,7 +674,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 17
+        "count": 18
       },
       {
         "type": "Photo carousels",
@@ -694,7 +694,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 65
+        "count": 66
       },
       {
         "type": "Documents",
@@ -735,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 67
+        "count": 68
       },
       {
         "type": "Video",
@@ -747,7 +747,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 64
+        "count": 65
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 66
+        "count": 67
       },
       {
         "type": "Video",
@@ -813,9 +813,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 9,
+      "remaining": 8,
       "per_day": 1,
-      "days": 9.0,
+      "days": 8.0,
       "status": "green"
     },
     {
@@ -841,37 +841,37 @@
     }
   ],
   "funnel": {
-    "reach": 28605,
-    "engagement": 18,
+    "reach": 28637,
+    "engagement": 17,
     "audience": 19,
-    "cr_clicks": 12
+    "cr_clicks": 13
   },
   "trends": {
     "audience": 7,
-    "engagement": 8,
+    "engagement": 7,
     "email": 0,
-    "reach": 15341
+    "reach": 15373
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 13585,
+        "value": 13603,
         "grade": "B"
       },
       {
         "label": "Total Clicks",
-        "value": 12,
+        "value": 13,
         "grade": "D"
       },
       {
         "label": "Total Posts",
-        "value": 698,
+        "value": 708,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 22919,
+        "value": 22954,
         "grade": "B"
       },
       {
@@ -881,11 +881,11 @@
       },
       {
         "label": "Engagement",
-        "value": 18,
+        "value": 17,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 698 posts, 19 audience, 12 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 708 posts, 19 audience, 13 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

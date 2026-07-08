@@ -1,40 +1,58 @@
 {
-  "updated": "2026-07-08T07:55",
+  "updated": "2026-07-08T10:38",
   "posts": [
     {
-      "ts": "2026-07-08T07:52:35",
-      "channel": "threads",
-      "item": "missed-calls-cost-contractors-invoices",
+      "ts": "2026-07-08T10:35:52",
+      "channel": "youtube",
+      "item": "pod-ep03-verdict",
+      "url": "https://youtu.be/PMy-6aq7rnc"
+    },
+    {
+      "ts": "2026-07-08T10:35:45",
+      "channel": "facebook",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-07-08T07:52:27",
+      "ts": "2026-07-08T10:35:03",
       "channel": "mastodon",
-      "item": "roofing-storm-chaser-free-inspection-scam",
-      "url": "https://mastodon.social/@bookedjob/116884448670752456"
+      "item": "card-speed",
+      "url": null
     },
     {
-      "ts": "2026-07-08T07:52:25",
+      "ts": "2026-07-08T10:34:58",
+      "channel": "threads",
+      "item": "website-conversion-98-percent-leave",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T10:34:50",
+      "channel": "mastodon",
+      "item": "hvac-free-system-check-upsell-scam",
+      "url": "https://mastodon.social/@bookedjob/116885087207702732"
+    },
+    {
+      "ts": "2026-07-08T10:34:49",
       "channel": "bluesky",
-      "item": "website-conversion-98-percent-leave",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq"
+      "item": "lead-resellers-double-selling-same-lead-scam",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed"
     },
     {
-      "ts": "2026-07-08T07:52:23",
+      "ts": "2026-07-08T10:34:39",
+      "channel": "tumblr",
+      "item": "get-more-google-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T10:34:39",
       "channel": "telegraph",
-      "item": "website-conversion-98-percent-leave",
-      "url": "https://telegra.ph/98-of-Your-Website-Visitors-Leave-Wi"
+      "item": "lead-resellers-double-selling-same-lead-scam",
+      "url": "https://telegra.ph/The-Double-Sold-Lead-Scam-W"
     },
     {
-      "ts": "2026-07-08T07:52:13",
+      "ts": "2026-07-08T10:33:46",
       "channel": "facebook",
       "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T07:50:17",
-      "channel": "fb",
-      "item": "clip-speed",
       "url": null
     }
   ]

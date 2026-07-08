@@ -1,6 +1,66 @@
 {
   "entries": [
     {
+      "ts": "2026-07-08T10:35",
+      "kind": "podcast",
+      "icon": "•",
+      "text": "Published podcast episode: Cost Per Lead vs Cost Per Booked Job — The 2 Numbers"
+    },
+    {
+      "ts": "2026-07-08T10:35",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: The 2 numbers every contractor tracks"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to LinkedIn (Buffer): Every Call to Your Shop That Goes to Voicemail Is an Invoice You're Torching | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: 98% of Your Website Visitors Leave Without Calling — Fix the Page, Not the Traffic | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: The HVAC \"Free System Check\" Upsell Scam, Explained | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): How to Get More Google Reviews for Your Service Business"
+    },
+    {
+      "ts": "2026-07-08T10:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): The \\\"Limited-Time SEO Offer\\\" Trick, Decoded"
+    },
+    {
       "ts": "2026-07-08T07:52",
       "kind": "site",
       "icon": "🌐",
@@ -1139,66 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Telegram: Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
-    },
-    {
-      "ts": "2026-07-05T06:14",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: First 30 Days, Almost No Money: A Contractor's Warm-Up Plan"
-    },
-    {
-      "ts": "2026-07-05T06:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Contractor Social Media Setup: Which Accounts Actually Matter"
-    },
-    {
-      "ts": "2026-07-05T06:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
-    },
-    {
-      "ts": "2026-07-05T06:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
-    },
-    {
-      "ts": "2026-07-05T06:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
-    },
-    {
-      "ts": "2026-07-05T06:11",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: Slow season starts in summer"
-    },
-    {
-      "ts": "2026-07-05T06:10",
-      "kind": "post",
-      "icon": "📝",
-      "text": "Published post: pricing low bid"
-    },
-    {
-      "ts": "2026-07-05T03:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Electrical Marketing Numbers: $39 Leads, 8.52x ROAS"
-    },
-    {
-      "ts": "2026-07-05T03:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Plumbing Marketing Numbers: Real Cost Per Booked Job"
-    },
-    {
-      "ts": "2026-07-05T03:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: First 30 Days, Almost No Money: A Contractor's Warm-Up Plan"
     }
   ]
 }

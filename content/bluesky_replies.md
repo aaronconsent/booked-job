@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@apfy.bsky.social**: Bidding a project? Verify subcontractor licenses first. Expired license = failed inspection = rework. Pull CA, FL, TX, NY board data automatically. 36 of 37 runs succeeded. Pay Per Result.
+
+https://ap
+  → https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k
+
+- **@jaimi.bsky.social**: He *mocked* soldiers with PTSD as losers, between stanning Blackwater while in the regular army and going to work for their latest rebrand—along with talking about how much fun killing brown people wa
+  → https://bsky.app/profile/jaimi.bsky.social/post/3mpz2pshmg22f
+
 - **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
 
  https://themes.stylelib.org/?p=640 
@@ -183,17 +191,3 @@ Keyword-stuffing your business name? Cute idea. Bad clicks.
 
 - **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
   → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
-
-- **@stylelib.org**: CarpetServ – Cleaning Company  Housekeeping WordPress Theme
-
- https://themes.stylelib.org/?p=22610 
-
-#agency #ancorathemes #business #electrician #handyman #maintenance #miscellaneous #plumber #renova
-  → https://bsky.app/profile/stylelib.org/post/3moaahxmlo422
-
-- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
-
- https://stylelib.org/?p=130816 
-
-#builder #constructioncompany #electrician #factory #handyman #themeforest #wordpress #architecture #business #in
-  → https://bsky.app/profile/stylelib.org/post/3mocwjqah5w2h
