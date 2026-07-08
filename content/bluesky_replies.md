@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
+
+ https://themes.stylelib.org/?p=640 
+
+#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -190,12 +197,3 @@ Keyword-stuffing your business name? Cute idea. Bad clicks.
 
 #builder #constructioncompany #electrician #factory #handyman #themeforest #wordpress #architecture #business #in
   → https://bsky.app/profile/stylelib.org/post/3mocwjqah5w2h
-
-- **@mdrepros.bsky.social**: 🏡 WHAT IF YOUR HOME COULD GROW YOUR BUSINESS TOO?
-21680 Leitersburg Pike gives you both.
-💰 Seller is offering $10,000 toward your closing costs!
-Whether you're a:
-✅ Contractor
-✅ Landscaper
-✅ Electrici
-  → https://bsky.app/profile/mdrepros.bsky.social/post/3modsmnqiyk2y

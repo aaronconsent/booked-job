@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-07T23:25",
+  "updated": "2026-07-08T02:39",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 23,
+    "days_left": 22,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-01 for the safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily) with pre-ads-realistic traffic ramp.",
     "items": [
       {
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 13240,
+        "current": 13268,
         "target": 6000,
         "pct": 100,
         "on_track": true
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 103,
+        "current": 104,
         "target": 10000,
         "pct": 1,
         "on_track": false
@@ -105,25 +105,18 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "98% of people leave a contractor website without calling. It",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Found behind the drywall this week: a garden hose doing a P-",
       "sub": "hack job"
-    },
-    {
-      "date": "2026-07-10",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Before a customer ever hears your voice, they've judged you ",
-      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
@@ -136,15 +129,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Drop the runner-up below. \ud83d\udc47",
-      "sub": "homeowner says"
+      "title": "Before a customer ever hears your voice, they've judged you ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Should you pay for leads? Sometimes gold (LSA), sometimes a ",
-      "sub": "course promo"
+      "title": "Drop the runner-up below. \ud83d\udc47",
+      "sub": "homeowner says"
     },
     {
       "date": "2026-07-14",
@@ -157,22 +150,22 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
-      "sub": "homeowner says"
+      "title": "Should you pay for leads? Sometimes gold (LSA), sometimes a ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Most contractors who 'tried Google Ads' just never answered ",
-      "sub": "course promo"
+      "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
+      "sub": "homeowner says"
     },
     {
       "date": "2026-07-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "It's somewhere in the truck. It's always somewhere in the tr",
-      "sub": "trade humor"
+      "title": "Most contractors who 'tried Google Ads' just never answered ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-17",
@@ -183,6 +176,13 @@
     },
     {
       "date": "2026-07-20",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "It's somewhere in the truck. It's always somewhere in the tr",
+      "sub": "trade humor"
+    },
+    {
+      "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "A third of your future customers won't Google you \u2014 they'll ",
@@ -206,15 +206,15 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "65.17",
-    "impressions": 13363,
-    "reach": 9127,
-    "video_views": 13240
+    "spend": "65.3",
+    "impressions": 13376,
+    "reach": 9154,
+    "video_views": 13268
   },
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 103,
+    "views": 104,
     "videos": 18,
     "shorts": 18
   },
@@ -456,7 +456,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1411,
+      "views": 1786,
       "followers": 3,
       "likes": 9
     },
@@ -477,13 +477,13 @@
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 103,
+      "views": 104,
       "followers": 0
     },
     {
       "name": "Blogger",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 64,
+      "count": 65,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 64,
+      "count": 65,
       "unit": "posts",
       "followers": 8,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 61,
+      "count": 62,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 63,
+      "count": 64,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 64,
+      "count": 65,
       "unit": "mirrors",
       "grade": "B",
       "group": "content"
@@ -559,7 +559,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 61,
+      "count": 63,
       "unit": "posts (Buffer)",
       "stat": "340 reach \u00b7 4 reactions",
       "views": 0,
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -694,7 +694,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 60
+        "count": 62
       },
       {
         "type": "Documents",
@@ -735,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 64
+        "count": 65
       },
       {
         "type": "Video",
@@ -747,7 +747,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 61
+        "count": 62
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 63
+        "count": 64
       },
       {
         "type": "Video",
@@ -841,22 +841,22 @@
     }
   ],
   "funnel": {
-    "reach": 27787,
+    "reach": 28218,
     "engagement": 18,
     "audience": 19,
     "cr_clicks": 12
   },
   "trends": {
-    "audience": 9,
-    "engagement": 10,
+    "audience": 7,
+    "engagement": 8,
     "email": 0,
-    "reach": 27787
+    "reach": 14954
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 13343,
+        "value": 13372,
         "grade": "B"
       },
       {
@@ -866,12 +866,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 672,
+        "value": 680,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 22490,
+        "value": 22530,
         "grade": "B"
       },
       {
@@ -886,6 +886,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 672 posts, 19 audience, 12 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 680 posts, 19 audience, 12 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
