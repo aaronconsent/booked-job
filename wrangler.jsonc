@@ -2,6 +2,7 @@
   // Worker serves the static site/ folder AND handles /api/subscribe (email
   // capture -> Resend). `npx wrangler deploy` publishes it.
   "name": "booked-job",
+  "account_id": "681da9da7939c8989b00fb80ee4a791c",   // pinned so CI deploys work (token can't list accounts)
   "main": "src/index.js",
   "compatibility_date": "2026-06-01",
   "assets": {
