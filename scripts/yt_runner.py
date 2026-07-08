@@ -84,7 +84,8 @@ def main():
     if a.dry_run:
         log(f"DRY-RUN built {out}, not uploading"); return
 
-    res = yt_upload.publish(out, nxt["title"], nxt["description"], nxt["tags"], privacy="public")
+    import cta
+    res = yt_upload.publish(out, nxt["title"], cta.append(nxt["description"], "youtube"), nxt["tags"], privacy="public")
     vid = res.get("id")
     if vid and nxt.get("thumbnail"):
         tp = nxt["thumbnail"] if os.path.isabs(nxt["thumbnail"]) else os.path.join(ROOT, nxt["thumbnail"])

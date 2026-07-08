@@ -40,37 +40,43 @@ def log(m):
 
 
 # ---- per-platform publishers (return truthy on success, raise on failure) ----
+# every caption gets a platform-appropriate follow CTA (views->followers gap fix)
+def _cap(v, platform, max_len=None):
+    import cta
+    return cta.append(v["caption"], platform, max_len)
+
+
 def post_ig(v):
     import ig_publish
-    return ig_publish.publish(v["url"], v["caption"])
+    return ig_publish.publish(v["url"], _cap(v, "ig"))
 
 
 def post_fb(v):
     import fb_post_reel
-    return fb_post_reel.publish_reel(os.path.join(ROOT, v["file"]), v["caption"])
+    return fb_post_reel.publish_reel(os.path.join(ROOT, v["file"]), _cap(v, "facebook"))
 
 
-def _buffer(channel_key, v):
+def _buffer(channel_key, v, platform):
     import buffer_publish as BP
     e = BP.env(); ch = e.get(channel_key)
     if not ch:
         raise RuntimeError(f"{channel_key} not set in buffer.env")
-    return BP.queue_video(ch, v["caption"], v["url"], title=v.get("hook"))
+    return BP.queue_video(ch, _cap(v, platform), v["url"], title=v.get("hook"))
 
 
-def post_tiktok(v):    return _buffer("BUFFER_TIKTOK_CHANNEL", v)
-def post_linkedin(v):  return _buffer("BUFFER_LINKEDIN_CHANNEL", v)
-def post_pinterest(v): return _buffer("BUFFER_PINTEREST_CHANNEL", v)
+def post_tiktok(v):    return _buffer("BUFFER_TIKTOK_CHANNEL", v, "tiktok")
+def post_linkedin(v):  return _buffer("BUFFER_LINKEDIN_CHANNEL", v, "linkedin")
+def post_pinterest(v): return _buffer("BUFFER_PINTEREST_CHANNEL", v, "pinterest")
 
 
 def post_bluesky(v):
     import bluesky_publish
-    return bluesky_publish.publish_video(v["caption"][:300], v["url"], alt=v.get("hook", ""))
+    return bluesky_publish.publish_video(_cap(v, "bluesky", max_len=300), v["url"], alt=v.get("hook", ""))
 
 
 def post_tumblr(v):
     import tumblr_publish
-    return tumblr_publish.publish_video(v["caption"], v["url"], tags=(v.get("tags") or []))
+    return tumblr_publish.publish_video(_cap(v, "tumblr"), v["url"], tags=(v.get("tags") or []))
 
 
 # name -> {cap: posts/day, post: fn, exclude?: [id-substrings to skip on this platform]}.

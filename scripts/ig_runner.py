@@ -104,7 +104,8 @@ def main():
     if not url_live(url):
         log(f"video not live at {url} yet — will retry next run."); return
 
-    caption = nxt["description"].replace("https://booked-job.com/", "booked-job.com/")
+    import cta
+    caption = cta.append(nxt["description"].replace("https://booked-job.com/", "booked-job.com/"), "ig")
     res = ig_publish.publish(url, caption)
     done.add(nxt["id"]); state["done"] = list(done)
     json.dump(state, open(STATE, "w"), indent=2)

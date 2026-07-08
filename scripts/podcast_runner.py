@@ -71,7 +71,8 @@ def main():
     if a.dry_run:
         log(f"DRY would upload '{nxt['id']}' — {nxt['title'][:60]}"); return
 
-    res = yt_upload.publish(src, nxt["title"], nxt["description"], nxt.get("tags", []),
+    import cta
+    res = yt_upload.publish(src, nxt["title"], cta.append(nxt["description"], "youtube"), nxt.get("tags", []),
                             privacy="public", category=CATEGORY)
     vid = res.get("id")
     if vid and nxt.get("thumbnail"):

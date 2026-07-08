@@ -90,7 +90,8 @@ def main():
     log(f"PUBLISHED reel '{nxt['id']}' (FB) -> {res.get('video_id')}")
 
     # Fan out to IG Reels + TikTok — both need the clip at a PUBLIC url (site/reels/<file>).
-    cap = nxt.get("description", "")
+    import cta
+    cap = cta.append(nxt.get("description", ""), "ig")
     base = os.path.basename(out)
     hosted = os.path.join(ROOT, "site", "reels", base)
     if not os.path.exists(hosted):

@@ -7,7 +7,7 @@ import json, os, shutil
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 SRC = os.path.join(ROOT, "..", "remotion-studio", "out")
-DEST = os.path.join(ROOT, "site", "podcast")
+DEST = os.path.join(ROOT, "content", "podcast_video")   # NOT site/ — episode mp4s are >25MB (CF asset cap breaks the whole deploy)
 BASE = "https://booked-job.com"
 
 TAGS = ["contractor marketing", "home services marketing", "lead generation", "hvac marketing",
@@ -55,7 +55,7 @@ def main():
         thumb = f"site/podcast/{eid}-thumb.png"
         q["episodes"].append({
             "id": eid, "title": title, "description": desc, "tags": TAGS,
-            "video": f"site/podcast/{eid}.mp4", "url": f"{BASE}/podcast/{eid}.mp4",
+            "video": f"content/podcast_video/{eid}.mp4",
             "thumbnail": thumb if os.path.exists(os.path.join(ROOT, thumb)) else None,
         })
     json.dump(q, open(os.path.join(ROOT, "content", "podcast_video_queue.json"), "w"), indent=2, ensure_ascii=False)

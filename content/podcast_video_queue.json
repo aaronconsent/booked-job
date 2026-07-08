@@ -14,8 +14,7 @@
         "small business marketing",
         "booked job"
       ],
-      "video": "site/podcast/podcast-ep01.mp4",
-      "url": "https://booked-job.com/podcast/podcast-ep01.mp4",
+      "video": "content/podcast_video/podcast-ep01.mp4",
       "thumbnail": null
     },
     {
@@ -32,8 +31,7 @@
         "small business marketing",
         "booked job"
       ],
-      "video": "site/podcast/podcast-ep02.mp4",
-      "url": "https://booked-job.com/podcast/podcast-ep02.mp4",
+      "video": "content/podcast_video/podcast-ep02.mp4",
       "thumbnail": null
     },
     {
@@ -50,8 +48,7 @@
         "small business marketing",
         "booked job"
       ],
-      "video": "site/podcast/podcast-ep03.mp4",
-      "url": "https://booked-job.com/podcast/podcast-ep03.mp4",
+      "video": "content/podcast_video/podcast-ep03.mp4",
       "thumbnail": null
     }
   ]
