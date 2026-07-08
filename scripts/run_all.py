@@ -28,6 +28,7 @@ AGENTS = [
     ("fb_carousel_runner.py", []), ("ig_carousel_runner.py", []),
     ("image_pool_runner.py", []),
     ("pinterest_buffer_runner.py", []), ("email_drip_runner.py", []),
+    ("backlink_outreach.py", []),   # weekly self-gated; 5 pitches/wk cap; NOT in FORCE_OK on purpose
     ("bluesky_feed_refresh.py", []), ("yt_runner.py", []),
     ("podcast_runner.py", []),  # video→YouTube long-form (own queue: podcast_video_queue.json)
     ("bluesky_engage.py", []), ("threads_engage.py", []), ("fb_engage.py", []),
