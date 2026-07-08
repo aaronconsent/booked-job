@@ -1,20 +1,21 @@
 {
   "page_created": "2026-06-25",
   "posted": [
-    "art-cpl",
-    "course-slowseason",
-    "course-angi",
     "podcast-launch",
-    "course-reviews",
-    "pricing-low-bid",
-    "art-gbp",
+    "art-what-marketing",
     "pricing-pick-two",
-    "pricing-insurance",
+    "course-angi",
     "art-5doors",
     "course-pricing",
-    "art-what-marketing"
+    "art-cpl",
+    "course-reviews",
+    "pricing-insurance",
+    "art-gbp",
+    "lastguy-worst",
+    "course-slowseason",
+    "pricing-low-bid"
   ],
-  "last_post_iso": "2026-07-06T19:17:53",
+  "last_post_iso": "2026-07-07T19:09:57",
   "by_date": {
     "2026-06-25": 1,
     "2026-06-30": 2,
@@ -23,7 +24,8 @@
     "2026-07-03": 2,
     "2026-07-04": 2,
     "2026-07-05": 1,
-    "2026-07-06": 1
+    "2026-07-06": 1,
+    "2026-07-07": 1
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:20:10Z",
+  "updated": "2026-07-08T00:09:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 23,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 14,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#plumbing",
@@ -93,8 +88,13 @@
       },
       {
         "tag": "#hvac",
-        "uses": 8,
+        "uses": 7,
         "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#contractors",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 464998,
+        "followers": 465033,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@franktheshank88.bsky.social",
       "display": "Franktheshank88",
-      "followers": 62119,
+      "followers": 62121,
       "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
       "link": "https://bsky.app/profile/franktheshank88.bsky.social"
     },
     {
       "handle": "@cnice59.bsky.social",
       "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35248,
+      "followers": 35249,
       "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
       "link": "https://bsky.app/profile/cnice59.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nihl.mainbastards.online",
       "display": "Le Pole Plumber 🔧",
-      "followers": 6654,
+      "followers": 6655,
       "desc": "Main Bastard Pole-Saxon. Master of Plunger. Fluent in Retard.  HVAC Engineer with bad attitude. Forklift Certified.  Put",
       "link": "https://bsky.app/profile/nihl.mainbastards.online"
     },
