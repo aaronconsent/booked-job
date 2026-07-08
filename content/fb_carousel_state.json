@@ -1,11 +1,12 @@
 {
   "done": [
     "get-more-google-reviews",
-    "answer-your-phone",
     "is-angi-worth-it",
+    "google-business-profile",
     "cost-per-booked-job",
-    "how-to-price-a-job",
-    "surviving-the-slow-season"
+    "surviving-the-slow-season",
+    "answer-your-phone",
+    "how-to-price-a-job"
   ],
-  "last_iso": "2026-07-08T12:52:19"
+  "last_iso": "2026-07-08T14:54:29"
 }

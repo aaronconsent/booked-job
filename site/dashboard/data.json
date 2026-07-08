@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T12:49",
+  "updated": "2026-07-08T14:50",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,15 +25,15 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 14,
+        "current": 15,
         "target": 90,
-        "pct": 16,
+        "pct": 17,
         "on_track": false
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 13514,
+        "current": 13567,
         "target": 45000,
         "pct": 30,
         "on_track": true
@@ -108,15 +108,15 @@
       "date": "2026-07-09",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "98% of people leave a contractor website without calling. It",
-      "sub": "course promo"
+      "title": "Found behind the drywall this week: a garden hose doing a P-",
+      "sub": "hack job"
     },
     {
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Found behind the drywall this week: a garden hose doing a P-",
-      "sub": "hack job"
+      "title": "Before a customer ever hears your voice, they've judged you ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
@@ -129,15 +129,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Before a customer ever hears your voice, they've judged you ",
-      "sub": "course promo"
+      "title": "Drop the runner-up below. \ud83d\udc47",
+      "sub": "homeowner says"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Drop the runner-up below. \ud83d\udc47",
-      "sub": "homeowner says"
+      "title": "Should you pay for leads? Sometimes gold (LSA), sometimes a ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
@@ -150,22 +150,22 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Should you pay for leads? Sometimes gold (LSA), sometimes a ",
-      "sub": "course promo"
+      "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
+      "sub": "homeowner says"
     },
     {
       "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
-      "sub": "homeowner says"
+      "title": "Most contractors who 'tried Google Ads' just never answered ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Most contractors who 'tried Google Ads' just never answered ",
-      "sub": "course promo"
+      "title": "It's somewhere in the truck. It's always somewhere in the tr",
+      "sub": "trade humor"
     },
     {
       "date": "2026-07-17",
@@ -178,15 +178,15 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "It's somewhere in the truck. It's always somewhere in the tr",
-      "sub": "trade humor"
+      "title": "A third of your future customers won't Google you \u2014 they'll ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "A third of your future customers won't Google you \u2014 they'll ",
-      "sub": "course promo"
+      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
+      "sub": "trade humor"
     }
   ],
   "page": {
@@ -195,21 +195,21 @@
     "likes": 3
   },
   "content": {
-    "posts_published": 14,
+    "posts_published": 15,
     "reactions": 10,
     "comments": 7,
     "shares": 0,
     "reels_published": 11,
-    "posts_remaining": 107,
+    "posts_remaining": 108,
     "reels_remaining": 8
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "67.73",
-    "impressions": 13630,
-    "reach": 9342,
-    "video_views": 13514
+    "spend": "68.38",
+    "impressions": 13692,
+    "reach": 9371,
+    "video_views": 13567
   },
   "youtube": {
     "connected": true,
@@ -221,7 +221,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 39
+    "media": 41
   },
   "email": {
     "subscribers": 5
@@ -436,7 +436,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 92,
+      "count": 94,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 29,
+      "count": 31,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 550,
+      "views": 555,
       "followers": 0
     },
     {
@@ -483,7 +483,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 21,
+      "count": 22,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 70,
+      "count": 71,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 70,
+      "count": 71,
       "unit": "posts",
       "followers": 8,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 67,
+      "count": 68,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 69,
+      "count": 70,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 70,
+      "count": 71,
       "unit": "mirrors",
       "grade": "B",
       "group": "content"
@@ -570,7 +570,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 23,
+      "count": 24,
       "unit": "videos (Buffer)",
       "stat": "2871 views \u00b7 16 reactions",
       "views": 2871,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 62,
+      "count": 63,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -603,12 +603,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 13
+        "count": 14
       },
       {
         "type": "Carousels",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Reels",
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Long video",
@@ -679,7 +679,7 @@
       {
         "type": "Photo carousels",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Stories",
@@ -704,7 +704,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 2
+        "count": 3
       },
       {
         "type": "Articles",
@@ -723,7 +723,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 62
+        "count": 63
       },
       {
         "type": "Video pins",
@@ -735,19 +735,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 70
+        "count": 71
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 15
+        "count": 16
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 67
+        "count": 68
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 69
+        "count": 70
       },
       {
         "type": "Video",
@@ -806,9 +806,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 107,
+      "remaining": 108,
       "per_day": 2,
-      "days": 53.5,
+      "days": 54.0,
       "status": "green"
     },
     {
@@ -827,9 +827,9 @@
     },
     {
       "label": "Blog articles (drip)",
-      "remaining": 32,
+      "remaining": 34,
       "per_day": 2,
-      "days": 16.0,
+      "days": 17.0,
       "status": "green"
     },
     {
@@ -841,37 +841,37 @@
     }
   ],
   "funnel": {
-    "reach": 28652,
+    "reach": 28743,
     "engagement": 17,
     "audience": 19,
-    "cr_clicks": 13
+    "cr_clicks": 14
   },
   "trends": {
     "audience": 7,
     "engagement": 7,
     "email": 0,
-    "reach": 15388
+    "reach": 15479
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 13618,
+        "value": 13671,
         "grade": "B"
       },
       {
         "label": "Total Clicks",
-        "value": 13,
+        "value": 14,
         "grade": "D"
       },
       {
         "label": "Total Posts",
-        "value": 728,
+        "value": 740,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 22972,
+        "value": 23063,
         "grade": "B"
       },
       {
@@ -886,6 +886,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 728 posts, 19 audience, 13 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 740 posts, 19 audience, 14 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -1,51 +1,63 @@
 {
-  "updated": "2026-07-08T12:54",
+  "updated": "2026-07-08T14:57",
   "posts": [
     {
-      "ts": "2026-07-08T12:52:52",
+      "ts": "2026-07-08T14:55:03",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-07-08T12:51:59",
+      "ts": "2026-07-08T14:54:07",
       "channel": "threads",
-      "item": "aged-leads-sold-as-exclusive-scam",
+      "item": "respond-fast-land-more-jobs",
       "url": null
     },
     {
-      "ts": "2026-07-08T12:51:29",
+      "ts": "2026-07-08T14:53:58",
       "channel": "mastodon",
-      "item": "website-conversion-98-percent-leave",
-      "url": "https://mastodon.social/@bookedjob/116885624492722435"
+      "item": "lead-resellers-double-selling-same-lead-scam",
+      "url": "https://mastodon.social/@bookedjob/116886106190757"
     },
     {
-      "ts": "2026-07-08T12:51:25",
+      "ts": "2026-07-08T14:53:57",
       "channel": "bluesky",
-      "item": "respond-fast-land-more-jobs",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq5oo25k5b"
+      "item": "plumbers-337-google-reviews-map-pack",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3m"
     },
     {
-      "ts": "2026-07-08T12:51:23",
+      "ts": "2026-07-08T14:53:55",
       "channel": "telegraph",
-      "item": "respond-fast-land-more-jobs",
-      "url": "https://telegra.ph/Respond-Fast-and-Land-More-Jobs--Booked-Job-"
+      "item": "plumbers-337-google-reviews-map-pack",
+      "url": "https://telegra.ph/Plumbers-Need-337-Google-Reviews-to"
     },
     {
-      "ts": "2026-07-08T12:51:22",
+      "ts": "2026-07-08T14:53:52",
       "channel": "bluesky",
+      "item": "pod-ep03-exclusive",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T14:53:49",
+      "channel": "linkedin",
       "item": "pod-ep03-track",
       "url": null
     },
     {
-      "ts": "2026-07-08T12:51:19",
-      "channel": "linkedin",
-      "item": "pod-ep03-verdict",
+      "ts": "2026-07-08T14:53:48",
+      "channel": "tiktok",
+      "item": "pod-ep03-exclusive",
       "url": null
     },
     {
-      "ts": "2026-07-08T12:51:18",
-      "channel": "tiktok",
+      "ts": "2026-07-08T14:53:47",
+      "channel": "ig",
+      "item": "pod-ep03-track",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T14:53:03",
+      "channel": "facebook",
       "item": "pod-ep03-track",
       "url": null
     }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T12:54",
+  "generated": "2026-07-08T14:57",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 4,
+        "current": 6,
         "target": 2,
         "status": "green",
         "needs": null
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 45,
+        "current": 52,
         "target": 22,
         "status": "green",
         "needs": null
@@ -65,7 +65,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 26,
+        "current": 28,
         "target": 14,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 455,
+        "current": 462,
         "target": 150,
         "status": "green",
         "needs": null
@@ -137,7 +137,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 28,
+        "current": 30,
         "target": 60,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 522,
+        "current": 529,
         "target": 600,
         "status": "green",
         "needs": null
@@ -215,14 +215,14 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 106,
+    "fb_ig_posts": 108,
     "reels": 8,
     "staged_articles": 5
   },
   "counters": {
-    "articles": 90,
+    "articles": 92,
     "reels": 11,
-    "social_posts": 584,
+    "social_posts": 591,
     "followers": 14,
     "engagement": 17,
     "yt_views": 104,
