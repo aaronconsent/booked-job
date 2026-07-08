@@ -1,29 +1,41 @@
 {
-  "updated": "2026-07-08T05:34",
+  "updated": "2026-07-08T07:55",
   "posts": [
     {
-      "ts": "2026-07-08T05:32:10",
+      "ts": "2026-07-08T07:52:35",
       "channel": "threads",
-      "item": "hvac-free-system-check-upsell-scam",
+      "item": "missed-calls-cost-contractors-invoices",
       "url": null
     },
     {
-      "ts": "2026-07-08T05:31:45",
+      "ts": "2026-07-08T07:52:27",
       "channel": "mastodon",
-      "item": "lawn-care-marketing-numbers",
-      "url": "https://mastodon.social/@bookedjob/116883895419626468"
+      "item": "roofing-storm-chaser-free-inspection-scam",
+      "url": "https://mastodon.social/@bookedjob/116884448670752456"
     },
     {
-      "ts": "2026-07-08T05:31:43",
+      "ts": "2026-07-08T07:52:25",
       "channel": "bluesky",
-      "item": "missed-calls-cost-contractors-invoices",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/"
+      "item": "website-conversion-98-percent-leave",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq"
     },
     {
-      "ts": "2026-07-08T05:31:41",
+      "ts": "2026-07-08T07:52:23",
       "channel": "telegraph",
-      "item": "missed-calls-cost-contractors-invoices",
-      "url": "https://telegra.ph/Every-Call-to-Your-Shop-That-Goes"
+      "item": "website-conversion-98-percent-leave",
+      "url": "https://telegra.ph/98-of-Your-Website-Visitors-Leave-Wi"
+    },
+    {
+      "ts": "2026-07-08T07:52:13",
+      "channel": "facebook",
+      "item": "pod-ep03-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T07:50:17",
+      "channel": "fb",
+      "item": "clip-speed",
+      "url": null
     }
   ]
 }

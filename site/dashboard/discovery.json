@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T10:29:42Z",
+  "updated": "2026-07-08T12:49:31Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 27,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#roofingcontractor",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/roofingcontractor"
+      },
+      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -130,11 +135,6 @@
         "tag": "#RoofingClub",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingClub"
-      },
-      {
-        "tag": "#roofingcontractor",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofingcontractor"
       }
     ],
     "accounts": [
@@ -229,7 +229,7 @@
     {
       "handle": "@zlatkonchikov.bsky.social",
       "display": "Zlat Konchikov",
-      "followers": 16338,
+      "followers": 16340,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nihl.mainbastards.online",
       "display": "Le Pole Plumber 🔧",
-      "followers": 6655,
+      "followers": 6654,
       "desc": "Main Bastard Pole-Saxon. Master of Plunger. Fluent in Retard.  HVAC Engineer with bad attitude. Forklift Certified.  Put",
       "link": "https://bsky.app/profile/nihl.mainbastards.online"
     },
