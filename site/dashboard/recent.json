@@ -1,56 +1,50 @@
 {
-  "updated": "2026-07-08T10:38",
+  "updated": "2026-07-08T10:58",
   "posts": [
     {
-      "ts": "2026-07-08T10:35:52",
-      "channel": "youtube",
-      "item": "pod-ep03-verdict",
-      "url": "https://youtu.be/PMy-6aq7rnc"
-    },
-    {
-      "ts": "2026-07-08T10:35:45",
-      "channel": "facebook",
-      "item": "card-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T10:35:03",
-      "channel": "mastodon",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T10:34:58",
+      "ts": "2026-07-08T10:54:49",
       "channel": "threads",
-      "item": "website-conversion-98-percent-leave",
+      "item": "lead-resellers-double-selling-same-lead-scam",
       "url": null
     },
     {
-      "ts": "2026-07-08T10:34:50",
+      "ts": "2026-07-08T10:54:24",
       "channel": "mastodon",
-      "item": "hvac-free-system-check-upsell-scam",
-      "url": "https://mastodon.social/@bookedjob/116885087207702732"
+      "item": "missed-calls-cost-contractors-invoices",
+      "url": "https://mastodon.social/@bookedjob/116885164169601650"
     },
     {
-      "ts": "2026-07-08T10:34:49",
+      "ts": "2026-07-08T10:54:23",
       "channel": "bluesky",
-      "item": "lead-resellers-double-selling-same-lead-scam",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed"
+      "item": "aged-leads-sold-as-exclusive-scam",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq5i"
     },
     {
-      "ts": "2026-07-08T10:34:39",
-      "channel": "tumblr",
-      "item": "get-more-google-reviews",
+      "ts": "2026-07-08T10:54:21",
+      "channel": "telegraph",
+      "item": "aged-leads-sold-as-exclusive-scam",
+      "url": "https://telegra.ph/Aged-Leads-Resold-as-Exclusive-The-Mar"
+    },
+    {
+      "ts": "2026-07-08T10:54:19",
+      "channel": "bluesky",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-07-08T10:34:39",
-      "channel": "telegraph",
-      "item": "lead-resellers-double-selling-same-lead-scam",
-      "url": "https://telegra.ph/The-Double-Sold-Lead-Scam-W"
+      "ts": "2026-07-08T10:54:16",
+      "channel": "tiktok",
+      "item": "pod-ep03-verdict",
+      "url": null
     },
     {
-      "ts": "2026-07-08T10:33:46",
+      "ts": "2026-07-08T10:54:15",
+      "channel": "ig",
+      "item": "pod-ep03-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T10:53:36",
       "channel": "facebook",
       "item": "pod-ep03-verdict",
       "url": null

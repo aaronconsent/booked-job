@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T15:31:13Z",
+  "updated": "2026-07-08T15:50:59Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -83,7 +83,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 10,
+        "uses": 11,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -192,20 +192,6 @@
   },
   "bluesky": [
     {
-      "handle": "@franktheshank88.bsky.social",
-      "display": "Franktheshank88",
-      "followers": 62124,
-      "desc": "Franktheshank from Twitter. Civil Engineer, Contractor. Builds everything but walls. Dislikes morons and idiots especial",
-      "link": "https://bsky.app/profile/franktheshank88.bsky.social"
-    },
-    {
-      "handle": "@cnice59.bsky.social",
-      "display": "🇺🇸💙💙🤔🤨CJ🤣🧐💙💙🇺🇸",
-      "followers": 35251,
-      "desc": "Entrepreneur • Commercial & Residential Remodeling Contractor • Commercial Artist • Real Estate Investor • #Politics #De",
-      "link": "https://bsky.app/profile/cnice59.bsky.social"
-    },
-    {
       "handle": "@patriciarichardson.bsky.social",
       "display": "Patricia Richardson",
       "followers": 31898,
@@ -232,13 +218,6 @@
       "followers": 16341,
       "desc": "Russian handyman in Chicago with hairy uncut dick 😛  All links :  https://linktr.ee/zlatkonchikov",
       "link": "https://bsky.app/profile/zlatkonchikov.bsky.social"
-    },
-    {
-      "handle": "@trevorrowdyreed.bsky.social",
-      "display": "Trevor Rowdy Reed",
-      "followers": 14586,
-      "desc": "Eagle Scout, USMC Veteran, Former Contractor, Former Wrongful Detainee (Russia), Ukraine War Veteran, Author 🇺🇸🇺🇦  #NAFO",
-      "link": "https://bsky.app/profile/trevorrowdyreed.bsky.social"
     },
     {
       "handle": "@plumergolf.bsky.social",
@@ -269,13 +248,6 @@
       "link": "https://bsky.app/profile/hyucaze.bsky.social"
     },
     {
-      "handle": "@crybringer.bsky.social",
-      "display": "crybringer",
-      "followers": 4585,
-      "desc": "Contractor (Miss Monster, Skullgirls, etc.), commission artist, comic creator (small-press, online)  ⭐ https://patreon.c",
-      "link": "https://bsky.app/profile/crybringer.bsky.social"
-    },
-    {
       "handle": "@simpson-ian.bsky.social",
       "display": "🇨🇦Ian - #RLessThanOne",
       "followers": 4437,
@@ -288,6 +260,34 @@
       "followers": 4419,
       "desc": "Mech & Robot Handyman. Senior Animator & background Artist. Drawing & animation teacher. Ink drinker. Seaplane and old w",
       "link": "https://bsky.app/profile/bouss.bsky.social"
+    },
+    {
+      "handle": "@laprofmme.bsky.social",
+      "display": "Laprofmme 🦬⚔️🏒 💙💛❤️‍🩹",
+      "followers": 4354,
+      "desc": "Historian, 🐶 🐩 mom, aspiring native plant gardener, knitter, vintage plumbing fixture enthusiast. Oxford comma and footn",
+      "link": "https://bsky.app/profile/laprofmme.bsky.social"
+    },
+    {
+      "handle": "@brokowski.bsky.social",
+      "display": "Bro Kow Ski",
+      "followers": 4289,
+      "desc": "FiFO, Extra Duty, The Enormities Known to Exist, Plumbing, the Milkman, Pineapples!, (and many more) Please share my idi",
+      "link": "https://bsky.app/profile/brokowski.bsky.social"
+    },
+    {
+      "handle": "@afsulli.bsky.social",
+      "display": "Andrew F. Sullivan",
+      "followers": 4043,
+      "desc": "one vile task after another. EARTH FILLED WITH BLOOD - a novel forthcoming from Gallery Books in 2027.  author of The Ma",
+      "link": "https://bsky.app/profile/afsulli.bsky.social"
+    },
+    {
+      "handle": "@johnfitzg.bsky.social",
+      "display": "John Fitzgerald",
+      "followers": 3897,
+      "desc": "digital evolution  •  charities  •  change  •  digital strategy  •  tech for good • fixing the plumbing  • responsible A",
+      "link": "https://bsky.app/profile/johnfitzg.bsky.social"
     }
   ]
 }

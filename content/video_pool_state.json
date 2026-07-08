@@ -14,21 +14,23 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-07-06T08:59:52",
+    "last_iso": "2026-07-08T10:53:08",
     "day": {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "count": 1
     }
   },
   "tiktok": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-07-06T08:59:52",
+    "last_iso": "2026-07-08T10:53:08",
     "day": {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "count": 1
     }
   },
@@ -39,8 +41,8 @@
     ],
     "last_iso": "2026-07-06T08:59:52",
     "day": {
-      "date": "2026-07-06",
-      "count": 1
+      "date": "2026-07-08",
+      "count": 0
     }
   },
   "facebook": {
@@ -58,11 +60,12 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-07-06T08:59:52",
+    "last_iso": "2026-07-08T10:53:08",
     "day": {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "count": 1
     }
   },
@@ -70,7 +73,7 @@
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "count": 0
     }
   },
@@ -89,11 +92,12 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-07-06T08:59:52",
+    "last_iso": "2026-07-08T10:53:08",
     "day": {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "count": 1
     }
   },
@@ -118,7 +122,7 @@
     ],
     "last_iso": "2026-07-02T05:53:13",
     "day": {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "count": 0
     }
   }

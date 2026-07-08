@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@taskvirtual.bsky.social**: Electricians are not just losing jobs on-site. They are losing them in the office. 
+TaskVirtual VAs help manage the backend so your crew can stay focused on the work. Would you outsource this? 
+
+Virtu
+  → https://bsky.app/profile/taskvirtual.bsky.social/post/3mofxftma3c2h
+
 - **@apfy.bsky.social**: Bidding a project? Verify subcontractor licenses first. Expired license = failed inspection = rework. Pull CA, FL, TX, NY board data automatically. 36 of 37 runs succeeded. Pay Per Result.
 
 https://ap
@@ -188,6 +194,3 @@ Keyword-stuffing your business name? Cute idea. Bad clicks.
 
 1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
   → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
-
-- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
-  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz

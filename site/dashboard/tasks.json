@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @apfy.bsky.social: “Bidding a project? Verify subcontractor licenses first. Expired license = failed inspectio…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @jaimi.bsky.social: “He *mocked* soldiers with PTSD as losers, between stanning Blackwater while in the regular…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/jaimi.bsky.social/post/3mpz2pshmg22f",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @stylelib.org: “WoodWorker – Carpenter Handy Service WordPress Theme   https://themes.stylelib.org/?p=640 …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @lordboise.bsky.social: “Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualifie…”",
@@ -70,7 +88,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Fouens – Carpet Cleaning Company HTML Template   https://stylelib.org/?p=117085   #cleanin…”",
@@ -79,25 +97,16 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @kjiveson78.bsky.social: “I thought being an electrician was forever, but diabetes had other plans. Trading work boo…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @newsramp.com: “Contractors: are you investing in ads, SEO, or a new website at the wrong time? SBMS Media…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/newsramp.com/post/3mpyasisaea2r",
-      "est": "2 min"
-    },
-    {
       "id": "threads-q0",
+      "platform": "Threads",
+      "emoji": "🧵",
+      "task": "Reply to @harrycastaner: “the constraint is what makes it work, contractors who \"hate marketing\" usually just hate t…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://www.threads.com/@harrycastaner/post/DaiShGfgHBN",
+      "est": "2 min"
+    },
+    {
+      "id": "threads-q1",
       "platform": "Threads",
       "emoji": "🧵",
       "task": "Reply to @harrycastaner: “the constraint is the whole insight, contractors who try to do everything end up booking n…”",
