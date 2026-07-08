@@ -4,7 +4,7 @@
     "end": "2026-07-30",
     "label": "Month 1 \u2014 Aggressive scale"
   },
-  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-01 for the safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily) with pre-ads-realistic traffic ramp.",
+  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views target raised 6k→45k after week-1 pace blew past it; audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
   "targets": [
     {
       "key": "reels_published",
@@ -31,8 +31,8 @@
       "key": "video_views",
       "label": "Ad video views",
       "icon": "\ud83d\udc40",
-      "target": 6000,
-      "note": "$7/day builds the retarget pool."
+      "target": 45000,
+      "note": "Blew past 6k in week 1 (7.5k); raised to 45k. $7/day at ~$0.01 CPV builds the retarget pool fast \u2014 next lever is converting watchers to follows."
     },
     {
       "key": "engagement",

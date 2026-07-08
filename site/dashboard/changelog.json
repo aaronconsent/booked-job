@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-08T12:31",
+      "kind": "build",
+      "icon": "🛠️",
+      "text": "Syndication: added angi-vs-thumbtack-vs-homeadvisor to syndication_queue.json + unique per-channel variants in channel_variants.json."
+    },
+    {
+      "ts": "2026-07-08T12:31",
+      "kind": "strategy",
+      "icon": "🧭",
+      "text": "Weekly strategist 2026-07-08: paid video-view engine working (~7.5k views); recalibrated ad video-views 6k->45k; flagged retarget->follow as idle lever; 3 next-week angles from fresh research."
+    },
+    {
+      "ts": "2026-07-08T12:31",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "New money-cluster pillar: /blog/angi-vs-thumbtack-vs-homeadvisor/ — 3-way head-to-head, comparison table, Article+Person+FAQPage+BreadcrumbList schema, real cited stats (Angi=HomeAdvisor same co, 2026 -13% rev, Thumbtack 1000+ BBB), 'Booked Job crossover' info-gain model. Added to sitemap + blog index."
+    },
+    {
       "ts": "2026-07-08T10:54",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued to TikTok (Buffer): slow-season"
-    },
-    {
-      "ts": "2026-07-05T09:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Contractor Social Media Setup: Which Accounts Actually Matter"
-    },
-    {
-      "ts": "2026-07-05T09:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
-    },
-    {
-      "ts": "2026-07-05T09:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
     }
   ]
 }
