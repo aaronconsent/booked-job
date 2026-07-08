@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
+
+ https://stylelib.org/?p=117085 
+
+#cleaning #electrician #handyman #sitetemplates #themeforest #business #plumber #corporate #maintenance
+  → https://bsky.app/profile/stylelib.org/post/3molg43oin52n
+
+- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
+  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
+
+- **@newsramp.com**: Contractors: are you investing in ads, SEO, or a new website at the wrong time? SBMS Media's new Contractor Marketing Readiness Framework helps you identify what should come first before spending anot
+  → https://bsky.app/profile/newsramp.com/post/3mpyasisaea2r
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mprgvjdmb42n
+
+- **@sarcher.bsky.social**: Has anyone written something good about the whole prep school general contractor thing? (Self-consciously rugged oystering is understood here as a subsidiary of being a prep school contractor.)
+  → https://bsky.app/profile/sarcher.bsky.social/post/3mpzav5otgk22
+
 - **@attorneysmedia.bsky.social**: 🌟 **Navigating Contractor Agreements: Protect Your Business Today!** 🌟
 
 Are you a Dallas marketing agency owner? 🤔 Drafting the right Independent Contractor Agreement is crucial to safeguard your busi
@@ -176,32 +199,3 @@ Whether you're a:
 ✅ Landscaper
 ✅ Electrici
   → https://bsky.app/profile/mdrepros.bsky.social/post/3modsmnqiyk2y
-
-- **@taskvirtual.bsky.social**: Electricians are not just losing jobs on-site. They are losing them in the office. 
-TaskVirtual VAs help manage the backend so your crew can stay focused on the work. Would you outsource this? 
-
-Virtu
-  → https://bsky.app/profile/taskvirtual.bsky.social/post/3mofxftma3c2h
-
-- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
-
- https://themes.stylelib.org/?p=640 
-
-#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
-
-- **@texascontractorseo.bsky.social**: 1. Since partnering with Texas Contractor SEO, our Houston pool construction leads have doubled! More visibility means more projects. Ready to grow your pool business? https://texascontractorseo.com/l
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mnt42rvbud2r
-
-- **@apfy.bsky.social**: Bidding a project? Verify subcontractor licenses first. Expired license = failed inspection = rework. Pull CA, FL, TX, NY board data automatically. 36 of 37 runs succeeded. Pay Per Result.
-
-https://ap
-  → https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k
-
-- **@jaimi.bsky.social**: He *mocked* soldiers with PTSD as losers, between stanning Blackwater while in the regular army and going to work for their latest rebrand—along with talking about how much fun killing brown people wa
-  → https://bsky.app/profile/jaimi.bsky.social/post/3mpz2pshmg22f
-
-- **@ucghawaii.bsky.social**: What does it take to bring a build to life? 🛠️✨
-
-Welcome to United Construction Group (UCG). As a premier Design-Build general contractor, we manage your project from concept to final walk-through—han
-  → https://bsky.app/profile/ucghawaii.bsky.social/post/3mpriaqxglg25
