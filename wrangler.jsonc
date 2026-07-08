@@ -9,6 +9,10 @@
     "directory": "./site",
     "binding": "ASSETS"
   },
+  // bind www so the worker's www->apex 301 actually receives www traffic
+  "routes": [
+    { "pattern": "www.booked-job.com/*", "zone_name": "booked-job.com" }
+  ],
   "vars": {
     "RESEND_AUDIENCE_ID": "6a8b82cf-dc74-449d-8f70-8e7cbe372d74"
   },
