@@ -2,86 +2,86 @@
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
-    "label": "Month 1 \u2014 Aggressive scale"
+    "label": "Month 1 — Aggressive scale"
   },
-  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views target raised 6k→45k after week-1 pace blew past it; audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
+  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic — tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k→45k after week-1 pace blew past it; posts-shipped right-sized 90→60 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
   "targets": [
     {
       "key": "reels_published",
       "label": "Reels shipped",
-      "icon": "\ud83c\udfac",
+      "icon": "🎬",
       "target": 30,
       "note": "~1/day across FB+IG+TikTok."
     },
     {
       "key": "yt_shorts",
       "label": "YouTube Shorts",
-      "icon": "\ud83d\udcfa",
+      "icon": "📺",
       "target": 30,
       "note": "Strongest AI-citation signal."
     },
     {
       "key": "posts_published",
       "label": "Posts shipped",
-      "icon": "\ud83d\udcdd",
-      "target": 90,
-      "note": "FB 2/day + IG 1/day."
+      "icon": "📝",
+      "target": 60,
+      "note": "Right-sized 90→60 (2026-07-08): the counter tracks FB posts only, which run 2/day ≈ 60/mo. IG is counted separately."
     },
     {
       "key": "video_views",
       "label": "Ad video views",
-      "icon": "\ud83d\udc40",
+      "icon": "👀",
       "target": 45000,
-      "note": "Blew past 6k in week 1 (7.5k); raised to 45k. $7/day at ~$0.01 CPV builds the retarget pool fast \u2014 next lever is converting watchers to follows."
+      "note": "Blew past 6k in week 1 (7.5k); raised to 45k. $7/day at ~$0.01 CPV builds the retarget pool fast — next lever is converting watchers to follows."
     },
     {
       "key": "engagement",
       "label": "FB engagement",
-      "icon": "\ud83d\udd25",
+      "icon": "🔥",
       "target": 800,
-      "note": "Comments weighted \u2014 they drive reach."
+      "note": "Comments weighted — they drive reach."
     },
     {
       "key": "yt_views",
       "label": "YouTube views",
-      "icon": "\u25b6\ufe0f",
+      "icon": "▶️",
       "target": 10000,
       "note": "Shorts + search; compounds."
     },
     {
       "key": "followers",
       "label": "FB followers",
-      "icon": "\ud83d\udc65",
+      "icon": "👥",
       "target": 400,
       "note": "Lagging; back-loaded."
     },
     {
       "key": "yt_subscribers",
       "label": "YouTube subs",
-      "icon": "\ud83d\udd14",
+      "icon": "🔔",
       "target": 200,
       "note": "Lagging."
     },
     {
       "key": "ig_followers",
       "label": "Instagram followers",
-      "icon": "\ud83d\udcf8",
+      "icon": "📸",
       "target": 250,
       "note": "Reels fan out here too."
     },
     {
       "key": "email_subscribers",
       "label": "Email subscribers",
-      "icon": "\ud83d\udce7",
+      "icon": "📧",
       "target": 100,
-      "note": "Owned audience \u2014 no algorithm."
+      "note": "Owned audience — no algorithm."
     },
     {
       "key": "likes",
       "label": "FB page likes",
-      "icon": "\ud83d\udc4d",
+      "icon": "👍",
       "target": 300,
-      "note": "From the retarget\u2192follow campaign."
+      "note": "From the retarget→follow campaign."
     }
   ],
   "cadences": {
@@ -89,28 +89,28 @@
       {
         "key": "articles",
         "cat": "Content",
-        "icon": "\ud83d\udcdd",
+        "icon": "📝",
         "label": "Articles published",
         "target": 2
       },
       {
         "key": "social_posts",
         "cat": "Social",
-        "icon": "\ud83d\udce3",
+        "icon": "📣",
         "label": "Social posts (all channels)",
         "target": 22
       },
       {
         "key": "reels",
         "cat": "Reels",
-        "icon": "\ud83c\udfac",
+        "icon": "🎬",
         "label": "Reels shipped (FB+IG+TikTok)",
         "target": 1
       },
       {
         "key": "traffic",
         "cat": "Traffic",
-        "icon": "\ud83c\udf10",
+        "icon": "🌐",
         "label": "Website visits",
         "target": 40,
         "needs": "analytics"
@@ -120,56 +120,56 @@
         "label": "YouTube Shorts",
         "target": 1,
         "cat": "Video",
-        "icon": "\ud83d\udcfa"
+        "icon": "📺"
       }
     ],
     "weekly": [
       {
         "key": "articles",
         "cat": "Content",
-        "icon": "\ud83d\udcdd",
+        "icon": "📝",
         "label": "Articles",
         "target": 14
       },
       {
         "key": "social_posts",
         "cat": "Social",
-        "icon": "\ud83d\udce3",
+        "icon": "📣",
         "label": "Social posts",
         "target": 150
       },
       {
         "key": "reels",
         "cat": "Reels",
-        "icon": "\ud83c\udfac",
+        "icon": "🎬",
         "label": "Reels",
         "target": 7
       },
       {
         "key": "yt_shorts",
         "cat": "Video",
-        "icon": "\ud83d\udcfa",
+        "icon": "📺",
         "label": "YouTube Shorts/videos",
         "target": 7
       },
       {
         "key": "followers",
         "cat": "Social",
-        "icon": "\ud83d\udc65",
+        "icon": "👥",
         "label": "New followers (all)",
         "target": 120
       },
       {
         "key": "engagement",
         "cat": "Social",
-        "icon": "\ud83d\udd25",
+        "icon": "🔥",
         "label": "Engagement actions",
         "target": 250
       },
       {
         "key": "traffic",
         "cat": "Traffic",
-        "icon": "\ud83c\udf10",
+        "icon": "🌐",
         "label": "Website visits",
         "target": 300,
         "needs": "analytics"
@@ -179,56 +179,56 @@
       {
         "key": "articles",
         "cat": "Content",
-        "icon": "\ud83d\udcdd",
+        "icon": "📝",
         "label": "Articles",
         "target": 60
       },
       {
         "key": "social_posts",
         "cat": "Social",
-        "icon": "\ud83d\udce3",
+        "icon": "📣",
         "label": "Social posts",
         "target": 600
       },
       {
         "key": "reels",
         "cat": "Reels",
-        "icon": "\ud83c\udfac",
+        "icon": "🎬",
         "label": "Reels",
         "target": 30
       },
       {
         "key": "yt_shorts",
         "cat": "Video",
-        "icon": "\ud83d\udcfa",
+        "icon": "📺",
         "label": "YouTube Shorts/videos",
         "target": 30
       },
       {
         "key": "yt_views",
         "cat": "Video",
-        "icon": "\u25b6\ufe0f",
+        "icon": "▶️",
         "label": "YouTube views",
         "target": 10000
       },
       {
         "key": "followers",
         "cat": "Social",
-        "icon": "\ud83d\udc65",
+        "icon": "👥",
         "label": "New followers (all)",
         "target": 600
       },
       {
         "key": "email_subs",
         "cat": "Social",
-        "icon": "\u2709\ufe0f",
+        "icon": "✉️",
         "label": "Email subscribers",
         "target": 100
       },
       {
         "key": "traffic",
         "cat": "Traffic",
-        "icon": "\ud83c\udf10",
+        "icon": "🌐",
         "label": "Website visits",
         "target": 1500,
         "needs": "analytics"

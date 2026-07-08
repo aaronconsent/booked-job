@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-08T14:50",
+  "updated": "2026-07-08T16:07",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
     "days_left": 22,
-    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views target raised 6k\u219245k after week-1 pace blew past it; audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
+    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
         "label": "Reels shipped",
@@ -26,14 +26,14 @@
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
         "current": 15,
-        "target": 90,
-        "pct": 17,
+        "target": 60,
+        "pct": 25,
         "on_track": false
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 13567,
+        "current": 13585,
         "target": 45000,
         "pct": 30,
         "on_track": true
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 17,
+        "current": 18,
         "target": 800,
         "pct": 2,
         "on_track": false
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 104,
+        "current": 106,
         "target": 10000,
         "pct": 1,
         "on_track": false
@@ -98,9 +98,9 @@
   },
   "strategist": {
     "updated": "2026-07-08",
-    "headline": "The paid engine works. Now the job is turning 7,500 video views into follows and jobs.",
-    "read": "First real performance read is in, and it's a split screen. The paid side is working: the $7/day video-view campaign has pulled ~7,500 views and 5,000+ reach for under $40, which is exactly the cheap retargeting pool the plan called for. The organic side is still cold \u2014 2 Facebook followers, engagement in the single digits \u2014 but that's normal for a page barely two weeks past warm-up, and every channel is fed. We're not thin on content: 67 blog articles, 92 in the syndication queue fanning out to 13 channels with unique native copy per channel, 94 FB posts and 15 reels still queued. The gap isn't production, it's conversion \u2014 a big warm-viewer pool that nobody has been asked to follow yet. This week we deepened the money cluster with a new head-to-head (Angi vs Thumbtack vs HomeAdvisor) built on the fact most contractors don't know: Angi and HomeAdvisor are the same company.",
-    "next_move": "Convert, don't just produce. (1) Point the paid budget's next move at a retarget\u2192Page-Like/follow ad against the 25/50/95% watchers we've already built \u2014 the pool exists, it's idle. (2) Keep the money cluster compounding; next posts from this week's research: 'Angi is shrinking' (2026 revenue -13% to $1.03B, 350 layoffs, April-2025 IAC spinoff), the Jan-2025 'homeowner choice' lead-model change and what it did to lead quality, and a scam-cluster piece on Thumbtack's 1,000+ BBB complaints / chargeback-deactivation trap. (3) Still zero real named contractor quotes in the inbox (only IG spam) \u2014 keep the /share-your-story/ + FB prompts running so phase-2 EEAT has real voices to pull. Ad video-views target raised 6k\u219245k to match reality.",
+    "headline": "The pipeline you rent is shrinking. Ours \u2014 the one we own \u2014 is compounding.",
+    "read": "Two reads collide this week. Externally, the money cluster's central villain is visibly cracking: Angi's fiscal 2025 revenue fell 13% to $1.03B, its shared-lead 'network' engine collapsed 79% after the January-2025 homeowner-choice change, and it cut ~350 jobs \u2014 yet it got MORE profitable (adjusted EBITDA +25%), which means it's squeezing the pros still on it harder. That's a gift for our positioning and I turned it into a new post today. Internally, the picture is unchanged from Monday: the paid engine works (~13.5k video views, 9.4k reach, $68 spend), organic is still cold (3 FB followers, 17 engagement), and the gap is conversion, not production \u2014 95 items in the syndication queue, 108 FB posts and 8 reels still loaded. We are not thin on content; we're thin on asks-to-follow against a warm-viewer pool that's just sitting there.",
+    "next_move": "Convert and compound. (1) Highest leverage: stand up the retarget\u2192Page-Like/Follow ad against the 25/50/95% video-watchers we've already paid to build \u2014 that pool is idle and it's the single cheapest follower we'll ever buy. (2) Reels format pivot: 2026 short-form data says problem/fix walkthroughs, before/afters, and founder-visibility 30-60s clips with BURNED-IN word-level captions are what's landing \u2014 reweight the reel queue toward that and away from pure gag reels; confirm captions are burned in, not auto. (3) Keep the money cluster compounding \u2014 next posts: the Jan-2025 'homeowner choice' change and what it did to lead quality, and the Thumbtack BBB/chargeback-deactivation scam-cluster piece (flagged twice, still unwritten). (4) Still zero real named contractor quotes in the inbox (only IG spam) \u2014 keep /share-your-story/ + FB prompts running for phase-2 EEAT. Posts-shipped target right-sized 90\u219260 to match the real FB cadence.",
     "next_review": "2026-07-13"
   },
   "upcoming": [
@@ -197,7 +197,7 @@
   "content": {
     "posts_published": 15,
     "reactions": 10,
-    "comments": 7,
+    "comments": 8,
     "shares": 0,
     "reels_published": 11,
     "posts_remaining": 108,
@@ -206,22 +206,22 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "68.38",
-    "impressions": 13692,
+    "spend": "68.53",
+    "impressions": 13707,
     "reach": 9371,
-    "video_views": 13567
+    "video_views": 13585
   },
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 104,
+    "views": 106,
     "videos": 19,
     "shorts": 19
   },
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 41
+    "media": 44
   },
   "email": {
     "subscribers": 5
@@ -436,7 +436,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 94,
+      "count": 95,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -452,7 +452,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 31,
+      "count": 32,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -467,7 +467,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 555,
+      "views": 556,
       "followers": 0
     },
     {
@@ -477,13 +477,13 @@
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 104,
+      "views": 106,
       "followers": 0
     },
     {
       "name": "Blogger",
       "status": "live",
-      "count": 22,
+      "count": 23,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 71,
+      "count": 72,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 71,
+      "count": 72,
       "unit": "posts",
       "followers": 8,
       "grade": "D",
@@ -516,7 +516,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 68,
+      "count": 69,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -525,7 +525,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 70,
+      "count": 71,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -543,7 +543,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 71,
+      "count": 72,
       "unit": "mirrors",
       "grade": "B",
       "group": "content"
@@ -570,7 +570,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 24,
+      "count": 25,
       "unit": "videos (Buffer)",
       "stat": "2871 views \u00b7 16 reactions",
       "views": 2871,
@@ -582,7 +582,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 63,
+      "count": 64,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -608,7 +608,7 @@
       {
         "type": "Carousels",
         "status": "live",
-        "count": 6
+        "count": 7
       },
       {
         "type": "Reels",
@@ -618,7 +618,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Long video",
@@ -679,7 +679,7 @@
       {
         "type": "Photo carousels",
         "status": "live",
-        "count": 6
+        "count": 7
       },
       {
         "type": "Stories",
@@ -704,7 +704,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Articles",
@@ -723,7 +723,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 63
+        "count": 64
       },
       {
         "type": "Video pins",
@@ -735,19 +735,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 71
+        "count": 72
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 16
+        "count": 17
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 68
+        "count": 69
       },
       {
         "type": "Video",
@@ -762,7 +762,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 70
+        "count": 71
       },
       {
         "type": "Video",
@@ -841,37 +841,37 @@
     }
   ],
   "funnel": {
-    "reach": 28743,
-    "engagement": 17,
+    "reach": 28764,
+    "engagement": 18,
     "audience": 19,
-    "cr_clicks": 14
+    "cr_clicks": 15
   },
   "trends": {
     "audience": 7,
-    "engagement": 7,
+    "engagement": 8,
     "email": 0,
-    "reach": 15479
+    "reach": 15500
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 13671,
+        "value": 13691,
         "grade": "B"
       },
       {
         "label": "Total Clicks",
-        "value": 14,
+        "value": 15,
         "grade": "D"
       },
       {
         "label": "Total Posts",
-        "value": 740,
+        "value": 750,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 23063,
+        "value": 23078,
         "grade": "B"
       },
       {
@@ -881,11 +881,11 @@
       },
       {
         "label": "Engagement",
-        "value": 17,
+        "value": 18,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 740 posts, 19 audience, 14 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 750 posts, 19 audience, 15 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-08T16:07",
+      "kind": "strategy",
+      "icon": "🧭",
+      "text": "Recalibrated goals: posts-shipped 90→60 to match FB-only counter at 2/day. Updated strategist read/next_move: money-cluster villain (Angi) visibly cracking; highest-leverage move = retarget→Follow ad vs idle video-watcher pool + reels pivot to problem/fix walkthroughs w/ burned-in captions."
+    },
+    {
+      "ts": "2026-07-08T16:07",
+      "kind": "build",
+      "icon": "🛠️",
+      "text": "Syndicated angi-is-shrinking to syndication_queue.json (with content_html) + 5 unique channel variants (threads/bluesky/mastodon/telegram/linkedin) in channel_variants.json, per-channel native copy."
+    },
+    {
+      "ts": "2026-07-08T16:07",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "New money-cluster post: 'Angi Is Shrinking (2026)' — /blog/angi-is-shrinking/. Built on verified FY2025 financials (rev -13% to $1.03B, network rev -79%, ~350 layoffs, adj EBITDA +25%) with an information-gain data point (the ~$138M buyback ≈ 3.5x annual EBITDA). Added to sitemap + linked from blog index."
+    },
+    {
       "ts": "2026-07-08T14:54",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Mastodon: Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
-    },
-    {
-      "ts": "2026-07-05T14:51",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Billboards for Contractors: When They Pay Off and When They're a Vanity Buy"
-    },
-    {
-      "ts": "2026-07-05T14:51",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Billboards for Contractors: When They Pay Off and When They're a Vanity Buy"
-    },
-    {
-      "ts": "2026-07-05T14:51",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Billboards for Contractors: When They Pay Off and When They're a Vanity Buy"
     }
   ]
 }
