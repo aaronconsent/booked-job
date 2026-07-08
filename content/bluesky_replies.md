@@ -2,6 +2,33 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@promarksolutions.bsky.social**: New site live for Karleb Homes Ltd, a custom home builder and general contractor in Rocky Mountain House, family owned since 2006. Want a website like this for your trades business? Promark Business S
+  → https://bsky.app/profile/promarksolutions.bsky.social/post/3mq5ksnwmuh2k
+
+- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
+
+ https://stylelib.org/?p=130816 
+
+#builder #constructioncompany #electrician #factory #handyman #themeforest #wordpress #architecture #business #in
+  → https://bsky.app/profile/stylelib.org/post/3mocwjqah5w2h
+
+- **@mdrepros.bsky.social**: 🏡 WHAT IF YOUR HOME COULD GROW YOUR BUSINESS TOO?
+21680 Leitersburg Pike gives you both.
+💰 Seller is offering $10,000 toward your closing costs!
+Whether you're a:
+✅ Contractor
+✅ Landscaper
+✅ Electrici
+  → https://bsky.app/profile/mdrepros.bsky.social/post/3modsmnqiyk2y
+
+- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
+
+Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
+  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
+
+- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
+  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
+
 - **@taskvirtual.bsky.social**: Electricians are not just losing jobs on-site. They are losing them in the office. 
 TaskVirtual VAs help manage the backend so your crew can stay focused on the work. Would you outsource this? 
 
@@ -165,32 +192,3 @@ He wasn’t a plumber, didn’t own a business & wasn’t a m
 
 #constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac
   → https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q
-
-- **@pinnacledigital.bsky.social**: Real talk  how many calls did your business miss this week?
-
-No judgment.
-
-Most trades and service business owners genuinely do not know.
-
-Their phone rings while they are:
-
-🔧 Under a vehicle
-🏠 On a r
-  → https://bsky.app/profile/pinnacledigital.bsky.social/post/3mpzfw7alqi2p
-
-- **@votevaxresist.bsky.social**: Just because it’s “unthinkable” doesn’t mean HE hasn’t thought of it. I’m pretty sure though that he can’t think of a way to defend his trades as part of his “official” business. But, he’s going to ke
-  → https://bsky.app/profile/votevaxresist.bsky.social/post/3mpyppggxv222
-
-- **@louisey.bsky.social**: I've been begging our school district to start a VoTech division to our high school. It could include: trades, hospitality, communication/IT, business, paralegal, etc. Not every student is college bou
-  → https://bsky.app/profile/louisey.bsky.social/post/3mpoixn6ehc27
-
-- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
-
-https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
-
-- **@localgrowth.bsky.social**: 1/3
-Keyword-stuffing your business name? Cute idea. Bad clicks.
-
-1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
-  → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26

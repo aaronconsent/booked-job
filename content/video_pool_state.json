@@ -26,23 +26,25 @@
   "tiktok": {
     "posted": [
       "ad-arctic",
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-07-08T10:53:08",
+    "last_iso": "2026-07-08T12:51:17",
     "day": {
       "date": "2026-07-08",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
     "posted": [
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-07-06T08:59:52",
+    "last_iso": "2026-07-08T12:51:17",
     "day": {
       "date": "2026-07-08",
-      "count": 0
+      "count": 1
     }
   },
   "facebook": {
@@ -93,12 +95,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-07-08T10:53:08",
+    "last_iso": "2026-07-08T12:51:17",
     "day": {
       "date": "2026-07-08",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {

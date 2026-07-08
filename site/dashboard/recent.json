@@ -1,52 +1,52 @@
 {
-  "updated": "2026-07-08T10:58",
+  "updated": "2026-07-08T12:54",
   "posts": [
     {
-      "ts": "2026-07-08T10:54:49",
-      "channel": "threads",
-      "item": "lead-resellers-double-selling-same-lead-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T10:54:24",
+      "ts": "2026-07-08T12:52:52",
       "channel": "mastodon",
-      "item": "missed-calls-cost-contractors-invoices",
-      "url": "https://mastodon.social/@bookedjob/116885164169601650"
+      "item": "card-ftc",
+      "url": null
     },
     {
-      "ts": "2026-07-08T10:54:23",
-      "channel": "bluesky",
+      "ts": "2026-07-08T12:51:59",
+      "channel": "threads",
       "item": "aged-leads-sold-as-exclusive-scam",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq5i"
+      "url": null
     },
     {
-      "ts": "2026-07-08T10:54:21",
+      "ts": "2026-07-08T12:51:29",
+      "channel": "mastodon",
+      "item": "website-conversion-98-percent-leave",
+      "url": "https://mastodon.social/@bookedjob/116885624492722435"
+    },
+    {
+      "ts": "2026-07-08T12:51:25",
+      "channel": "bluesky",
+      "item": "respond-fast-land-more-jobs",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq5oo25k5b"
+    },
+    {
+      "ts": "2026-07-08T12:51:23",
       "channel": "telegraph",
-      "item": "aged-leads-sold-as-exclusive-scam",
-      "url": "https://telegra.ph/Aged-Leads-Resold-as-Exclusive-The-Mar"
+      "item": "respond-fast-land-more-jobs",
+      "url": "https://telegra.ph/Respond-Fast-and-Land-More-Jobs--Booked-Job-"
     },
     {
-      "ts": "2026-07-08T10:54:19",
+      "ts": "2026-07-08T12:51:22",
       "channel": "bluesky",
+      "item": "pod-ep03-track",
+      "url": null
+    },
+    {
+      "ts": "2026-07-08T12:51:19",
+      "channel": "linkedin",
       "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-07-08T10:54:16",
+      "ts": "2026-07-08T12:51:18",
       "channel": "tiktok",
-      "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T10:54:15",
-      "channel": "ig",
-      "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-08T10:53:36",
-      "channel": "facebook",
-      "item": "pod-ep03-verdict",
+      "item": "pod-ep03-track",
       "url": null
     }
   ]
