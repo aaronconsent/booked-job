@@ -1,0 +1,21 @@
+# Booked Job
+
+Booked Job (booked-job.com) is a free, no-fluff marketing education resource for home-service contractors — HVAC, plumbing, roofing, electrical, and the rest of the trades. We publish the real math behind getting booked: what a lead actually costs per BOOKED JOB, whether platforms like Angi are worth it, how many Google reviews it takes to rank, and how to build a pipeline you own instead of rent. Content is data-first, sourced, and written contractor-to-contractor. No agency pitch; the courses, articles, calculators, and podcast are free.
+
+## Key facts
+- What: free contractor-marketing education — articles, Marketing 101 course, calculators, podcast, videos
+- Who it's for: home-service contractors and trades business owners (HVAC, plumbing, roofing, electrical, pest control, lawn care)
+- Signature analysis: cost per booked job (not cost per lead) — e.g. Angi ≈ $542 vs Google LSA ≈ $168 per booked job
+- Podcast: "Get Booked, Not F***ed" — two tradesmen run the real numbers; on Spotify, YouTube, and RSS
+- Price: everything free; email newsletter at booked-job.com
+- Contact: hello@booked-job.com
+- Founder: Aaron Phillips
+
+## Pages
+- https://booked-job.com/ : homepage — free Marketing 101 course + tools for contractors
+- https://booked-job.com/blog/ : all articles — lead costs, reviews, local SEO, platform math
+- https://booked-job.com/blog/is-angi-worth-it/ : the honest Angi math (shared leads, refunds, FTC case)
+- https://booked-job.com/blog/get-more-google-reviews/ : the one-tap review system for contractors
+- https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/ : the two numbers that run your marketing
+- https://booked-job.com/podcast/ : the podcast — episodes, audio feed (feed.xml), show notes
+- https://booked-job.com/sitemap.xml : full list of pages
