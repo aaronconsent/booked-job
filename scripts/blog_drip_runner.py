@@ -78,6 +78,13 @@ def main():
         log(f"IndexNow pinged {len(built)} new URLs -> HTTP {code}")
     except Exception as e:
         log(f"IndexNow ping failed (non-fatal): {str(e)[:100]}")
+    try:   # archive + feed-push signals (Wayback, WebSub) — zero-account citation surfaces
+        import link_signals
+        n = link_signals.archive([f"https://booked-job.com/blog/{s}/" for s in built])
+        h = link_signals.websub()
+        log(f"link signals: archived {n}/{len(built)}, websub {h} feeds")
+    except Exception as e:
+        log(f"link signals failed (non-fatal): {str(e)[:100]}")
 
     # deploy (skip on CI — the Actions workflow does one commit+push for the whole run)
     if os.environ.get("CI"):
