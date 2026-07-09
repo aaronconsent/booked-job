@@ -141,6 +141,32 @@ def social_followers():
     return f
 
 
+def social_engagement():
+    """Best-effort likes for channels that expose engagement but have no views concept.
+    Bluesky: sum likeCount over recent author posts. Mastodon: sum favourites over recent
+    statuses. (Telegram channels don't expose per-post views to BOT tokens — that needs
+    the MTProto client API — so Telegram stays Posts + Followers.)"""
+    eng = {}
+    bs = readenv("bluesky.env")
+    if bs.get("BLUESKY_HANDLE"):
+        try:
+            d = _jget(f"https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor={bs['BLUESKY_HANDLE']}&limit=100")
+            eng["Bluesky"] = sum(int((it.get("post") or {}).get("likeCount", 0)) for it in d.get("feed", []))
+        except Exception:
+            pass
+    ms = readenv("mastodon.env")
+    if ms.get("MASTODON_TOKEN") and ms.get("MASTODON_INSTANCE"):
+        try:
+            base = ms["MASTODON_INSTANCE"].rstrip("/"); hdr = {"Authorization": f"Bearer {ms['MASTODON_TOKEN']}"}
+            aid = _jget(f"{base}/api/v1/accounts/verify_credentials", hdr).get("id")
+            if aid:
+                sts = _jget(f"{base}/api/v1/accounts/{aid}/statuses?limit=40", hdr)
+                eng["Mastodon"] = sum(int(s.get("favourites_count", 0)) for s in (sts if isinstance(sts, list) else []))
+        except Exception:
+            pass
+    return eng
+
+
 def _grade(value, t):
     """Letter grade from thresholds t=[D,C,B,A]."""
     if value >= t[3]: return "A"
@@ -550,7 +576,7 @@ def main():
         except Exception:
             pass
     ch_foll = {"Facebook": pi.get("followers_count", 0), "Instagram": ig["followers"], "YouTube": yt["subscribers"]}
-    ch_likes = {"Facebook": rx, "YouTube": yt.get("likes", 0), **th_likes}  # LinkedIn/TikTok set from Buffer above
+    ch_likes = {"Facebook": rx, "YouTube": yt.get("likes", 0), **th_likes, **social_engagement()}  # LinkedIn/TikTok from Buffer above
     for c in chs:
         if c["name"] in ch_views:
             c["views"] = ch_views[c["name"]]
