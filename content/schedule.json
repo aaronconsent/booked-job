@@ -235,6 +235,32 @@
       "go_live": "2026-07-08",
       "status": "live",
       "published": "2026-07-08"
+    },
+    {
+      "slug": "thumbtack-vs-angi",
+      "series": "Should You Buy Leads",
+      "go_live": "2026-07-09",
+      "status": "live",
+      "published": "2026-07-09"
+    },
+    {
+      "slug": "google-local-service-ads-worth-it",
+      "series": "Should You Buy Leads",
+      "go_live": "2026-07-09",
+      "status": "live",
+      "published": "2026-07-09"
+    },
+    {
+      "slug": "how-much-do-contractor-leads-cost",
+      "series": "Real Trade Numbers",
+      "go_live": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "slug": "homeadvisor-alternatives",
+      "series": "Should You Buy Leads",
+      "go_live": "2026-07-10",
+      "status": "pending"
     }
   ]
 }
