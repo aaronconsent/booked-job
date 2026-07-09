@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@newsramp.com**: Contractors: are you investing in ads, SEO, or a new website at the wrong time? SBMS Media's new Contractor Marketing Readiness Framework helps you identify what should come first before spending anot
+  → https://bsky.app/profile/newsramp.com/post/3mpyasisaea2r
+
+- **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
+
+ https://stylelib.org/?p=117085 
+
+#cleaning #electrician #handyman #sitetemplates #themeforest #business #plumber #corporate #maintenance
+  → https://bsky.app/profile/stylelib.org/post/3molg43oin52n
+
+- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
+  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
+
+- **@parraseaux.bsky.social**: Ooof I hate this stuff. I get a few of these requests once in a while too and it’s just so frustrating. I have never seen anyone so lackadaisical about any other profession. Nobody would ask a plumber
+  → https://bsky.app/profile/parraseaux.bsky.social/post/3mqandpvjg22j
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mprgvjdmb42n
+
+- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
+
+AI can help your home service business save time, capture more leads, and improve customer service.
+
+Explore the best AI tools here 👇
+
+🔗 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
+
 - **@stylelib.org**: Constructo – Construction WordPress Theme
 
  https://themes.stylelib.org/?p=6194 
@@ -173,31 +201,3 @@ Whether you're a:
 
 Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
   → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
-
-- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
-  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
-
-- **@taskvirtual.bsky.social**: Electricians are not just losing jobs on-site. They are losing them in the office. 
-TaskVirtual VAs help manage the backend so your crew can stay focused on the work. Would you outsource this? 
-
-Virtu
-  → https://bsky.app/profile/taskvirtual.bsky.social/post/3mofxftma3c2h
-
-- **@apfy.bsky.social**: Bidding a project? Verify subcontractor licenses first. Expired license = failed inspection = rework. Pull CA, FL, TX, NY board data automatically. 36 of 37 runs succeeded. Pay Per Result.
-
-https://ap
-  → https://bsky.app/profile/apfy.bsky.social/post/3mo6tm4rqci2k
-
-- **@jaimi.bsky.social**: He *mocked* soldiers with PTSD as losers, between stanning Blackwater while in the regular army and going to work for their latest rebrand—along with talking about how much fun killing brown people wa
-  → https://bsky.app/profile/jaimi.bsky.social/post/3mpz2pshmg22f
-
-- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
-
- https://themes.stylelib.org/?p=640 
-
-#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
