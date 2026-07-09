@@ -10,7 +10,7 @@
   "story_runner.py": 0,
   "video_pool_runner.py": 0,
   "blogger_runner.py": 0,
-  "tumblr_runner.py": 5,
+  "tumblr_runner.py": 6,
   "telegraph_runner.py": 0,
   "github_pages_runner.py": 0,
   "bluesky_runner.py": 0,
@@ -23,7 +23,7 @@
   "buffer_carousel_runner.py": 0,
   "buffer_tiktok_carousel_runner.py": 0,
   "fb_carousel_runner.py": 0,
-  "ig_carousel_runner.py": 0,
+  "ig_carousel_runner.py": 1,
   "pinterest_buffer_runner.py": 0,
   "email_drip_runner.py": 0,
   "bluesky_feed_refresh.py": 0,
@@ -43,5 +43,7 @@
   "build_recent.py": 0,
   "founder_digest.py": 0,
   "build_llms_full.py": 0,
-  "backlink_outreach.py": 0
+  "backlink_outreach.py": 0,
+  "outreach_inbox.py": 0,
+  "outreach_reply.py": 0
 }

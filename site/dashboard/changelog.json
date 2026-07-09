@@ -1,6 +1,66 @@
 {
   "entries": [
     {
+      "ts": "2026-07-08T23:11",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com — needs Aaron"
+    },
+    {
+      "ts": "2026-07-08T23:11",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from 0100019f44a9378e-bf2ca960-17c3-4f22-89cf-c314e2a7b830-000000@amazonses.com — needs Aaron"
+    },
+    {
+      "ts": "2026-07-08T23:11",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 0100019f44a9378e-bf2ca960-17c3-4f22-89cf-c314e2a7b830-000000@amazonses.com: \"Just got fired today\""
+    },
+    {
+      "ts": "2026-07-08T23:11",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com: mymix2u started following you"
+    },
+    {
+      "ts": "2026-07-08T23:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Threads: Best Leads for HVAC Contractors: The Lead Math That Works (2026)"
+    },
+    {
+      "ts": "2026-07-08T23:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Plumbers Need 337 Google Reviews to Rank on the Map | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T23:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Bluesky: HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T23:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to GitHub Pages (canonical backlink): HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T23:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
+    },
+    {
+      "ts": "2026-07-08T23:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): How to Spend Your First $10K in Marketing as a Contractor"
+    },
+    {
       "ts": "2026-07-08T18:24",
       "kind": "site",
       "icon": "🌐",
@@ -1139,66 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to GitHub Pages (canonical backlink): Why Home-Service Customers Buy the Way They Do"
-    },
-    {
-      "ts": "2026-07-06T04:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Why Home-Service Customers Buy the Way They Do"
-    },
-    {
-      "ts": "2026-07-05T23:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
-    },
-    {
-      "ts": "2026-07-05T23:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T23:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Why Nobody Clicks Your AI-Generated Poster"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Billboards for Contractors: When They Pay Off and When They're a Vanity Buy"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T18:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Why Nobody Clicks Your AI-Generated Poster"
-    },
-    {
-      "ts": "2026-07-05T18:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Vanity Numbers and Direct Mailers: Do They Still Book Jobs?"
     }
   ]
 }

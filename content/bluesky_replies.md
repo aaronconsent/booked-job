@@ -2,6 +2,40 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Reneva –  Small Business HTML Template
+
+ https://themes.stylelib.org/?p=19089 
+
+#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
+  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
+
+- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
+  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
+
+- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
+  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
+
+ https://stylelib.org/?p=106268 
+
+#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
+  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
+
+- **@truthseeker19.bsky.social**: RECOMMENDED: Holmes on Holmes
+
+FREE to stream on TubiTV.
+
+Learn just enough about good/bad home construction projects to be able to ask contractors questions you need answered, and, most importantly, 
+  → https://bsky.app/profile/truthseeker19.bsky.social/post/3mq6hnopnu225
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -163,31 +197,3 @@ Are you a Dallas marketing agency owner? 🤔 Drafting the right Independent Con
 
 - **@baadigi.bsky.social**: When search engines summarize the web, who actually gets recommended? Google AI Overviews, ChatGPT, and Perplexity are fundamentally changing how contractor leads find your business online. We just ma
   → https://bsky.app/profile/baadigi.bsky.social/post/3moycz6z6fi2t
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@baadigi.bsky.social**: What happens when a homeowner asks an AI to compare your roofing business to your top competitor? If your website lacks semantic entity data, the AI won't even mention your name. We just published the
-  → https://bsky.app/profile/baadigi.bsky.social/post/3molvgn24jm2c
-
-- **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
-  → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
