@@ -26,23 +26,29 @@ MAX_SENDS = 5
 GAP_DAYS = 7
 ACTOR = "apify~google-search-scraper"
 
-# rotating prospect queries — each targets pages that cite the numbers we own
+# rotating prospect queries — aim at EDITORIAL pages that link out (roundups, resource
+# lists, stat-citing blogs), NOT competitor agency service pages (they won't link to a rival).
 QUERIES = [
-    'contractor marketing "cost per lead" guide',
-    '"resources for contractors" marketing tools',
-    'hvac marketing statistics blog',
-    'plumbing marketing guide "google reviews"',
-    'best free calculators for contractors small business',
-    '"angi" review contractors blog worth it',
-    'roofing marketing "lead generation" cost guide',
-    'home services marketing benchmarks report',
+    'best free tools for contractors "resources"',
+    'home services marketing statistics 2026 blog',
+    'contractor small business "helpful resources" links',
+    'hvac business owner blog tips tools',
+    'plumbing business blog "google reviews" tips',
+    'trades small business recommended tools blog',
+    'how to price a job contractor blog',
+    '"is angi worth it" contractor forum blog',
+    'roofing contractor blog marketing tips',
+    'small business "we recommend" contractor calculator',
 ]
 SKIP_DOMAINS = re.compile(
     r"(facebook|youtube|reddit|quora|pinterest|amazon|linkedin|tiktok|instagram|twitter|x\.com|wikipedia|"
     r"booked-job|blogspot|tumblr|telegra\.ph|github|angi|homeadvisor|thumbtack|yelp|google|bing|apple|"
-    r"spotify|medium\.com|indeed|glassdoor)", re.I)
+    r"spotify|medium\.com|indeed|glassdoor|leadpro|leadgen|servicetitan|housecallpro|jobber|workiz)", re.I)
 EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
-BAD_EMAIL = re.compile(r"(noreply|no-reply|example\.|sentry|wixpress|\.png|\.jpg|\.gif|@[0-9]|abuse@|privacy@)", re.I)
+BAD_EMAIL = re.compile(r"(noreply|no-reply|example\.|sentry|wixpress|\.png|\.jpg|\.gif|@[0-9]|@2x|abuse@|privacy@|"
+                       r"\.wixpress|godaddy|@sentry|domain\.com|yourdomain|email@|user@|name@)", re.I)
+# generic contact mailboxes we'll accept even on gmail/outlook etc. (a real inbox someone reads)
+CONTACT_PREFIX = re.compile(r"^(info|hello|hi|hey|contact|team|editor|admin|support|sales|press|media|owner|office|help)@", re.I)
 
 # asset matched to what their page is about
 ASSETS = [
@@ -91,26 +97,55 @@ def search(query, tok, n=10):
     return out
 
 
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+
+
 def fetch(url):
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; BookedJobBot/1.0)"})
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
         with urllib.request.urlopen(req, timeout=25) as r:
-            return r.read(400_000).decode("utf-8", errors="ignore")
+            html = r.read(400_000).decode("utf-8", errors="ignore")
+        # de-obfuscate common anti-scrape tricks so real contact emails surface
+        for a, b in (("&#64;", "@"), ("[at]", "@"), ("(at)", "@"), (" [at] ", "@"),
+                     ("[dot]", "."), ("(dot)", "."), (" [dot] ", ".")):
+            html = html.replace(a, b)
+        return html
     except Exception:
         return ""
 
 
 def find_email(page_url):
-    """Same-domain email from the page, then /contact, then homepage."""
-    host = urllib.parse.urlparse(page_url).netloc.replace("www.", "")
+    """Find a reachable contact email. Priority: mailto: links > same-domain > generic
+    contact mailbox (info@/hello@/etc., any provider). Checks the page + contact/about paths."""
+    host = urllib.parse.urlparse(page_url).netloc.replace("www.", "").split(":")[0]
     base = f"https://{urllib.parse.urlparse(page_url).netloc}"
-    for u in (page_url, base + "/contact", base + "/contact-us", base):
+    paths = (page_url, base + "/contact", base + "/contact-us", base + "/about",
+             base + "/about-us", base + "/get-in-touch", base)
+    mailtos, samedomain, prefixed = [], [], []
+    seen = set()
+    for u in paths:
+        if u in seen:
+            continue
+        seen.add(u)
         html = fetch(u)
+        if not html:
+            continue
+        for m in re.findall(r'mailto:([a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,})', html):
+            if not BAD_EMAIL.search(m):
+                mailtos.append(m.lower())
         for m in EMAIL_RE.findall(html):
+            m = m.lower()
             if BAD_EMAIL.search(m):
                 continue
-            if m.lower().split("@")[1].endswith(host.split(":")[0]):
-                return m
+            if m.split("@")[1].endswith(host):
+                samedomain.append(m)
+            elif CONTACT_PREFIX.match(m):
+                prefixed.append(m)
+        if mailtos or samedomain:  # strong candidate found — stop crawling
+            break
+    for pool in (mailtos, samedomain, prefixed):
+        if pool:
+            return pool[0]
     return None
 
 
