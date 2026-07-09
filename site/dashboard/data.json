@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T07:14",
+  "updated": "2026-07-09T11:09",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 11,
+        "current": 12,
         "target": 30,
-        "pct": 37,
+        "pct": 40,
         "on_track": true
       },
       {
@@ -25,15 +25,15 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 15,
+        "current": 16,
         "target": 60,
-        "pct": 25,
+        "pct": 27,
         "on_track": false
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 14411,
+        "current": 14531,
         "target": 45000,
         "pct": 32,
         "on_track": true
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 22,
+        "current": 21,
         "target": 800,
         "pct": 3,
         "on_track": false
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 106,
+        "current": 108,
         "target": 10000,
         "pct": 1,
         "on_track": false
@@ -108,25 +108,18 @@
       "date": "2026-07-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Found behind the drywall this week: a garden hose doing a P-",
-      "sub": "hack job"
+      "title": "Before a customer ever hears your voice, they've judged you ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-10",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Porno or Plumbing R2",
+      "title": "HVAC spite ad",
       "sub": "Reel"
     },
     {
       "date": "2026-07-13",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Before a customer ever hears your voice, they've judged you ",
-      "sub": "course promo"
-    },
-    {
-      "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Drop the runner-up below. \ud83d\udc47",
@@ -134,27 +127,27 @@
     },
     {
       "date": "2026-07-14",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "HVAC spite ad",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Should you pay for leads? Sometimes gold (LSA), sometimes a ",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-07-14",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Porno or Plumbing R3",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-17",
+      "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Most contractors who 'tried Google Ads' just never answered ",
@@ -162,20 +155,20 @@
     },
     {
       "date": "2026-07-17",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Porno or Plumbing R3",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "It's somewhere in the truck. It's always somewhere in the tr",
       "sub": "trade humor"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-17",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Roofing spite ad",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "A third of your future customers won't Google you \u2014 they'll ",
@@ -183,9 +176,16 @@
     },
     {
       "date": "2026-07-21",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
+      "sub": "trade humor"
+    },
+    {
+      "date": "2026-07-21",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Roofing spite ad",
+      "title": "Nobody taught you marketing",
       "sub": "Reel"
     }
   ],
@@ -195,26 +195,26 @@
     "likes": 3
   },
   "content": {
-    "posts_published": 15,
+    "posts_published": 16,
     "reactions": 10,
-    "comments": 12,
+    "comments": 11,
     "shares": 0,
-    "reels_published": 11,
-    "posts_remaining": 111,
-    "reels_remaining": 8
+    "reels_published": 12,
+    "posts_remaining": 110,
+    "reels_remaining": 7
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "76.92",
-    "impressions": 14598,
-    "reach": 9920,
-    "video_views": 14411
+    "spend": "77.58",
+    "impressions": 14658,
+    "reach": 10016,
+    "video_views": 14531
   },
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 106,
+    "views": 108,
     "likes": 0,
     "videos": 19,
     "shorts": 19
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 53
+    "media": 54
   },
   "email": {
     "subscribers": 5
@@ -453,7 +453,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 36,
+      "count": 38,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -464,11 +464,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 16,
+      "count": 17,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 575,
+      "views": 583,
       "followers": 0
     },
     {
@@ -478,14 +478,14 @@
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 106,
+      "views": 108,
       "followers": 0,
       "likes": 0
     },
     {
       "name": "Blogger",
       "status": "live",
-      "count": 27,
+      "count": 28,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "grade": "D",
       "group": "content"
@@ -501,7 +501,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 76,
+      "count": 77,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -509,17 +509,17 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 76,
+      "count": 77,
       "unit": "posts",
       "followers": 9,
       "grade": "D",
       "group": "social",
-      "likes": 7
+      "likes": 6
     },
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 73,
+      "count": 74,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -529,7 +529,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 75,
+      "count": 76,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -547,7 +547,7 @@
     {
       "name": "GitHub Pages",
       "status": "live",
-      "count": 76,
+      "count": 77,
       "unit": "mirrors",
       "grade": "B",
       "group": "content"
@@ -574,7 +574,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 29,
+      "count": 30,
       "unit": "videos (Buffer)",
       "stat": "3716 views \u00b7 16 reactions",
       "views": 3716,
@@ -586,7 +586,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 68,
+      "count": 69,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -607,7 +607,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 14
+        "count": 15
       },
       {
         "type": "Carousels",
@@ -617,12 +617,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 9
       },
       {
         "type": "Polls",
@@ -647,12 +647,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 9
       },
       {
         "type": "Long video",
@@ -678,7 +678,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 18
+        "count": 19
       },
       {
         "type": "Photo carousels",
@@ -708,7 +708,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Articles",
@@ -727,7 +727,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 68
+        "count": 69
       },
       {
         "type": "Video pins",
@@ -739,19 +739,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 76
+        "count": 77
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 19
+        "count": 20
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 73
+        "count": 74
       },
       {
         "type": "Video",
@@ -766,7 +766,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 75
+        "count": 76
       },
       {
         "type": "Video",
@@ -798,28 +798,28 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 4
+        "count": 5
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 111,
+      "remaining": 110,
       "per_day": 2,
-      "days": 55.5,
+      "days": 55.0,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 8,
+      "remaining": 7,
       "per_day": 1,
-      "days": 8.0,
+      "days": 7.0,
       "status": "green"
     },
     {
@@ -845,22 +845,22 @@
     }
   ],
   "funnel": {
-    "reach": 31402,
-    "engagement": 22,
+    "reach": 31637,
+    "engagement": 21,
     "audience": 20,
     "cr_clicks": 20
   },
   "trends": {
     "audience": 7,
-    "engagement": 10,
+    "engagement": 9,
     "email": 0,
-    "reach": 16782
+    "reach": 17017
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 14517,
+        "value": 14639,
         "grade": "B"
       },
       {
@@ -870,12 +870,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 797,
+        "value": 809,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 24518,
+        "value": 24674,
         "grade": "B"
       },
       {
@@ -885,11 +885,11 @@
       },
       {
         "label": "Engagement",
-        "value": 22,
+        "value": 21,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 797 posts, 20 audience, 20 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 809 posts, 20 audience, 20 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
