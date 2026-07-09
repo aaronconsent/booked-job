@@ -79,8 +79,8 @@ def post_fb(p):
 
 PLATFORMS = {
     "mastodon":  {"cap": 50, "post": post_mastodon},                         # native local file → posts now
-    "ig":        {"cap": 6, "post": post_ig, "only_type": "carousel"},       # native Graph carousel
-    "facebook":  {"cap": 3, "post": post_fb},                                # native local file
+    "ig":        {"cap": 1, "post": post_ig, "only_type": "carousel"},       # Meta: lowered 2026-07-08 (app rate-limit)
+    "facebook":  {"cap": 2, "post": post_fb},                                # native local file
     # pinterest + linkedin removed 2026-07-06: Buffer single-image path returned UnexpectedError and
     # was redundant — Pinterest pins come from pinterest_buffer_runner; LinkedIn gets carousels/text/video.
     # telegram removed 2026-07-06 (channel retired).

@@ -74,6 +74,10 @@ def main():
         if now.weekday() not in POST_DAYS or not (WINDOW[0] <= now.hour < WINDOW[1]):
             log("skip: outside IG window."); return
 
+    import meta_cooldown
+    if not a.force and meta_cooldown.in_cooldown():
+        log("skip: Meta rate-limit cooldown active"); return
+
     nxt = next((s for s in shorts if s["id"] not in done), None)
     if not nxt:
         log("IG queue empty."); return
@@ -106,7 +110,12 @@ def main():
 
     import cta
     caption = cta.append(nxt["description"].replace("https://booked-job.com/", "booked-job.com/"), "ig")
-    res = ig_publish.publish(url, caption)
+    try:
+        res = ig_publish.publish(url, caption)
+    except (Exception, SystemExit) as ex:
+        if meta_cooldown.is_rate_limit(ex):
+            meta_cooldown.trip(); log("Meta rate-limited — 3h cooldown, skipping IG"); return
+        raise
     done.add(nxt["id"]); state["done"] = list(done)
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"PUBLISHED IG Reel '{nxt['id']}' -> {res.get('id')}")

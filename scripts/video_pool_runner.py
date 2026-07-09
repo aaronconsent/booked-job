@@ -82,8 +82,8 @@ def post_tumblr(v):
 # name -> {cap: posts/day, post: fn, exclude?: [id-substrings to skip on this platform]}.
 # spacing is derived from cap. LinkedIn stays professional — no edgy podcast bits.
 PLATFORMS = {
-    "facebook":  {"cap": 8, "post": post_fb},                                  # Meta high-ceiling (ban-safe max)
-    "ig":        {"cap": 6, "post": post_ig},                                  # Meta high-ceiling (ban-safe max)
+    "facebook":  {"cap": 3, "post": post_fb},                                  # Meta: lowered 2026-07-08 (app rate-limit)
+    "ig":        {"cap": 2, "post": post_ig},                                  # Meta: lowered 2026-07-08 (app rate-limit)
     "tiktok":    {"cap": 50, "post": post_tiktok},                             # uncapped (Buffer's own slots throttle)
     "linkedin":  {"cap": 8, "post": post_linkedin, "exclude": ["porno", "clip2-game"]},  # high-ceiling
     # pinterest removed from VIDEO pool 2026-07-08: Buffer video→Pinterest has never succeeded
