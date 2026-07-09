@@ -23,8 +23,11 @@ function renderScoreboard(d){
   };
   const socialCard=c=>{
     const sub=c.status==='pending'?'Pending':c.status;
-    const m=[['Posts',c.count],['Views',c.views],['Likes',c.likes],['Followers',c.followers]];
-    const grid=m.map(([k,v])=>`<div class="sm"><span class="smv">${val(v)}</span><span class="smk">${k}</span></div>`).join('');
+    // only render metrics the platform actually reports — null means "not a thing here"
+    // (e.g. Bluesky/Mastodon have no views; Telegram channels have no likes), so we skip
+    // the tile instead of showing a bare "—".
+    const m=[['Posts',c.count],['Views',c.views],['Likes',c.likes],['Followers',c.followers]].filter(([k,v])=>v!=null);
+    const grid=m.map(([k,v])=>`<div class="sm"><span class="smv">${fmt(v)}</span><span class="smk">${k}</span></div>`).join('');
     return shell(c,`<div class="cc-lab">${c.name}</div><div class="cc-sub">${sub}</div><div class="smetrics">${grid}</div>`,'scard');
   };
   el.innerHTML=

@@ -405,12 +405,13 @@ def main():
                 tok_ = pl.get("nextPageToken"); pages += 1
                 if not tok_:
                     break
-            total_views = 0
+            total_views = total_likes = 0
             for i in range(0, len(vids), 50):
                 for v in yapi("videos?part=statistics&id=" + ",".join(vids[i:i + 50])).get("items", []):
                     total_views += int(v["statistics"].get("viewCount", 0))
+                    total_likes += int(v["statistics"].get("likeCount", 0))
             yt = {"connected": True, "subscribers": int(stt.get("subscriberCount", 0)),
-                  "views": total_views, "videos": int(stt.get("videoCount", 0))}
+                  "views": total_views, "likes": total_likes, "videos": int(stt.get("videoCount", 0))}
         except Exception:
             pass
     yt_done = len(jload("content/yt_state.json", {"done": []}).get("done", []))
@@ -520,11 +521,16 @@ def main():
     chs = channels(email_subs, foll)
     # attach views + real follower counts where the platform exposes them
     ch_views = {"YouTube": yt["views"]}
+    th_likes = {}
     thv = readenv("threads.env")
     if thv.get("THREADS_USER_ID") and thv.get("THREADS_TOKEN"):
-        dv = _jget(f"https://graph.threads.net/v1.0/{thv['THREADS_USER_ID']}/threads_insights?metric=views&access_token={thv['THREADS_TOKEN']}")
+        dv = _jget(f"https://graph.threads.net/v1.0/{thv['THREADS_USER_ID']}/threads_insights?metric=views,likes&access_token={thv['THREADS_TOKEN']}")
         try:
-            ch_views["Threads"] = dv["data"][0]["total_value"]["value"]
+            for row in dv.get("data", []):
+                if row.get("name") == "views":
+                    ch_views["Threads"] = row["total_value"]["value"]
+                elif row.get("name") == "likes":
+                    th_likes["Threads"] = row["total_value"]["value"]
         except Exception:
             pass
     try:
@@ -544,7 +550,7 @@ def main():
         except Exception:
             pass
     ch_foll = {"Facebook": pi.get("followers_count", 0), "Instagram": ig["followers"], "YouTube": yt["subscribers"]}
-    ch_likes = {"Facebook": rx}  # reactions on recent FB posts (LinkedIn/TikTok set from Buffer above)
+    ch_likes = {"Facebook": rx, "YouTube": yt.get("likes", 0), **th_likes}  # LinkedIn/TikTok set from Buffer above
     for c in chs:
         if c["name"] in ch_views:
             c["views"] = ch_views[c["name"]]
