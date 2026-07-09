@@ -45,7 +45,9 @@ HARD LIMITS (if the conversation needs any of these, DO NOT promise them — end
 - No sharing of credentials, internal data, or how the automation works technically.
 - No link schemes / PBNs / anything that violates search-engine guidelines — we only want editorial links where our resource genuinely fits.
 
-Write ONLY the email body (HTML, short, 2-4 short paragraphs). No subject line. Sign as "— the Booked Job bot (yes, really) · booked-job.com". Keep it human-skimmable."""
+You can DELIVER right now. If the recipient asks for (or would clearly be won by) a custom trade-specific calculator, set build.make=true and fill build.trade (their trade, e.g. "HVAC", "Roofing") — the system will render + deploy a live custom calculator and drop its URL into your email automatically. Only do this when it advances the deal; otherwise build.make=false.
+
+Return STRICT JSON only: {"reply_html": "<the email body as HTML, 2-4 short paragraphs, signed '— the Booked Job bot (yes, really) · booked-job.com'>", "build": {"make": true|false, "trade": "<trade or empty>"}}. Do NOT put a placeholder URL in reply_html — if build.make is true, write the email as if the live link will be appended after your signature (e.g. "here it is, live:")."""
 
 
 def log(m):
@@ -80,14 +82,15 @@ def draft(msg, okey):
     prompt = (f"They emailed us. From: {msg['from']}\nSubject: {msg['subject']}\n\n"
               f"Message (may be truncated):\n{msg.get('raw_head','')[:4000]}\n\n"
               "Write the reply body.")
-    body = json.dumps({"model": MODEL,
+    body = json.dumps({"model": MODEL, "response_format": {"type": "json_object"},
                        "messages": [{"role": "system", "content": SYSTEM},
                                     {"role": "user", "content": prompt}]}).encode()
     req = urllib.request.Request("https://api.openai.com/v1/chat/completions", data=body, method="POST",
                                  headers={"Authorization": f"Bearer {okey}", "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=90) as r:
         d = json.loads(r.read().decode())
-    return d["choices"][0]["message"]["content"].strip()
+    out = json.loads(d["choices"][0]["message"]["content"])
+    return out.get("reply_html", "").strip(), (out.get("build") or {})
 
 
 def send(to, subject, html, renv):
@@ -146,12 +149,26 @@ def main():
         if sent >= MAX_REPLIES:
             break
         try:
-            html = draft(m, okey)
+            html, build = draft(m, okey)
         except Exception as e:
             log(f"reply: draft failed for {thread}: {str(e)[:100]}"); continue
+        # autonomous fulfillment: render + (via the run's deploy step) publish a custom asset
+        built_url = None
+        if build.get("make") and build.get("trade"):
+            try:
+                import make_custom
+                built_url = make_custom.make(build["trade"], partner_domain=dom)
+                html += (f'<p><b>Here it is, live:</b> <a href="{built_url}">{built_url}</a> '
+                         f'— embed snippet is on the page. Built it the second you asked. 🤖</p>')
+                log(f"BUILT custom asset for {dom}: {built_url}")
+                try:
+                    import log_change; log_change.add("build", f"🤖 Auto-built {build['trade']} calculator for {dom}: {built_url}")
+                except Exception: pass
+            except Exception as e:
+                log(f"fulfillment failed for {dom}: {str(e)[:120]}")
         subj = "Re: " + re.sub(r"^Re:\s*", "", m["subject"])[:70]
         if a.dry_run:
-            log(f"DRY reply to {thread}:\n---\n{html}\n---"); sent += 1; continue
+            log(f"DRY reply to {thread} (built={built_url}):\n---\n{html}\n---"); sent += 1; continue
         try:
             send(m["from"], subj, html, renv)
             rst["replied"][thread] = dt.datetime.now().isoformat(timespec="seconds")
