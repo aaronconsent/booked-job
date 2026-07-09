@@ -1,75 +1,69 @@
 {
-  "updated": "2026-07-09T14:04",
+  "updated": "2026-07-09T16:00",
   "posts": [
     {
-      "ts": "2026-07-09T14:00:59",
+      "ts": "2026-07-09T15:58:25",
       "channel": "mastodon",
-      "item": "card-trade",
+      "item": "carousel-leadsites",
       "url": null
     },
     {
-      "ts": "2026-07-09T14:00:19",
+      "ts": "2026-07-09T15:57:35",
       "channel": "linkedin",
-      "item": "how-to-price-a-job",
-      "url": "https://booked-job.com/docs/how-to-price-a-job.pdf"
+      "item": "get-more-google-reviews",
+      "url": "https://booked-job.com/docs/get-more-google-reviews"
     },
     {
-      "ts": "2026-07-09T14:00:18",
+      "ts": "2026-07-09T15:57:34",
       "channel": "threads",
-      "item": "best-leads-for-roofers",
+      "item": "angi-refunds-15-22-percent-junk-leads-scam",
       "url": null
     },
     {
-      "ts": "2026-07-09T13:59:46",
+      "ts": "2026-07-09T15:57:24",
       "channel": "mastodon",
-      "item": "shared-leads-vs-direct-call-conversion-math",
-      "url": "https://mastodon.social/@bookedjob/1168915553784262"
+      "item": "best-leads-for-plumbers",
+      "url": "https://mastodon.social/@bookedjob/116892017899986487"
     },
     {
-      "ts": "2026-07-09T13:59:45",
+      "ts": "2026-07-09T15:57:22",
       "channel": "bluesky",
-      "item": "angi-refunds-15-22-percent-junk-leads-scam",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.p"
+      "item": "google-ads-cpc-conversion-contractors",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3"
     },
     {
-      "ts": "2026-07-09T13:59:43",
+      "ts": "2026-07-09T15:57:20",
       "channel": "telegraph",
-      "item": "angi-refunds-15-22-percent-junk-leads-scam",
-      "url": "https://telegra.ph/Angi-Refunds-15-22-of-Your-Le"
+      "item": "google-ads-cpc-conversion-contractors",
+      "url": "https://telegra.ph/Your-Clicks-Cost-659-and-98-Bounce"
     },
     {
-      "ts": "2026-07-09T13:59:42",
+      "ts": "2026-07-09T15:57:19",
       "channel": "tumblr",
-      "item": "where-customers-find-contractors",
+      "item": "google-business-profile-for-contractors",
       "url": null
     },
     {
-      "ts": "2026-07-09T13:59:41",
+      "ts": "2026-07-09T15:57:16",
       "channel": "tumblr",
-      "item": "pod-ep03-exclusive",
+      "item": "pod-ep03-channels",
       "url": null
     },
     {
-      "ts": "2026-07-09T13:59:35",
+      "ts": "2026-07-09T15:57:13",
       "channel": "bluesky",
-      "item": "pod-ep02-fake",
+      "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-07-09T13:59:32",
-      "channel": "linkedin",
-      "item": "pod-ep03-lie",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T13:59:31",
+      "ts": "2026-07-09T15:57:09",
       "channel": "tiktok",
-      "item": "pod-ep02-fake",
+      "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-07-09T13:59:30",
-      "channel": "facebook",
+      "ts": "2026-07-09T15:57:08",
+      "channel": "ig",
       "item": "pod-ep03-trap",
       "url": null
     }
