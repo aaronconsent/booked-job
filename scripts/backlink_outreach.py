@@ -43,7 +43,8 @@ QUERIES = [
 SKIP_DOMAINS = re.compile(
     r"(facebook|youtube|reddit|quora|pinterest|amazon|linkedin|tiktok|instagram|twitter|x\.com|wikipedia|"
     r"booked-job|blogspot|tumblr|telegra\.ph|github|angi|homeadvisor|thumbtack|yelp|google|bing|apple|"
-    r"spotify|medium\.com|indeed|glassdoor|leadpro|leadgen|servicetitan|housecallpro|jobber|workiz)", re.I)
+    r"spotify|medium\.com|indeed|glassdoor|leadpro|leadgen|servicetitan|housecallpro|jobber|workiz|"
+    r"pipelineon)", re.I)  # pipelineon = Consent Resolve competitor — never pitch
 EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
 BAD_EMAIL = re.compile(r"(noreply|no-reply|example\.|sentry|wixpress|\.png|\.jpg|\.gif|@[0-9]|@2x|abuse@|privacy@|"
                        r"\.wixpress|godaddy|@sentry|domain\.com|yourdomain|email@|user@|name@)", re.I)
