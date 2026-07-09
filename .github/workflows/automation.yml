@@ -59,6 +59,7 @@ jobs:
           ENV_HEYGEN: ${{ secrets.ENV_HEYGEN }}
           ENV_MASTODON: ${{ secrets.ENV_MASTODON }}
           ENV_OPENAI: ${{ secrets.ENV_OPENAI }}
+          ENV_OPS: ${{ secrets.ENV_OPS }}
           ENV_PINTEREST: ${{ secrets.ENV_PINTEREST }}
           ENV_RECRAFT: ${{ secrets.ENV_RECRAFT }}
           ENV_RESEND: ${{ secrets.ENV_RESEND }}
@@ -75,6 +76,7 @@ jobs:
           write fal "$ENV_FAL";           write fb "$ENV_FB";             write github "$ENV_GITHUB"
           write heygen "$ENV_HEYGEN";     write mastodon "$ENV_MASTODON"; write openai "$ENV_OPENAI"
           write pinterest "$ENV_PINTEREST"; write recraft "$ENV_RECRAFT"; write resend "$ENV_RESEND"
+          write ops "$ENV_OPS"
           write telegram "$ENV_TELEGRAM"; write telegraph "$ENV_TELEGRAPH"; write threads "$ENV_THREADS"
           write tumblr "$ENV_TUMBLR";     write youtube "$ENV_YOUTUBE"
           chmod 600 secrets/*.env

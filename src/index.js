@@ -44,6 +44,19 @@ export default {
       }
     }
 
+    // Pipeline inbox reader — outreach replies captured by the email() handler below.
+    // Gated by the INBOX_KEY worker secret; ?since=ISO returns only newer messages.
+    if (url.pathname === "/ops/inbox") {
+      if (!env.INBOX_KEY || url.searchParams.get("key") !== env.INBOX_KEY) {
+        return Response.json({ error: "forbidden" }, { status: 403 });
+      }
+      let msgs = [];
+      if (env.CR_KV) { try { msgs = JSON.parse(await env.CR_KV.get("inbox") || "[]"); } catch (e) {} }
+      const since = url.searchParams.get("since");
+      if (since) msgs = msgs.filter((m) => m.ts > since);
+      return Response.json({ messages: msgs, count: msgs.length });
+    }
+
     // Tracked funnel redirect to Consent Resolve (UTM-tagged) + KV click counter.
     if (url.pathname === "/cr") {
       if (env.CR_KV) {
@@ -126,5 +139,32 @@ export default {
     // static site (feed.xml content-type is set via site/_headers — the Worker
     // does not run for paths that match a static asset)
     return env.ASSETS.fetch(request);
+  },
+
+  // Inbound email (Cloudflare Email Routing -> "Send to Worker"): capture the
+  // message in KV for the pipeline (outreach replies -> founder digest), then
+  // forward the original to Aaron's inbox as before. Keeps the last 100.
+  async email(message, env) {
+    try {
+      let raw = "";
+      try {
+        const buf = await new Response(message.raw).arrayBuffer();
+        raw = new TextDecoder("utf-8", { fatal: false }).decode(buf.slice(0, 20000));
+      } catch (e) {}
+      const msg = {
+        ts: new Date().toISOString(),
+        from: message.from,
+        to: message.to,
+        subject: message.headers.get("subject") || "(no subject)",
+        raw_head: raw,
+      };
+      if (env.CR_KV) {
+        let inbox = [];
+        try { inbox = JSON.parse(await env.CR_KV.get("inbox") || "[]"); } catch (e) {}
+        inbox.unshift(msg);
+        await env.CR_KV.put("inbox", JSON.stringify(inbox.slice(0, 100)));
+      }
+    } catch (e) {}
+    await message.forward("hello@aaron.chat");
   },
 };

@@ -20,7 +20,7 @@ LOG = os.path.join(ROOT, "content", "founder_digest.log")
 FOUNDER_EMAIL = "hello@aaron.chat"   # who these go to (override with ALERT_TO in resend.env)
 WINDOW = (7, 22)          # only send rollups 7am–10pm (host tz = America/Chicago)
 GAP_HOURS = 2             # rollup cadence
-MAJOR = re.compile(r"podcast episode|blog drip|published \d+ staged|went live|deploy failed|FAIL", re.I)
+MAJOR = re.compile(r"podcast episode|blog drip|published \d+ staged|went live|deploy failed|FAIL|outreach reply", re.I)
 
 
 def load(p, d):
