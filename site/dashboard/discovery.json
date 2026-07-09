@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T16:09:07Z",
+  "updated": "2026-07-09T18:57:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 39,
+        "uses": 40,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#plumbing",
-        "uses": 13,
+        "uses": 14,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -117,6 +117,11 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
+        "tag": "#hvacengineer",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacengineer"
+      },
+      {
         "tag": "#Hvacousticpetpanels",
         "uses": 1,
         "link": "https://mastodon.social/tags/Hvacousticpetpanels"
@@ -130,11 +135,6 @@
         "tag": "#hvacousticpolyboards",
         "uses": 1,
         "link": "https://mastodon.social/tags/hvacousticpolyboards"
-      },
-      {
-        "tag": "#hvacousticpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpartition"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22966,
+        "followers": 22967,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2331,
+        "followers": 2330,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9449,
+      "followers": 9460,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3896,
+      "followers": 3895,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },

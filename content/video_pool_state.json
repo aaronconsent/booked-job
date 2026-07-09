@@ -35,12 +35,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-07-09T11:10:20",
+    "last_iso": "2026-07-09T13:59:01",
     "day": {
       "date": "2026-07-09",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -51,12 +52,13 @@
       "pod-ep03-track",
       "pod-ep03-exclusive",
       "pod-ep03-channels",
-      "pod-ep03-trap"
+      "pod-ep03-trap",
+      "pod-ep03-lie"
     ],
-    "last_iso": "2026-07-09T11:10:20",
+    "last_iso": "2026-07-09T13:59:01",
     "day": {
       "date": "2026-07-09",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -78,12 +80,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-07-09T07:16:51",
+    "last_iso": "2026-07-09T13:59:01",
     "day": {
       "date": "2026-07-09",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -116,12 +119,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-07-09T11:10:20",
+    "last_iso": "2026-07-09T13:59:01",
     "day": {
       "date": "2026-07-09",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -143,12 +147,13 @@
     "posted": [
       "ad-arctic",
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-07-09T11:10:20",
+    "last_iso": "2026-07-09T13:59:01",
     "day": {
       "date": "2026-07-09",
-      "count": 2
+      "count": 3
     }
   }
 }

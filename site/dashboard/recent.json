@@ -1,69 +1,75 @@
 {
-  "updated": "2026-07-09T11:14",
+  "updated": "2026-07-09T14:04",
   "posts": [
     {
-      "ts": "2026-07-09T11:12:23",
-      "channel": "facebook",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T11:11:46",
+      "ts": "2026-07-09T14:00:59",
       "channel": "mastodon",
-      "item": "card-missedcall",
+      "item": "card-trade",
       "url": null
     },
     {
-      "ts": "2026-07-09T11:11:00",
-      "channel": "threads",
-      "item": "best-leads-for-plumbers",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T11:10:33",
-      "channel": "mastodon",
-      "item": "hvac-map-pack-519-reviews",
-      "url": "https://mastodon.social/@bookedjob/116890889979435312"
-    },
-    {
-      "ts": "2026-07-09T11:10:32",
-      "channel": "bluesky",
-      "item": "best-leads-for-roofers",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq7zikaeep2t"
-    },
-    {
-      "ts": "2026-07-09T11:10:30",
-      "channel": "telegraph",
-      "item": "best-leads-for-roofers",
-      "url": "https://telegra.ph/The-Best-Leads-for-Roofers-Why-They-Cost-79-and-H"
-    },
-    {
-      "ts": "2026-07-09T11:10:29",
-      "channel": "tumblr",
-      "item": "cost-per-lead-vs-cost-per-booked-job",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T11:10:27",
-      "channel": "tumblr",
-      "item": "pod-ep03-track",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T11:10:24",
-      "channel": "bluesky",
-      "item": "pod-ep02-system",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T11:10:21",
-      "channel": "tiktok",
-      "item": "pod-ep02-system",
-      "url": null
-    },
-    {
-      "ts": "2026-07-09T11:10:21",
+      "ts": "2026-07-09T14:00:19",
       "channel": "linkedin",
+      "item": "how-to-price-a-job",
+      "url": "https://booked-job.com/docs/how-to-price-a-job.pdf"
+    },
+    {
+      "ts": "2026-07-09T14:00:18",
+      "channel": "threads",
+      "item": "best-leads-for-roofers",
+      "url": null
+    },
+    {
+      "ts": "2026-07-09T13:59:46",
+      "channel": "mastodon",
+      "item": "shared-leads-vs-direct-call-conversion-math",
+      "url": "https://mastodon.social/@bookedjob/1168915553784262"
+    },
+    {
+      "ts": "2026-07-09T13:59:45",
+      "channel": "bluesky",
+      "item": "angi-refunds-15-22-percent-junk-leads-scam",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.p"
+    },
+    {
+      "ts": "2026-07-09T13:59:43",
+      "channel": "telegraph",
+      "item": "angi-refunds-15-22-percent-junk-leads-scam",
+      "url": "https://telegra.ph/Angi-Refunds-15-22-of-Your-Le"
+    },
+    {
+      "ts": "2026-07-09T13:59:42",
+      "channel": "tumblr",
+      "item": "where-customers-find-contractors",
+      "url": null
+    },
+    {
+      "ts": "2026-07-09T13:59:41",
+      "channel": "tumblr",
+      "item": "pod-ep03-exclusive",
+      "url": null
+    },
+    {
+      "ts": "2026-07-09T13:59:35",
+      "channel": "bluesky",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-07-09T13:59:32",
+      "channel": "linkedin",
+      "item": "pod-ep03-lie",
+      "url": null
+    },
+    {
+      "ts": "2026-07-09T13:59:31",
+      "channel": "tiktok",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-07-09T13:59:30",
+      "channel": "facebook",
       "item": "pod-ep03-trap",
       "url": null
     }

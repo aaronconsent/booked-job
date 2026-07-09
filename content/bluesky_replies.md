@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
 - **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
   → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m
 
@@ -192,8 +195,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@sarcher.bsky.social**: Has anyone written something good about the whole prep school general contractor thing? (Self-consciously rugged oystering is understood here as a subsidiary of being a prep school contractor.)
   → https://bsky.app/profile/sarcher.bsky.social/post/3mpzav5otgk22
-
-- **@attorneysmedia.bsky.social**: 🌟 **Navigating Contractor Agreements: Protect Your Business Today!** 🌟
-
-Are you a Dallas marketing agency owner? 🤔 Drafting the right Independent Contractor Agreement is crucial to safeguard your busi
-  → https://bsky.app/profile/attorneysmedia.bsky.social/post/3mpnmrxmqgd26
