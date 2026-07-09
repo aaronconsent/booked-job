@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T06:09",
+  "updated": "2026-07-09T07:14",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 14395,
+        "current": 14411,
         "target": 45000,
         "pct": 32,
         "on_track": true
@@ -200,16 +200,16 @@
     "comments": 12,
     "shares": 0,
     "reels_published": 11,
-    "posts_remaining": 113,
+    "posts_remaining": 111,
     "reels_remaining": 8
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "76.17",
-    "impressions": 14530,
-    "reach": 9918,
-    "video_views": 14395
+    "spend": "76.92",
+    "impressions": 14598,
+    "reach": 9920,
+    "video_views": 14411
   },
   "youtube": {
     "connected": true,
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 574,
+      "views": 575,
       "followers": 0
     },
     {
@@ -810,9 +810,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 113,
+      "remaining": 111,
       "per_day": 2,
-      "days": 56.5,
+      "days": 55.5,
       "status": "green"
     },
     {
@@ -845,7 +845,7 @@
     }
   ],
   "funnel": {
-    "reach": 31383,
+    "reach": 31402,
     "engagement": 22,
     "audience": 20,
     "cr_clicks": 20
@@ -854,13 +854,13 @@
     "audience": 7,
     "engagement": 10,
     "email": 0,
-    "reach": 16763
+    "reach": 16782
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 14501,
+        "value": 14517,
         "grade": "B"
       },
       {
@@ -875,7 +875,7 @@
       },
       {
         "label": "Total Reach",
-        "value": 24448,
+        "value": 24518,
         "grade": "B"
       },
       {

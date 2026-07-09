@@ -17,12 +17,13 @@
       "rip-angi-rip",
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-07-08T18:21:48",
+    "last_iso": "2026-07-09T07:16:51",
     "day": {
-      "date": "2026-07-08",
-      "count": 3
+      "date": "2026-07-09",
+      "count": 1
     }
   },
   "tiktok": {
@@ -32,12 +33,13 @@
       "pod-ep03-track",
       "pod-ep03-exclusive",
       "pod-ep03-channels",
-      "pod-ep03-trap"
+      "pod-ep03-trap",
+      "pod-ep03-lie"
     ],
-    "last_iso": "2026-07-08T18:21:48",
+    "last_iso": "2026-07-09T07:16:51",
     "day": {
-      "date": "2026-07-08",
-      "count": 5
+      "date": "2026-07-09",
+      "count": 1
     }
   },
   "linkedin": {
@@ -46,12 +48,13 @@
       "ad-pauls",
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-07-08T18:21:48",
+    "last_iso": "2026-07-09T07:16:51",
     "day": {
-      "date": "2026-07-08",
-      "count": 3
+      "date": "2026-07-09",
+      "count": 1
     }
   },
   "facebook": {
@@ -72,12 +75,13 @@
       "rip-angi-rip",
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-07-08T18:21:48",
+    "last_iso": "2026-07-09T07:16:51",
     "day": {
-      "date": "2026-07-08",
-      "count": 3
+      "date": "2026-07-09",
+      "count": 1
     }
   },
   "pinterest": {
@@ -108,12 +112,13 @@
       "pod-ep03-track",
       "pod-ep03-exclusive",
       "pod-ep03-channels",
-      "pod-ep03-trap"
+      "pod-ep03-trap",
+      "pod-ep03-lie"
     ],
-    "last_iso": "2026-07-08T18:21:48",
+    "last_iso": "2026-07-09T07:16:51",
     "day": {
-      "date": "2026-07-08",
-      "count": 5
+      "date": "2026-07-09",
+      "count": 1
     }
   },
   "telegram": {
@@ -133,12 +138,13 @@
   },
   "tumblr": {
     "posted": [
-      "ad-arctic"
+      "ad-arctic",
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-07-02T05:53:13",
+    "last_iso": "2026-07-09T07:16:51",
     "day": {
-      "date": "2026-07-08",
-      "count": 0
+      "date": "2026-07-09",
+      "count": 1
     }
   }
 }
