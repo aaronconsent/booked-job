@@ -57,6 +57,24 @@ export default {
       return Response.json({ messages: msgs, count: msgs.length });
     }
 
+    // Durable KV get/set for pipeline secrets that rotate (e.g. Tumblr's refresh token,
+    // which changes every use — ephemeral CI runners can't persist it any other way).
+    // Gated by INBOX_KEY. GET ?key=&k=<kvkey> returns the value; POST body sets it.
+    if (url.pathname === "/ops/kv") {
+      if (!env.INBOX_KEY || url.searchParams.get("key") !== env.INBOX_KEY) {
+        return Response.json({ error: "forbidden" }, { status: 403 });
+      }
+      const k = url.searchParams.get("k");
+      if (!k || !env.CR_KV) return Response.json({ error: "bad request" }, { status: 400 });
+      if (request.method === "POST") {
+        const v = await request.text();
+        await env.CR_KV.put(k, v);
+        return Response.json({ ok: true });
+      }
+      const val = await env.CR_KV.get(k);
+      return Response.json({ value: val }, { headers: { "Cache-Control": "no-store" } });
+    }
+
     // Tracked funnel redirect to Consent Resolve (UTM-tagged) + KV click counter.
     if (url.pathname === "/cr") {
       if (env.CR_KV) {

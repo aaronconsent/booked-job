@@ -1,9 +1,45 @@
 #!/usr/bin/env python3
 """Publish an NPF post (text + link block) to the Booked Job Tumblr (API v2,
 OAuth2). Reads secrets/tumblr.env. Used by tumblr_runner.py for syndication."""
-import json, os, sys, urllib.parse, urllib.request
+import json, os, sys, time, urllib.parse, urllib.request
 
 TOKEN = "https://api.tumblr.com/v2/oauth2/token"
+KV = "https://booked-job.com/ops/kv"
+KV_KEY = "tumblr_refresh"
+
+
+def _inbox_key():
+    p = os.path.join(os.path.dirname(__file__), "..", "secrets", "ops.env")
+    if os.path.exists(p):
+        for line in open(p):
+            if line.startswith("INBOX_KEY="):
+                return line.strip().split("=", 1)[1]
+    return None
+
+
+def _kv_get():
+    """Durable refresh token from Cloudflare KV (survives ephemeral CI runners)."""
+    k = _inbox_key()
+    if not k:
+        return None
+    try:
+        u = f"{KV}?key={urllib.parse.quote(k)}&k={KV_KEY}&cb={int(time.time())}"
+        with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "curl/8.4"}), timeout=20) as r:
+            return json.loads(r.read().decode()).get("value")
+    except Exception:
+        return None
+
+
+def _kv_set(val):
+    k = _inbox_key()
+    if not k:
+        return
+    try:
+        u = f"{KV}?key={urllib.parse.quote(k)}&k={KV_KEY}"
+        req = urllib.request.Request(u, data=val.encode(), method="POST", headers={"User-Agent": "curl/8.4"})
+        urllib.request.urlopen(req, timeout=20).read()
+    except Exception:
+        pass
 
 
 def env():
@@ -14,12 +50,16 @@ def env():
     for line in open(p):
         if "=" in line and not line.startswith("#"):
             k, v = line.strip().split("=", 1); e[k] = v
+    kv = _kv_get()   # KV is the source of truth for the rotating token when present
+    if kv:
+        e["TUMBLR_REFRESH_TOKEN"] = kv
     return e
 
 
 def _save_refresh(new_rt):
-    """Tumblr ROTATES the refresh token on every use — persist the new one or the
-    next run gets invalid_grant (this was the HTTP 400 bug)."""
+    """Tumblr ROTATES the refresh token on every use. Persist to Cloudflare KV (durable
+    across ephemeral cloud runs — the fix for the recurring invalid_grant) AND local env."""
+    _kv_set(new_rt)
     p = os.path.join(os.path.dirname(__file__), "..", "secrets", "tumblr.env")
     lines = open(p).read().splitlines()
     for i, l in enumerate(lines):
