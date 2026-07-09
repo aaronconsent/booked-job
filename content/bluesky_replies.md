@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
+  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m
+
+- **@lglly.bsky.social**: Becoming 100% DAV tho isn't an easy threshold to meet & gives the vet & family life changing economic & Ed funding sm business & home loans benefits so maybe part of why he wasn't actively employable 
+  → https://bsky.app/profile/lglly.bsky.social/post/3mq72gb47nc24
+
 - **@stylelib.org**: Reneva –  Small Business HTML Template
 
  https://themes.stylelib.org/?p=19089 
@@ -191,9 +197,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 Are you a Dallas marketing agency owner? 🤔 Drafting the right Independent Contractor Agreement is crucial to safeguard your busi
   → https://bsky.app/profile/attorneysmedia.bsky.social/post/3mpnmrxmqgd26
-
-- **@darryl-grahamii.bsky.social**: A Phoenix contractor got 11 leads in a month from ChatGPT recommendations. No ads. He just made sure AI could find him. Most contractors still can't be found. Yet.
-  → https://bsky.app/profile/darryl-grahamii.bsky.social/post/3mowgjv7n5m26
-
-- **@baadigi.bsky.social**: When search engines summarize the web, who actually gets recommended? Google AI Overviews, ChatGPT, and Perplexity are fundamentally changing how contractor leads find your business online. We just ma
-  → https://bsky.app/profile/baadigi.bsky.social/post/3moycz6z6fi2t
