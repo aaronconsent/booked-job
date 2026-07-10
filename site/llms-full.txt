@@ -1153,6 +1153,70 @@ A: Increasingly, yes. Bursts of generic reviews from accounts with no local hist
 A: Google can remove the reviews and penalize your profile's visibility, and the FTC's 2024 rule adds legal exposure. The downside dwarfs any short-term gain.
 
 ---
+## Cost Per Lead Is the Wrong Number. Track Cost Per Booked Job.
+URL: https://booked-job.com/blog/cost-per-lead-is-the-wrong-number/
+
+**Short answer:** Cost per lead is the number sellers want you watching because it hides the close rate. The number that touches your bank account is cost per booked job: ad spend divided by jobs actually won, tracked per source.
+
+### The short answer
+*CPL hides the close rate; CPBJ can't.*
+Cost per lead is a comfortable number because it ignores whether the lead ever became money. Cost per booked job is the honest one: what you spent, divided by jobs you actually won. One is marketing theater. The other is your P&L.
+
+### The math that flips it
+*A cheap lead with a low close rate is an expensive job.*
+Take a '$35 lead.' On a shared source you might close one in twelve. That's a few hundred dollars per booked job — and suddenly a '$90 exclusive lead' you close one in three looks cheap. Same trade, opposite conclusion, and you only see it if you're measuring the right number.
+
+### How to actually track it
+*Spend ÷ jobs won, monthly, per source.*
+It's not complicated: each month, per lead source, divide what you spent by the jobs you booked from it. Now you can compare Angi to Google to referrals on equal footing. Kill the losers, feed the winners, and stop letting a low cost-per-lead flatter a bad channel.
+
+### Watch the full breakdown
+*This one came straight off the podcast.*
+Marshall and Ray went deep on this in Cost Per Lead vs Cost Per Booked Job on Get Booked, Not F***ed — same math, more cussing. Watch or listen to the full episode here.
+
+### FAQ
+**Q: What's the difference between cost per lead and cost per booked job?**
+A: Cost per lead is what you pay for an inquiry. Cost per booked job is your total spend divided by jobs actually won — it includes your close rate, so it reflects real cost.
+
+**Q: How do I calculate cost per booked job?**
+A: For each lead source, divide the money you spent by the number of jobs you booked from it over the same period. Do it monthly.
+
+**Q: Why do lead sellers push cost per lead?**
+A: Because it looks cheap and hides the close rate. A low cost per lead can still mean a high cost per booked job on a shared, low-converting source.
+
+---
+## Shared vs Exclusive Leads: The Per-Booked-Job Math
+URL: https://booked-job.com/blog/lead-cost-per-booked-job-by-channel/
+
+**Short answer:** A cheap shared lead is sold to a pack of pros and won on price. An expensive exclusive lead is only yours and won on value. Run it per booked job and the 'expensive' one is often the cheaper one.
+
+### The short answer
+*Cheap-and-shared is a race; pricier-and-exclusive is a conversation.*
+Shared leads are sold to a pack of pros, so you win them by being fastest and cheapest. Exclusive leads are only yours, so you win them by being good. Per booked job, 'good' usually costs less than 'fastest and cheapest.'
+
+### Why cheap trains bad customers
+*Shared leads turn every job into a bidding war.*
+When a homeowner submits a shared lead, five phones ring in ten minutes. You've been entered into a price war before you've said a word, and 78% hire whoever responds first (Lead Connect 2026). You either drop your price or lose. Neither builds a business.
+
+### Why exclusive protects margin
+*No competition on the line means you sell on value.*
+An exclusive lead — from your Google profile, your site, a referral — is a real conversation. No one else is on the call, so you can diagnose, build trust, and price for margin instead of survival. Higher close rate, higher ticket, calmer business.
+
+### Watch the full breakdown
+*This one came straight off the podcast.*
+Marshall and Ray went deep on this in Cost Per Lead vs Cost Per Booked Job on Get Booked, Not F***ed — same math, more cussing. Watch or listen to the full episode here.
+
+### FAQ
+**Q: Are shared leads or exclusive leads better?**
+A: Per booked job, exclusive leads are usually cheaper despite a higher sticker price. Shared leads are a price race — 78% of homeowners hire whoever responds first (Lead Connect 2026).
+
+**Q: Why is a cheap lead expensive?**
+A: A cheap shared lead is sold to several pros and won on price, so your close rate and margin both drop. Cost per booked job, not cost per lead, reveals it.
+
+**Q: Where do exclusive leads come from?**
+A: Your Google Business Profile, a website that converts, and a referral system — leads that are only yours and don't vanish when you stop paying.
+
+---
 ## Contractor Marketing Statistics (2026): Lead Costs, Reviews & Speed to Lead
 URL: https://booked-job.com/blog/contractor-marketing-statistics/
 
@@ -1271,5 +1335,33 @@ A: Usually yes: lower cost per booked job, higher intent, near-exclusive calls, 
 
 **Q: Do I need reviews for Local Service Ads?**
 A: They help a lot — rating and review volume influence LSA ranking and whether homeowners pick you. 91% won't consider a shop under 4 stars (BrightLocal 2026).
+
+---
+## How Much Do Contractor Leads Cost? (2026, by Channel)
+URL: https://booked-job.com/blog/how-much-do-contractor-leads-cost/
+
+**Short answer:** Per booked job — the only number that matters — contractor leads run roughly $168 (Google LSA), $250 (Thumbtack), and $542 (Angi). Per-lead sticker prices ($25–$120) look cheaper but hide your close rate, which is where the real cost lives.
+
+### The short answer
+*Measure per booked job, not per lead.*
+Per booked job, contractor leads run about $168 via Google LSA, ~$250 via Thumbtack, and ~$542 via Angi. Per-lead prices ($25–$120 depending on trade and metro) look cheaper, but they ignore the close rate — and on shared leads sold to up to 12 pros, that close rate is brutal.
+
+### Why per-lead pricing misleads
+*A cheap lead with a low close rate is an expensive job.*
+A '$35 lead' you win one time in twelve is a few hundred dollars per booked job. Take the lead price, divide by your close rate on that source, and compare channels on equal footing. That's when a 'cheap' shared lead reveals itself as the most expensive customer you can buy.
+
+### The cheapest leads of all
+*The ones you own.*
+A complete Google Business Profile with steady reviews, a referral system, and a converting website generate exclusive leads at a fraction of the per-booked-job cost of any platform — and they don't disappear when you stop paying. Answer fast (5 min = up to 100x more likely to connect — MIT Sloan 2026) and they close.
+
+### FAQ
+**Q: How much does a contractor lead cost in 2026?**
+A: Per lead, $25–$120 depending on trade and metro. Per BOOKED job — the number that matters — roughly $168 (Google LSA), $250 (Thumbtack), $542 (Angi).
+
+**Q: Why is cost per booked job higher than cost per lead?**
+A: Because it includes your close rate. On shared leads sold to up to 12 pros, most don't close, so the true cost per booked job is far above the per-lead price.
+
+**Q: What's the cheapest way to get contractor leads?**
+A: Owned channels — Google Business Profile, referrals, and a converting website. Exclusive leads, lowest cost per booked job, and they compound over time.
 
 ---

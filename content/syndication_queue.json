@@ -1465,6 +1465,48 @@
       "blurb": "For most contractors, yes \u2014 Google Local Service Ads run about $168 per booked job (the cheapest paid channel), you pay per lead not per click, disputes are refundable, and the Google-screened badge sits above regular ads. The catch: it's still rented demand.",
       "url": "https://booked-job.com/blog/google-local-service-ads-worth-it/",
       "posted": {}
+    },
+    {
+      "id": "cost-per-lead-is-the-wrong-number",
+      "title": "Cost Per Lead Is the Wrong Number. Track Cost Per Booked Job.",
+      "labels": [
+        "The Podcast",
+        "Lead Generation",
+        "Marketing Costs",
+        "Business Numbers"
+      ],
+      "short_title": "The Podcast",
+      "blurb": "Cost per lead is the number sellers want you watching because it hides the close rate. The number that touches your bank account is cost per booked job: ad spend divided by jobs actually won, tracked per source.",
+      "url": "https://booked-job.com/blog/cost-per-lead-is-the-wrong-number/",
+      "posted": {}
+    },
+    {
+      "id": "lead-cost-per-booked-job-by-channel",
+      "title": "Shared vs Exclusive Leads: The Per-Booked-Job Math",
+      "labels": [
+        "The Podcast",
+        "Lead Generation",
+        "Marketing Costs",
+        "Business Numbers"
+      ],
+      "short_title": "The Podcast",
+      "blurb": "A cheap shared lead is sold to a pack of pros and won on price. An expensive exclusive lead is only yours and won on value. Run it per booked job and the 'expensive' one is often the cheaper one.",
+      "url": "https://booked-job.com/blog/lead-cost-per-booked-job-by-channel/",
+      "posted": {}
+    },
+    {
+      "id": "how-much-do-contractor-leads-cost",
+      "title": "How Much Do Contractor Leads Cost? (2026, by Channel)",
+      "labels": [
+        "Real Trade Numbers",
+        "Lead Generation",
+        "Marketing Costs",
+        "Statistics"
+      ],
+      "short_title": "Real Trade Numbers",
+      "blurb": "Per booked job \u2014 the only number that matters \u2014 contractor leads run roughly $168 (Google LSA), $250 (Thumbtack), and $542 (Angi). Per-lead sticker prices ($25\u2013$120) look cheaper but hide your close rate, which is where the real cost lives.",
+      "url": "https://booked-job.com/blog/how-much-do-contractor-leads-cost/",
+      "posted": {}
     }
   ]
 }

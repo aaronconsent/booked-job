@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T00:16:10Z",
+  "updated": "2026-07-10T05:03:41Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -92,6 +92,11 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#contractors",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#roofingcontractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/roofingcontractor"
@@ -100,11 +105,6 @@
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#handyman",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22968,
+        "followers": 22970,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9465,
+      "followers": 9470,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3895,
+      "followers": 3896,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1771,
+      "followers": 1770,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1409,
+      "followers": 1410,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
@@ -285,7 +285,7 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 840,
+      "followers": 841,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     }

@@ -214,13 +214,15 @@
       "slug": "cost-per-lead-is-the-wrong-number",
       "series": "The Podcast",
       "go_live": "2026-07-10",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-10"
     },
     {
       "slug": "lead-cost-per-booked-job-by-channel",
       "series": "The Podcast",
       "go_live": "2026-07-10",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-10"
     },
     {
       "slug": "contractor-marketing-statistics",
@@ -254,7 +256,8 @@
       "slug": "how-much-do-contractor-leads-cost",
       "series": "Real Trade Numbers",
       "go_live": "2026-07-10",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-10"
     },
     {
       "slug": "homeadvisor-alternatives",
