@@ -1,64 +1,64 @@
 {
-  "updated": "2026-07-10T14:53",
+  "updated": "2026-07-10T16:21",
   "posts": [
     {
-      "ts": "2026-07-10T14:51:41",
+      "ts": "2026-07-10T16:19:32",
       "channel": "mastodon",
-      "item": "card-rev-roof",
+      "item": "card-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-07-10T14:51:16",
+      "ts": "2026-07-10T16:18:59",
       "channel": "threads",
-      "item": "pod-podcast-ep02",
+      "item": "is-angi-worth-it-the-real-math",
       "url": null
     },
     {
-      "ts": "2026-07-10T14:51:02",
+      "ts": "2026-07-10T16:18:30",
       "channel": "mastodon",
-      "item": "how-many-reviews-plumbers-need-to-rank",
-      "url": "https://mastodon.social/@bookedjob/116897419251601983"
+      "item": "how-many-reviews-roofers-need-to-rank",
+      "url": "https://mastodon.social/@bookedjob/116897763181833272"
     },
     {
-      "ts": "2026-07-10T14:51:00",
+      "ts": "2026-07-10T16:18:28",
       "channel": "bluesky",
-      "item": "is-angi-worth-it-the-real-math",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqcwbot"
+      "item": "homeadvisor-ftc-72-million-fine",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqd364"
     },
     {
-      "ts": "2026-07-10T14:50:58",
-      "channel": "tumblr",
-      "item": "contractor-referrals-and-repeat-customers",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T14:50:58",
+      "ts": "2026-07-10T16:18:27",
       "channel": "telegraph",
-      "item": "is-angi-worth-it-the-real-math",
-      "url": "https://telegra.ph/Is-Angi-Worth-It-The-Real-Math-Two-Trades"
+      "item": "homeadvisor-ftc-72-million-fine",
+      "url": "https://telegra.ph/The-72M-FTC-Fine-Against-HomeAdvisor-Exp"
     },
     {
-      "ts": "2026-07-10T14:50:56",
+      "ts": "2026-07-10T16:18:26",
       "channel": "tumblr",
-      "item": "pod-ep02-peak",
+      "item": "google-local-services-ads-better-math",
       "url": null
     },
     {
-      "ts": "2026-07-10T14:50:52",
+      "ts": "2026-07-10T16:18:24",
+      "channel": "tumblr",
+      "item": "pod-ep02-howmany",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T16:18:20",
       "channel": "bluesky",
-      "item": "pod-ep01-starter",
+      "item": "pod-ep01-ftc",
       "url": null
     },
     {
-      "ts": "2026-07-10T14:50:50",
+      "ts": "2026-07-10T16:18:17",
+      "channel": "linkedin",
+      "item": "pod-ep02-howmany",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T16:18:16",
       "channel": "tiktok",
-      "item": "pod-ep01-starter",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T14:50:49",
-      "channel": "ig",
-      "item": "pod-ep02-system",
+      "item": "pod-ep01-ftc",
       "url": null
     }
   ]
