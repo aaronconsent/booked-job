@@ -2,19 +2,20 @@
   "mastodon": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-07-09T19:20:03",
+    "last_iso": "2026-07-10T10:42:35",
     "day": {
-      "date": "2026-07-09",
-      "count": 5
+      "date": "2026-07-10",
+      "count": 1
     }
   },
   "ig": {
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "count": 0
     }
   },
@@ -26,12 +27,13 @@
       "card-rev-plumb",
       "card-rev-roof",
       "card-rev-elec",
-      "card-rev-paint"
+      "card-rev-paint",
+      "card-speed"
     ],
-    "last_iso": "2026-07-09T19:20:03",
+    "last_iso": "2026-07-10T10:42:35",
     "day": {
-      "date": "2026-07-09",
-      "count": 2
+      "date": "2026-07-10",
+      "count": 1
     }
   }
 }
