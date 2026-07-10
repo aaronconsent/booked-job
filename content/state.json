@@ -1,23 +1,24 @@
 {
   "page_created": "2026-06-25",
   "posted": [
-    "art-gbp",
     "lastguy-rate",
-    "course-angi",
-    "course-pricing",
-    "pricing-low-bid",
     "pricing-insurance",
     "art-what-marketing",
-    "pricing-pick-two",
-    "art-website",
-    "course-reviews",
-    "podcast-launch",
-    "course-slowseason",
-    "art-5doors",
     "art-cpl",
-    "lastguy-worst"
+    "art-gbp",
+    "podcast-launch",
+    "lastguy-worst",
+    "art-website",
+    "pricing-pick-two",
+    "course-reviews",
+    "art-5doors",
+    "art-reviews-win",
+    "course-slowseason",
+    "course-pricing",
+    "pricing-low-bid",
+    "course-angi"
   ],
-  "last_post_iso": "2026-07-09T07:15:06",
+  "last_post_iso": "2026-07-09T19:16:27",
   "by_date": {
     "2026-06-25": 1,
     "2026-06-30": 2,
@@ -29,7 +30,7 @@
     "2026-07-06": 1,
     "2026-07-07": 1,
     "2026-07-08": 1,
-    "2026-07-09": 1
+    "2026-07-09": 2
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }

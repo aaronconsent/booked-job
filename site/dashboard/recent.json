@@ -1,70 +1,76 @@
 {
-  "updated": "2026-07-09T17:47",
+  "updated": "2026-07-09T19:21",
   "posts": [
     {
-      "ts": "2026-07-09T17:44:41",
-      "channel": "mastodon",
-      "item": "card-cpbj",
+      "ts": "2026-07-09T19:20:48",
+      "channel": "facebook",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-07-09T17:44:03",
-      "channel": "linkedin",
-      "item": "surviving-the-slow-season",
-      "url": "https://booked-job.com/docs/surviving-the-slow-se"
+      "ts": "2026-07-09T19:20:05",
+      "channel": "mastodon",
+      "item": "card-angi",
+      "url": null
     },
     {
-      "ts": "2026-07-09T17:44:02",
+      "ts": "2026-07-09T19:19:28",
+      "channel": "linkedin",
+      "item": "cost-per-booked-job",
+      "url": "https://booked-job.com/docs/cost-per-booked-job.pdf"
+    },
+    {
+      "ts": "2026-07-09T19:19:27",
       "channel": "threads",
-      "item": "google-ads-cpc-conversion-contractors",
+      "item": "best-leads-for-electricians",
       "url": null
     },
     {
-      "ts": "2026-07-09T17:43:53",
+      "ts": "2026-07-09T19:18:58",
       "channel": "mastodon",
-      "item": "best-leads-for-roofers",
-      "url": "https://mastodon.social/@bookedjob/116892436596895592"
+      "item": "angi-refunds-15-22-percent-junk-leads-scam",
+      "url": "https://mastodon.social/@bookedjob/11689281046428525"
     },
     {
-      "ts": "2026-07-09T17:43:51",
+      "ts": "2026-07-09T19:18:56",
       "channel": "bluesky",
-      "item": "best-leads-for-electricians",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqaphtwolh"
+      "item": "how-many-reviews-hvac-needs-to-rank",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq"
     },
     {
-      "ts": "2026-07-09T17:43:48",
+      "ts": "2026-07-09T19:18:53",
       "channel": "telegraph",
-      "item": "best-leads-for-electricians",
-      "url": "https://telegra.ph/The-Best-Leads-for-Electricians-Why-LSA-Wins"
+      "item": "how-many-reviews-hvac-needs-to-rank",
+      "url": "https://telegra.ph/How-Many-Google-Reviews-an-HVAC-Comp"
     },
     {
-      "ts": "2026-07-09T17:43:47",
+      "ts": "2026-07-09T19:18:52",
       "channel": "tumblr",
-      "item": "contractor-website-one-job",
+      "item": "why-reviews-win-the-call",
       "url": null
     },
     {
-      "ts": "2026-07-09T17:43:45",
+      "ts": "2026-07-09T19:18:50",
       "channel": "tumblr",
-      "item": "pod-ep03-trap",
+      "item": "pod-ep03-lie",
       "url": null
     },
     {
-      "ts": "2026-07-09T17:43:40",
+      "ts": "2026-07-09T19:18:45",
       "channel": "bluesky",
-      "item": "pod-ep02-peak",
+      "item": "pod-ep02-howmany",
       "url": null
     },
     {
-      "ts": "2026-07-09T17:43:37",
+      "ts": "2026-07-09T19:18:43",
       "channel": "tiktok",
-      "item": "pod-ep02-peak",
+      "item": "pod-ep02-howmany",
       "url": null
     },
     {
-      "ts": "2026-07-09T17:43:37",
-      "channel": "linkedin",
-      "item": "pod-ep02-system",
+      "ts": "2026-07-09T19:18:39",
+      "channel": "facebook",
+      "item": "pod-ep03-lie",
       "url": null
     }
   ]

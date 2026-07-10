@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
+  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
+
+- **@taskvirtual.bsky.social**: Electricians are not just losing jobs on-site. They are losing them in the office. 
+TaskVirtual VAs help manage the backend so your crew can stay focused on the work. Would you outsource this? 
+
+Virtu
+  → https://bsky.app/profile/taskvirtual.bsky.social/post/3mofxftma3c2h
+
+- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
+
+ https://themes.stylelib.org/?p=640 
+
+#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
+
 - **@newsramp.com**: Contractors: are you investing in ads, SEO, or a new website at the wrong time? SBMS Media's new Contractor Marketing Readiness Framework helps you identify what should come first before spending anot
   → https://bsky.app/profile/newsramp.com/post/3mpyasisaea2r
 
@@ -177,27 +197,3 @@ Keyword-stuffing your business name? Cute idea. Bad clicks.
 
 1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
   → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
-
-- **@promarksolutions.bsky.social**: New site live for Karleb Homes Ltd, a custom home builder and general contractor in Rocky Mountain House, family owned since 2006. Want a website like this for your trades business? Promark Business S
-  → https://bsky.app/profile/promarksolutions.bsky.social/post/3mq5ksnwmuh2k
-
-- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
-
- https://stylelib.org/?p=130816 
-
-#builder #constructioncompany #electrician #factory #handyman #themeforest #wordpress #architecture #business #in
-  → https://bsky.app/profile/stylelib.org/post/3mocwjqah5w2h
-
-- **@mdrepros.bsky.social**: 🏡 WHAT IF YOUR HOME COULD GROW YOUR BUSINESS TOO?
-21680 Leitersburg Pike gives you both.
-💰 Seller is offering $10,000 toward your closing costs!
-Whether you're a:
-✅ Contractor
-✅ Landscaper
-✅ Electrici
-  → https://bsky.app/profile/mdrepros.bsky.social/post/3modsmnqiyk2y
-
-- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
-
-Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
-  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22

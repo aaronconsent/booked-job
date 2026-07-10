@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T22:42:05Z",
+  "updated": "2026-07-10T00:16:10Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,28 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 40,
+        "uses": 35,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#plumbing",
-        "uses": 14,
+        "uses": 13,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#hvac",
-        "uses": 9,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#roofingcontractor",
@@ -112,6 +102,11 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#contractors",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -122,19 +117,24 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
-        "tag": "#Hvacousticpetpanels",
+        "tag": "#roofing",
         "uses": 1,
-        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#hvacousticpolypanels",
+        "tag": "#RoofingClub",
         "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpolypanels"
+        "link": "https://mastodon.social/tags/RoofingClub"
       },
       {
-        "tag": "#hvacousticpolyboards",
+        "tag": "#Electricians",
         "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpolyboards"
+        "link": "https://mastodon.social/tags/Electricians"
+      },
+      {
+        "tag": "#contractortracker",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractortracker"
       }
     ],
     "accounts": [
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35581,
+        "followers": 35597,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9463,
+      "followers": 9465,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3553,
+      "followers": 3554,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
