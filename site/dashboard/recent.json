@@ -1,35 +1,41 @@
 {
-  "updated": "2026-07-10T00:10",
+  "updated": "2026-07-10T03:39",
   "posts": [
     {
-      "ts": "2026-07-10T00:06:22",
+      "ts": "2026-07-10T03:36:02",
+      "channel": "linkedin",
+      "item": "answer-your-phone",
+      "url": "https://booked-job.com/docs/answer-your-phone.pdf"
+    },
+    {
+      "ts": "2026-07-10T03:36:01",
       "channel": "threads",
-      "item": "how-many-reviews-hvac-needs-to-rank",
+      "item": "chatgpt-search-answer-engine-optimization-contractors",
       "url": null
     },
     {
-      "ts": "2026-07-10T00:05:45",
+      "ts": "2026-07-10T03:35:54",
       "channel": "mastodon",
-      "item": "google-ads-cpc-conversion-contractors",
-      "url": "https://mastodon.social/@bookedjob/116893938191057909"
+      "item": "best-leads-for-electricians",
+      "url": "https://mastodon.social/@bookedjob/116894764525566145"
     },
     {
-      "ts": "2026-07-10T00:05:43",
+      "ts": "2026-07-10T03:35:52",
       "channel": "bluesky",
-      "item": "chatgpt-search-answer-engine-optimization-contractors",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app."
+      "item": "homeowners-read-reviews-before-they-call",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.pos"
     },
     {
-      "ts": "2026-07-10T00:05:41",
-      "channel": "telegraph",
-      "item": "chatgpt-search-answer-engine-optimization-contractors",
-      "url": "https://telegra.ph/35-of-Homeowners-A"
-    },
-    {
-      "ts": "2026-07-10T00:05:40",
+      "ts": "2026-07-10T03:35:50",
       "channel": "tumblr",
-      "item": "should-you-pay-for-leads",
+      "item": "google-ads-without-burning-cash",
       "url": null
+    },
+    {
+      "ts": "2026-07-10T03:35:50",
+      "channel": "telegraph",
+      "item": "homeowners-read-reviews-before-they-call",
+      "url": "https://telegra.ph/Homeowners-Read-Your-Reviews-Be"
     }
   ]
 }

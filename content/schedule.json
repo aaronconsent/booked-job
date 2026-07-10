@@ -263,7 +263,8 @@
       "slug": "homeadvisor-alternatives",
       "series": "Should You Buy Leads",
       "go_live": "2026-07-10",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-10"
     }
   ]
 }
