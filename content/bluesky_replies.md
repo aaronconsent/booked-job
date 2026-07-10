@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
+
+https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
+  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@jt33.bsky.social**: Yes, the problem is lots of skilled trades need workers, but they won't hire until a person has 2-5 years of experience. Catch 22, right?
+  → https://bsky.app/profile/jt33.bsky.social/post/3mqcr7b2gxs2n
+
 - **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
 Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
   → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
@@ -172,18 +187,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 - **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
   → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
-
-- **@coastalkeys.bsky.social**: 1. Do you provide mobile locksmith service?
-
-Yes! Coastal Keys Locksmith LLC is a fully mobile locksmith. We come directly to your home, business, or vehicle throughout Panama City, Panama City Beach,
-  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mpqe3lndlu2f
-
-- **@papillonjaune77.bsky.social**: Conducting business while the Senate is I'm recess?? Just retire and go home. These ppl hang on to their seats until the last breath. This is not public service. As if he hasn't done enough damage dur
-  → https://bsky.app/profile/papillonjaune77.bsky.social/post/3mpqesruulk2r
-
-- **@quemirasbobo.bsky.social**: Because it’s their belief that immigrants “take” from them
-
-Not a good analogy but remember Joe the Plumber who railed about taxes on the rich?
-
-He wasn’t a plumber, didn’t own a business & wasn’t a m
-  → https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g

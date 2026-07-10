@@ -1,70 +1,64 @@
 {
-  "updated": "2026-07-10T13:03",
+  "updated": "2026-07-10T14:53",
   "posts": [
     {
-      "ts": "2026-07-10T13:01:15",
+      "ts": "2026-07-10T14:51:41",
       "channel": "mastodon",
-      "item": "card-rev-plumb",
+      "item": "card-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-07-10T13:00:41",
+      "ts": "2026-07-10T14:51:16",
       "channel": "threads",
-      "item": "how-many-reviews-roofers-need-to-rank",
+      "item": "pod-podcast-ep02",
       "url": null
     },
     {
-      "ts": "2026-07-10T12:59:54",
+      "ts": "2026-07-10T14:51:02",
       "channel": "mastodon",
-      "item": "homeowners-read-reviews-before-they-call",
-      "url": "https://mastodon.social/@bookedjob/116896982248230835"
+      "item": "how-many-reviews-plumbers-need-to-rank",
+      "url": "https://mastodon.social/@bookedjob/116897419251601983"
     },
     {
-      "ts": "2026-07-10T12:59:53",
+      "ts": "2026-07-10T14:51:00",
       "channel": "bluesky",
-      "item": "pod-podcast-ep02",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqcq2yzhc32r"
+      "item": "is-angi-worth-it-the-real-math",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqcwbot"
     },
     {
-      "ts": "2026-07-10T12:59:52",
+      "ts": "2026-07-10T14:50:58",
+      "channel": "tumblr",
+      "item": "contractor-referrals-and-repeat-customers",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T14:50:58",
       "channel": "telegraph",
-      "item": "pod-podcast-ep02",
-      "url": "https://telegra.ph/How-to-Get-More-Google-Reviews-The-Contractor-Playbook-"
+      "item": "is-angi-worth-it-the-real-math",
+      "url": "https://telegra.ph/Is-Angi-Worth-It-The-Real-Math-Two-Trades"
     },
     {
-      "ts": "2026-07-10T12:59:51",
+      "ts": "2026-07-10T14:50:56",
       "channel": "tumblr",
-      "item": "speed-to-lead-for-contractors",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T12:59:50",
-      "channel": "tumblr",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T12:59:45",
-      "channel": "bluesky",
-      "item": "pod-ep01-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T12:59:42",
-      "channel": "linkedin",
       "item": "pod-ep02-peak",
       "url": null
     },
     {
-      "ts": "2026-07-10T12:59:41",
-      "channel": "tiktok",
-      "item": "pod-ep01-speed",
+      "ts": "2026-07-10T14:50:52",
+      "channel": "bluesky",
+      "item": "pod-ep01-starter",
       "url": null
     },
     {
-      "ts": "2026-07-10T12:59:40",
-      "channel": "facebook",
-      "item": "pod-ep02-fake",
+      "ts": "2026-07-10T14:50:50",
+      "channel": "tiktok",
+      "item": "pod-ep01-starter",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T14:50:49",
+      "channel": "ig",
+      "item": "pod-ep02-system",
       "url": null
     }
   ]
