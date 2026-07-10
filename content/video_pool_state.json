@@ -19,12 +19,13 @@
       "pod-ep03-track",
       "pod-ep03-exclusive",
       "pod-ep03-channels",
-      "pod-ep03-trap"
+      "pod-ep03-trap",
+      "pod-ep03-lie"
     ],
-    "last_iso": "2026-07-09T15:56:28",
+    "last_iso": "2026-07-10T07:09:53",
     "day": {
-      "date": "2026-07-09",
-      "count": 2
+      "date": "2026-07-10",
+      "count": 1
     }
   },
   "tiktok": {
@@ -40,12 +41,13 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-07-09T19:18:02",
+    "last_iso": "2026-07-10T07:09:53",
     "day": {
-      "date": "2026-07-09",
-      "count": 6
+      "date": "2026-07-10",
+      "count": 1
     }
   },
   "linkedin": {
@@ -58,12 +60,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-07-09T17:43:35",
+    "last_iso": "2026-07-10T07:09:53",
     "day": {
-      "date": "2026-07-09",
-      "count": 4
+      "date": "2026-07-10",
+      "count": 1
     }
   },
   "facebook": {
@@ -87,12 +90,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-07-09T19:18:02",
+    "last_iso": "2026-07-10T07:09:53",
     "day": {
-      "date": "2026-07-09",
-      "count": 3
+      "date": "2026-07-10",
+      "count": 1
     }
   },
   "pinterest": {
@@ -129,12 +133,13 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-07-09T19:18:02",
+    "last_iso": "2026-07-10T07:09:53",
     "day": {
-      "date": "2026-07-09",
-      "count": 6
+      "date": "2026-07-10",
+      "count": 1
     }
   },
   "telegram": {
@@ -160,12 +165,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-07-09T19:18:02",
+    "last_iso": "2026-07-10T07:09:53",
     "day": {
-      "date": "2026-07-09",
-      "count": 6
+      "date": "2026-07-10",
+      "count": 1
     }
   }
 }

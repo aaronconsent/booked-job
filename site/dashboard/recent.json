@@ -1,41 +1,83 @@
 {
-  "updated": "2026-07-10T03:39",
+  "updated": "2026-07-10T07:15",
   "posts": [
     {
-      "ts": "2026-07-10T03:36:02",
+      "ts": "2026-07-10T07:11:23",
       "channel": "linkedin",
-      "item": "answer-your-phone",
-      "url": "https://booked-job.com/docs/answer-your-phone.pdf"
+      "item": "google-business-profile",
+      "url": "https://booked-job.com/docs/google-business-profile"
     },
     {
-      "ts": "2026-07-10T03:36:01",
+      "ts": "2026-07-10T07:11:22",
       "channel": "threads",
-      "item": "chatgpt-search-answer-engine-optimization-contractors",
+      "item": "homeowners-read-reviews-before-they-call",
       "url": null
     },
     {
-      "ts": "2026-07-10T03:35:54",
+      "ts": "2026-07-10T07:11:13",
       "channel": "mastodon",
-      "item": "best-leads-for-electricians",
-      "url": "https://mastodon.social/@bookedjob/116894764525566145"
+      "item": "how-many-reviews-hvac-needs-to-rank",
+      "url": "https://mastodon.social/@bookedjob/116895611180197240"
     },
     {
-      "ts": "2026-07-10T03:35:52",
+      "ts": "2026-07-10T07:11:11",
       "channel": "bluesky",
-      "item": "homeowners-read-reviews-before-they-call",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.pos"
+      "item": "how-many-reviews-plumbers-need-to-rank",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/"
     },
     {
-      "ts": "2026-07-10T03:35:50",
+      "ts": "2026-07-10T07:11:09",
+      "channel": "telegraph",
+      "item": "how-many-reviews-plumbers-need-to-rank",
+      "url": "https://telegra.ph/How-Many-Google-Reviews-a-Plumber"
+    },
+    {
+      "ts": "2026-07-10T07:11:08",
       "channel": "tumblr",
-      "item": "google-ads-without-burning-cash",
+      "item": "get-found-by-google-and-ai",
       "url": null
     },
     {
-      "ts": "2026-07-10T03:35:50",
-      "channel": "telegraph",
-      "item": "homeowners-read-reviews-before-they-call",
-      "url": "https://telegra.ph/Homeowners-Read-Your-Reviews-Be"
+      "ts": "2026-07-10T07:11:07",
+      "channel": "tumblr",
+      "item": "pod-ep02-system",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T07:11:03",
+      "channel": "bluesky",
+      "item": "pod-ep02-invisible",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T07:10:59",
+      "channel": "linkedin",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T07:10:58",
+      "channel": "tiktok",
+      "item": "pod-ep02-invisible",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T07:10:57",
+      "channel": "ig",
+      "item": "pod-ep03-lie",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T07:10:32",
+      "channel": "facebook",
+      "item": "pod-ep02-system",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T07:08:49",
+      "channel": "fb",
+      "item": "ad-arctic",
+      "url": null
     }
   ]
 }

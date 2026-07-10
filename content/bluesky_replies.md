@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -191,9 +198,3 @@ Their phone rings while they are:
 
 https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
   → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
-
-- **@localgrowth.bsky.social**: 1/3
-Keyword-stuffing your business name? Cute idea. Bad clicks.
-
-1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
-  → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
