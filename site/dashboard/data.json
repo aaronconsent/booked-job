@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T16:16",
+  "updated": "2026-07-10T18:10",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -33,10 +33,10 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 14996,
+        "current": 15003,
         "target": 45000,
         "pct": 33,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "FB engagement",
@@ -206,10 +206,10 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "82.22",
-    "impressions": 15126,
-    "reach": 10325,
-    "video_views": 14996
+    "spend": "82.3",
+    "impressions": 15134,
+    "reach": 10334,
+    "video_views": 15003
   },
   "youtube": {
     "connected": true,
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 76
+    "media": 78
   },
   "email": {
     "subscribers": 5
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 673,
+      "views": 674,
       "followers": 0
     },
     {
@@ -485,7 +485,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 39,
+      "count": 40,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 16,
+      "count": 17,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -501,7 +501,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 88,
+      "count": 89,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -509,7 +509,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 88,
+      "count": 89,
       "unit": "posts",
       "followers": 11,
       "grade": "C",
@@ -519,7 +519,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 85,
+      "count": 86,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -529,7 +529,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 87,
+      "count": 88,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -586,7 +586,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 80,
+      "count": 81,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -622,7 +622,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -652,7 +652,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -708,7 +708,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 12
+        "count": 13
       },
       {
         "type": "Articles",
@@ -727,7 +727,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 80
+        "count": 81
       },
       {
         "type": "Video pins",
@@ -739,19 +739,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 88
+        "count": 89
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 29
+        "count": 30
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 85
+        "count": 86
       },
       {
         "type": "Video",
@@ -766,7 +766,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 87
+        "count": 88
       },
       {
         "type": "Video",
@@ -798,12 +798,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 16
+        "count": 17
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 11
+        "count": 12
       }
     ]
   },
@@ -845,7 +845,7 @@
     }
   ],
   "funnel": {
-    "reach": 33015,
+    "reach": 33034,
     "engagement": 16,
     "audience": 22,
     "cr_clicks": 22
@@ -854,13 +854,13 @@
     "audience": 8,
     "engagement": 3,
     "email": 0,
-    "reach": 14414
+    "reach": 14433
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 15106,
+        "value": 15113,
         "grade": "B"
       },
       {
@@ -870,12 +870,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 916,
+        "value": 923,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 25451,
+        "value": 25468,
         "grade": "B"
       },
       {
@@ -890,6 +890,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 916 posts, 22 audience, 22 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 923 posts, 22 audience, 22 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
+  → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
+
 - **@anotherben.bsky.social**: Real talk: how do I make myself available to indie studios to help with (zero-AI) marketing/sales/customer relations? Even as a contractor/consultant. 
 
 Is there a telephone pole I can staple a flyer 
@@ -186,6 +189,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 - **@texascontractorseo.bsky.social**: Did you know commercial excavation search demand spikes the moment a project moves from planning to mobilization? Contractors suddenly need reliable crews and heavy equipment on tight timelines — and 
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczis77p2r
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
