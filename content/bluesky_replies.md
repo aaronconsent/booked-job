@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
+Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
+  → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
+
+- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
+
+Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
+  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
+
+- **@promarksolutions.bsky.social**: New site live for Karleb Homes Ltd, a custom home builder and general contractor in Rocky Mountain House, family owned since 2006. Want a website like this for your trades business? Promark Business S
+  → https://bsky.app/profile/promarksolutions.bsky.social/post/3mq5ksnwmuh2k
+
+- **@invictaconst.bsky.social**: How Do You Choose the Right Commercial General Contractors in Edmonton?
+
+A reliable contractor not only manages construction efficiently but also coordinates subcontractors, ensures safety compliance,
+  → https://bsky.app/profile/invictaconst.bsky.social/post/3mqbgmuvyok2u
+
+- **@localgrowth.bsky.social**: 1/3
+Keyword-stuffing your business name? Cute idea. Bad clicks.
+
+1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
+  → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
+
 - **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
 
  https://stylelib.org/?p=877700 
@@ -164,37 +187,3 @@ Not a good analogy but remember Joe the Plumber who railed about taxes on the ri
 
 He wasn’t a plumber, didn’t own a business & wasn’t a m
   → https://bsky.app/profile/quemirasbobo.bsky.social/post/3mpfictoupc2g
-
-- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
-
- https://stylelib.org/?p=101768 
-
-#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contrac
-  → https://bsky.app/profile/stylelib.org/post/3mpfmc4v7ms2q
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@votevaxresist.bsky.social**: Just because it’s “unthinkable” doesn’t mean HE hasn’t thought of it. I’m pretty sure though that he can’t think of a way to defend his trades as part of his “official” business. But, he’s going to ke
-  → https://bsky.app/profile/votevaxresist.bsky.social/post/3mpyppggxv222
-
-- **@pinnacledigital.bsky.social**: Real talk  how many calls did your business miss this week?
-
-No judgment.
-
-Most trades and service business owners genuinely do not know.
-
-Their phone rings while they are:
-
-🔧 Under a vehicle
-🏠 On a r
-  → https://bsky.app/profile/pinnacledigital.bsky.social/post/3mpzfw7alqi2p
-
-- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
-
-https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726

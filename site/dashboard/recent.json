@@ -1,76 +1,70 @@
 {
-  "updated": "2026-07-10T10:46",
+  "updated": "2026-07-10T13:03",
   "posts": [
     {
-      "ts": "2026-07-10T10:43:36",
-      "channel": "youtube",
-      "item": "pod-ep03-track",
-      "url": "https://youtu.be/UZGuh7vt714"
-    },
-    {
-      "ts": "2026-07-10T10:43:25",
-      "channel": "facebook",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T10:42:37",
+      "ts": "2026-07-10T13:01:15",
       "channel": "mastodon",
-      "item": "card-reviews",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-07-10T10:42:01",
+      "ts": "2026-07-10T13:00:41",
       "channel": "threads",
-      "item": "how-many-reviews-plumbers-need-to-rank",
+      "item": "how-many-reviews-roofers-need-to-rank",
       "url": null
     },
     {
-      "ts": "2026-07-10T10:41:16",
+      "ts": "2026-07-10T12:59:54",
       "channel": "mastodon",
-      "item": "chatgpt-search-answer-engine-optimization-contractors",
-      "url": "https://mastodon.social/@bookedjob/116896"
+      "item": "homeowners-read-reviews-before-they-call",
+      "url": "https://mastodon.social/@bookedjob/116896982248230835"
     },
     {
-      "ts": "2026-07-10T10:41:15",
+      "ts": "2026-07-10T12:59:53",
       "channel": "bluesky",
-      "item": "how-many-reviews-roofers-need-to-rank",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3"
+      "item": "pod-podcast-ep02",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqcq2yzhc32r"
     },
     {
-      "ts": "2026-07-10T10:41:12",
+      "ts": "2026-07-10T12:59:52",
       "channel": "telegraph",
-      "item": "how-many-reviews-roofers-need-to-rank",
-      "url": "https://telegra.ph/How-Many-Google-Reviews-a-Roofer-N"
+      "item": "pod-podcast-ep02",
+      "url": "https://telegra.ph/How-to-Get-More-Google-Reviews-The-Contractor-Playbook-"
     },
     {
-      "ts": "2026-07-10T10:41:11",
+      "ts": "2026-07-10T12:59:51",
       "channel": "tumblr",
-      "item": "marketing-scorecard-for-contractors",
+      "item": "speed-to-lead-for-contractors",
       "url": null
     },
     {
-      "ts": "2026-07-10T10:41:09",
+      "ts": "2026-07-10T12:59:50",
       "channel": "tumblr",
-      "item": "pod-ep02-fake",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T10:41:05",
-      "channel": "bluesky",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T10:41:01",
-      "channel": "linkedin",
       "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-07-10T10:41:00",
+      "ts": "2026-07-10T12:59:45",
+      "channel": "bluesky",
+      "item": "pod-ep01-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T12:59:42",
+      "channel": "linkedin",
+      "item": "pod-ep02-peak",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T12:59:41",
       "channel": "tiktok",
-      "item": "pod-ep01-verdict",
+      "item": "pod-ep01-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-10T12:59:40",
+      "channel": "facebook",
+      "item": "pod-ep02-fake",
       "url": null
     }
   ]
