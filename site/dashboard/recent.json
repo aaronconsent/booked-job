@@ -1,64 +1,64 @@
 {
-  "updated": "2026-07-11T08:54",
+  "updated": "2026-07-11T10:12",
   "posts": [
     {
-      "ts": "2026-07-11T08:52:41",
-      "channel": "facebook",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T08:51:40",
+      "ts": "2026-07-11T10:10:40",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-07-11T08:50:52",
+      "ts": "2026-07-11T10:10:09",
       "channel": "threads",
-      "item": "angi-is-shrinking",
+      "item": "why-homeowners-skip-shops-under-4-stars",
       "url": null
     },
     {
-      "ts": "2026-07-11T08:50:25",
+      "ts": "2026-07-11T10:09:39",
       "channel": "mastodon",
-      "item": "contractor-marketing-statistics",
-      "url": "https://mastodon.social/@bookedjob/116901663544499510"
+      "item": "angi-alternatives",
+      "url": "https://mastodon.social/@bookedjob/116901975116671326"
     },
     {
-      "ts": "2026-07-11T08:50:22",
+      "ts": "2026-07-11T10:09:38",
       "channel": "bluesky",
-      "item": "why-homeowners-skip-shops-under-4-stars",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post"
+      "item": "one-tap-google-review-system",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqewzigfx"
     },
     {
-      "ts": "2026-07-11T08:50:21",
-      "channel": "tumblr",
-      "item": "free-marketing-demo-surprise-bill",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T08:50:21",
+      "ts": "2026-07-11T10:09:37",
       "channel": "telegraph",
-      "item": "why-homeowners-skip-shops-under-4-stars",
-      "url": "https://telegra.ph/Why-Homeowners-Skip-Any-Shop-Und"
+      "item": "one-tap-google-review-system",
+      "url": "https://telegra.ph/The-One-Tap-Google-Review-System-From-the-P"
     },
     {
-      "ts": "2026-07-11T08:50:20",
+      "ts": "2026-07-11T10:09:36",
       "channel": "tumblr",
-      "item": "pod-ep01-speed",
+      "item": "true-cost-of-hiring-marketing-agency",
       "url": null
     },
     {
-      "ts": "2026-07-11T08:50:15",
+      "ts": "2026-07-11T10:09:35",
+      "channel": "tumblr",
+      "item": "pod-ep01-starter",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T10:09:32",
       "channel": "bluesky",
-      "item": "pod-ep01-wrongnum",
+      "item": "pod-ep01-shared",
       "url": null
     },
     {
-      "ts": "2026-07-11T08:50:13",
+      "ts": "2026-07-11T10:09:30",
+      "channel": "linkedin",
+      "item": "pod-ep01-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T10:09:29",
       "channel": "tiktok",
-      "item": "pod-ep01-wrongnum",
+      "item": "pod-ep01-shared",
       "url": null
     }
   ]

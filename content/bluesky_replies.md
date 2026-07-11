@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@truthseeker19.bsky.social**: RECOMMENDED: Holmes on Holmes
+
+FREE to stream on TubiTV.
+
+Learn just enough about good/bad home construction projects to be able to ask contractors questions you need answered, and, most importantly, 
+  → https://bsky.app/profile/truthseeker19.bsky.social/post/3mq6hnopnu225
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
+
+ https://stylelib.org/?p=106268 
+
+#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
+  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -164,16 +185,3 @@ Boston, North & South Shores,
 
 - **@lglly.bsky.social**: Becoming 100% DAV tho isn't an easy threshold to meet & gives the vet & family life changing economic & Ed funding sm business & home loans benefits so maybe part of why he wasn't actively employable 
   → https://bsky.app/profile/lglly.bsky.social/post/3mq72gb47nc24
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
-  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s

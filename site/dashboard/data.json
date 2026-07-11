@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T08:47",
+  "updated": "2026-07-11T10:08",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 15288,
+        "current": 15302,
         "target": 45000,
         "pct": 34,
         "on_track": false
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 15,
+        "current": 14,
         "target": 800,
         "pct": 2,
         "on_track": false
@@ -197,7 +197,7 @@
   "content": {
     "posts_published": 19,
     "reactions": 2,
-    "comments": 13,
+    "comments": 12,
     "shares": 0,
     "reels_published": 14,
     "posts_remaining": 111,
@@ -206,10 +206,10 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "85.14",
-    "impressions": 15419,
-    "reach": 10646,
-    "video_views": 15288
+    "spend": "85.29",
+    "impressions": 15433,
+    "reach": 10662,
+    "video_views": 15302
   },
   "youtube": {
     "connected": true,
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 86
+    "media": 88
   },
   "email": {
     "subscribers": 5
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 700,
+      "views": 702,
       "followers": 1
     },
     {
@@ -485,7 +485,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 23,
+      "count": 24,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -501,7 +501,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 95,
+      "count": 96,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -509,7 +509,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 95,
+      "count": 96,
       "unit": "posts",
       "followers": 14,
       "grade": "C",
@@ -519,7 +519,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 92,
+      "count": 93,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -529,7 +529,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 94,
+      "count": 95,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -563,7 +563,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 88,
+      "count": 89,
       "unit": "posts (Buffer)",
       "stat": "363 reach \u00b7 5 reactions",
       "views": 0,
@@ -586,7 +586,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 87,
+      "count": 88,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -622,7 +622,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -652,7 +652,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -698,7 +698,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 81
+        "count": 82
       },
       {
         "type": "Documents",
@@ -727,7 +727,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 87
+        "count": 88
       },
       {
         "type": "Video pins",
@@ -739,19 +739,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 95
+        "count": 96
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 32
+        "count": 33
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 92
+        "count": 93
       },
       {
         "type": "Video",
@@ -766,7 +766,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 94
+        "count": 95
       },
       {
         "type": "Video",
@@ -798,12 +798,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 14
+        "count": 15
       }
     ]
   },
@@ -845,22 +845,22 @@
     }
   ],
   "funnel": {
-    "reach": 33955,
-    "engagement": 15,
+    "reach": 33990,
+    "engagement": 14,
     "audience": 26,
     "cr_clicks": 23
   },
   "trends": {
     "audience": 12,
-    "engagement": -1,
+    "engagement": -2,
     "email": 0,
-    "reach": 13136
+    "reach": 13171
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 15398,
+        "value": 15412,
         "grade": "B"
       },
       {
@@ -870,12 +870,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 975,
+        "value": 983,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 26065,
+        "value": 26095,
         "grade": "B"
       },
       {
@@ -885,11 +885,11 @@
       },
       {
         "label": "Engagement",
-        "value": 15,
+        "value": 14,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 975 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 983 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
