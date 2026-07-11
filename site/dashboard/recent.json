@@ -1,70 +1,34 @@
 {
-  "updated": "2026-07-10T18:15",
+  "updated": "2026-07-10T22:38",
   "posts": [
     {
-      "ts": "2026-07-10T18:14:38",
-      "channel": "facebook",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T18:13:48",
-      "channel": "mastodon",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T18:13:08",
+      "ts": "2026-07-10T22:36:55",
       "channel": "threads",
-      "item": "homeadvisor-ftc-72-million-fine",
+      "item": "when-angi-actually-works",
       "url": null
     },
     {
-      "ts": "2026-07-10T18:12:42",
+      "ts": "2026-07-10T22:36:28",
       "channel": "mastodon",
-      "item": "pod-podcast-ep02",
-      "url": "https://mastodon.social/@bookedjob/116898212252429101"
+      "item": "is-angi-worth-it-the-real-math",
+      "url": "https://mastodon.social/@bookedjob/116899249391671554"
     },
     {
-      "ts": "2026-07-10T18:12:41",
+      "ts": "2026-07-10T22:36:26",
       "channel": "bluesky",
-      "item": "when-angi-actually-works",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqdbkdngqi2b"
+      "item": "pod-podcast-ep03",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqdqbxro252q"
     },
     {
-      "ts": "2026-07-10T18:12:40",
-      "channel": "tumblr",
-      "item": "i-audited-your-site-cold-pitch-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T18:12:40",
+      "ts": "2026-07-10T22:36:25",
       "channel": "telegraph",
-      "item": "when-angi-actually-works",
-      "url": "https://telegra.ph/When-Angi-Actually-Works-The-One-Case-Well-Defe"
+      "item": "pod-podcast-ep03",
+      "url": "https://telegra.ph/Cost-Per-Lead-vs-Cost-Per-Booked-Job--The-2-Numbers-07-"
     },
     {
-      "ts": "2026-07-10T18:12:38",
+      "ts": "2026-07-10T22:36:24",
       "channel": "tumblr",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T18:12:34",
-      "channel": "bluesky",
-      "item": "pod-ep01-refunds",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T18:12:32",
-      "channel": "tiktok",
-      "item": "pod-ep01-refunds",
-      "url": null
-    },
-    {
-      "ts": "2026-07-10T18:12:31",
-      "channel": "facebook",
-      "item": "pod-ep02-onetap",
+      "item": "guaranteed-number-one-google-ranking-lie",
       "url": null
     }
   ]

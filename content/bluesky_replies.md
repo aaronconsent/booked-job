@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
+
+Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
+  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
+
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
+- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
+
+Um… where?
+  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
+
+- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
+  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
+
 - **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
   → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
 
@@ -173,19 +189,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@stylelib.org**: Fixhero – Handyman  Repair Services WordPress Theme
-
- https://themes.stylelib.org/?p=809526 
-
-#business #corporate #elementor #plumber #rstheme #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mpfnfw6gs42u
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@texascontractorseo.bsky.social**: Did you know commercial excavation search demand spikes the moment a project moves from planning to mobilization? Contractors suddenly need reliable crews and heavy equipment on tight timelines — and 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczis77p2r
