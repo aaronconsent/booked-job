@@ -1,40 +1,64 @@
 {
-  "updated": "2026-07-11T17:04",
+  "updated": "2026-07-11T18:07",
   "posts": [
     {
-      "ts": "2026-07-11T17:02:22",
-      "channel": "threads",
-      "item": "google-local-service-ads-worth-it",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T17:02:13",
+      "ts": "2026-07-11T18:05:34",
       "channel": "mastodon",
-      "item": "buying-fake-google-reviews-risk",
-      "url": "https://mastodon.social/@bookedjob/116903597419412403"
-    },
-    {
-      "ts": "2026-07-11T17:02:12",
-      "channel": "bluesky",
-      "item": "cost-per-lead-is-the-wrong-number",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqfo"
-    },
-    {
-      "ts": "2026-07-11T17:02:11",
-      "channel": "telegraph",
-      "item": "cost-per-lead-is-the-wrong-number",
-      "url": "https://telegra.ph/Cost-Per-Lead-Is-the-Wrong-Number-Trac"
-    },
-    {
-      "ts": "2026-07-11T17:02:10",
-      "channel": "tumblr",
-      "item": "how-long-seo-really-takes",
+      "item": "card-missedcall",
       "url": null
     },
     {
-      "ts": "2026-07-11T17:02:08",
-      "channel": "linkedin",
-      "item": "pod-ep01-starter",
+      "ts": "2026-07-11T18:04:57",
+      "channel": "threads",
+      "item": "cost-per-lead-is-the-wrong-number",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T18:04:34",
+      "channel": "mastodon",
+      "item": "thumbtack-vs-angi",
+      "url": "https://mastodon.social/@bookedjob/116903842529792363"
+    },
+    {
+      "ts": "2026-07-11T18:04:31",
+      "channel": "bluesky",
+      "item": "lead-cost-per-booked-job-by-channel",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq"
+    },
+    {
+      "ts": "2026-07-11T18:04:30",
+      "channel": "telegraph",
+      "item": "lead-cost-per-booked-job-by-channel",
+      "url": "https://telegra.ph/Shared-vs-Exclusive-Leads-The-Per-Bo"
+    },
+    {
+      "ts": "2026-07-11T18:04:29",
+      "channel": "tumblr",
+      "item": "yelp-for-contractors-yes-or-no",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T18:04:28",
+      "channel": "tumblr",
+      "item": "pod-ep01-wrongnum",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T18:04:23",
+      "channel": "bluesky",
+      "item": "bj-slow",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T18:04:20",
+      "channel": "tiktok",
+      "item": "bj-slow",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T18:04:19",
+      "channel": "facebook",
+      "item": "pod-ep02-invisible",
       "url": null
     }
   ]
