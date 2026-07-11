@@ -1,70 +1,64 @@
 {
-  "updated": "2026-07-11T14:25",
+  "updated": "2026-07-11T16:05",
   "posts": [
     {
-      "ts": "2026-07-11T14:24:35",
-      "channel": "mastodon",
+      "ts": "2026-07-11T16:04:46",
+      "channel": "facebook",
       "item": "card-ai",
       "url": null
     },
     {
-      "ts": "2026-07-11T14:23:54",
-      "channel": "threads",
-      "item": "buying-fake-google-reviews-risk",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T14:23:25",
+      "ts": "2026-07-11T16:04:04",
       "channel": "mastodon",
-      "item": "why-homeowners-skip-shops-under-4-stars",
-      "url": "https://mastodon.social/@bookedjob/116902972985109211"
-    },
-    {
-      "ts": "2026-07-11T14:23:24",
-      "channel": "bluesky",
-      "item": "thumbtack-vs-angi",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqff7bs7qa2f"
-    },
-    {
-      "ts": "2026-07-11T14:23:23",
-      "channel": "tumblr",
-      "item": "reels-is-where-to-spend-your-time",
+      "item": "card-anon98",
       "url": null
     },
     {
-      "ts": "2026-07-11T14:23:23",
+      "ts": "2026-07-11T16:03:31",
+      "channel": "threads",
+      "item": "thumbtack-vs-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T16:03:23",
+      "channel": "mastodon",
+      "item": "one-tap-google-review-system",
+      "url": "https://mastodon.social/@bookedjob/116903366040429276"
+    },
+    {
+      "ts": "2026-07-11T16:03:21",
+      "channel": "bluesky",
+      "item": "google-local-service-ads-worth-it",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqfk"
+    },
+    {
+      "ts": "2026-07-11T16:03:20",
+      "channel": "tumblr",
+      "item": "evaluate-any-marketing-with-simple-math",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T16:03:20",
       "channel": "telegraph",
-      "item": "thumbtack-vs-angi",
-      "url": "https://telegra.ph/Thumbtack-vs-Angi-for-Contractors-2026-The-Per-Booked-"
+      "item": "google-local-service-ads-worth-it",
+      "url": "https://telegra.ph/Are-Google-Local-Service-Ads-Worth-It-"
     },
     {
-      "ts": "2026-07-11T14:23:22",
+      "ts": "2026-07-11T16:03:18",
       "channel": "tumblr",
-      "item": "pod-ep01-refunds",
+      "item": "pod-ep01-cost",
       "url": null
     },
     {
-      "ts": "2026-07-11T14:23:17",
+      "ts": "2026-07-11T16:03:14",
       "channel": "bluesky",
-      "item": "bj-reviews",
+      "item": "bj-trade",
       "url": null
     },
     {
-      "ts": "2026-07-11T14:23:14",
+      "ts": "2026-07-11T16:03:11",
       "channel": "tiktok",
-      "item": "bj-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T14:23:14",
-      "channel": "linkedin",
-      "item": "pod-ep01-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T14:23:13",
-      "channel": "ig",
-      "item": "pod-ep02-onetap",
+      "item": "bj-trade",
       "url": null
     }
   ]
