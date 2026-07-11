@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-10T22:38",
+  "updated": "2026-07-11T01:31",
   "posts": [
     {
-      "ts": "2026-07-10T22:36:55",
+      "ts": "2026-07-11T01:27:02",
       "channel": "threads",
-      "item": "when-angi-actually-works",
+      "item": "pod-podcast-ep03",
       "url": null
     },
     {
-      "ts": "2026-07-10T22:36:28",
+      "ts": "2026-07-11T01:26:51",
       "channel": "mastodon",
-      "item": "is-angi-worth-it-the-real-math",
-      "url": "https://mastodon.social/@bookedjob/116899249391671554"
+      "item": "homeadvisor-ftc-72-million-fine",
+      "url": "https://mastodon.social/@bookedjob/116899919361753115"
     },
     {
-      "ts": "2026-07-10T22:36:26",
+      "ts": "2026-07-11T01:26:49",
       "channel": "bluesky",
-      "item": "pod-podcast-ep03",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqdqbxro252q"
+      "item": "angi-vs-thumbtack-vs-homeadvisor",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqdzs"
     },
     {
-      "ts": "2026-07-10T22:36:25",
-      "channel": "telegraph",
-      "item": "pod-podcast-ep03",
-      "url": "https://telegra.ph/Cost-Per-Lead-vs-Cost-Per-Booked-Job--The-2-Numbers-07-"
-    },
-    {
-      "ts": "2026-07-10T22:36:24",
+      "ts": "2026-07-11T01:26:47",
       "channel": "tumblr",
-      "item": "guaranteed-number-one-google-ranking-lie",
+      "item": "limited-time-seo-offer-urgency-trick",
       "url": null
+    },
+    {
+      "ts": "2026-07-11T01:26:47",
+      "channel": "telegraph",
+      "item": "angi-vs-thumbtack-vs-homeadvisor",
+      "url": "https://telegra.ph/Angi-vs-Thumbtack-vs-HomeAdvisor-Which-"
     }
   ]
 }
