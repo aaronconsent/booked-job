@@ -21,12 +21,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-07-10T14:50:08",
+    "last_iso": "2026-07-11T07:03:43",
     "day": {
-      "date": "2026-07-10",
-      "count": 2
+      "date": "2026-07-11",
+      "count": 1
     }
   },
   "tiktok": {
@@ -48,12 +49,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-07-10T18:12:03",
+    "last_iso": "2026-07-11T07:03:43",
     "day": {
-      "date": "2026-07-10",
-      "count": 6
+      "date": "2026-07-11",
+      "count": 1
     }
   },
   "linkedin": {
@@ -70,12 +72,13 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-07-10T16:18:15",
+    "last_iso": "2026-07-11T07:03:43",
     "day": {
-      "date": "2026-07-10",
-      "count": 4
+      "date": "2026-07-11",
+      "count": 1
     }
   },
   "facebook": {
@@ -102,12 +105,13 @@
       "pod-ep03-lie",
       "pod-ep02-system",
       "pod-ep02-fake",
-      "pod-ep02-onetap"
+      "pod-ep02-onetap",
+      "pod-ep02-peak"
     ],
-    "last_iso": "2026-07-10T18:12:03",
+    "last_iso": "2026-07-11T07:03:43",
     "day": {
-      "date": "2026-07-10",
-      "count": 3
+      "date": "2026-07-11",
+      "count": 1
     }
   },
   "pinterest": {
@@ -150,12 +154,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-07-10T18:12:03",
+    "last_iso": "2026-07-11T07:03:43",
     "day": {
-      "date": "2026-07-10",
-      "count": 6
+      "date": "2026-07-11",
+      "count": 1
     }
   },
   "telegram": {
@@ -187,12 +192,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-07-10T18:12:03",
+    "last_iso": "2026-07-11T07:03:43",
     "day": {
-      "date": "2026-07-10",
-      "count": 6
+      "date": "2026-07-11",
+      "count": 1
     }
   }
 }
