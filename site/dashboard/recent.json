@@ -1,64 +1,40 @@
 {
-  "updated": "2026-07-11T16:05",
+  "updated": "2026-07-11T17:04",
   "posts": [
     {
-      "ts": "2026-07-11T16:04:46",
-      "channel": "facebook",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T16:04:04",
-      "channel": "mastodon",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T16:03:31",
+      "ts": "2026-07-11T17:02:22",
       "channel": "threads",
-      "item": "thumbtack-vs-angi",
+      "item": "google-local-service-ads-worth-it",
       "url": null
     },
     {
-      "ts": "2026-07-11T16:03:23",
+      "ts": "2026-07-11T17:02:13",
       "channel": "mastodon",
-      "item": "one-tap-google-review-system",
-      "url": "https://mastodon.social/@bookedjob/116903366040429276"
+      "item": "buying-fake-google-reviews-risk",
+      "url": "https://mastodon.social/@bookedjob/116903597419412403"
     },
     {
-      "ts": "2026-07-11T16:03:21",
+      "ts": "2026-07-11T17:02:12",
       "channel": "bluesky",
-      "item": "google-local-service-ads-worth-it",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqfk"
+      "item": "cost-per-lead-is-the-wrong-number",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqfo"
     },
     {
-      "ts": "2026-07-11T16:03:20",
-      "channel": "tumblr",
-      "item": "evaluate-any-marketing-with-simple-math",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T16:03:20",
+      "ts": "2026-07-11T17:02:11",
       "channel": "telegraph",
-      "item": "google-local-service-ads-worth-it",
-      "url": "https://telegra.ph/Are-Google-Local-Service-Ads-Worth-It-"
+      "item": "cost-per-lead-is-the-wrong-number",
+      "url": "https://telegra.ph/Cost-Per-Lead-Is-the-Wrong-Number-Trac"
     },
     {
-      "ts": "2026-07-11T16:03:18",
+      "ts": "2026-07-11T17:02:10",
       "channel": "tumblr",
-      "item": "pod-ep01-cost",
+      "item": "how-long-seo-really-takes",
       "url": null
     },
     {
-      "ts": "2026-07-11T16:03:14",
-      "channel": "bluesky",
-      "item": "bj-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T16:03:11",
-      "channel": "tiktok",
-      "item": "bj-trade",
+      "ts": "2026-07-11T17:02:08",
+      "channel": "linkedin",
+      "item": "pod-ep01-starter",
       "url": null
     }
   ]
