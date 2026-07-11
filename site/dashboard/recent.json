@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-11T01:31",
+  "updated": "2026-07-11T04:01",
   "posts": [
     {
-      "ts": "2026-07-11T01:27:02",
+      "ts": "2026-07-11T03:58:07",
       "channel": "threads",
-      "item": "pod-podcast-ep03",
+      "item": "angi-vs-thumbtack-vs-homeadvisor",
       "url": null
     },
     {
-      "ts": "2026-07-11T01:26:51",
+      "ts": "2026-07-11T03:57:41",
       "channel": "mastodon",
-      "item": "homeadvisor-ftc-72-million-fine",
-      "url": "https://mastodon.social/@bookedjob/116899919361753115"
+      "item": "when-angi-actually-works",
+      "url": "https://mastodon.social/@bookedjob/116900512513913382"
     },
     {
-      "ts": "2026-07-11T01:26:49",
+      "ts": "2026-07-11T03:57:40",
       "channel": "bluesky",
-      "item": "angi-vs-thumbtack-vs-homeadvisor",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqdzs"
+      "item": "contractor-marketing-statistics",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqecae"
     },
     {
-      "ts": "2026-07-11T01:26:47",
+      "ts": "2026-07-11T03:57:39",
       "channel": "tumblr",
-      "item": "limited-time-seo-offer-urgency-trick",
+      "item": "canned-scare-tactic-seo-audits",
       "url": null
     },
     {
-      "ts": "2026-07-11T01:26:47",
+      "ts": "2026-07-11T03:57:39",
       "channel": "telegraph",
-      "item": "angi-vs-thumbtack-vs-homeadvisor",
-      "url": "https://telegra.ph/Angi-vs-Thumbtack-vs-HomeAdvisor-Which-"
+      "item": "contractor-marketing-statistics",
+      "url": "https://telegra.ph/Contractor-Marketing-Statistics-2026-Lea"
     }
   ]
 }

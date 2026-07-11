@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
+  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
+
 - **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
 
 Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
@@ -186,6 +189,3 @@ FREE to stream on TubiTV.
 
 Learn just enough about good/bad home construction projects to be able to ask contractors questions you need answered, and, most importantly, 
   → https://bsky.app/profile/truthseeker19.bsky.social/post/3mq6hnopnu225
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
