@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @mackaracka.bsky.social: “If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in …”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @boulderseomarketing.com: “When someone asks AI for the best local plumber, does your business show up? Earned media …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @texascontractorseo.bsky.social: “Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontrac…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @rubizza.bsky.social: ““Meta said that it's supporting its general contractor, Fortis, which stopped discharging …”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @forapost.bsky.social: “A local roofing contractor fed their reviews into AI analysis and found a pattern: custome…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @outtamylaine.bsky.social: “\"The water thing is overblown!\" Meanwhile Meta crowing that they stopped discharging into …”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26",
       "est": "2 min"
     },
     {
