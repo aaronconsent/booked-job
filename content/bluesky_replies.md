@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ranboydell.bsky.social**: > fewer than half of parents would recommend their child take up construction. “That has to change. With growing demand for skilled trades and the resilience of these roles in the face of #AI construc
+  → https://bsky.app/profile/ranboydell.bsky.social/post/3mqeydsvuus2j
+
+- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
+  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
+
+- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
+  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
+
+- **@stylelib.org**: Reneva –  Small Business HTML Template
+
+ https://themes.stylelib.org/?p=19089 
+
+#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
+  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
+
 - **@truthseeker19.bsky.social**: RECOMMENDED: Holmes on Holmes
 
 FREE to stream on TubiTV.
@@ -173,15 +189,3 @@ Boston, North & South Shores,
 
 - **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
   → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mq7vn3gd5z2j
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
-  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m
-
-- **@lglly.bsky.social**: Becoming 100% DAV tho isn't an easy threshold to meet & gives the vet & family life changing economic & Ed funding sm business & home loans benefits so maybe part of why he wasn't actively employable 
-  → https://bsky.app/profile/lglly.bsky.social/post/3mq72gb47nc24

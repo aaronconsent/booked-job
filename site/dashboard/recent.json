@@ -1,64 +1,64 @@
 {
-  "updated": "2026-07-11T10:12",
+  "updated": "2026-07-11T12:15",
   "posts": [
     {
-      "ts": "2026-07-11T10:10:40",
+      "ts": "2026-07-11T12:14:10",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-07-11T10:10:09",
+      "ts": "2026-07-11T12:13:32",
       "channel": "threads",
-      "item": "why-homeowners-skip-shops-under-4-stars",
+      "item": "one-tap-google-review-system",
       "url": null
     },
     {
-      "ts": "2026-07-11T10:09:39",
+      "ts": "2026-07-11T12:13:06",
       "channel": "mastodon",
-      "item": "angi-alternatives",
-      "url": "https://mastodon.social/@bookedjob/116901975116671326"
+      "item": "angi-is-shrinking",
+      "url": "https://mastodon.social/@bookedjob/116902460523052717"
     },
     {
-      "ts": "2026-07-11T10:09:38",
+      "ts": "2026-07-11T12:13:04",
       "channel": "bluesky",
-      "item": "one-tap-google-review-system",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqewzigfx"
+      "item": "buying-fake-google-reviews-risk",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqf5w7"
     },
     {
-      "ts": "2026-07-11T10:09:37",
+      "ts": "2026-07-11T12:13:03",
       "channel": "telegraph",
-      "item": "one-tap-google-review-system",
-      "url": "https://telegra.ph/The-One-Tap-Google-Review-System-From-the-P"
+      "item": "buying-fake-google-reviews-risk",
+      "url": "https://telegra.ph/Why-Buying-Fake-Google-Reviews-Will-Nuke"
     },
     {
-      "ts": "2026-07-11T10:09:36",
+      "ts": "2026-07-11T12:13:02",
       "channel": "tumblr",
-      "item": "true-cost-of-hiring-marketing-agency",
+      "item": "how-to-spend-your-first-10k-marketing",
       "url": null
     },
     {
-      "ts": "2026-07-11T10:09:35",
+      "ts": "2026-07-11T12:13:01",
       "channel": "tumblr",
-      "item": "pod-ep01-starter",
+      "item": "pod-ep01-ftc",
       "url": null
     },
     {
-      "ts": "2026-07-11T10:09:32",
+      "ts": "2026-07-11T12:12:56",
       "channel": "bluesky",
-      "item": "pod-ep01-shared",
+      "item": "bj-angi",
       "url": null
     },
     {
-      "ts": "2026-07-11T10:09:30",
-      "channel": "linkedin",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T10:09:29",
+      "ts": "2026-07-11T12:12:52",
       "channel": "tiktok",
-      "item": "pod-ep01-shared",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T12:12:50",
+      "channel": "facebook",
+      "item": "pod-ep02-howmany",
       "url": null
     }
   ]
