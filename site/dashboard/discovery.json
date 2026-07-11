@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T17:10:11Z",
+  "updated": "2026-07-11T19:20:58Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#contractor",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
@@ -122,19 +122,19 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
-        "tag": "#RoofingClub",
+        "tag": "#hvacousticpartition",
         "uses": 1,
-        "link": "https://mastodon.social/tags/RoofingClub"
+        "link": "https://mastodon.social/tags/hvacousticpartition"
       },
       {
-        "tag": "#Electricians",
+        "tag": "#hvacousticslidingpartition",
         "uses": 1,
-        "link": "https://mastodon.social/tags/Electricians"
+        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
       },
       {
-        "tag": "#smallbusinessowners",
+        "tag": "#hvacousticfoldingpartition",
         "uses": 1,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
+        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9480,
+      "followers": 9483,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3555,
+      "followers": 3554,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1771,
+      "followers": 1772,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1024,
+      "followers": 1025,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
