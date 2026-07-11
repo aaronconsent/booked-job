@@ -1,76 +1,64 @@
 {
-  "updated": "2026-07-11T07:09",
+  "updated": "2026-07-11T08:54",
   "posts": [
     {
-      "ts": "2026-07-11T07:05:19",
-      "channel": "threads",
-      "item": "angi-alternatives",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:05:00",
-      "channel": "mastodon",
-      "item": "angi-vs-thumbtack-vs-homeadvisor",
-      "url": "https://mastodon.social/@bookedjob/116901249064650175"
-    },
-    {
-      "ts": "2026-07-11T07:04:58",
-      "channel": "bluesky",
-      "item": "angi-is-shrinking",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqempc6f5r2z"
-    },
-    {
-      "ts": "2026-07-11T07:04:57",
-      "channel": "tumblr",
-      "item": "fake-google-maps-listings-steal-traffic",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:04:57",
-      "channel": "telegraph",
-      "item": "angi-is-shrinking",
-      "url": "https://telegra.ph/Angi-Is-Shrinking-2026-What-It-Means-for-the-Pros-Stil"
-    },
-    {
-      "ts": "2026-07-11T07:04:56",
-      "channel": "tumblr",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:04:51",
-      "channel": "bluesky",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:04:48",
-      "channel": "tiktok",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:04:48",
-      "channel": "linkedin",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:04:47",
-      "channel": "ig",
-      "item": "pod-ep02-fake",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T07:04:11",
+      "ts": "2026-07-11T08:52:41",
       "channel": "facebook",
-      "item": "pod-ep02-peak",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-07-11T07:02:28",
-      "channel": "fb",
-      "item": "clip-porno3",
+      "ts": "2026-07-11T08:51:40",
+      "channel": "mastodon",
+      "item": "card-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T08:50:52",
+      "channel": "threads",
+      "item": "angi-is-shrinking",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T08:50:25",
+      "channel": "mastodon",
+      "item": "contractor-marketing-statistics",
+      "url": "https://mastodon.social/@bookedjob/116901663544499510"
+    },
+    {
+      "ts": "2026-07-11T08:50:22",
+      "channel": "bluesky",
+      "item": "why-homeowners-skip-shops-under-4-stars",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post"
+    },
+    {
+      "ts": "2026-07-11T08:50:21",
+      "channel": "tumblr",
+      "item": "free-marketing-demo-surprise-bill",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T08:50:21",
+      "channel": "telegraph",
+      "item": "why-homeowners-skip-shops-under-4-stars",
+      "url": "https://telegra.ph/Why-Homeowners-Skip-Any-Shop-Und"
+    },
+    {
+      "ts": "2026-07-11T08:50:20",
+      "channel": "tumblr",
+      "item": "pod-ep01-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T08:50:15",
+      "channel": "bluesky",
+      "item": "pod-ep01-wrongnum",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T08:50:13",
+      "channel": "tiktok",
+      "item": "pod-ep01-wrongnum",
       "url": null
     }
   ]

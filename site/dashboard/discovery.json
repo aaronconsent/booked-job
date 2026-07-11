@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T12:01:21Z",
+  "updated": "2026-07-11T13:47:53Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#contractor",
-        "uses": 4,
+        "uses": 5,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465104,
+        "followers": 465103,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35597,
+        "followers": 35598,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -170,12 +170,12 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7155,
+        "followers": 7154,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2330,
+        "followers": 2329,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {

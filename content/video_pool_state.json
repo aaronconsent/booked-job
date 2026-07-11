@@ -50,12 +50,13 @@
       "pod-ep01-starter",
       "pod-ep01-ftc",
       "pod-ep01-refunds",
-      "pod-ep01-cost"
+      "pod-ep01-cost",
+      "pod-ep01-wrongnum"
     ],
-    "last_iso": "2026-07-11T07:03:43",
+    "last_iso": "2026-07-11T08:50:11",
     "day": {
       "date": "2026-07-11",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -155,12 +156,13 @@
       "pod-ep01-starter",
       "pod-ep01-ftc",
       "pod-ep01-refunds",
-      "pod-ep01-cost"
+      "pod-ep01-cost",
+      "pod-ep01-wrongnum"
     ],
-    "last_iso": "2026-07-11T07:03:43",
+    "last_iso": "2026-07-11T08:50:11",
     "day": {
       "date": "2026-07-11",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -193,12 +195,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-07-11T07:03:43",
+    "last_iso": "2026-07-11T08:50:11",
     "day": {
       "date": "2026-07-11",
-      "count": 1
+      "count": 2
     }
   }
 }
