@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
+
+Um… where?
+  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
+
 - **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
 Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
   → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
@@ -181,6 +186,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
   → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v

@@ -1,35 +1,23 @@
 {
-  "updated": "2026-07-11T23:36",
+  "updated": "2026-07-12T02:41",
   "posts": [
     {
-      "ts": "2026-07-11T23:34:50",
+      "ts": "2026-07-12T02:37:44",
       "channel": "threads",
-      "item": "how-much-do-contractor-leads-cost",
+      "item": "homeadvisor-alternatives",
       "url": null
     },
     {
-      "ts": "2026-07-11T23:34:32",
+      "ts": "2026-07-12T02:37:28",
       "channel": "mastodon",
-      "item": "cost-per-lead-is-the-wrong-number",
-      "url": "https://mastodon.social/@bookedjob/116905140029868085"
+      "item": "lead-cost-per-booked-job-by-channel",
+      "url": "https://mastodon.social/@bookedjob/116905859396388170"
     },
     {
-      "ts": "2026-07-11T23:34:30",
-      "channel": "bluesky",
-      "item": "homeadvisor-alternatives",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqgdypxow725"
-    },
-    {
-      "ts": "2026-07-11T23:34:29",
+      "ts": "2026-07-12T02:37:27",
       "channel": "tumblr",
-      "item": "thumbtack-worth-it-for-contractors",
+      "item": "angi-homeadvisor-real-cost",
       "url": null
-    },
-    {
-      "ts": "2026-07-11T23:34:29",
-      "channel": "telegraph",
-      "item": "homeadvisor-alternatives",
-      "url": "https://telegra.ph/HomeAdvisor-Alternatives-for-Contractors-2026-0"
     }
   ]
 }
