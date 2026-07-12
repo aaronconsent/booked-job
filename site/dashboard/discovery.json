@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T15:08:49Z",
+  "updated": "2026-07-12T17:12:56Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -112,21 +112,6 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
-        "tag": "#hvacousticpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpartition"
-      },
-      {
-        "tag": "#hvacousticslidingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
-      },
-      {
-        "tag": "#hvacousticfoldingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
-      },
-      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -135,6 +120,21 @@
         "tag": "#roofingcontractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofingcontractor"
+      },
+      {
+        "tag": "#Electricians",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/Electricians"
+      },
+      {
+        "tag": "#smallbusinessowners",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/smallbusinessowners"
+      },
+      {
+        "tag": "#Hvacousticpetpanels",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22987,
+        "followers": 22989,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3555,
+      "followers": 3556,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
