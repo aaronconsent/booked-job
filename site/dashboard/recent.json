@@ -1,52 +1,40 @@
 {
-  "updated": "2026-07-12T14:25",
+  "updated": "2026-07-12T16:07",
   "posts": [
     {
-      "ts": "2026-07-12T14:23:23",
+      "ts": "2026-07-12T16:06:56",
+      "channel": "facebook",
+      "item": "card-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-07-12T16:06:14",
       "channel": "mastodon",
-      "item": "card-reviews",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-07-12T14:22:40",
-      "channel": "linkedin",
-      "item": "facebook-vs-google",
-      "url": "https://booked-job.com/docs/facebook-vs-google.pdf"
-    },
-    {
-      "ts": "2026-07-12T14:22:38",
+      "ts": "2026-07-12T16:05:35",
       "channel": "tumblr",
-      "item": "roofing-marketing-numbers-cost-per-booked-job",
+      "item": "set-up-contractor-social-accounts-right",
       "url": null
     },
     {
-      "ts": "2026-07-12T14:22:36",
+      "ts": "2026-07-12T16:05:33",
       "channel": "tumblr",
-      "item": "bj-cpbj",
+      "item": "bj-speed",
       "url": null
     },
     {
-      "ts": "2026-07-12T14:22:30",
+      "ts": "2026-07-12T16:05:27",
       "channel": "bluesky",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     },
     {
-      "ts": "2026-07-12T14:22:26",
+      "ts": "2026-07-12T16:05:23",
       "channel": "tiktok",
-      "item": "bj-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-07-12T14:22:26",
-      "channel": "linkedin",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-07-12T14:22:25",
-      "channel": "ig",
-      "item": "pod-ep02-howmany",
+      "item": "bj-ai",
       "url": null
     }
   ]

@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ranboydell.bsky.social**: > fewer than half of parents would recommend their child take up construction. “That has to change. With growing demand for skilled trades and the resilience of these roles in the face of #AI construc
+  → https://bsky.app/profile/ranboydell.bsky.social/post/3mqeydsvuus2j
+
+- **@eurotrends24.bsky.social**: Private Equity: Friend Or Foe? What Skilled Trades Contractors Need To Know
+  → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqhxxkzkro2j
+
+- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
+  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mq7vn3gd5z2j
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
 - **@truthseeker19.bsky.social**: RECOMMENDED: Holmes on Holmes
 
 FREE to stream on TubiTV.
@@ -167,28 +182,3 @@ Explore the best AI tools here 👇
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
-  → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
-  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m
-
-- **@lglly.bsky.social**: Becoming 100% DAV tho isn't an easy threshold to meet & gives the vet & family life changing economic & Ed funding sm business & home loans benefits so maybe part of why he wasn't actively employable 
-  → https://bsky.app/profile/lglly.bsky.social/post/3mq72gb47nc24
