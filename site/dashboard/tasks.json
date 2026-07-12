@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @rubizza.bsky.social: ““Meta said that it's supporting its general contractor, Fortis, which stopped discharging …”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @heirloomno.bsky.social: “I think the problem is treating business degrees like they are jack of all trades?  Thinki…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @jt33.bsky.social: “Yes, the problem is lots of skilled trades need workers, but they won't hire until a perso…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @byteseu.bsky.social: “ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?  https:…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Blue Collar – Handyman HTML Template   https://stylelib.org/?p=285473   #electrician #hand…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @animalsathomenw.bsky.social: ““I wouldn’t hesitate booking them again. So professional and reliable.\" – Just one of our …”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22",
       "est": "2 min"
     },
     {

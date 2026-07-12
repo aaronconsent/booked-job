@@ -1,22 +1,16 @@
 {
-  "updated": "2026-07-12T02:41",
+  "updated": "2026-07-12T05:05",
   "posts": [
     {
-      "ts": "2026-07-12T02:37:44",
-      "channel": "threads",
-      "item": "homeadvisor-alternatives",
-      "url": null
-    },
-    {
-      "ts": "2026-07-12T02:37:28",
+      "ts": "2026-07-12T05:02:10",
       "channel": "mastodon",
-      "item": "lead-cost-per-booked-job-by-channel",
-      "url": "https://mastodon.social/@bookedjob/116905859396388170"
+      "item": "how-much-do-contractor-leads-cost",
+      "url": "https://mastodon.social/@bookedjob/116906428318079429"
     },
     {
-      "ts": "2026-07-12T02:37:27",
+      "ts": "2026-07-12T05:02:07",
       "channel": "tumblr",
-      "item": "angi-homeadvisor-real-cost",
+      "item": "agency-wont-share-access-or-work",
       "url": null
     }
   ]
