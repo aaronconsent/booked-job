@@ -1,64 +1,58 @@
 {
-  "updated": "2026-07-11T18:07",
+  "updated": "2026-07-11T19:10",
   "posts": [
     {
-      "ts": "2026-07-11T18:05:34",
+      "ts": "2026-07-11T19:09:42",
       "channel": "mastodon",
-      "item": "card-missedcall",
+      "item": "card-trade",
       "url": null
     },
     {
-      "ts": "2026-07-11T18:04:57",
+      "ts": "2026-07-11T19:08:58",
       "channel": "threads",
-      "item": "cost-per-lead-is-the-wrong-number",
+      "item": "lead-cost-per-booked-job-by-channel",
       "url": null
     },
     {
-      "ts": "2026-07-11T18:04:34",
+      "ts": "2026-07-11T19:08:31",
       "channel": "mastodon",
-      "item": "thumbtack-vs-angi",
-      "url": "https://mastodon.social/@bookedjob/116903842529792363"
+      "item": "google-local-service-ads-worth-it",
+      "url": "https://mastodon.social/@bookedjob/116904094034770143"
     },
     {
-      "ts": "2026-07-11T18:04:31",
+      "ts": "2026-07-11T19:08:30",
       "channel": "bluesky",
-      "item": "lead-cost-per-booked-job-by-channel",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq"
+      "item": "how-much-do-contractor-leads-cost",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqfv"
     },
     {
-      "ts": "2026-07-11T18:04:30",
+      "ts": "2026-07-11T19:08:29",
       "channel": "telegraph",
-      "item": "lead-cost-per-booked-job-by-channel",
-      "url": "https://telegra.ph/Shared-vs-Exclusive-Leads-The-Per-Bo"
+      "item": "how-much-do-contractor-leads-cost",
+      "url": "https://telegra.ph/How-Much-Do-Contractor-Leads-Cost-2026"
     },
     {
-      "ts": "2026-07-11T18:04:29",
+      "ts": "2026-07-11T19:08:28",
       "channel": "tumblr",
-      "item": "yelp-for-contractors-yes-or-no",
+      "item": "hvac-marketing-numbers-cost-per-booked-job",
       "url": null
     },
     {
-      "ts": "2026-07-11T18:04:28",
+      "ts": "2026-07-11T19:08:27",
       "channel": "tumblr",
-      "item": "pod-ep01-wrongnum",
+      "item": "pod-ep01-shared",
       "url": null
     },
     {
-      "ts": "2026-07-11T18:04:23",
+      "ts": "2026-07-11T19:08:23",
       "channel": "bluesky",
-      "item": "bj-slow",
+      "item": "bj-cpbj",
       "url": null
     },
     {
-      "ts": "2026-07-11T18:04:20",
+      "ts": "2026-07-11T19:08:19",
       "channel": "tiktok",
-      "item": "bj-slow",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T18:04:19",
-      "channel": "facebook",
-      "item": "pod-ep02-invisible",
+      "item": "bj-cpbj",
       "url": null
     }
   ]
