@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
+- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
+  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
+
+- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
+
+Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
+
+therealbuzzfeed.com/most-recomme.
+  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
+
+- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
+
+https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
+  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
+
+- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
+
+Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
+  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
+
 - **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
   → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
 
@@ -165,22 +188,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 #boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
   → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@texascontractorseo.bsky.social**: Did you know commercial excavation search demand spikes the moment a project moves from planning to mobilization? Contractors suddenly need reliable crews and heavy equipment on tight timelines — and 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczis77p2r
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
