@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
+Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
+  → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
+
+- **@jt33.bsky.social**: Yes, the problem is lots of skilled trades need workers, but they won't hire until a person has 2-5 years of experience. Catch 22, right?
+  → https://bsky.app/profile/jt33.bsky.social/post/3mqcr7b2gxs2n
+
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
+
+Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
+  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
+
 - **@localgrowth.bsky.social**: 1/3
 Keyword-stuffing your business name? Cute idea. Bad clicks.
 
@@ -158,24 +184,3 @@ Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
 
 - **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
-
-- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
-
-Um… where?
-  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
-  → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
-
-- **@anotherben.bsky.social**: Real talk: how do I make myself available to indie studios to help with (zero-AI) marketing/sales/customer relations? Even as a contractor/consultant. 
-
-Is there a telephone pole I can staple a flyer 
-  → https://bsky.app/profile/anotherben.bsky.social/post/3mqcyst2jks23
-
-- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
-
-https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726

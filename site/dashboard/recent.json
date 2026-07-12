@@ -1,59 +1,35 @@
 {
-  "updated": "2026-07-11T19:10",
+  "updated": "2026-07-11T23:36",
   "posts": [
     {
-      "ts": "2026-07-11T19:09:42",
-      "channel": "mastodon",
-      "item": "card-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T19:08:58",
+      "ts": "2026-07-11T23:34:50",
       "channel": "threads",
-      "item": "lead-cost-per-booked-job-by-channel",
+      "item": "how-much-do-contractor-leads-cost",
       "url": null
     },
     {
-      "ts": "2026-07-11T19:08:31",
+      "ts": "2026-07-11T23:34:32",
       "channel": "mastodon",
-      "item": "google-local-service-ads-worth-it",
-      "url": "https://mastodon.social/@bookedjob/116904094034770143"
+      "item": "cost-per-lead-is-the-wrong-number",
+      "url": "https://mastodon.social/@bookedjob/116905140029868085"
     },
     {
-      "ts": "2026-07-11T19:08:30",
+      "ts": "2026-07-11T23:34:30",
       "channel": "bluesky",
-      "item": "how-much-do-contractor-leads-cost",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqfv"
+      "item": "homeadvisor-alternatives",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqgdypxow725"
     },
     {
-      "ts": "2026-07-11T19:08:29",
+      "ts": "2026-07-11T23:34:29",
+      "channel": "tumblr",
+      "item": "thumbtack-worth-it-for-contractors",
+      "url": null
+    },
+    {
+      "ts": "2026-07-11T23:34:29",
       "channel": "telegraph",
-      "item": "how-much-do-contractor-leads-cost",
-      "url": "https://telegra.ph/How-Much-Do-Contractor-Leads-Cost-2026"
-    },
-    {
-      "ts": "2026-07-11T19:08:28",
-      "channel": "tumblr",
-      "item": "hvac-marketing-numbers-cost-per-booked-job",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T19:08:27",
-      "channel": "tumblr",
-      "item": "pod-ep01-shared",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T19:08:23",
-      "channel": "bluesky",
-      "item": "bj-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-07-11T19:08:19",
-      "channel": "tiktok",
-      "item": "bj-cpbj",
-      "url": null
+      "item": "homeadvisor-alternatives",
+      "url": "https://telegra.ph/HomeAdvisor-Alternatives-for-Contractors-2026-0"
     }
   ]
 }
