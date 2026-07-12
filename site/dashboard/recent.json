@@ -1,16 +1,46 @@
 {
-  "updated": "2026-07-12T17:07",
+  "updated": "2026-07-12T18:09",
   "posts": [
     {
-      "ts": "2026-07-12T17:05:22",
-      "channel": "tumblr",
-      "item": "get-your-first-50-reviews",
+      "ts": "2026-07-12T18:08:24",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-07-12T17:05:20",
+      "ts": "2026-07-12T18:07:50",
       "channel": "linkedin",
-      "item": "pod-ep01-wrongnum",
+      "item": "referrals-on-autopilot",
+      "url": "https://booked-job.com/docs/referrals-on-autopilot.p"
+    },
+    {
+      "ts": "2026-07-12T18:07:48",
+      "channel": "tumblr",
+      "item": "marketing-warm-up-tiny-budget",
+      "url": null
+    },
+    {
+      "ts": "2026-07-12T18:07:47",
+      "channel": "tumblr",
+      "item": "bj-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-07-12T18:07:41",
+      "channel": "bluesky",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-07-12T18:07:38",
+      "channel": "tiktok",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-07-12T18:07:37",
+      "channel": "facebook",
+      "item": "pod-ep01-starter",
       "url": null
     }
   ]

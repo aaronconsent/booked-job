@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@giffyloop.bsky.social**: I just found out that Trump is paying himself a 2.5% general contractor fee for the construction that's going on at the White House and now I'm just grumpy. Are conflicts of interest not a thing anymo
+  → https://bsky.app/profile/giffyloop.bsky.social/post/3mqfg34g5kc2a
+
+- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
+  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
+
+- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
+
+AI can help your home service business save time, capture more leads, and improve customer service.
+
+Explore the best AI tools here 👇
+
+🔗 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
+
+- **@parraseaux.bsky.social**: Ooof I hate this stuff. I get a few of these requests once in a while too and it’s just so frustrating. I have never seen anyone so lackadaisical about any other profession. Nobody would ask a plumber
+  → https://bsky.app/profile/parraseaux.bsky.social/post/3mqandpvjg22j
+
 - **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
   → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
 
@@ -163,26 +184,3 @@ A reliable contractor not only manages construction efficiently but also coordin
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
-  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
-
-- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
-
- https://themes.stylelib.org/?p=640 
-
-#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
-
-- **@newsramp.com**: Contractors: are you investing in ads, SEO, or a new website at the wrong time? SBMS Media's new Contractor Marketing Readiness Framework helps you identify what should come first before spending anot
-  → https://bsky.app/profile/newsramp.com/post/3mpyasisaea2r
-
-- **@hammie777.bsky.social**: Follow the money. Everywhere you look it's one disaster after another. I wonder if it has anything to do with awarding overpriced no-bid contracts to his business associates that do not go through the
-  → https://bsky.app/profile/hammie777.bsky.social/post/3mqfn675bl22a
-
-- **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
-
- https://stylelib.org/?p=117085 
-
-#cleaning #electrician #handyman #sitetemplates #themeforest #business #plumber #corporate #maintenance
-  → https://bsky.app/profile/stylelib.org/post/3molg43oin52n
