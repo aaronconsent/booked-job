@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T21:03:03Z",
+  "updated": "2026-07-12T22:03:58Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -112,6 +112,21 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
+        "tag": "#hvacousticpartition",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticpartition"
+      },
+      {
+        "tag": "#hvacousticslidingpartition",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
+      },
+      {
+        "tag": "#hvacousticfoldingpartition",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
+      },
+      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -120,21 +135,6 @@
         "tag": "#roofingcontractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofingcontractor"
-      },
-      {
-        "tag": "#Electricians",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/Electricians"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
-      },
-      {
-        "tag": "#Hvacousticpetpanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22989,
+        "followers": 22991,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1772,
+      "followers": 1773,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
