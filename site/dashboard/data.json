@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T05:00",
+  "updated": "2026-07-12T06:20",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -17,9 +17,9 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 21,
+        "current": 20,
         "target": 30,
-        "pct": 70,
+        "pct": 67,
         "on_track": true
       },
       {
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 15959,
+        "current": 15973,
         "target": 45000,
         "pct": 35,
         "on_track": false
@@ -206,23 +206,23 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "91.51",
-    "impressions": 16091,
+    "spend": "91.65",
+    "impressions": 16105,
     "reach": 11148,
-    "video_views": 15959
+    "video_views": 15973
   },
   "youtube": {
     "connected": true,
     "subscribers": 0,
     "views": 110,
     "likes": 0,
-    "videos": 21,
-    "shorts": 21
+    "videos": 20,
+    "shorts": 20
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 104
+    "media": 105
   },
   "email": {
     "subscribers": 5
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 764,
+      "views": 815,
       "followers": 1
     },
     {
@@ -485,7 +485,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 56,
+      "count": 57,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 33,
+      "count": 34,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -519,7 +519,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 102,
+      "count": 103,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -563,7 +563,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 93,
+      "count": 94,
       "unit": "posts (Buffer)",
       "stat": "363 reach \u00b7 5 reactions",
       "views": 0,
@@ -586,7 +586,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 97,
+      "count": 98,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -622,7 +622,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -652,7 +652,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -698,7 +698,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 86
+        "count": 87
       },
       {
         "type": "Documents",
@@ -727,7 +727,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 97
+        "count": 98
       },
       {
         "type": "Video pins",
@@ -751,7 +751,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 102
+        "count": 103
       },
       {
         "type": "Video",
@@ -798,7 +798,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 33
+        "count": 34
       },
       {
         "type": "Video",
@@ -845,7 +845,7 @@
     }
   ],
   "funnel": {
-    "reach": 35499,
+    "reach": 35595,
     "engagement": 14,
     "audience": 26,
     "cr_clicks": 23
@@ -854,13 +854,13 @@
     "audience": 8,
     "engagement": -6,
     "email": 0,
-    "reach": 12297
+    "reach": 12393
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 16069,
+        "value": 16083,
         "grade": "B"
       },
       {
@@ -870,12 +870,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 1048,
+        "value": 1053,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 27239,
+        "value": 27253,
         "grade": "B"
       },
       {
@@ -890,6 +890,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1048 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1053 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

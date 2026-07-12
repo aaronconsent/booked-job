@@ -23,12 +23,13 @@
       "pod-ep03-lie",
       "pod-ep02-system",
       "pod-ep02-fake",
-      "pod-ep02-onetap"
+      "pod-ep02-onetap",
+      "pod-ep02-peak"
     ],
-    "last_iso": "2026-07-11T14:22:22",
+    "last_iso": "2026-07-12T06:22:40",
     "day": {
-      "date": "2026-07-11",
-      "count": 2
+      "date": "2026-07-12",
+      "count": 1
     }
   },
   "tiktok": {
@@ -58,12 +59,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-07-11T19:08:18",
+    "last_iso": "2026-07-12T06:22:40",
     "day": {
-      "date": "2026-07-11",
-      "count": 8
+      "date": "2026-07-12",
+      "count": 1
     }
   },
   "linkedin": {
@@ -84,12 +86,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-07-11T17:02:08",
+    "last_iso": "2026-07-12T06:22:40",
     "day": {
-      "date": "2026-07-11",
-      "count": 4
+      "date": "2026-07-12",
+      "count": 1
     }
   },
   "facebook": {
@@ -119,12 +122,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-07-11T18:03:49",
+    "last_iso": "2026-07-12T06:22:40",
     "day": {
-      "date": "2026-07-11",
-      "count": 3
+      "date": "2026-07-12",
+      "count": 1
     }
   },
   "pinterest": {
@@ -175,12 +179,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-07-11T19:08:18",
+    "last_iso": "2026-07-12T06:22:40",
     "day": {
-      "date": "2026-07-11",
-      "count": 8
+      "date": "2026-07-12",
+      "count": 1
     }
   },
   "telegram": {
@@ -220,12 +225,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-07-11T19:08:18",
+    "last_iso": "2026-07-12T06:22:40",
     "day": {
-      "date": "2026-07-11",
-      "count": 8
+      "date": "2026-07-12",
+      "count": 1
     }
   }
 }

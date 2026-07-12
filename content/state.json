@@ -1,26 +1,27 @@
 {
   "page_created": "2026-06-25",
   "posted": [
-    "art-5doors",
-    "art-what-marketing",
-    "art-website",
-    "art-pay-leads",
     "lastguy-rate",
-    "lastguy-worst",
-    "pricing-pick-two",
-    "podcast-launch",
-    "course-slowseason",
-    "art-cpl",
-    "art-gbp",
     "course-pricing",
     "course-angi",
-    "pricing-insurance",
-    "homeowner-lie",
     "course-reviews",
+    "pricing-low-bid",
+    "course-slowseason",
     "art-reviews-win",
-    "pricing-low-bid"
+    "pricing-pick-two",
+    "pricing-insurance",
+    "art-website",
+    "homeowner-lie",
+    "podcast-launch",
+    "art-pay-leads",
+    "art-5doors",
+    "art-cpl",
+    "art-what-marketing",
+    "lastguy-worst",
+    "homeowner-drain",
+    "art-gbp"
   ],
-  "last_post_iso": "2026-07-11T07:01:32",
+  "last_post_iso": "2026-07-12T06:21:01",
   "by_date": {
     "2026-06-25": 1,
     "2026-06-30": 2,
@@ -34,7 +35,8 @@
     "2026-07-08": 1,
     "2026-07-09": 2,
     "2026-07-10": 1,
-    "2026-07-11": 1
+    "2026-07-11": 1,
+    "2026-07-12": 1
   },
   "note": "intro post published manually 2026-06-25 to verify pipeline"
 }

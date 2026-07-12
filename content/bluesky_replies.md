@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
+  → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
+
 - **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
 
 Um… where?
@@ -181,8 +184,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 - **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
   → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
-
-Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
-  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T05:05",
+  "generated": "2026-07-12T06:26",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 12,
+        "current": 17,
         "target": 22,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 437,
+        "current": 442,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,9 +85,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 6,
+        "current": 7,
         "target": 7,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -95,9 +95,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 7,
+        "current": 6,
         "target": 7,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 797,
+        "current": 802,
         "target": 600,
         "status": "green",
         "needs": null
@@ -157,9 +157,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 12,
+        "current": 13,
         "target": 30,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -167,7 +167,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 9,
+        "current": 8,
         "target": 30,
         "status": "yellow",
         "needs": null
@@ -215,23 +215,28 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 111,
-    "reels": 5,
+    "fb_ig_posts": 110,
+    "reels": 4,
     "staged_articles": 0
   },
   "counters": {
     "articles": 102,
-    "reels": 14,
-    "social_posts": 859,
+    "reels": 15,
+    "social_posts": 864,
     "followers": 21,
     "engagement": 14,
     "yt_views": 110,
-    "yt_shorts": 21,
+    "yt_shorts": 20,
     "email_subs": 5,
     "traffic": 0
   },
-  "top_move": "Run another branch-series workflow batch and stage it to drip 2/day.",
+  "top_move": "Cut more vertical clips from the podcast and course and add them to the reels queue.",
   "prompts": [
+    {
+      "title": "\ud83c\udfac Reels queue low",
+      "why": "Only 4 reels queued (need ~7/week).",
+      "prompt": "Cut more vertical clips from the podcast and course and add them to the reels queue."
+    },
     {
       "title": "\ud83d\udcdd Article pipeline thin",
       "why": "Only 0 articles staged to drip.",
