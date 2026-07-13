@@ -28,7 +28,9 @@ def env():
 
 def api(path, params, method="GET"):
     E = env()
-    params["access_token"] = E["FB_LONGLIVED_USER_TOKEN"]
+    # FB_LONGLIVED_USER_TOKEN lacks ads_management on this account (403); the system
+    # token has ads access, so prefer it and fall back to the user token.
+    params["access_token"] = E.get("FB_SYSTEM_TOKEN") or E["FB_LONGLIVED_USER_TOKEN"]
     if method == "POST":
         req = urllib.request.Request(f"{GRAPH}/{path}", data=urllib.parse.urlencode(params).encode(), method="POST")
     else:
@@ -86,8 +88,18 @@ def stage_video_views(post_id, daily_usd, activate, dry):
 
 def list_campaigns():
     acct = env()["FB_AD_ACCOUNT"]
-    d = api(f"{acct}/campaigns", {"fields": "name,status,objective,daily_budget"})
+    d = api(f"{acct}/campaigns", {"fields": "name,status,effective_status,objective,daily_budget"})
     print(json.dumps(d.get("data", d), indent=2))
+
+
+def set_status(new_status):
+    """Pause or resume ALL campaigns on the ad account (ACTIVE/PAUSED)."""
+    acct = env()["FB_AD_ACCOUNT"]
+    d = api(f"{acct}/campaigns", {"fields": "name,status"})
+    for c in d.get("data", []):
+        api(c["id"], {"status": new_status}, "POST")
+        print(f"  {new_status}: {c['name']} ({c['id']})")
+    print("done." if d.get("data") else "no campaigns found.")
 
 
 if __name__ == "__main__":
@@ -99,8 +111,14 @@ if __name__ == "__main__":
     s.add_argument("--activate", action="store_true", help="create ACTIVE (spends money) instead of PAUSED")
     s.add_argument("--dry-run", action="store_true")
     sub.add_parser("list")
+    sub.add_parser("pause")    # pause all campaigns (stop spend)
+    sub.add_parser("resume")   # resume all campaigns (start spend)
     a = ap.parse_args()
     if a.cmd == "stage-video-views":
         stage_video_views(a.post, a.daily, a.activate, a.dry_run)
+    elif a.cmd == "pause":
+        set_status("PAUSED")
+    elif a.cmd == "resume":
+        set_status("ACTIVE")
     else:
         list_campaigns()
