@@ -92,3 +92,17 @@ article ul,article ol{margin:14px 0 14px 22px}article li{margin:7px 0;font-size:
 
 footer{background:var(--asphalt);color:#9CA1A8;padding:36px 0;font-size:14px;margin-top:30px}
 footer a{color:#C7CBD1}.foot{max-width:1040px;margin:0 auto;padding:0 22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:14px}
+
+/* ---- Email capture widget (articles + tools) ---- */
+.capture{background:linear-gradient(180deg,#1D2025,#191b1f);border:2px solid #FF6A00;border-radius:16px;padding:26px 24px;margin:34px 0}
+.capture .cap-eyebrow{font-size:12px;font-weight:800;letter-spacing:.14em;color:#FFD23F;text-transform:uppercase;margin-bottom:8px}
+.capture h3{font-family:Anton,system-ui,sans-serif;font-size:27px;line-height:1.1;margin:0 0 8px;color:#F4F2EE}
+.capture p{color:#CFCAC4;font-size:15px;line-height:1.55;margin:0 0 16px;max-width:62ch}
+.capture .capform{display:flex;gap:10px;flex-wrap:wrap}
+.capture input[type=email]{flex:1;min-width:220px;padding:13px 15px;font-size:16px;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px}
+.capture input[type=email]:focus{border-color:#FF6A00;outline:none}
+.capture button{padding:13px 22px;font-size:16px;font-weight:800;color:#15171A;background:#FF6A00;border:none;border-radius:10px;cursor:pointer;white-space:nowrap}
+.capture button:hover{background:#ff7d1f}
+.capture button:disabled{opacity:.6;cursor:default}
+.capture .capnote{color:#8b9098;font-size:12.5px;margin-top:10px}
+.capture .capok{color:#2ecc71;font-weight:700;font-size:17px;padding:6px 0}

@@ -27,6 +27,18 @@ TODAY = "2026-06-30"
 B = "https://booked-job.com"
 
 
+CAPTURE_BLOCK = '''<div class="capture">
+  <div class="cap-eyebrow">Free · For owners who'd rather be on the tools</div>
+  <h3>Get the honest math — straight to your inbox</h3>
+  <p>The real contractor-marketing numbers, one short email at a time: what leads actually cost, how many reviews it takes to rank, why answering the phone beats the ad budget. No fluff, no selling your info.</p>
+  <form class="capform" action="/api/subscribe" method="post">
+    <input type="email" name="email" placeholder="you@yourshop.com" required aria-label="Email address" />
+    <button type="submit">Send me the good stuff &rarr;</button>
+  </form>
+  <div class="capnote">Join contractors reading the numbers nobody else will show them. Unsubscribe anytime.</div>
+</div>'''
+
+
 def render(a):
     slug = a["slug"]; url = f"{B}/blog/{slug}/"
     h1 = html.unescape(a["h1"])
@@ -93,9 +105,11 @@ def render(a):
   <p class="lead">{lead}</p>
   <div class="stat"><div class="big">{big}</div><div class="lab">{lab}</div></div>{secs}
   <h2>Frequently asked questions</h2>{faq_html}
-  <div class="answer"><b>Next step:</b> Get the free Marketing 101 course + tools at <a href="https://booked-job.com/">booked-job.com</a>. Get found. Get picked. Get booked.</div>
+  {CAPTURE_BLOCK}
+  <p class="answer" style="font-size:14px">More free tools: the <a href="https://booked-job.com/tools/">contractor calculators</a> and the <a href="https://booked-job.com/">Marketing 101 course</a>.</p>
 </article>
 <footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script src="/assets/capture.js" defer></script>
 </body></html>"""
 
 
