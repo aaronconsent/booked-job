@@ -110,9 +110,22 @@ function renderQueue(d){
 }
 
 function renderAds(d){
-  if(!$('ads')||!d.ads) return;
-  const a=d.ads, live=(a.status||'').toUpperCase()==='ACTIVE';
-  $('ads').innerHTML=`<div class="adrow"><span class="k">Status</span><span class="pill ${live?'':'paused'}">${a.status||'—'}</span></div>
+  const a=(d&&d.ads)||null;
+  // prominent header badge: ad on/off + total spend, visible on every load
+  const badge=$('adBadge');
+  if(badge&&a){
+    const live=(a.status||'').toUpperCase()==='ACTIVE';
+    const spent='$'+(parseFloat(a.spend)||0).toFixed(2);
+    badge.style.display='inline-flex';
+    badge.style.cssText+=';align-items:center;gap:8px;padding:6px 12px;border-radius:999px;font-weight:700;font-size:13px;'
+      +(live?'background:rgba(46,204,113,.15);color:#2ecc71;border:1px solid #2ecc71'
+             :'background:rgba(255,106,0,.12);color:#FF6A00;border:1px solid #FF6A00');
+    badge.innerHTML=(live?'🟢 Ads ACTIVE':'⏸️ Ads PAUSED')
+      +` · 💰 <b>${spent}</b> spent`+(live&&a.daily_budget?` · $${a.daily_budget.toFixed(0)}/day`:'');
+  }
+  if(!$('ads')||!a) return;
+  const a2=a, live=(a2.status||'').toUpperCase()==='ACTIVE';
+  $('ads').innerHTML=`<div class="adrow"><span class="k">Status</span><span class="pill ${live?'':'paused'}">${a2.status||'—'}</span></div>
     <div class="adrow"><span class="k">Daily budget</span><span>${a.daily_budget?('$'+a.daily_budget.toFixed(0)+'/day'):'—'}</span></div>
     <div class="adrow"><span class="k">Spent (total)</span><span>$${(parseFloat(a.spend)||0).toFixed(2)}</span></div>
     <div class="adrow"><span class="k">Impressions</span><span>${fmt(a.impressions)}</span></div>
