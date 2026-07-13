@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
+
+Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
+  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
+
+- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
+  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
+
 - **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
 
 Um… where?
@@ -175,15 +183,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 - **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
   → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
-
-Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
-
-therealbuzzfeed.com/most-recomme.
-  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
-
-- **@ninapryce.bsky.social**: Topline Pro is building the AI team that runs the business while the plumber stays under the sink.
-
-https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
