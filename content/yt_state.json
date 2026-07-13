@@ -1,11 +1,12 @@
 {
   "done": [
-    "pod-ep03-verdict",
-    "stop-renting-leads",
     "is-angi-worth-it",
-    "money-leaks",
+    "stop-renting-leads",
+    "pod-ep03-verdict",
+    "pod-ep03-exclusive",
     "pod-ep03-track",
+    "money-leaks",
     "low-bid"
   ],
-  "last_iso": "2026-07-10T10:43:34"
+  "last_iso": "2026-07-13T10:52:12"
 }

@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@get-educated.bsky.social**: Happy #NationalTileRepairDay!
+
+As the demand for skilled trades professionals continues to rise, the need for contractors, plumbers, and other essential laborers has never been greater. But the best p
+  → https://bsky.app/profile/get-educated.bsky.social/post/3mqjqud42ek2c
+
+- **@aaworkforce.bsky.social**: Missed out on last week's info session about our upcoming training cohort? Don't worry--we have two more! Register now at MechanicalTechInfoSession.eventbrite.com and hear more about your next opportu
+  → https://bsky.app/profile/aaworkforce.bsky.social/post/3mqjvqzbaqb26
+
 - **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
 
 Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
@@ -177,9 +185,3 @@ Learn just enough about good/bad home construction projects to be able to ask co
 
 #builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
   → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
