@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-12T23:38",
+  "updated": "2026-07-13T03:25",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 18,
+    "days_left": 17,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
@@ -33,7 +33,7 @@
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 16513,
+        "current": 16605,
         "target": 45000,
         "pct": 37,
         "on_track": false
@@ -105,18 +105,11 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "It's somewhere in the truck. It's always somewhere in the tr",
       "sub": "trade humor"
-    },
-    {
-      "date": "2026-07-14",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "A third of your future customers won't Google you \u2014 they'll ",
-      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
@@ -129,22 +122,22 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
-      "sub": "trade humor"
+      "title": "A third of your future customers won't Google you \u2014 they'll ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Five numbers, once a month, makes you impossible to fleece: ",
-      "sub": "course promo"
+      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
+      "sub": "trade humor"
     },
     {
       "date": "2026-07-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Settle it in the comments. We're not picking sides. (Yes we ",
-      "sub": "tool wars"
+      "title": "Five numbers, once a month, makes you impossible to fleece: ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-17",
@@ -157,15 +150,15 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "You don't lose most jobs on price. You lose them on response",
-      "sub": "course promo"
+      "title": "Settle it in the comments. We're not picking sides. (Yes we ",
+      "sub": "tool wars"
     },
     {
       "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
-      "sub": "business"
+      "title": "You don't lose most jobs on price. You lose them on response",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-21",
@@ -178,11 +171,18 @@
       "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
       "title": "Your cheapest leads aren't on Angi. They're the customers yo",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Three ways shops bleed money they never see:",
@@ -206,10 +206,10 @@
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "97.11",
-    "impressions": 16657,
-    "reach": 11493,
-    "video_views": 16513
+    "spend": "97.92",
+    "impressions": 16760,
+    "reach": 11606,
+    "video_views": 16605
   },
   "youtube": {
     "connected": true,
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 124
+    "media": 125
   },
   "email": {
     "subscribers": 5
@@ -457,7 +457,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 3124,
+      "views": 3299,
       "followers": 3,
       "likes": 1
     },
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 950,
+      "views": 973,
       "followers": 1
     },
     {
@@ -485,7 +485,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 66,
+      "count": 67,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 43,
+      "count": 44,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -563,7 +563,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 97,
+      "count": 98,
       "unit": "posts (Buffer)",
       "stat": "363 reach \u00b7 5 reactions",
       "views": 0,
@@ -622,7 +622,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Polls",
@@ -652,7 +652,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Long video",
@@ -703,7 +703,7 @@
       {
         "type": "Documents",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Native video",
@@ -798,7 +798,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 43
+        "count": 44
       },
       {
         "type": "Video",
@@ -845,22 +845,22 @@
     }
   ],
   "funnel": {
-    "reach": 36816,
+    "reach": 37243,
     "engagement": 14,
     "audience": 26,
     "cr_clicks": 23
   },
   "trends": {
-    "audience": 8,
-    "engagement": -6,
+    "audience": 7,
+    "engagement": -8,
     "email": 0,
-    "reach": 13614
+    "reach": 11494
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 16623,
+        "value": 16715,
         "grade": "B"
       },
       {
@@ -870,12 +870,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 1086,
+        "value": 1089,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 28150,
+        "value": 28366,
         "grade": "B"
       },
       {
@@ -890,6 +890,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1086 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1089 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T04:38:48Z",
+  "updated": "2026-07-13T08:25:34Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22995,
+        "followers": 22996,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2227,
+      "followers": 2228,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },

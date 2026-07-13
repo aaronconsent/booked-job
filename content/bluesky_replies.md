@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
+
+Um… where?
+  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
 - **@robertxbastidas.bsky.social**: Perhaps subsidize and invest in education American citizens to fill those roles?  We're seeing a shortage in trades, and skilled indviduials. So it's np surprise we hire foreigners to fill those roles
   → https://bsky.app/profile/robertxbastidas.bsky.social/post/3mqisalbwyc2t
 
@@ -175,11 +187,3 @@ therealbuzzfeed.com/most-recomme.
 
 https://yespress.io/topline-pro?utm_source=bluesky&utm_medium=social via Yespress
   → https://bsky.app/profile/ninapryce.bsky.social/post/3mpjlsrdyc726
-
-- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
-
-Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
-  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
-
-- **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
-  → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
