@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>What Should You Charge Per Hour? Contractor Hourly Rate Calculator | Booked Job</title>
+<meta name="description" content="Free hourly rate calculator for contractors: your target pay + overhead + billable hours → the shop rate you must charge to actually make money. Most trades undercharge." />
+<link rel="canonical" href="https://booked-job.com/tools/hourly-rate-calculator/" />
+<meta property="og:type" content="website" /><meta property="og:title" content="Contractor Hourly Rate Calculator" />
+<meta property="og:description" content="Your pay + overhead + billable hours → the hourly rate you must charge to make money." />
+<meta property="og:url" content="https://booked-job.com/tools/hourly-rate-calculator/" />
+<meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
+<meta name="theme-color" content="#15171A" />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Contractor Hourly Rate Calculator",
+"url":"https://booked-job.com/tools/hourly-rate-calculator/","applicationCategory":"BusinessApplication",
+"operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+"description":"Free calculator that turns a contractor's target pay, overhead, and billable hours into the hourly shop rate they must charge.",
+"publisher":{"@type":"Organization","name":"Booked Job","url":"https://booked-job.com/"}}
+</script>
+<style>
+.tool{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}
+.tool label{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}
+.tool .hint{font-weight:400;color:#8b9098;font-size:13px}
+.tool input{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}
+.tool input:focus{border-color:#FF6A00;outline:none}
+.res{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}
+.res .big{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}
+.res .lab{color:#A8A29E;margin-top:6px;font-size:15px}
+.bench{margin-top:14px;font-size:15px;color:#CFCAC4}.bench b{color:#FFD23F}
+.linkbox{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}
+</style>
+</head><body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="/tools/">All free tools</a>
+</div></header><div class="tape"></div>
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › <a href="/tools/">Tools</a> › Hourly Rate Calculator</p>
+  <h1>What Should You <em>Charge Per Hour?</em></h1>
+  <div class="answer"><b>Why most trades undercharge:</b> they price off "what the other guy charges" instead of their own numbers. Your rate has to cover your pay, your overhead, AND profit — spread across only the hours you can actually bill.</div>
+
+  <div class="tool">
+    <label for="pay">The annual pay YOU want to take home ($)</label>
+    <input id="pay" type="number" value="80000" min="0" step="1000" />
+    <label for="oh">Annual overhead <span class="hint">(insurance, truck, tools, phone, software, admin)</span> ($)</label>
+    <input id="oh" type="number" value="40000" min="0" step="1000" />
+    <label for="bill">Billable hours per week <span class="hint">(after quoting, driving, admin — usually 25–32, not 40)</span></label>
+    <input id="bill" type="number" value="28" min="1" max="60" step="1" />
+    <label for="weeks">Weeks you work per year <span class="hint">(minus vacation/slow weeks)</span></label>
+    <input id="weeks" type="number" value="48" min="1" max="52" step="1" />
+    <label for="margin">Target profit margin on top (%)</label>
+    <input id="margin" type="number" value="15" min="0" max="80" step="1" />
+    <div class="res">
+      <div class="big" id="rate">$—</div>
+      <div class="lab">the hourly rate you need to charge</div>
+      <div class="bench" id="be"></div>
+      <div class="bench" id="hrs"></div>
+      <div class="bench">Charge less than this and you're paying to work. This is your floor, not your ceiling — <a href="/blog/how-to-price-a-job/">price jobs for margin</a> on top.</div>
+    </div>
+  </div>
+
+  <h2>How to read it</h2>
+  <p>The math is simple and honest: <b>(your pay + overhead) ÷ billable hours</b> is your break-even rate — the point where you make exactly zero profit. Then divide by (1 − margin) to actually earn something. The number that surprises most contractors is <b>billable hours</b>: you clock 40 a week, but you can only <em>bill</em> ~28 after quoting, driving, and paperwork — so your rate has to carry all of it. More on the trap: <a href="/blog/how-to-price-a-job/">how to price a job</a> and the <a href="/tools/job-pricing-calculator/">job pricing calculator</a>.</p>
+
+  <div class="capture">
+    <div class="cap-eyebrow">Free · For owners who'd rather be on the tools</div>
+    <h3>Get the honest math — straight to your inbox</h3>
+    <p>The real contractor-marketing numbers, one short email at a time: what leads actually cost, how many reviews it takes to rank, why answering the phone beats the ad budget. No fluff, no selling your info.</p>
+    <form class="capform" action="/api/subscribe" method="post">
+      <input type="email" name="email" placeholder="you@yourshop.com" required aria-label="Email address" />
+      <button type="submit">Send me the good stuff &rarr;</button>
+    </form>
+    <div class="capnote">Join contractors reading the numbers nobody else will show them. Unsubscribe anytime.</div>
+  </div>
+
+  <h2>Link to / embed this calculator</h2>
+  <div class="linkbox">&lt;iframe src="https://booked-job.com/tools/hourly-rate-calculator/" style="width:100%;height:920px;border:1px solid #ddd;border-radius:12px" loading="lazy" title="Contractor Hourly Rate Calculator"&gt;&lt;/iframe&gt;&lt;br&gt;&lt;a href="https://booked-job.com/tools/hourly-rate-calculator/"&gt;Hourly Rate Calculator by Booked Job&lt;/a&gt;</div>
+
+  <div class="answer"><b>Next step:</b> More free tools + the honest math at <a href="https://booked-job.com/tools/">booked-job.com/tools</a>.</div>
+</article>
+<footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script>
+function calc(){
+  var pay=+document.getElementById('pay').value||0,
+      oh=+document.getElementById('oh').value||0,
+      bill=+document.getElementById('bill').value||0,
+      weeks=+document.getElementById('weeks').value||0,
+      m=(+document.getElementById('margin').value||0)/100;
+  var hours=bill*weeks;
+  var be=hours>0?(pay+oh)/hours:0;
+  var rate=(hours>0&&m<1)?be/(1-m):0;
+  document.getElementById('rate').textContent=rate>0?'$'+Math.round(rate)+'/hr':'$—';
+  document.getElementById('be').textContent=be>0?('Break-even (zero profit): $'+Math.round(be)+'/hr'):'';
+  document.getElementById('hrs').textContent=hours>0?('Based on '+hours.toLocaleString()+' billable hours/year — the hours you actually invoice.'):'';
+}
+document.querySelectorAll('.tool input').forEach(function(i){i.addEventListener('input',calc)});
+calc();
+</script>
+<script src="/assets/capture.js" defer></script>
+</body></html>
