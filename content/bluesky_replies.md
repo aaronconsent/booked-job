@@ -2,6 +2,38 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@robertxbastidas.bsky.social**: Perhaps subsidize and invest in education American citizens to fill those roles?  We're seeing a shortage in trades, and skilled indviduials. So it's np surprise we hire foreigners to fill those roles
+  → https://bsky.app/profile/robertxbastidas.bsky.social/post/3mqisalbwyc2t
+
+- **@localgrowth.bsky.social**: 1/3
+Keyword-stuffing your business name? Cute idea. Bad clicks.
+
+1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
+  → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@stylelib.org**: Kothu – Building  Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=825138 
+
+#architect #builder #business #contractor #corporate #handyman #industry #interior #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mqitwsupfn2l
+
+- **@invictaconst.bsky.social**: How Do You Choose the Right Commercial General Contractors in Edmonton?
+
+A reliable contractor not only manages construction efficiently but also coordinates subcontractors, ensures safety compliance,
+  → https://bsky.app/profile/invictaconst.bsky.social/post/3mqbgmuvyok2u
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
 
  https://stylelib.org/?p=117085 
@@ -151,34 +183,3 @@ Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
 
 - **@outtamylaine.bsky.social**: "The water thing is overblown!" Meanwhile Meta crowing that they stopped discharging into the region's wastewater system and took it offsite. Offsite to where? Discharging out of sight into rivers and
   → https://bsky.app/profile/outtamylaine.bsky.social/post/3mq5w4uzj6k26
-
-- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
-
-Um… where?
-  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
-
-- **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
-Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
-  → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
-
-- **@jt33.bsky.social**: Yes, the problem is lots of skilled trades need workers, but they won't hire until a person has 2-5 years of experience. Catch 22, right?
-  → https://bsky.app/profile/jt33.bsky.social/post/3mqcr7b2gxs2n
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
-
-Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
-  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
