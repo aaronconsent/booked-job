@@ -7,6 +7,24 @@
  *   RESEND_API_KEY       (secret)
  *   RESEND_AUDIENCE_ID   (var)
  */
+const WELCOME_HTML = `<div style="font:16px/1.6 -apple-system,system-ui,sans-serif;color:#1a1a1a;max-width:560px;margin:0 auto">
+<p>You're in. As promised — the numbers most marketers won't put in front of you, on one page:</p>
+<h3 style="margin:22px 0 6px">💸 What a booked job actually costs</h3>
+<p style="margin:0">Angi ≈ <b>$542</b> · Thumbtack ≈ <b>$250</b> · Google Local Service Ads ≈ <b>$168</b> — <i>per booked job</i>, after close rates. Cost per <i>lead</i> is the number that lies to you.</p>
+<h3 style="margin:22px 0 6px">⭐ Reviews decide the call before it happens</h3>
+<p style="margin:0"><b>91%</b> of homeowners won't consider a shop under 4 stars. Topping a competitive HVAC market takes ~<b>519</b> reviews; the median map-pack plumber has ~<b>337</b>.</p>
+<h3 style="margin:22px 0 6px">📞 Speed beats budget</h3>
+<p style="margin:0"><b>78%</b> hire whoever answers first. Responding in 5 minutes vs 30 is up to <b>100×</b> more likely to connect — and the average shop misses <b>14%</b> of its calls.</p>
+<h3 style="margin:22px 0 6px">🖥️ Your website</h3>
+<p style="margin:0">About <b>98%</b> of visitors leave without calling. Phone number up top, proof on page one, load under 3 seconds. That's most of it.</p>
+<p style="margin:24px 0 6px">Run <i>your</i> numbers with the free calculators:</p>
+<p style="margin:0">→ <a href="https://booked-job.com/tools/cost-per-booked-job-calculator/">Cost per booked job</a><br>
+→ <a href="https://booked-job.com/tools/google-review-calculator/">Reviews you need to rank</a><br>
+→ <a href="https://booked-job.com/tools/job-pricing-calculator/">Price a job for margin</a></p>
+<p style="margin:24px 0 4px">One favor: <b>hit reply and tell me your trade</b> — it shapes what I send next.</p>
+<p style="margin:0">— Aaron, Booked Job<br><span style="color:#888;font-size:13px">Get found. Get picked. Get booked. · Unsubscribe anytime.</span></p>
+</div>`;
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -19,29 +37,48 @@ export default {
 
     if (url.pathname === "/api/subscribe" && request.method === "POST") {
       try {
-        const { email } = await request.json();
+        const body = await request.json();
+        const email = body.email;
+        const source = (body.source || "").toString().slice(0, 120);
         if (!email || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
           return Response.json({ ok: false, error: "invalid email" }, { status: 400 });
         }
         if (!env.RESEND_API_KEY || !env.RESEND_AUDIENCE_ID) {
-          // Not configured yet — accept gracefully so the form still works.
           return Response.json({ ok: true, pending: true });
         }
         const r = await fetch(
           `https://api.resend.com/audiences/${env.RESEND_AUDIENCE_ID}/contacts`,
-          {
-            method: "POST",
-            headers: {
-              Authorization: `Bearer ${env.RESEND_API_KEY}`,
-              "Content-Type": "application/json",
-            },
-            body: JSON.stringify({ email, unsubscribed: false }),
-          }
+          { method: "POST", headers: { Authorization: `Bearer ${env.RESEND_API_KEY}`, "Content-Type": "application/json" },
+            body: JSON.stringify({ email, unsubscribed: false }) }
         );
+        if (r.ok) {
+          // instant welcome — deliver the promised cheat sheet + hook the ICP (best-effort)
+          try {
+            await fetch("https://api.resend.com/emails", {
+              method: "POST",
+              headers: { Authorization: `Bearer ${env.RESEND_API_KEY}`, "Content-Type": "application/json" },
+              body: JSON.stringify({ from: "Booked Job <newsletter@booked-job.com>", to: [email],
+                reply_to: "hello@booked-job.com", subject: "The honest contractor-marketing math (as promised) 🛠️", html: WELCOME_HTML }),
+            });
+          } catch (e) {}
+          // track signups + which page converts (for optimization toward the goal)
+          if (env.CR_KV) {
+            try {
+              await env.CR_KV.put("signups", String((parseInt(await env.CR_KV.get("signups")) || 0) + 1));
+              if (source) { const m = JSON.parse(await env.CR_KV.get("signup_src") || "{}"); m[source] = (m[source] || 0) + 1; await env.CR_KV.put("signup_src", JSON.stringify(m)); }
+            } catch (e) {}
+          }
+        }
         return Response.json({ ok: r.ok });
       } catch (e) {
         return Response.json({ ok: false }, { status: 500 });
       }
+    }
+    // signup metrics for the dashboard (which pages convert)
+    if (url.pathname === "/ops/signups") {
+      let total = 0, src = {};
+      if (env.CR_KV) { try { total = parseInt(await env.CR_KV.get("signups")) || 0; src = JSON.parse(await env.CR_KV.get("signup_src") || "{}"); } catch (e) {} }
+      return Response.json({ total, by_source: src });
     }
 
     // Pipeline inbox reader — outreach replies captured by the email() handler below.
