@@ -319,6 +319,42 @@
       "series": "Lead Sources",
       "go_live": "2026-07-14",
       "status": "pending"
+    },
+    {
+      "slug": "plumber-marketing",
+      "series": "Lead Sources",
+      "go_live": "2026-07-15",
+      "status": "pending"
+    },
+    {
+      "slug": "electrician-marketing",
+      "series": "Lead Sources",
+      "go_live": "2026-07-15",
+      "status": "pending"
+    },
+    {
+      "slug": "painter-marketing",
+      "series": "Lead Sources",
+      "go_live": "2026-07-16",
+      "status": "pending"
+    },
+    {
+      "slug": "landscaping-marketing-guide",
+      "series": "Lead Sources",
+      "go_live": "2026-07-16",
+      "status": "pending"
+    },
+    {
+      "slug": "contractor-marketing-budget",
+      "series": "Marketing 101",
+      "go_live": "2026-07-17",
+      "status": "pending"
+    },
+    {
+      "slug": "small-business-marketing-for-contractors",
+      "series": "Marketing 101",
+      "go_live": "2026-07-17",
+      "status": "pending"
     }
   ]
 }
