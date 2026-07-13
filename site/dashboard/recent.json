@@ -1,64 +1,64 @@
 {
-  "updated": "2026-07-13T14:48",
+  "updated": "2026-07-13T16:15",
   "posts": [
     {
-      "ts": "2026-07-13T14:47:25",
+      "ts": "2026-07-13T16:12:47",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-07-13T14:46:50",
+      "ts": "2026-07-13T16:12:07",
       "channel": "threads",
-      "item": "hvac-marketing-statistics",
+      "item": "roofing-marketing-statistics",
       "url": null
     },
     {
-      "ts": "2026-07-13T14:46:34",
+      "ts": "2026-07-13T16:11:48",
       "channel": "mastodon",
-      "item": "hvac-marketing-statistics",
-      "url": "https://mastodon.social/@bookedjob/116914388596207031"
+      "item": "roofing-marketing-statistics",
+      "url": "https://mastodon.social/@bookedjob/116914723803195654"
     },
     {
-      "ts": "2026-07-13T14:46:32",
+      "ts": "2026-07-13T16:11:47",
       "channel": "bluesky",
-      "item": "hvac-marketing-statistics",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqkhgifoif2f"
+      "item": "roofing-marketing-statistics",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqkm6w6hf"
     },
     {
-      "ts": "2026-07-13T14:46:31",
-      "channel": "tumblr",
-      "item": "why-nobody-clicks-your-ai-poster",
-      "url": null
-    },
-    {
-      "ts": "2026-07-13T14:46:31",
+      "ts": "2026-07-13T16:11:46",
       "channel": "telegraph",
-      "item": "hvac-marketing-statistics",
-      "url": "https://telegra.ph/HVAC-Marketing-Statistics-2026-Lead-Costs-Revi"
+      "item": "roofing-marketing-statistics",
+      "url": "https://telegra.ph/Roofing-Marketing-Statistics-2026-What-Lead"
     },
     {
-      "ts": "2026-07-13T14:46:29",
+      "ts": "2026-07-13T16:11:45",
       "channel": "tumblr",
-      "item": "bj-scam",
+      "item": "ai-prompt-pack-for-contractors",
       "url": null
     },
     {
-      "ts": "2026-07-13T14:46:22",
+      "ts": "2026-07-13T16:11:43",
+      "channel": "tumblr",
+      "item": "bj-rev-hvac",
+      "url": null
+    },
+    {
+      "ts": "2026-07-13T16:11:36",
       "channel": "bluesky",
-      "item": "bj-rev-paint",
+      "item": "bj-cheapbid",
       "url": null
     },
     {
-      "ts": "2026-07-13T14:46:19",
+      "ts": "2026-07-13T16:11:32",
+      "channel": "linkedin",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-07-13T16:11:31",
       "channel": "tiktok",
-      "item": "bj-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-07-13T14:46:18",
-      "channel": "ig",
-      "item": "pod-ep01-verdict",
+      "item": "bj-cheapbid",
       "url": null
     }
   ]

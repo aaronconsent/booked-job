@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:44:07Z",
+  "updated": "2026-07-13T21:09:38Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -112,6 +112,21 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
+        "tag": "#hvacousticpartition",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticpartition"
+      },
+      {
+        "tag": "#hvacousticslidingpartition",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
+      },
+      {
+        "tag": "#hvacousticfoldingpartition",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
+      },
+      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -120,21 +135,6 @@
         "tag": "#roofingcontractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofingcontractor"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
-      },
-      {
-        "tag": "#Hvacousticpetpanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
-      },
-      {
-        "tag": "#hvacousticpolypanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticpolypanels"
       }
     ],
     "accounts": [
@@ -264,7 +264,7 @@
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1167,
+      "followers": 1168,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },
