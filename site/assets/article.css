@@ -106,3 +106,21 @@ footer a{color:#C7CBD1}.foot{max-width:1040px;margin:0 auto;padding:0 22px;displ
 .capture button:disabled{opacity:.6;cursor:default}
 .capture .capnote{color:#8b9098;font-size:12.5px;margin-top:10px}
 .capture .capok{color:#2ecc71;font-weight:700;font-size:17px;padding:6px 0}
+
+/* ---- Slide-in capture bar (fires at 55% scroll, dismissible) ---- */
+.capbar{position:fixed;left:16px;right:16px;bottom:16px;max-width:620px;margin:0 auto;z-index:9999;
+  background:#1D2025;border:2px solid #FF6A00;border-radius:14px;padding:16px 44px 16px 18px;
+  box-shadow:0 12px 40px rgba(0,0,0,.5);transform:translateY(140%);transition:transform .3s ease;
+  display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.capbar.show{transform:translateY(0)}
+.capbar-txt{flex:1;min-width:200px;color:#CFCAC4;font-size:14px;line-height:1.4}
+.capbar-txt b{color:#F4F2EE}
+.capbar-form{display:flex;gap:8px;flex:1;min-width:240px}
+.capbar-form input{flex:1;min-width:150px;padding:11px 13px;font-size:15px;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:9px}
+.capbar-form input:focus{border-color:#FF6A00;outline:none}
+.capbar-form button{padding:11px 18px;font-weight:800;color:#15171A;background:#FF6A00;border:none;border-radius:9px;cursor:pointer;white-space:nowrap}
+.capbar-form button:disabled{opacity:.6}
+.capbar-x{position:absolute;top:8px;right:12px;background:none;border:none;color:#8b9098;font-size:22px;line-height:1;cursor:pointer}
+.capbar-x:hover{color:#F4F2EE}
+.capbar-ok{color:#2ecc71;font-weight:700;flex:1;min-width:240px}
+@media(max-width:520px){.capbar{padding:14px 40px 14px 14px}.capbar-txt{min-width:100%}}
