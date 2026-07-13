@@ -19,6 +19,22 @@ def env():
     return e
 
 
+GOAL_SIGNUPS = 1000  # 90-day newsletter goal (ICP service pros)
+
+
+def _signup_stats():
+    """Total signups + top-converting pages, from the worker's /ops/signups (KV)."""
+    try:
+        req = urllib.request.Request("https://booked-job.com/ops/signups", headers={"User-Agent": "curl/8.4"})
+        d = json.loads(urllib.request.urlopen(req, timeout=15).read().decode())
+        top = sorted((d.get("by_source") or {}).items(), key=lambda x: -x[1])[:6]
+        return {"total": d.get("total", 0), "goal": GOAL_SIGNUPS,
+                "pct": round(100 * d.get("total", 0) / GOAL_SIGNUPS, 1),
+                "top_sources": [{"page": p, "n": n} for p, n in top]}
+    except Exception:
+        return {"total": 0, "goal": GOAL_SIGNUPS, "pct": 0, "top_sources": []}
+
+
 def get(path, params, tok):
     params["access_token"] = tok
     try:
@@ -636,6 +652,7 @@ def main():
         "youtube": {**yt, "shorts": max(yt_done, yt["videos"])},
         "instagram": ig,
         "email": {"subscribers": email_subs},
+        "signups": {**_signup_stats(), "total": email_subs, "pct": round(100 * email_subs / GOAL_SIGNUPS, 1)},
         "agents": enumerate_agents(),
         "channels": chs,
         "coverage": coverage(),

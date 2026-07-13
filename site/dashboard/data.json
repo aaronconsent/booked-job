@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-13T16:09",
+  "updated": "2026-07-13T14:44",
   "goals": {
-    "label": "Month 1 \u2014 Aggressive scale",
+    "label": "Month 1 — Aggressive scale",
     "end": "2026-07-30",
     "days_left": 17,
-    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
+    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic — tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k→45k after week-1 pace blew past it; posts-shipped right-sized 90→60 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
         "label": "Reels shipped",
-        "icon": "\ud83c\udfac",
+        "icon": "🎬",
         "current": 16,
         "target": 30,
         "pct": 53,
@@ -16,7 +16,7 @@
       },
       {
         "label": "YouTube Shorts",
-        "icon": "\ud83d\udcfa",
+        "icon": "📺",
         "current": 22,
         "target": 30,
         "pct": 73,
@@ -24,7 +24,7 @@
       },
       {
         "label": "Posts shipped",
-        "icon": "\ud83d\udcdd",
+        "icon": "📝",
         "current": 22,
         "target": 60,
         "pct": 37,
@@ -32,7 +32,7 @@
       },
       {
         "label": "Ad video views",
-        "icon": "\ud83d\udc40",
+        "icon": "👀",
         "current": 16704,
         "target": 45000,
         "pct": 37,
@@ -40,7 +40,7 @@
       },
       {
         "label": "FB engagement",
-        "icon": "\ud83d\udd25",
+        "icon": "🔥",
         "current": 14,
         "target": 800,
         "pct": 2,
@@ -48,15 +48,15 @@
       },
       {
         "label": "YouTube views",
-        "icon": "\u25b6\ufe0f",
-        "current": 121,
+        "icon": "▶️",
+        "current": 114,
         "target": 10000,
         "pct": 1,
         "on_track": false
       },
       {
         "label": "FB followers",
-        "icon": "\ud83d\udc65",
+        "icon": "👥",
         "current": 3,
         "target": 400,
         "pct": 1,
@@ -64,7 +64,7 @@
       },
       {
         "label": "YouTube subs",
-        "icon": "\ud83d\udd14",
+        "icon": "🔔",
         "current": 0,
         "target": 200,
         "pct": 0,
@@ -72,7 +72,7 @@
       },
       {
         "label": "Instagram followers",
-        "icon": "\ud83d\udcf8",
+        "icon": "📸",
         "current": 1,
         "target": 250,
         "pct": 0,
@@ -80,7 +80,7 @@
       },
       {
         "label": "Email subscribers",
-        "icon": "\ud83d\udce7",
+        "icon": "📧",
         "current": 5,
         "target": 100,
         "pct": 5,
@@ -88,7 +88,7 @@
       },
       {
         "label": "FB page likes",
-        "icon": "\ud83d\udc4d",
+        "icon": "👍",
         "current": 3,
         "target": 300,
         "pct": 1,
@@ -98,93 +98,93 @@
   },
   "strategist": {
     "updated": "2026-07-08",
-    "headline": "The pipeline you rent is shrinking. Ours \u2014 the one we own \u2014 is compounding.",
-    "read": "Two reads collide this week. Externally, the money cluster's central villain is visibly cracking: Angi's fiscal 2025 revenue fell 13% to $1.03B, its shared-lead 'network' engine collapsed 79% after the January-2025 homeowner-choice change, and it cut ~350 jobs \u2014 yet it got MORE profitable (adjusted EBITDA +25%), which means it's squeezing the pros still on it harder. That's a gift for our positioning and I turned it into a new post today. Internally, the picture is unchanged from Monday: the paid engine works (~13.5k video views, 9.4k reach, $68 spend), organic is still cold (3 FB followers, 17 engagement), and the gap is conversion, not production \u2014 95 items in the syndication queue, 108 FB posts and 8 reels still loaded. We are not thin on content; we're thin on asks-to-follow against a warm-viewer pool that's just sitting there.",
-    "next_move": "Convert and compound. (1) Highest leverage: stand up the retarget\u2192Page-Like/Follow ad against the 25/50/95% video-watchers we've already paid to build \u2014 that pool is idle and it's the single cheapest follower we'll ever buy. (2) Reels format pivot: 2026 short-form data says problem/fix walkthroughs, before/afters, and founder-visibility 30-60s clips with BURNED-IN word-level captions are what's landing \u2014 reweight the reel queue toward that and away from pure gag reels; confirm captions are burned in, not auto. (3) Keep the money cluster compounding \u2014 next posts: the Jan-2025 'homeowner choice' change and what it did to lead quality, and the Thumbtack BBB/chargeback-deactivation scam-cluster piece (flagged twice, still unwritten). (4) Still zero real named contractor quotes in the inbox (only IG spam) \u2014 keep /share-your-story/ + FB prompts running for phase-2 EEAT. Posts-shipped target right-sized 90\u219260 to match the real FB cadence.",
+    "headline": "The pipeline you rent is shrinking. Ours — the one we own — is compounding.",
+    "read": "Two reads collide this week. Externally, the money cluster's central villain is visibly cracking: Angi's fiscal 2025 revenue fell 13% to $1.03B, its shared-lead 'network' engine collapsed 79% after the January-2025 homeowner-choice change, and it cut ~350 jobs — yet it got MORE profitable (adjusted EBITDA +25%), which means it's squeezing the pros still on it harder. That's a gift for our positioning and I turned it into a new post today. Internally, the picture is unchanged from Monday: the paid engine works (~13.5k video views, 9.4k reach, $68 spend), organic is still cold (3 FB followers, 17 engagement), and the gap is conversion, not production — 95 items in the syndication queue, 108 FB posts and 8 reels still loaded. We are not thin on content; we're thin on asks-to-follow against a warm-viewer pool that's just sitting there.",
+    "next_move": "Convert and compound. (1) Highest leverage: stand up the retarget→Page-Like/Follow ad against the 25/50/95% video-watchers we've already paid to build — that pool is idle and it's the single cheapest follower we'll ever buy. (2) Reels format pivot: 2026 short-form data says problem/fix walkthroughs, before/afters, and founder-visibility 30-60s clips with BURNED-IN word-level captions are what's landing — reweight the reel queue toward that and away from pure gag reels; confirm captions are burned in, not auto. (3) Keep the money cluster compounding — next posts: the Jan-2025 'homeowner choice' change and what it did to lead quality, and the Thumbtack BBB/chargeback-deactivation scam-cluster piece (flagged twice, still unwritten). (4) Still zero real named contractor quotes in the inbox (only IG spam) — keep /share-your-story/ + FB prompts running for phase-2 EEAT. Posts-shipped target right-sized 90→60 to match the real FB cadence.",
     "next_review": "2026-07-13"
   },
   "upcoming": [
     {
       "date": "2026-07-14",
       "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "A third of your future customers won't Google you \u2014 they'll ",
+      "icon": "📝",
+      "title": "A third of your future customers won't Google you — they'll ",
       "sub": "course promo"
     },
     {
       "date": "2026-07-14",
       "type": "reel",
-      "icon": "\ud83c\udfac",
+      "icon": "🎬",
       "title": "Angi's $542 secret",
       "sub": "Reel"
     },
     {
       "date": "2026-07-15",
       "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
+      "icon": "📝",
+      "title": "Every jobsite has “that guy.” What's his signature move? 👇",
       "sub": "trade humor"
     },
     {
       "date": "2026-07-16",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "Five numbers, once a month, makes you impossible to fleece: ",
       "sub": "course promo"
     },
     {
       "date": "2026-07-17",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "Settle it in the comments. We're not picking sides. (Yes we ",
       "sub": "tool wars"
     },
     {
       "date": "2026-07-17",
       "type": "reel",
-      "icon": "\ud83c\udfac",
+      "icon": "🎬",
       "title": "519 reviews to rank",
       "sub": "Reel"
     },
     {
       "date": "2026-07-20",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "You don't lose most jobs on price. You lose them on response",
       "sub": "course promo"
     },
     {
       "date": "2026-07-21",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "Slow-season survival rule #1: the time to market is when you",
       "sub": "business"
     },
     {
       "date": "2026-07-21",
       "type": "reel",
-      "icon": "\ud83c\udfac",
+      "icon": "🎬",
       "title": "78% hire the first",
       "sub": "Reel"
     },
     {
       "date": "2026-07-22",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "Your cheapest leads aren't on Angi. They're the customers yo",
       "sub": "course promo"
     },
     {
       "date": "2026-07-23",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "Three ways shops bleed money they never see:",
       "sub": "business"
     },
     {
       "date": "2026-07-24",
       "type": "post",
-      "icon": "\ud83d\udcdd",
+      "icon": "📝",
       "title": "New episode of Get Booked, Not F***ed: why the guy with 140 ",
       "sub": "podcast promo"
     }
@@ -200,7 +200,7 @@
     "comments": 13,
     "shares": 0,
     "reels_published": 16,
-    "posts_remaining": 114,
+    "posts_remaining": 111,
     "reels_remaining": 3
   },
   "ads": {
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 121,
+    "views": 114,
     "likes": 0,
     "videos": 22,
     "shorts": 22
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 134
+    "media": 132
   },
   "email": {
     "subscribers": 5
@@ -230,205 +230,205 @@
   "agents": [
     {
       "name": "Blogger",
-      "schedule": "Thu \u00b7 9:00",
+      "schedule": "Thu · 9:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Bluesky",
-      "schedule": "Thu \u00b7 13:00",
+      "schedule": "Thu · 13:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Bluesky Engage",
-      "schedule": "Daily \u00b7 12:50 / 16:40 / 19:30 / 9:20",
+      "schedule": "Daily · 12:50 / 16:40 / 19:30 / 9:20",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "Bluesky Feed",
-      "schedule": "Daily \u00b7 12:35 / 17:05 / 21:35 / 7:05",
+      "schedule": "Daily · 12:35 / 17:05 / 21:35 / 7:05",
       "on": true,
       "cat": "Funnel"
     },
     {
       "name": "LinkedIn (Buffer)",
-      "schedule": "Mon, Thu \u00b7 9:40",
+      "schedule": "Mon, Thu · 9:40",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "LinkedIn Carousels",
-      "schedule": "Wed \u00b7 9:30",
+      "schedule": "Wed · 9:30",
       "on": true,
       "cat": "Visual formats"
     },
     {
       "name": "TikTok (Buffer)",
-      "schedule": "Tue, Sat \u00b7 10:15",
+      "schedule": "Tue, Sat · 10:15",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Community Discovery",
-      "schedule": "Mon \u00b7 6:15",
+      "schedule": "Mon · 6:15",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "Email Drip",
-      "schedule": "Daily \u00b7 15:30",
+      "schedule": "Daily · 15:30",
       "on": true,
       "cat": "Funnel"
     },
     {
       "name": "Engage",
-      "schedule": "Daily \u00b7 14:35 / 20:15 / 9:05",
+      "schedule": "Daily · 14:35 / 20:15 / 9:05",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "FB Carousels",
-      "schedule": "Tue, Sat \u00b7 12:10",
+      "schedule": "Tue, Sat · 12:10",
       "on": true,
       "cat": "Visual formats"
     },
     {
       "name": "GitHub Pages",
-      "schedule": "Tue \u00b7 10:00",
+      "schedule": "Tue · 10:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "IG Carousels",
-      "schedule": "Mon, Fri \u00b7 11:30",
+      "schedule": "Mon, Fri · 11:30",
       "on": true,
       "cat": "Visual formats"
     },
     {
       "name": "IG Inbound",
-      "schedule": "Daily \u00b7 11:10 / 20:40",
+      "schedule": "Daily · 11:10 / 20:40",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "Instagram Reels",
-      "schedule": "Tue, Thu \u00b7 11:00",
+      "schedule": "Tue, Thu · 11:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Mastodon",
-      "schedule": "Sat \u00b7 14:00",
+      "schedule": "Sat · 14:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Newsletter",
-      "schedule": "Thu \u00b7 7:30",
+      "schedule": "Thu · 7:30",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Pinterest",
-      "schedule": "Wed \u00b7 14:00",
+      "schedule": "Wed · 14:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Posts",
-      "schedule": "Daily \u00b7 12:20 / 18:40 / 7:10",
+      "schedule": "Daily · 12:20 / 18:40 / 7:10",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "FB Reels",
-      "schedule": "Tue, Fri \u00b7 7:30",
+      "schedule": "Tue, Fri · 7:30",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Reel Stories",
-      "schedule": "Tue, Sat \u00b7 8:45",
+      "schedule": "Tue, Sat · 8:45",
       "on": true,
       "cat": "Visual formats"
     },
     {
       "name": "Weekly Report",
-      "schedule": "Mon \u00b7 8:00",
+      "schedule": "Mon · 8:00",
       "on": true,
       "cat": "Ops"
     },
     {
       "name": "Stats Refresh",
-      "schedule": "Daily \u00b7 12:00 / 18:00 / 22:00 / 6:00",
+      "schedule": "Daily · 12:00 / 18:00 / 22:00 / 6:00",
       "on": true,
       "cat": "Ops"
     },
     {
       "name": "IG+FB Stories",
-      "schedule": "Mon, Wed, Fri \u00b7 8:30",
+      "schedule": "Mon, Wed, Fri · 8:30",
       "on": true,
       "cat": "Visual formats"
     },
     {
       "name": "Daily Task List",
-      "schedule": "Daily \u00b7 6:30",
+      "schedule": "Daily · 6:30",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "Telegram",
-      "schedule": "Fri \u00b7 13:00",
+      "schedule": "Fri · 13:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Telegram Polls",
-      "schedule": "Tue, Thu \u00b7 16:00",
+      "schedule": "Tue, Thu · 16:00",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "Telegraph",
-      "schedule": "Sat \u00b7 10:00",
+      "schedule": "Sat · 10:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Threads",
-      "schedule": "Wed \u00b7 13:00",
+      "schedule": "Wed · 13:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "Threads Surfacing",
-      "schedule": "Daily \u00b7 13:15 / 18:15 / 8:15",
+      "schedule": "Daily · 13:15 / 18:15 / 8:15",
       "on": true,
       "cat": "Engagement"
     },
     {
       "name": "TikTok Carousels",
-      "schedule": "Thu \u00b7 10:45",
+      "schedule": "Thu · 10:45",
       "on": true,
       "cat": "Visual formats"
     },
     {
       "name": "Tumblr",
-      "schedule": "Fri \u00b7 9:00",
+      "schedule": "Fri · 9:00",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "YouTube Shorts",
-      "schedule": "Mon, Wed, Fri \u00b7 8:30",
+      "schedule": "Mon, Wed, Fri · 8:30",
       "on": true,
       "cat": "Publishing"
     },
     {
       "name": "YouTube CTA",
-      "schedule": "Daily \u00b7 10:30 / 17:30",
+      "schedule": "Daily · 10:30 / 17:30",
       "on": true,
       "cat": "Engagement"
     }
@@ -437,7 +437,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 110,
+      "count": 107,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1137,
+      "views": 1135,
       "followers": 1
     },
     {
@@ -478,14 +478,14 @@
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 121,
+      "views": 114,
       "followers": 0,
       "likes": 0
     },
     {
       "name": "Blogger",
       "status": "live",
-      "count": 72,
+      "count": 71,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 49,
+      "count": 48,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -501,7 +501,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 105,
+      "count": 104,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -509,17 +509,17 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 105,
+      "count": 104,
       "unit": "posts",
-      "followers": 16,
+      "followers": 15,
       "grade": "C",
       "group": "social",
-      "likes": 6
+      "likes": 5
     },
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 105,
+      "count": 104,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -529,7 +529,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 105,
+      "count": 104,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -565,7 +565,7 @@
       "status": "live",
       "count": 99,
       "unit": "posts (Buffer)",
-      "stat": "363 reach \u00b7 5 reactions",
+      "stat": "363 reach · 5 reactions",
       "views": 0,
       "likes": 5,
       "grade": "B",
@@ -576,7 +576,7 @@
       "status": "live",
       "count": 35,
       "unit": "videos (Buffer)",
-      "stat": "3806 views \u00b7 17 reactions",
+      "stat": "3806 views · 17 reactions",
       "views": 3806,
       "likes": 17,
       "grade": "C",
@@ -589,7 +589,7 @@
       "count": 104,
       "views": 0,
       "likes": 0,
-      "stat": "0 impressions \u00b7 0 saves",
+      "stat": "0 impressions · 0 saves",
       "grade": "B",
       "group": "social"
     },
@@ -598,7 +598,7 @@
       "status": "pending",
       "count": 0,
       "unit": "verifying",
-      "grade": "\u2014",
+      "grade": "—",
       "group": "social"
     }
   ],
@@ -622,7 +622,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 8
       },
       {
         "type": "Polls",
@@ -652,7 +652,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 8
       },
       {
         "type": "Long video",
@@ -739,19 +739,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 105
+        "count": 104
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 51
+        "count": 50
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 105
+        "count": 104
       },
       {
         "type": "Video",
@@ -766,7 +766,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 105
+        "count": 104
       },
       {
         "type": "Video",
@@ -798,25 +798,25 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 49
+        "count": 48
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 33
+        "count": 32
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 114,
+      "remaining": 111,
       "per_day": 2,
-      "days": 57.0,
+      "days": 55.5,
       "status": "green"
     },
     {
-      "label": "Reels \u2014 fresh renders",
+      "label": "Reels — fresh renders",
       "remaining": 3,
       "per_day": 1,
       "days": 3.0,
@@ -845,22 +845,22 @@
     }
   ],
   "funnel": {
-    "reach": 37724,
+    "reach": 37715,
     "engagement": 14,
-    "audience": 28,
+    "audience": 27,
     "cr_clicks": 25
   },
   "trends": {
-    "audience": 9,
+    "audience": 8,
     "engagement": -8,
     "email": 0,
-    "reach": 11975
+    "reach": 11966
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 16825,
+        "value": 16818,
         "grade": "B"
       },
       {
@@ -870,7 +870,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1115,
+        "value": 1106,
         "grade": "A"
       },
       {
@@ -880,7 +880,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 28,
+        "value": 27,
         "grade": "D"
       },
       {
@@ -890,6 +890,17 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1115 posts, 28 audience, 25 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1106 posts, 27 audience, 25 CR clicks — the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+  },
+  "signups": {
+    "total": 5,
+    "goal": 1000,
+    "pct": 0.5,
+    "top_sources": [
+      {
+        "page": "/blog/is-angi-worth-it/",
+        "n": 1
+      }
+    ]
   }
 }

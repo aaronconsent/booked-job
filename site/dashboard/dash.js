@@ -109,6 +109,16 @@ function renderQueue(d){
   setTimeout(()=>{$('prf').style.width=(100*c.posts_remaining/pTot)+'%';$('rrf').style.width=(100*c.reels_remaining/rTot)+'%';},100);
 }
 
+function renderSignups(d){
+  const el=$('signupGoal'); if(!el||!d.signups) return;
+  const s=d.signups, pct=Math.min(100, s.pct||0);
+  const top=(s.top_sources||[]).slice(0,5).map(x=>`<div class="adrow"><span class="k">${x.page}</span><span>${x.n}</span></div>`).join('')
+    ||'<div class="adrow"><span class="k">No signups tracked yet — traffic + capture just went live</span><span>0</span></div>';
+  el.innerHTML=`<div class="panel"><div class="eyebrow">📧 Newsletter goal — 1,000 ICP signups in 90 days</div>
+    <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:Anton,sans-serif;font-size:42px;color:#FF6A00">${s.total||0}</div><div style="color:#8b9098">/ ${s.goal||1000} · ${pct}%</div></div>
+    <div style="height:10px;background:#23262b;border-radius:6px;overflow:hidden;margin:8px 0 16px"><div style="height:100%;width:${pct}%;background:linear-gradient(90deg,#FF6A00,#FFD23F)"></div></div>
+    <div class="eyebrow" style="font-size:11px;margin-bottom:6px">Top converting pages</div>${top}</div>`;
+}
 function renderAds(d){
   const a=(d&&d.ads)||null;
   // prominent header badge: ad on/off + total spend, visible on every load
@@ -189,7 +199,7 @@ async function load(){
   try{ rec=await (await fetch('recent.json?'+Date.now())).json(); }catch(e){ rec={posts:[]}; }
   if($('updated')) $('updated').textContent=new Date(d.updated).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
   renderScoreboard(d); renderRunway(d); renderCoverage(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
-  renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderAgenda(d); renderActivity(cl); renderRecent(rec);
+  renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderSignups(d); renderAgenda(d); renderActivity(cl); renderRecent(rec);
 }
 
 function renderRunway(d){
