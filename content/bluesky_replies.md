@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
+
+Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
+  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
+
+- **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
+Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
+  → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
+
+- **@mdrepros.bsky.social**: 🏡 What if your next property could be your home and your business?
+Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garage/workshop, and endless possibilities for farming, tr
+  → https://bsky.app/profile/mdrepros.bsky.social/post/3mqjsgusla32p
+
+- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
+
+Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
+  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
+
+- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
+
+Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
+
+therealbuzzfeed.com/most-recomme.
+  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
+
+- **@jt33.bsky.social**: Yes, the problem is lots of skilled trades need workers, but they won't hire until a person has 2-5 years of experience. Catch 22, right?
+  → https://bsky.app/profile/jt33.bsky.social/post/3mqcr7b2gxs2n
+
+- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
+  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
+
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
 - **@get-educated.bsky.social**: Happy #NationalTileRepairDay!
 
 As the demand for skilled trades professionals continues to rise, the need for contractors, plumbers, and other essential laborers has never been greater. But the best p
@@ -142,46 +183,3 @@ Boston, North & South Shores,
 
 - **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mq7vn3gd5z2j
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@truthseeker19.bsky.social**: RECOMMENDED: Holmes on Holmes
-
-FREE to stream on TubiTV.
-
-Learn just enough about good/bad home construction projects to be able to ask contractors questions you need answered, and, most importantly, 
-  → https://bsky.app/profile/truthseeker19.bsky.social/post/3mq6hnopnu225
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s

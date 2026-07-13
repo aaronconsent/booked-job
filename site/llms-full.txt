@@ -1477,3 +1477,87 @@ A: Usually expensive per booked job (~$542) because leads are shared with up to 
 A: Within 5 minutes — up to 100x more likely to connect than 30 minutes (MIT Sloan 2026), and 78% of homeowners hire the first responder (Lead Connect 2026).
 
 ---
+## How to Get More Plumbing Leads in 2026 (The Honest Playbook)
+URL: https://booked-job.com/blog/how-to-get-more-plumbing-leads/
+
+**Short answer:** The plumbing lead playbook, ranked by cost per booked job: Google Local Service Ads for paid demand, then the owned channels — profile, reviews (~337 to make the map pack), referrals — plus answering fast on emergency calls.
+
+### Emergency calls reward speed
+*Plumbing is a speed-to-lead business.*
+A burst pipe doesn't wait. 78% of homeowners hire whoever responds first (Lead Connect 2026), and 5-minute response is up to 100x more likely to connect than 30 (MIT Sloan 2026). Missing ~14% of calls (CallRail 2026) is lost plumbing revenue.
+
+### Make the map pack
+*Median map-pack plumber has ~337 reviews.*
+A plumber in the local map pack averages around ~337 reviews — that's the competitive bar. Build them steadily (ask every job, one-tap link), and clear 4 stars, since 91% won't consider less (BrightLocal 2026).
+
+### Paid vs owned
+*LSA to fill the schedule, owned channels to keep it full.*
+Google Local Service Ads (~$168 per booked job) beat shared platforms (Angi ~$542) on cost. Use LSA to fill gaps while your profile, reviews, and referrals build the exclusive pipeline that doesn't stop when you pause spend.
+
+### FAQ
+**Q: How do plumbers get more leads?**
+A: Answer fast (78% hire the first responder — Lead Connect 2026), make the map pack with ~337 reviews, and use Google LSA (~$168/booked job) for paid demand over shared platforms.
+
+**Q: How many reviews does a plumber need to rank?**
+A: Around 337 is the median for the map pack in competitive areas (BrightLocal 2026); low-competition markets need fewer. Recency and velocity matter as much as count.
+
+**Q: Is Angi worth it for plumbers?**
+A: Usually not on a per-booked-job basis (~$542 vs ~$168 on Google LSA) because leads are shared with up to 12 pros. Owned channels win long-term.
+
+---
+## Google Business Profile Checklist for Contractors (2026)
+URL: https://booked-job.com/blog/google-business-profile-checklist-contractors/
+
+**Short answer:** Your Google Business Profile is your storefront, and most contractors leave it half-empty. The checklist: complete every field, add job photos weekly, post weekly, and build steady reviews — because 91% of homeowners won't consider a shop under 4 stars.
+
+### Complete every field
+*Google ranks complete profiles over lazy ones.*
+Services, service areas, hours, description, categories — fill it all. A complete profile is the baseline for showing up in the map pack, where homeowners actually pick a contractor.
+
+### Photos + weekly posts
+*Fresh signals = more calls.*
+Add job photos every week and post offers/tips/finished jobs like it's social. Fresh-photo, actively-posted profiles get more calls and direction requests — it's free real estate on the results page.
+
+### Reviews are the ranking fuel
+*Steady, recent, keyword-rich.*
+91% won't consider a shop under 4 stars (BrightLocal 2026), and recent reviews with keywords ('water heater install') push you up the pack. Ask every customer, one-tap link, never gate or pay (fake reviews are illegal as of FTC 2024).
+
+### FAQ
+**Q: How do I rank my contractor business on Google Maps?**
+A: Complete every profile field, add job photos and posts weekly, and build steady recent reviews with service keywords. 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026).
+
+**Q: How often should I post on Google Business Profile?**
+A: Weekly — offers, tips, finished jobs. Active, fresh-photo profiles earn more calls and direction requests than static ones.
+
+**Q: Do Google Business Profile reviews affect ranking?**
+A: Yes — count, recency, and keyword relevance all influence the map pack. Steady velocity beats a big old pile that's gone quiet.
+
+---
+## Why Your Contractor Website Isn't Converting (And How to Fix It)
+URL: https://booked-job.com/blog/why-your-contractor-website-isnt-converting/
+
+**Short answer:** About 98% of your website visitors leave without calling — usually for four fixable reasons: no phone number up top, services instead of outcomes, no proof, and a slow load.
+
+### No phone number above the fold
+*If they hunt for it, they call a competitor.*
+Around 98% of visitors leave without contacting you (WebFX 2026). The number-one fix is the number itself — big, tappable, above the fold on every page.
+
+### You listed services, not outcomes
+*Homeowners buy 'cool house by Friday,' not 'HVAC installation.'*
+Lead with the outcome the homeowner wants, not the industry term. 'AC fixed today' beats 'HVAC installation and repair services' every time.
+
+### No proof, and too slow
+*Trust on page one; load under 3 seconds.*
+Reviews, job photos, and faces on page one carry the sale. And speed is a conversion feature — 3 seconds to load or you lose half your visitors before they see any of it.
+
+### FAQ
+**Q: Why isn't my contractor website getting leads?**
+A: Usually four reasons: the phone number is hard to find, you list services instead of outcomes, there's no proof (reviews/photos), and it loads slowly. ~98% of visitors leave without contacting you (WebFX 2026).
+
+**Q: What's the most important thing on a contractor website?**
+A: A visible, tappable phone number above the fold on every page — plus proof (reviews and job photos) on the first screen.
+
+**Q: How fast should my website load?**
+A: Under 3 seconds. Slower than that and roughly half your visitors leave before they see your offer — speed is a booking feature.
+
+---

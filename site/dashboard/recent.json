@@ -1,46 +1,64 @@
 {
-  "updated": "2026-07-13T13:10",
+  "updated": "2026-07-13T14:48",
   "posts": [
     {
-      "ts": "2026-07-13T13:06:35",
+      "ts": "2026-07-13T14:47:25",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-07-13T13:05:55",
-      "channel": "tumblr",
-      "item": "vanity-numbers-and-mailers",
+      "ts": "2026-07-13T14:46:50",
+      "channel": "threads",
+      "item": "hvac-marketing-statistics",
       "url": null
     },
     {
-      "ts": "2026-07-13T13:05:53",
-      "channel": "tumblr",
-      "item": "bj-ai",
-      "url": null
+      "ts": "2026-07-13T14:46:34",
+      "channel": "mastodon",
+      "item": "hvac-marketing-statistics",
+      "url": "https://mastodon.social/@bookedjob/116914388596207031"
     },
     {
-      "ts": "2026-07-13T13:05:46",
+      "ts": "2026-07-13T14:46:32",
       "channel": "bluesky",
-      "item": "bj-rev-elec",
+      "item": "hvac-marketing-statistics",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqkhgifoif2f"
+    },
+    {
+      "ts": "2026-07-13T14:46:31",
+      "channel": "tumblr",
+      "item": "why-nobody-clicks-your-ai-poster",
       "url": null
     },
     {
-      "ts": "2026-07-13T13:05:42",
-      "channel": "linkedin",
-      "item": "bj-reviews",
+      "ts": "2026-07-13T14:46:31",
+      "channel": "telegraph",
+      "item": "hvac-marketing-statistics",
+      "url": "https://telegra.ph/HVAC-Marketing-Statistics-2026-Lead-Costs-Revi"
+    },
+    {
+      "ts": "2026-07-13T14:46:29",
+      "channel": "tumblr",
+      "item": "bj-scam",
       "url": null
     },
     {
-      "ts": "2026-07-13T13:05:41",
+      "ts": "2026-07-13T14:46:22",
+      "channel": "bluesky",
+      "item": "bj-rev-paint",
+      "url": null
+    },
+    {
+      "ts": "2026-07-13T14:46:19",
       "channel": "tiktok",
-      "item": "bj-rev-elec",
+      "item": "bj-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-07-13T13:05:40",
-      "channel": "facebook",
-      "item": "pod-ep01-refunds",
+      "ts": "2026-07-13T14:46:18",
+      "channel": "ig",
+      "item": "pod-ep01-verdict",
       "url": null
     }
   ]

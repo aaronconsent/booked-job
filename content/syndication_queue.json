@@ -1563,6 +1563,48 @@
       "blurb": "The HVAC lead playbook, ranked by cost per booked job: Google Local Service Ads for paid demand (~$168), then the channels you own \u2014 Google Business Profile, reviews, referrals \u2014 plus answering in minutes.",
       "url": "https://booked-job.com/blog/how-to-get-more-hvac-leads/",
       "posted": {}
+    },
+    {
+      "id": "how-to-get-more-plumbing-leads",
+      "title": "How to Get More Plumbing Leads in 2026 (The Honest Playbook)",
+      "labels": [
+        "Lead Sources",
+        "Plumbing",
+        "Lead Generation",
+        "Local SEO"
+      ],
+      "short_title": "Lead Sources",
+      "blurb": "The plumbing lead playbook, ranked by cost per booked job: Google Local Service Ads for paid demand, then the owned channels \u2014 profile, reviews (~337 to make the map pack), referrals \u2014 plus answering fast on emergency calls.",
+      "url": "https://booked-job.com/blog/how-to-get-more-plumbing-leads/",
+      "posted": {}
+    },
+    {
+      "id": "google-business-profile-checklist-contractors",
+      "title": "Google Business Profile Checklist for Contractors (2026)",
+      "labels": [
+        "Local SEO",
+        "Google Business Profile",
+        "Reviews",
+        "Contractor Marketing"
+      ],
+      "short_title": "Local SEO",
+      "blurb": "Your Google Business Profile is your storefront, and most contractors leave it half-empty. The checklist: complete every field, add job photos weekly, post weekly, and build steady reviews \u2014 because 91% of homeowners won't consider a shop under 4 stars.",
+      "url": "https://booked-job.com/blog/google-business-profile-checklist-contractors/",
+      "posted": {}
+    },
+    {
+      "id": "why-your-contractor-website-isnt-converting",
+      "title": "Why Your Contractor Website Isn't Converting (And How to Fix It)",
+      "labels": [
+        "Website Conversion",
+        "Contractor Marketing",
+        "Lead Generation",
+        "Local SEO"
+      ],
+      "short_title": "Website Conversion",
+      "blurb": "About 98% of your website visitors leave without calling \u2014 usually for four fixable reasons: no phone number up top, services instead of outcomes, no proof, and a slow load.",
+      "url": "https://booked-job.com/blog/why-your-contractor-website-isnt-converting/",
+      "posted": {}
     }
   ]
 }

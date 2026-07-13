@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T13:13",
+  "generated": "2026-07-13T14:51",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 3,
+        "current": 6,
         "target": 2,
         "status": "green",
         "needs": null
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 9,
+        "current": 15,
         "target": 22,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -65,7 +65,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 21,
+        "current": 24,
         "target": 14,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 426,
+        "current": 432,
         "target": 150,
         "status": "green",
         "needs": null
@@ -137,7 +137,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 43,
+        "current": 46,
         "target": 60,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 835,
+        "current": 841,
         "target": 600,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 108,
+        "current": 112,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -215,17 +215,17 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 111,
+    "fb_ig_posts": 114,
     "reels": 3,
-    "staged_articles": 5
+    "staged_articles": 2
   },
   "counters": {
-    "articles": 105,
+    "articles": 108,
     "reels": 16,
-    "social_posts": 897,
+    "social_posts": 903,
     "followers": 22,
-    "engagement": 13,
-    "yt_views": 110,
+    "engagement": 14,
+    "yt_views": 114,
     "yt_shorts": 22,
     "email_subs": 5,
     "traffic": 0
@@ -239,7 +239,7 @@
     },
     {
       "title": "\ud83d\udcdd Article pipeline thin",
-      "why": "Only 5 articles staged to drip.",
+      "why": "Only 2 articles staged to drip.",
       "prompt": "Run another branch-series workflow batch and stage it to drip 2/day."
     },
     {
