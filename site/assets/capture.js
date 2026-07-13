@@ -56,8 +56,11 @@
   function onScroll() {
     if (shown) return;
     var h = document.documentElement;
-    var depth = (h.scrollTop + h.clientHeight) / h.scrollHeight;
-    if (depth > 0.55) { shown = true; window.removeEventListener('scroll', onScroll); build(); }
+    var vh = window.innerHeight || h.clientHeight || 600;
+    var top = window.pageYOffset || h.scrollTop || 0;
+    var depth = (top + vh) / (h.scrollHeight || 1);
+    // fire on 55% depth OR ~900px of absolute scroll (robust to odd viewport metrics)
+    if (depth > 0.55 || top > 900) { shown = true; window.removeEventListener('scroll', onScroll); build(); }
   }
   window.addEventListener('scroll', onScroll, { passive: true });
 })();
