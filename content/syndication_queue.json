@@ -1521,6 +1521,48 @@
       "blurb": "The best HomeAdvisor alternatives, ranked by cost per booked job: Google Local Service Ads (~$168), Thumbtack (~$250), and the channels you own \u2014 Google Business Profile, referrals, a converting website. The FTC's $7.2M order against HomeAdvisor (FTC 2023) is a good reason to leave the shared-lead model behind.",
       "url": "https://booked-job.com/blog/homeadvisor-alternatives/",
       "posted": {}
+    },
+    {
+      "id": "hvac-marketing-statistics",
+      "title": "HVAC Marketing Statistics (2026): Lead Costs, Reviews & Speed to Lead",
+      "labels": [
+        "Real Trade Numbers",
+        "HVAC",
+        "Statistics",
+        "Lead Generation"
+      ],
+      "short_title": "Real Trade Numbers",
+      "blurb": "The HVAC-specific numbers behind getting booked: what a booked job really costs by channel, the ~519 reviews it takes to top a competitive HVAC market, and why answering in 5 minutes changes everything.",
+      "url": "https://booked-job.com/blog/hvac-marketing-statistics/",
+      "posted": {}
+    },
+    {
+      "id": "roofing-marketing-statistics",
+      "title": "Roofing Marketing Statistics (2026): What Leads Cost & What Works",
+      "labels": [
+        "Real Trade Numbers",
+        "Roofing",
+        "Statistics",
+        "Lead Generation"
+      ],
+      "short_title": "Real Trade Numbers",
+      "blurb": "The roofing-specific numbers: cost per booked job by channel, the review bar to make the map pack, and why the storm-chaser 'free inspection' game inflates everyone's lead costs.",
+      "url": "https://booked-job.com/blog/roofing-marketing-statistics/",
+      "posted": {}
+    },
+    {
+      "id": "how-to-get-more-hvac-leads",
+      "title": "How to Get More HVAC Leads (Without Overpaying for Shared Ones)",
+      "labels": [
+        "Lead Sources",
+        "HVAC",
+        "Lead Generation",
+        "Local SEO"
+      ],
+      "short_title": "Lead Sources",
+      "blurb": "The HVAC lead playbook, ranked by cost per booked job: Google Local Service Ads for paid demand (~$168), then the channels you own \u2014 Google Business Profile, reviews, referrals \u2014 plus answering in minutes.",
+      "url": "https://booked-job.com/blog/how-to-get-more-hvac-leads/",
+      "posted": {}
     }
   ]
 }

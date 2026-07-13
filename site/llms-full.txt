@@ -1393,3 +1393,87 @@ A: The FTC ordered HomeAdvisor to pay up to $7.2M in 2023 (FTC 2023) over how it
 A: They operate under the same corporate umbrella. The 2023 FTC order was specifically about HomeAdvisor's lead marketing to contractors.
 
 ---
+## HVAC Marketing Statistics (2026): Lead Costs, Reviews & Speed to Lead
+URL: https://booked-job.com/blog/hvac-marketing-statistics/
+
+**Short answer:** The HVAC-specific numbers behind getting booked: what a booked job really costs by channel, the ~519 reviews it takes to top a competitive HVAC market, and why answering in 5 minutes changes everything.
+
+### Cost per booked job, HVAC
+*Measure per booked job, not per lead.*
+For HVAC, a booked job runs roughly $542 via Angi, ~$250 via Thumbtack, and ~$168 via Google Local Service Ads once close rates are counted. Shared leads are sold to as many as 12 pros, which is why their cheap sticker price produces the most expensive jobs.
+
+### HVAC reviews: the highest bar in the trades
+*Competitive HVAC markets take ~519 reviews to top.*
+HVAC is one of the most review-hungry trades: ranking #1 in a competitive metro can take on the order of ~519 reviews (BrightLocal 2026), versus a fraction of that in low-competition markets. And 91% of homeowners won't consider a shop under 4 stars — so rating gates the call before it happens.
+
+### Speed to lead wins HVAC jobs
+*First responder usually books it.*
+78% of homeowners hire whoever responds first (Lead Connect 2026), and responding in 5 minutes vs 30 makes you up to 100x more likely to connect (MIT Sloan 2026). For emergency-driven HVAC calls, speed is the whole game.
+
+### FAQ
+**Q: How much does an HVAC lead cost in 2026?**
+A: Per booked job: roughly $542 via Angi, ~$250 via Thumbtack, ~$168 via Google Local Service Ads once close rates are counted. Per-lead prices hide the close rate.
+
+**Q: How many Google reviews does an HVAC company need?**
+A: Enough to clear 4 stars and be competitive locally — ranking #1 in a tough HVAC market can take ~519 reviews (BrightLocal 2026); low-competition areas need far fewer.
+
+**Q: What's the fastest way to get more HVAC jobs?**
+A: Answer leads in minutes. 78% of homeowners hire whoever responds first (Lead Connect 2026), and 5-minute response is up to 100x more likely to connect than 30 (MIT Sloan 2026).
+
+---
+## Roofing Marketing Statistics (2026): What Leads Cost & What Works
+URL: https://booked-job.com/blog/roofing-marketing-statistics/
+
+**Short answer:** The roofing-specific numbers: cost per booked job by channel, the review bar to make the map pack, and why the storm-chaser 'free inspection' game inflates everyone's lead costs.
+
+### Cost per booked job, roofing
+*The number that pays your crew is per booked job.*
+A booked roofing job runs roughly $542 via Angi, ~$250 via Thumbtack, and ~$168 via Google Local Service Ads once close rates are factored in. On shared platforms your lead is sold to up to 12 pros — a bidding war before you're on the roof.
+
+### Reviews and trust in roofing
+*Rating gates the call; recency wins the map pack.*
+91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026). For a big-ticket, trust-heavy purchase like a roof, steady recent reviews plus job photos are the difference between the shortlist and invisibility.
+
+### Answer the phone during storm season
+*Speed decides who books the surge.*
+When a storm drives demand, 78% of homeowners hire whoever responds first (Lead Connect 2026). Missing ~14% of inbound calls (CallRail 2026) during a surge hands those jobs straight to the next roofer — including the storm-chasers.
+
+### FAQ
+**Q: How much do roofing leads cost?**
+A: Per booked job: ~$542 via Angi, ~$250 via Thumbtack, ~$168 via Google LSA once close rates are counted. Shared leads are sold to up to 12 pros, inflating the real cost.
+
+**Q: Are 'free roof inspection' leads worth it?**
+A: Be careful — many are storm-chaser funnels sold to multiple contractors. Owned channels (your Google profile, referrals) produce exclusive leads at a lower cost per booked job.
+
+**Q: How do roofers get more jobs during storm season?**
+A: Answer every call fast — 78% of homeowners hire the first responder (Lead Connect 2026) — and keep reviews recent so you make the shortlist when demand spikes.
+
+---
+## How to Get More HVAC Leads (Without Overpaying for Shared Ones)
+URL: https://booked-job.com/blog/how-to-get-more-hvac-leads/
+
+**Short answer:** The HVAC lead playbook, ranked by cost per booked job: Google Local Service Ads for paid demand (~$168), then the channels you own — Google Business Profile, reviews, referrals — plus answering in minutes.
+
+### Start with Google Local Service Ads
+*Pay per lead, exclusive-ish, top of the page.*
+For HVAC, Google Local Service Ads are the strongest paid channel — ~$168 per booked job, calls come to you (not a pack of 12), and the Google-screened badge builds trust. You pay per lead, and bad leads are disputable.
+
+### Own your Google Business Profile
+*The map pack is where HVAC gets picked.*
+Complete every field, post weekly, and build reviews relentlessly — competitive HVAC markets take ~519 to top (BrightLocal 2026) and 91% won't consider under 4 stars. These leads are exclusive and cost nothing per lead.
+
+### Answer fast, then systematize referrals
+*Speed + referrals are the cheapest jobs you'll book.*
+Respond in 5 minutes (up to 100x more likely to connect — MIT Sloan 2026), and ask every happy customer for a referral at the peak moment. Owned demand doesn't vanish when you stop paying.
+
+### FAQ
+**Q: What's the best way to get HVAC leads?**
+A: Google Local Service Ads for paid demand (~$168 per booked job), plus owned channels — a complete Google Business Profile, steady reviews, and referrals — which produce exclusive leads over time.
+
+**Q: Are Angi leads good for HVAC?**
+A: Usually expensive per booked job (~$542) because leads are shared with up to 12 pros. Google LSA (~$168) and owned channels are cheaper per job.
+
+**Q: How fast should I respond to HVAC leads?**
+A: Within 5 minutes — up to 100x more likely to connect than 30 minutes (MIT Sloan 2026), and 78% of homeowners hire the first responder (Lead Connect 2026).
+
+---

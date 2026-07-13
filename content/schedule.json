@@ -270,19 +270,22 @@
       "slug": "hvac-marketing-statistics",
       "series": "Real Trade Numbers",
       "go_live": "2026-07-11",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-13"
     },
     {
       "slug": "roofing-marketing-statistics",
       "series": "Real Trade Numbers",
       "go_live": "2026-07-11",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-13"
     },
     {
       "slug": "how-to-get-more-hvac-leads",
       "series": "Lead Sources",
       "go_live": "2026-07-12",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-13"
     },
     {
       "slug": "how-to-get-more-plumbing-leads",

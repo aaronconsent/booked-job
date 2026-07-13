@@ -1,52 +1,46 @@
 {
-  "updated": "2026-07-13T10:55",
+  "updated": "2026-07-13T13:10",
   "posts": [
     {
-      "ts": "2026-07-13T10:52:13",
-      "channel": "youtube",
-      "item": "pod-ep03-exclusive",
-      "url": "https://youtu.be/T99B_h5r0Jo"
-    },
-    {
-      "ts": "2026-07-13T10:52:07",
-      "channel": "facebook",
-      "item": "card-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-07-13T10:51:26",
+      "ts": "2026-07-13T13:06:35",
       "channel": "mastodon",
-      "item": "card-rev-paint",
+      "item": "card-speed",
       "url": null
     },
     {
-      "ts": "2026-07-13T10:50:48",
+      "ts": "2026-07-13T13:05:55",
       "channel": "tumblr",
-      "item": "billboards-worth-it-for-contractors",
+      "item": "vanity-numbers-and-mailers",
       "url": null
     },
     {
-      "ts": "2026-07-13T10:50:47",
+      "ts": "2026-07-13T13:05:53",
       "channel": "tumblr",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     },
     {
-      "ts": "2026-07-13T10:50:42",
+      "ts": "2026-07-13T13:05:46",
       "channel": "bluesky",
-      "item": "bj-rev-roof",
+      "item": "bj-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-07-13T10:50:38",
+      "ts": "2026-07-13T13:05:42",
       "channel": "linkedin",
-      "item": "bj-angi",
+      "item": "bj-reviews",
       "url": null
     },
     {
-      "ts": "2026-07-13T10:50:37",
+      "ts": "2026-07-13T13:05:41",
       "channel": "tiktok",
-      "item": "bj-rev-roof",
+      "item": "bj-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-07-13T13:05:40",
+      "channel": "facebook",
+      "item": "pod-ep01-refunds",
       "url": null
     }
   ]
