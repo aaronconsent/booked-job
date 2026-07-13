@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T18:05",
+  "updated": "2026-07-12T19:08",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,15 +25,15 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 20,
+        "current": 21,
         "target": 60,
-        "pct": 33,
+        "pct": 35,
         "on_track": false
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
-        "current": 16171,
+        "current": 16237,
         "target": 45000,
         "pct": 36,
         "on_track": false
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 13,
+        "current": 14,
         "target": 800,
         "pct": 2,
         "on_track": false
@@ -108,15 +108,15 @@
       "date": "2026-07-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Most contractors who 'tried Google Ads' just never answered ",
-      "sub": "course promo"
+      "title": "It's somewhere in the truck. It's always somewhere in the tr",
+      "sub": "trade humor"
     },
     {
       "date": "2026-07-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "It's somewhere in the truck. It's always somewhere in the tr",
-      "sub": "trade humor"
+      "title": "A third of your future customers won't Google you \u2014 they'll ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-14",
@@ -129,22 +129,22 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "A third of your future customers won't Google you \u2014 they'll ",
-      "sub": "course promo"
+      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
+      "sub": "trade humor"
     },
     {
       "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
-      "sub": "trade humor"
+      "title": "Five numbers, once a month, makes you impossible to fleece: ",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Five numbers, once a month, makes you impossible to fleece: ",
-      "sub": "course promo"
+      "title": "Settle it in the comments. We're not picking sides. (Yes we ",
+      "sub": "tool wars"
     },
     {
       "date": "2026-07-17",
@@ -157,15 +157,15 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Settle it in the comments. We're not picking sides. (Yes we ",
-      "sub": "tool wars"
+      "title": "You don't lose most jobs on price. You lose them on response",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "You don't lose most jobs on price. You lose them on response",
-      "sub": "course promo"
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
     },
     {
       "date": "2026-07-21",
@@ -178,15 +178,15 @@
       "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
-      "sub": "business"
+      "title": "Your cheapest leads aren't on Angi. They're the customers yo",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Your cheapest leads aren't on Angi. They're the customers yo",
-      "sub": "course promo"
+      "title": "Three ways shops bleed money they never see:",
+      "sub": "business"
     }
   ],
   "page": {
@@ -195,21 +195,21 @@
     "likes": 3
   },
   "content": {
-    "posts_published": 20,
+    "posts_published": 21,
     "reactions": 1,
-    "comments": 12,
+    "comments": 13,
     "shares": 0,
     "reels_published": 15,
-    "posts_remaining": 110,
+    "posts_remaining": 109,
     "reels_remaining": 4
   },
   "ads": {
     "status": "ACTIVE",
     "daily_budget": 7.0,
-    "spend": "93.78",
-    "impressions": 16308,
-    "reach": 11282,
-    "video_views": 16171
+    "spend": "94.48",
+    "impressions": 16389,
+    "reach": 11301,
+    "video_views": 16237
   },
   "youtube": {
     "connected": true,
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 120
+    "media": 122
   },
   "email": {
     "subscribers": 5
@@ -453,7 +453,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -468,7 +468,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 943,
+      "views": 945,
       "followers": 1
     },
     {
@@ -485,7 +485,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 64,
+      "count": 65,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 41,
+      "count": 42,
       "unit": "posts",
       "grade": "C",
       "group": "content"
@@ -563,7 +563,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 96,
+      "count": 97,
       "unit": "posts (Buffer)",
       "stat": "363 reach \u00b7 5 reactions",
       "views": 0,
@@ -607,7 +607,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Carousels",
@@ -622,7 +622,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -652,7 +652,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -703,7 +703,7 @@
       {
         "type": "Documents",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Native video",
@@ -744,7 +744,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 45
+        "count": 46
       }
     ],
     "Mastodon": [
@@ -798,21 +798,21 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 27
+        "count": 28
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 110,
+      "remaining": 109,
       "per_day": 2,
-      "days": 55.0,
+      "days": 54.5,
       "status": "green"
     },
     {
@@ -845,22 +845,22 @@
     }
   ],
   "funnel": {
-    "reach": 36252,
-    "engagement": 13,
+    "reach": 36339,
+    "engagement": 14,
     "audience": 26,
     "cr_clicks": 23
   },
   "trends": {
     "audience": 8,
-    "engagement": -7,
+    "engagement": -6,
     "email": 0,
-    "reach": 13050
+    "reach": 13137
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 16281,
+        "value": 16347,
         "grade": "B"
       },
       {
@@ -870,12 +870,12 @@
       },
       {
         "label": "Total Posts",
-        "value": 1080,
+        "value": 1084,
         "grade": "A"
       },
       {
         "label": "Total Reach",
-        "value": 27590,
+        "value": 27690,
         "grade": "B"
       },
       {
@@ -885,11 +885,11 @@
       },
       {
         "label": "Engagement",
-        "value": 13,
+        "value": 14,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1080 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1084 posts, 26 audience, 23 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
