@@ -1,26 +1,12 @@
 {
   "mastodon": {
     "posted": [
-      "card-cpbj",
-      "card-angi",
-      "card-reviews",
-      "card-rev-plumb",
-      "card-rev-roof",
-      "card-rev-elec",
-      "card-rev-paint",
-      "card-speed",
-      "card-ftc",
-      "card-stars",
-      "card-ai",
-      "card-anon98",
-      "card-missedcall",
-      "card-trade",
-      "carousel-leadsites"
+      "card-cpbj"
     ],
-    "last_iso": "2026-07-14T15:22:53",
+    "last_iso": "2026-07-14T17:12:02",
     "day": {
       "date": "2026-07-14",
-      "count": 4
+      "count": 5
     }
   },
   "ig": {
@@ -33,12 +19,13 @@
   },
   "facebook": {
     "posted": [
-      "card-cpbj"
+      "card-cpbj",
+      "card-angi"
     ],
-    "last_iso": "2026-07-14T09:10:40",
+    "last_iso": "2026-07-14T17:12:02",
     "day": {
       "date": "2026-07-14",
-      "count": 1
+      "count": 2
     }
   }
 }

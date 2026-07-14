@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
+  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
+
+ https://stylelib.org/?p=106268 
+
+#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
+  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -168,16 +185,3 @@ Boston, North & South Shores,
 
 - **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mq7vn3gd5z2j
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
