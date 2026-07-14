@@ -79,12 +79,13 @@
       "bj-cheapbid",
       "bj-wordpress",
       "bj-first10k",
-      "bj-yelp"
+      "bj-yelp",
+      "bj-anon98"
     ],
-    "last_iso": "2026-07-14T09:09:27",
+    "last_iso": "2026-07-14T11:25:46",
     "day": {
       "date": "2026-07-14",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -115,12 +116,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-07-14T09:09:27",
+    "last_iso": "2026-07-14T11:25:46",
     "day": {
       "date": "2026-07-14",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -229,12 +231,13 @@
       "bj-cheapbid",
       "bj-wordpress",
       "bj-first10k",
-      "bj-yelp"
+      "bj-yelp",
+      "bj-anon98"
     ],
-    "last_iso": "2026-07-14T09:09:27",
+    "last_iso": "2026-07-14T11:25:46",
     "day": {
       "date": "2026-07-14",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -290,12 +293,13 @@
       "bj-rev-hvac",
       "bj-rev-plumb",
       "bj-rev-roof",
-      "bj-rev-elec"
+      "bj-rev-elec",
+      "bj-rev-paint"
     ],
-    "last_iso": "2026-07-14T09:09:27",
+    "last_iso": "2026-07-14T11:25:46",
     "day": {
       "date": "2026-07-14",
-      "count": 2
+      "count": 3
     }
   }
 }

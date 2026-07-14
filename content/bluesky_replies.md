@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
+
+Um… where?
+  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
+
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mqm2eecgfb2g
+
+- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
+
+Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
+  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
+
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
 - **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
   → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
 
@@ -161,25 +185,3 @@ Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
 - **@heirloomno.bsky.social**: I think the problem is treating business degrees like they are jack of all trades? 
 Thinking of the vitriol liberal arts colleges receive or the cuts to foundational public education.
   → https://bsky.app/profile/heirloomno.bsky.social/post/3mqcjeuy6mk2p
-
-- **@mdrepros.bsky.social**: 🏡 What if your next property could be your home and your business?
-Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garage/workshop, and endless possibilities for farming, tr
-  → https://bsky.app/profile/mdrepros.bsky.social/post/3mqjsgusla32p
-
-- **@animalsathomenw.bsky.social**: “I wouldn’t hesitate booking them again. So professional and reliable." – Just one of our many 5-star reviews! ⭐⭐⭐⭐⭐
-
-Planning a holiday or a business trip? Keep your cat’s routine exactly the same wi
-  → https://bsky.app/profile/animalsathomenw.bsky.social/post/3mq56y5ggbq22
-
-- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
-
-Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
-
-therealbuzzfeed.com/most-recomme.
-  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
-
-- **@jt33.bsky.social**: Yes, the problem is lots of skilled trades need workers, but they won't hire until a person has 2-5 years of experience. Catch 22, right?
-  → https://bsky.app/profile/jt33.bsky.social/post/3mqcr7b2gxs2n
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
