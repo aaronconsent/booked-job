@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T11:40:53Z",
+  "updated": "2026-07-14T14:07:55Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -83,7 +83,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 7,
+        "uses": 8,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -107,21 +107,6 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
-        "tag": "#hvacousticpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpartition"
-      },
-      {
-        "tag": "#hvacousticslidingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
-      },
-      {
-        "tag": "#hvacousticfoldingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
-      },
-      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -135,12 +120,27 @@
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#HandymanSolutions",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HandymanSolutions"
+      },
+      {
+        "tag": "#Hvacousticpetpanels",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
+      },
+      {
+        "tag": "#hvacousticpolypanels",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticpolypanels"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465157,
+        "followers": 465158,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22995,
+        "followers": 22996,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -250,7 +250,7 @@
     {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
-      "followers": 1470,
+      "followers": 1471,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
     },

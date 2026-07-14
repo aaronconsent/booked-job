@@ -1,76 +1,70 @@
 {
-  "updated": "2026-07-14T06:49",
+  "updated": "2026-07-14T09:15",
   "posts": [
     {
-      "ts": "2026-07-14T06:45:36",
-      "channel": "threads",
-      "item": "facebook-ads-vs-google-ads-for-contractors",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:45:19",
-      "channel": "mastodon",
-      "item": "facebook-ads-vs-google-ads-for-contractors",
-      "url": "https://mastodon.social/@bookedjob/11691815855981305"
-    },
-    {
-      "ts": "2026-07-14T06:45:17",
-      "channel": "bluesky",
-      "item": "facebook-ads-vs-google-ads-for-contractors",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.p"
-    },
-    {
-      "ts": "2026-07-14T06:45:16",
-      "channel": "telegraph",
-      "item": "facebook-ads-vs-google-ads-for-contractors",
-      "url": "https://telegra.ph/Facebook-Ads-vs-Google-Ads-fo"
-    },
-    {
-      "ts": "2026-07-14T06:45:15",
-      "channel": "tumblr",
-      "item": "do-yard-signs-still-work-for-contractors",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:45:14",
-      "channel": "tumblr",
-      "item": "bj-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:45:09",
-      "channel": "bluesky",
-      "item": "bj-first10k",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:45:05",
-      "channel": "tiktok",
-      "item": "bj-first10k",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:45:05",
-      "channel": "linkedin",
-      "item": "bj-slow",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:45:03",
-      "channel": "ig",
-      "item": "pod-ep01-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T06:44:31",
+      "ts": "2026-07-14T09:11:29",
       "channel": "facebook",
-      "item": "pod-ep01-wrongnum",
+      "item": "card-cpbj",
       "url": null
     },
     {
-      "ts": "2026-07-14T06:41:53",
-      "channel": "fb",
-      "item": "rip-angi-rip",
+      "ts": "2026-07-14T09:10:43",
+      "channel": "mastodon",
+      "item": "card-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T09:10:07",
+      "channel": "threads",
+      "item": "speed-to-lead-why-5-minutes-matters",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T09:09:46",
+      "channel": "mastodon",
+      "item": "speed-to-lead-why-5-minutes-matters",
+      "url": "https://mastodon.social/@bookedjob/116918726581675277"
+    },
+    {
+      "ts": "2026-07-14T09:09:43",
+      "channel": "bluesky",
+      "item": "speed-to-lead-why-5-minutes-matters",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mq"
+    },
+    {
+      "ts": "2026-07-14T09:09:42",
+      "channel": "telegraph",
+      "item": "speed-to-lead-why-5-minutes-matters",
+      "url": "https://telegra.ph/Speed-to-Lead-Why-5-Minutes-Decides-"
+    },
+    {
+      "ts": "2026-07-14T09:09:41",
+      "channel": "tumblr",
+      "item": "the-tracking-method-offline-marketing",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T09:09:39",
+      "channel": "tumblr",
+      "item": "bj-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T09:09:33",
+      "channel": "bluesky",
+      "item": "bj-yelp",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T09:09:29",
+      "channel": "linkedin",
+      "item": "bj-cpbj",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T09:09:28",
+      "channel": "tiktok",
+      "item": "bj-yelp",
       "url": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T06:40",
+  "updated": "2026-07-14T09:07",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 16,
+        "current": 17,
         "target": 30,
-        "pct": 53,
+        "pct": 57,
         "on_track": true
       },
       {
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 22,
+        "current": 23,
         "target": 60,
-        "pct": 37,
+        "pct": 38,
         "on_track": false
       },
       {
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 13,
+        "current": 12,
         "target": 800,
         "pct": 2,
         "on_track": false
@@ -108,18 +108,11 @@
       "date": "2026-07-15",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "A third of your future customers won't Google you \u2014 they'll ",
-      "sub": "course promo"
-    },
-    {
-      "date": "2026-07-16",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
       "sub": "trade humor"
     },
     {
-      "date": "2026-07-17",
+      "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Five numbers, once a month, makes you impossible to fleece: ",
@@ -127,20 +120,20 @@
     },
     {
       "date": "2026-07-17",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Angi's $542 secret",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Settle it in the comments. We're not picking sides. (Yes we ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-17",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "519 reviews to rank",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You don't lose most jobs on price. You lose them on response",
@@ -148,27 +141,27 @@
     },
     {
       "date": "2026-07-21",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "519 reviews to rank",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Slow-season survival rule #1: the time to market is when you",
       "sub": "business"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-21",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "78% hire the first",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Your cheapest leads aren't on Angi. They're the customers yo",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Three ways shops bleed money they never see:",
@@ -176,16 +169,23 @@
     },
     {
       "date": "2026-07-24",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "78% hire the first",
-      "sub": "Reel"
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "New episode of Get Booked, Not F***ed: why the guy with 140 ",
+      "sub": "podcast promo"
     },
     {
       "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "New episode of Get Booked, Not F***ed: why the guy with 140 ",
+      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
+      "sub": "owner solidarity"
+    },
+    {
+      "date": "2026-07-28",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "New episode: you don't lose jobs on price, you lose them on ",
       "sub": "podcast promo"
     }
   ],
@@ -195,13 +195,13 @@
     "likes": 3
   },
   "content": {
-    "posts_published": 22,
+    "posts_published": 23,
     "reactions": 1,
-    "comments": 12,
+    "comments": 11,
     "shares": 0,
-    "reels_published": 16,
-    "posts_remaining": 116,
-    "reels_remaining": 3
+    "reels_published": 17,
+    "posts_remaining": 115,
+    "reels_remaining": 2
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 141
+    "media": 143
   },
   "email": {
     "subscribers": 7
@@ -459,9 +459,9 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 49,
+      "count": 51,
       "unit": "posts",
-      "grade": "C",
+      "grade": "B",
       "group": "social",
       "views": 3489,
       "followers": 3,
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 21,
+      "count": 22,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1150,
+      "views": 1176,
       "followers": 1
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 77,
+      "count": 78,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 54,
+      "count": 55,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 110,
+      "count": 111,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 110,
+      "count": 111,
       "unit": "posts",
       "followers": 16,
       "grade": "C",
@@ -525,7 +525,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 110,
+      "count": 111,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 110,
+      "count": 111,
       "unit": "posts",
       "followers": 1,
       "grade": "D",
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 35,
+      "count": 36,
       "unit": "videos (Buffer)",
       "stat": "3806 views \u00b7 17 reactions",
       "views": 3806,
@@ -592,7 +592,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 109,
+      "count": 110,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 16
+        "count": 17
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 16
+        "count": 17
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Photo carousels",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 25
+        "count": 26
       },
       {
         "type": "Articles",
@@ -733,7 +733,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 109
+        "count": 110
       },
       {
         "type": "Video pins",
@@ -745,19 +745,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 110
+        "count": 111
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 53
+        "count": 54
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 110
+        "count": 111
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 110
+        "count": 111
       },
       {
         "type": "Video",
@@ -804,29 +804,29 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 54
+        "count": 55
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 35
+        "count": 36
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 116,
+      "remaining": 115,
       "per_day": 2,
-      "days": 58.0,
+      "days": 57.5,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 3,
+      "remaining": 2,
       "per_day": 1,
-      "days": 3.0,
-      "status": "amber"
+      "days": 2.0,
+      "status": "red"
     },
     {
       "label": "YouTube/IG shorts",
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 37947,
-    "engagement": 13,
+    "reach": 38000,
+    "engagement": 12,
     "audience": 30,
-    "cr_clicks": 26
+    "cr_clicks": 27
   },
   "trends": {
     "audience": 11,
-    "engagement": -5,
+    "engagement": -6,
     "email": 2,
-    "reach": 10160
+    "reach": 10213
   },
   "mafia": {
     "metrics": [
@@ -871,12 +871,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 26,
+        "value": 27,
         "grade": "C"
       },
       {
         "label": "Total Posts",
-        "value": 1154,
+        "value": 1165,
         "grade": "A"
       },
       {
@@ -891,11 +891,11 @@
       },
       {
         "label": "Engagement",
-        "value": 13,
+        "value": 12,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1154 posts, 30 audience, 26 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1165 posts, 30 audience, 27 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
