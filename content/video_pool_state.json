@@ -27,12 +27,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-07-13T14:45:33",
+    "last_iso": "2026-07-14T06:43:53",
     "day": {
-      "date": "2026-07-13",
-      "count": 2
+      "date": "2026-07-14",
+      "count": 1
     }
   },
   "tiktok": {
@@ -76,12 +77,13 @@
       "bj-rev-elec",
       "bj-rev-paint",
       "bj-cheapbid",
-      "bj-wordpress"
+      "bj-wordpress",
+      "bj-first10k"
     ],
-    "last_iso": "2026-07-13T18:08:04",
+    "last_iso": "2026-07-14T06:43:53",
     "day": {
-      "date": "2026-07-13",
-      "count": 6
+      "date": "2026-07-14",
+      "count": 1
     }
   },
   "linkedin": {
@@ -110,12 +112,13 @@
       "pod-ep01-shared",
       "bj-angi",
       "bj-reviews",
-      "bj-trade"
+      "bj-trade",
+      "bj-slow"
     ],
-    "last_iso": "2026-07-13T16:11:30",
+    "last_iso": "2026-07-14T06:43:53",
     "day": {
-      "date": "2026-07-13",
-      "count": 4
+      "date": "2026-07-14",
+      "count": 1
     }
   },
   "facebook": {
@@ -151,12 +154,13 @@
       "pod-ep01-starter",
       "pod-ep01-ftc",
       "pod-ep01-refunds",
-      "pod-ep01-cost"
+      "pod-ep01-cost",
+      "pod-ep01-wrongnum"
     ],
-    "last_iso": "2026-07-13T18:08:04",
+    "last_iso": "2026-07-14T06:43:53",
     "day": {
-      "date": "2026-07-13",
-      "count": 3
+      "date": "2026-07-14",
+      "count": 1
     }
   },
   "pinterest": {
@@ -221,12 +225,13 @@
       "bj-rev-elec",
       "bj-rev-paint",
       "bj-cheapbid",
-      "bj-wordpress"
+      "bj-wordpress",
+      "bj-first10k"
     ],
-    "last_iso": "2026-07-13T18:08:04",
+    "last_iso": "2026-07-14T06:43:53",
     "day": {
-      "date": "2026-07-13",
-      "count": 6
+      "date": "2026-07-14",
+      "count": 1
     }
   },
   "telegram": {
@@ -280,12 +285,13 @@
       "bj-ai",
       "bj-scam",
       "bj-rev-hvac",
-      "bj-rev-plumb"
+      "bj-rev-plumb",
+      "bj-rev-roof"
     ],
-    "last_iso": "2026-07-13T18:08:04",
+    "last_iso": "2026-07-14T06:43:53",
     "day": {
-      "date": "2026-07-13",
-      "count": 6
+      "date": "2026-07-14",
+      "count": 1
     }
   }
 }

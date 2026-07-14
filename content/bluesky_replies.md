@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
+  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -180,10 +183,3 @@ therealbuzzfeed.com/most-recomme.
 
 - **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
   → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
