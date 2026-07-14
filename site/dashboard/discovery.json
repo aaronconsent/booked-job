@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T06:22:07Z",
+  "updated": "2026-07-14T09:14:28Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,21 +107,6 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
-        "tag": "#hvacousticpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpartition"
-      },
-      {
-        "tag": "#hvacousticslidingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
-      },
-      {
-        "tag": "#hvacousticfoldingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
-      },
-      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -135,6 +120,21 @@
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#HandymanSolutions",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HandymanSolutions"
+      },
+      {
+        "tag": "#Hvacousticpetpanels",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
+      },
+      {
+        "tag": "#hvacousticpolypanels",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticpolypanels"
       }
     ],
     "accounts": [
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1775,
+      "followers": 1776,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
