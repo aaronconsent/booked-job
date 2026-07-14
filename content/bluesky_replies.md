@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
+  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
+- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
+
+Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
+  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
+
 - **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
 
 Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
@@ -170,20 +181,3 @@ Boston, North & South Shores,
 
 - **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
   → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
