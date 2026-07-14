@@ -72,9 +72,14 @@ def main():
         log(f"DRY would upload '{nxt['id']}' — {nxt['title'][:60]}"); return
 
     import cta
-    res = yt_upload.publish(src, nxt["title"], cta.append(nxt["description"], "youtube"), nxt.get("tags", []),
-                            privacy="public", category=CATEGORY)
-    vid = res.get("id")
+    try:
+        res = yt_upload.publish(src, nxt["title"], cta.append(nxt["description"], "youtube"), nxt.get("tags", []),
+                                privacy="public", category=CATEGORY)
+    except Exception as e:
+        log(f"upload FAILED for '{nxt['id']}': {str(e)[:220]}"); return
+    vid = (res or {}).get("id")
+    if not vid:   # don't mark done on a failed/empty upload (the old bug that hid the episodes)
+        log(f"upload returned NO video id for '{nxt['id']}': {str(res)[:200]}"); return
     if vid and nxt.get("thumbnail"):
         tp = os.path.join(ROOT, nxt["thumbnail"])
         if os.path.exists(tp):
