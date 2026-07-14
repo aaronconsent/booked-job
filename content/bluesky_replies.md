@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hammie777.bsky.social**: Follow the money. Everywhere you look it's one disaster after another. I wonder if it has anything to do with awarding overpriced no-bid contracts to his business associates that do not go through the
+  → https://bsky.app/profile/hammie777.bsky.social/post/3mqfn675bl22a
+
 - **@giffyloop.bsky.social**: I just found out that Trump is paying himself a 2.5% general contractor fee for the construction that's going on at the White House and now I'm just grumpy. Are conflicts of interest not a thing anymo
   → https://bsky.app/profile/giffyloop.bsky.social/post/3mqfg34g5kc2a
 
@@ -170,10 +173,3 @@ Why blend in when your business was made to stand out? Whether you're a small bu
 
 Um… where?
   → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
