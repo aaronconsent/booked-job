@@ -2876,5 +2876,65 @@
    "text": "The cheapest advantage in the trades costs $0: answer fast. Respond in 5 minutes vs 30 and you're up to 100x more likely to connect, and 78% of homeowners hire whoever responds first.\n\nhttps://booked-job.com/blog/speed-to-lead-why-5-minutes-matters/",
    "chain": []
   }
+ },
+ "plumber-marketing": {
+  "threads": {
+   "text": "How to market a plumbing business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/plumber-marketing/"
+   ]
+  },
+  "bluesky": {
+   "text": "How to market a plumbing business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/plumber-marketing/"
+   ]
+  },
+  "mastodon": {
+   "text": "How to market a plumbing business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/plumber-marketing/"
+   ]
+  },
+  "tumblr": {
+   "text": "How to market a plumbing business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/plumber-marketing/"
+   ]
+  },
+  "linkedin": {
+   "text": "The plumbing marketing playbook that actually books jobs, in order of return: own your Google Business Profile and reviews, answer leads in minutes, stop overpaying for shared leads, and make your website convert.\n\nhttps://booked-job.com/blog/plumber-marketing/",
+   "chain": []
+  }
+ },
+ "electrician-marketing": {
+  "threads": {
+   "text": "How to market a electrical business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/electrician-marketing/"
+   ]
+  },
+  "bluesky": {
+   "text": "How to market a electrical business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/electrician-marketing/"
+   ]
+  },
+  "mastodon": {
+   "text": "How to market a electrical business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/electrician-marketing/"
+   ]
+  },
+  "tumblr": {
+   "text": "How to market a electrical business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/electrician-marketing/"
+   ]
+  },
+  "linkedin": {
+   "text": "The electrical marketing playbook that actually books jobs, in order of return: own your Google Business Profile and reviews, answer leads in minutes, stop overpaying for shared leads, and make your website convert.\n\nhttps://booked-job.com/blog/electrician-marketing/",
+   "chain": []
+  }
  }
 }

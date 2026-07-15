@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-14T22:25",
+  "updated": "2026-07-15T01:24",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 16,
+    "days_left": 15,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
@@ -105,25 +105,18 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
       "sub": "trade humor"
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Five numbers, once a month, makes you impossible to fleece: ",
       "sub": "course promo"
-    },
-    {
-      "date": "2026-07-17",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Settle it in the comments. We're not picking sides. (Yes we ",
-      "sub": "tool wars"
     },
     {
       "date": "2026-07-17",
@@ -136,15 +129,15 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "You don't lose most jobs on price. You lose them on response",
-      "sub": "course promo"
+      "title": "Settle it in the comments. We're not picking sides. (Yes we ",
+      "sub": "tool wars"
     },
     {
       "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
-      "sub": "business"
+      "title": "You don't lose most jobs on price. You lose them on response",
+      "sub": "course promo"
     },
     {
       "date": "2026-07-21",
@@ -157,32 +150,39 @@
       "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
       "title": "Your cheapest leads aren't on Angi. They're the customers yo",
       "sub": "course promo"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Three ways shops bleed money they never see:",
       "sub": "business"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New episode of Get Booked, Not F***ed: why the guy with 140 ",
       "sub": "podcast promo"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Posted for a helper. Three no-shows and one guy who quit bec",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New episode: you don't lose jobs on price, you lose them on ",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 156
+    "media": 157
   },
   "email": {
     "subscribers": 7
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1227,
+      "views": 1248,
       "followers": 1
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 84,
+      "count": 85,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 61,
+      "count": 62,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -517,7 +517,7 @@
       "status": "live",
       "count": 113,
       "unit": "posts",
-      "followers": 18,
+      "followers": 19,
       "grade": "C",
       "group": "social",
       "likes": 2
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Long video",
@@ -804,7 +804,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 61
+        "count": 62
       },
       {
         "type": "Video",
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 38098,
+    "reach": 38134,
     "engagement": 10,
-    "audience": 32,
+    "audience": 33,
     "cr_clicks": 28
   },
   "trends": {
     "audience": 13,
-    "engagement": -8,
+    "engagement": -9,
     "email": 2,
-    "reach": 10311
+    "reach": 8255
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1189,
+        "value": 1191,
         "grade": "A"
       },
       {
@@ -886,7 +886,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 32,
+        "value": 33,
         "grade": "D"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1189 posts, 32 audience, 28 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1191 posts, 33 audience, 28 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

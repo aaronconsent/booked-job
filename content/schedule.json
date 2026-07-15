@@ -326,13 +326,15 @@
       "slug": "plumber-marketing",
       "series": "Lead Sources",
       "go_live": "2026-07-15",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-15"
     },
     {
       "slug": "electrician-marketing",
       "series": "Lead Sources",
       "go_live": "2026-07-15",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-15"
     },
     {
       "slug": "painter-marketing",
