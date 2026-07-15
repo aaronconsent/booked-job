@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
+
+Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
+  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
+
 - **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
 
@@ -176,10 +188,3 @@ therealbuzzfeed.com/most-recomme.
 
 - **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
   → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@mdrepros.bsky.social**: 🏡 What if your next property could be your home and your business?
-Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garage/workshop, and endless possibilities for farming, tr
-  → https://bsky.app/profile/mdrepros.bsky.social/post/3mqjsgusla32p
-
-- **@missouridemocrats.bsky.social**: Call us radical, but we think your tax dollars should stay in your community. Why have Missouri Republicans failed to fund proper wage compliance for decades, undermining prevailing wage and hurting o
-  → https://bsky.app/profile/missouridemocrats.bsky.social/post/3mqmqdtm6fv2v
