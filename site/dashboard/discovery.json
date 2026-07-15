@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:18:48Z",
+  "updated": "2026-07-15T11:45:07Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,21 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvacousticpartition",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvacousticpartition"
+      },
+      {
+        "tag": "#hvacousticslidingpartition",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
+      },
+      {
+        "tag": "#hvacousticfoldingpartition",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
+      },
+      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -120,21 +135,6 @@
         "tag": "#HandymanSolutions",
         "uses": 1,
         "link": "https://mastodon.social/tags/HandymanSolutions"
-      },
-      {
-        "tag": "#Hvacousticpetpanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
-      },
-      {
-        "tag": "#hvacousticpolypanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticpolypanels"
-      },
-      {
-        "tag": "#hvacousticpolyboards",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticpolyboards"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 22997,
+        "followers": 23000,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2228,
+      "followers": 2229,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
