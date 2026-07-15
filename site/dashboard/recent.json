@@ -1,64 +1,46 @@
 {
-  "updated": "2026-07-14T17:13",
+  "updated": "2026-07-14T19:06",
   "posts": [
     {
-      "ts": "2026-07-14T17:12:45",
-      "channel": "facebook",
+      "ts": "2026-07-14T19:05:30",
+      "channel": "mastodon",
       "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-07-14T17:12:04",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T17:11:27",
-      "channel": "threads",
-      "item": "pod-podcast-ep01",
-      "url": null
-    },
-    {
-      "ts": "2026-07-14T17:11:14",
-      "channel": "mastodon",
-      "item": "pod-podcast-ep01",
-      "url": "https://mastodon.social/@bookedjob/116920619785699433"
-    },
-    {
-      "ts": "2026-07-14T17:11:12",
-      "channel": "bluesky",
-      "item": "pod-podcast-ep01",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqn7y3xd2i2z"
-    },
-    {
-      "ts": "2026-07-14T17:11:11",
+      "ts": "2026-07-14T19:04:44",
       "channel": "tumblr",
-      "item": "gc-general-contractor-marketing-numbers",
+      "item": "painting-contractor-marketing-numbers",
       "url": null
     },
     {
-      "ts": "2026-07-14T17:11:11",
-      "channel": "telegraph",
-      "item": "pod-podcast-ep01",
-      "url": "https://telegra.ph/Is-Angi-Worth-It-for-Contractors-The-REAL-Math-07-14"
-    },
-    {
-      "ts": "2026-07-14T17:11:08",
+      "ts": "2026-07-14T19:04:42",
       "channel": "tumblr",
-      "item": "bj-first10k",
+      "item": "bj-yelp",
       "url": null
     },
     {
-      "ts": "2026-07-14T17:11:02",
+      "ts": "2026-07-14T19:04:37",
       "channel": "bluesky",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     },
     {
-      "ts": "2026-07-14T17:10:58",
+      "ts": "2026-07-14T19:04:32",
       "channel": "tiktok",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T19:04:32",
+      "channel": "linkedin",
+      "item": "bj-cpl",
+      "url": null
+    },
+    {
+      "ts": "2026-07-14T19:04:30",
+      "channel": "facebook",
+      "item": "bj-angi",
       "url": null
     }
   ]
