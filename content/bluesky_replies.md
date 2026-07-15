@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
+
+ https://stylelib.org/?p=117085 
+
+#cleaning #electrician #handyman #sitetemplates #themeforest #business #plumber #corporate #maintenance
+  → https://bsky.app/profile/stylelib.org/post/3molg43oin52n
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@stylelib.org**: Kothu – Building  Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=825138 
+
+#architect #builder #business #contractor #corporate #handyman #industry #interior #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mqitwsupfn2l
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -163,19 +191,3 @@ https://www.byteseu.com/2187905/
 
 Make better investment decisions with Simply Wall St’s easy, visual tools that giv
   → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
-
-- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
-  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@localgrowth.bsky.social**: 1/3
-Keyword-stuffing your business name? Cute idea. Bad clicks.
-
-1) If your Google name reads like an ad (e.g., “Chicago Plumber — 24/7”), put the real name back. Names build trust; slogans belong in 
-  → https://bsky.app/profile/localgrowth.bsky.social/post/3mpll6pmzog26
