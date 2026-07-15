@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T15:45:40Z",
+  "updated": "2026-07-15T17:34:32Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,21 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvacousticpartition",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvacousticpartition"
+      },
+      {
+        "tag": "#hvacousticslidingpartition",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvacousticslidingpartition"
+      },
+      {
+        "tag": "#hvacousticfoldingpartition",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
+      },
+      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -120,27 +135,12 @@
         "tag": "#HandymanSolutions",
         "uses": 1,
         "link": "https://mastodon.social/tags/HandymanSolutions"
-      },
-      {
-        "tag": "#Hvacousticpetpanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/Hvacousticpetpanels"
-      },
-      {
-        "tag": "#hvacousticpolypanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticpolypanels"
-      },
-      {
-        "tag": "#hvacousticpolyboards",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticpolyboards"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465158,
+        "followers": 465159,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2229,
+      "followers": 2230,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1411,
+      "followers": 1415,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
