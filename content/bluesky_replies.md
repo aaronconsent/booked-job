@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@robertkilroy.bsky.social**: #Trump has always been desperate to belong. The luxury real estate crowd ignored him, after Atlantic City, no general contractor would work for him because they were worried about being paid. All he h
+  → https://bsky.app/profile/robertkilroy.bsky.social/post/3mqosyppav22j
+
+- **@stylelib.org**: Constructo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=6194 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
+  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
+
+- **@riversdaughter.bsky.social**: *ahem*
+
+Your attention, please!
+
+Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
+
+Boston, North & South Shores, 
+  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
+
 - **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
   → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m
 
@@ -164,18 +183,3 @@ Keyword-stuffing your business name? Cute idea. Bad clicks.
 
 - **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
   → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
-
-- **@tyk314.net**: Vocational school or trade school is higher education. A "brainiac" can thrive in a different area of expertise, and the bottom line is trades require business acumen. "What will my girlfriend think?"
-  → https://bsky.app/profile/tyk314.net/post/3mqktooovp22h
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
-  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s

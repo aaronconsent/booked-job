@@ -1,76 +1,52 @@
 {
-  "updated": "2026-07-15T06:51",
+  "updated": "2026-07-15T09:09",
   "posts": [
     {
-      "ts": "2026-07-15T06:48:47",
-      "channel": "threads",
-      "item": "electrician-marketing",
-      "url": null
+      "ts": "2026-07-15T09:07:37",
+      "channel": "youtube",
+      "item": "pod-ep03-channels",
+      "url": "https://youtu.be/-cp8hLIHaxY"
     },
     {
-      "ts": "2026-07-15T06:48:27",
-      "channel": "mastodon",
-      "item": "electrician-marketing",
-      "url": "https://mastodon.social/@bookedjob/116923833216187567"
-    },
-    {
-      "ts": "2026-07-15T06:48:22",
-      "channel": "bluesky",
-      "item": "electrician-marketing",
-      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqonnbuxib2w"
-    },
-    {
-      "ts": "2026-07-15T06:48:20",
-      "channel": "telegraph",
-      "item": "electrician-marketing",
-      "url": "https://telegra.ph/Electrician-Marketing-The-Honest-Playbook-for-More-Jobs-07-15"
-    },
-    {
-      "ts": "2026-07-15T06:48:20",
-      "channel": "tumblr",
-      "item": "roofing-storm-chaser-free-inspection-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-07-15T06:48:18",
-      "channel": "tumblr",
-      "item": "bj-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-07-15T06:48:12",
-      "channel": "bluesky",
-      "item": "bj-agency12k",
-      "url": null
-    },
-    {
-      "ts": "2026-07-15T06:48:08",
-      "channel": "linkedin",
-      "item": "bj-favor",
-      "url": null
-    },
-    {
-      "ts": "2026-07-15T06:48:07",
-      "channel": "tiktok",
-      "item": "bj-agency12k",
-      "url": null
-    },
-    {
-      "ts": "2026-07-15T06:48:06",
-      "channel": "ig",
-      "item": "pod-ep01-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-07-15T06:47:33",
+      "ts": "2026-07-15T09:07:29",
       "channel": "facebook",
-      "item": "bj-reviews",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-07-15T06:45:56",
-      "channel": "fb",
-      "item": "rip-reviews-rip",
+      "ts": "2026-07-15T09:06:44",
+      "channel": "mastodon",
+      "item": "card-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-07-15T09:06:03",
+      "channel": "tumblr",
+      "item": "hvac-free-system-check-upsell-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-07-15T09:06:01",
+      "channel": "tumblr",
+      "item": "bj-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-07-15T09:05:55",
+      "channel": "bluesky",
+      "item": "bj-reviews50",
+      "url": null
+    },
+    {
+      "ts": "2026-07-15T09:05:52",
+      "channel": "linkedin",
+      "item": "bj-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-07-15T09:05:51",
+      "channel": "tiktok",
+      "item": "bj-reviews50",
       "url": null
     }
   ]
