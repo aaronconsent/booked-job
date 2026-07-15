@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
+  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
+
 - **@stylelib.org**: Fouens – Carpet Cleaning Company HTML Template
 
  https://stylelib.org/?p=117085 
@@ -170,24 +183,3 @@ Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garag
 
 - **@missouridemocrats.bsky.social**: Call us radical, but we think your tax dollars should stay in your community. Why have Missouri Republicans failed to fund proper wage compliance for decades, undermining prevailing wage and hurting o
   → https://bsky.app/profile/missouridemocrats.bsky.social/post/3mqmqdtm6fv2v
-
-- **@rubizza.bsky.social**: “Meta said that it's supporting its general contractor, Fortis, which stopped discharging and began hauling wastewater offsite…”
-
-Um… where?
-  → https://bsky.app/profile/rubizza.bsky.social/post/3mqdnj7kx2k2q
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mqm2eecgfb2g
-
-- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
-
-Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
-  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
