@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-16T01:34",
+  "updated": "2026-07-16T04:28",
   "posts": [
     {
-      "ts": "2026-07-16T01:30:22",
-      "channel": "tumblr",
-      "item": "directory-listing-shakedown-scam",
+      "ts": "2026-07-16T04:24:51",
+      "channel": "threads",
+      "item": "painter-marketing",
       "url": null
+    },
+    {
+      "ts": "2026-07-16T04:24:32",
+      "channel": "mastodon",
+      "item": "painter-marketing",
+      "url": "https://mastodon.social/@bookedjob/116928929602598796"
+    },
+    {
+      "ts": "2026-07-16T04:24:30",
+      "channel": "bluesky",
+      "item": "painter-marketing",
+      "url": "at://did:plc:3ssakol7dqe4nnlgqwnrduxo/app.bsky.feed.post/3mqqw2xnycj2d"
+    },
+    {
+      "ts": "2026-07-16T04:24:29",
+      "channel": "tumblr",
+      "item": "best-leads-for-hvac-contractors",
+      "url": null
+    },
+    {
+      "ts": "2026-07-16T04:24:29",
+      "channel": "telegraph",
+      "item": "painter-marketing",
+      "url": "https://telegra.ph/Painting-Business-Marketing-How-to-Book-More-Jobs-in-2"
     }
   ]
 }
