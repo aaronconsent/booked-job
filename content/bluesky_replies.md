@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@spooknine.bsky.social**: Construction manager: anybody got anything?
+
+Architect: nope
+
+Engineers: nope 
+
+General contractor: nope 
+
+Owner's rep: nope
+
+Intensive Care nurse with an armload of printouts who put in 40 hours on t
+  → https://bsky.app/profile/spooknine.bsky.social/post/3mqq52zvdxs2b
+
+- **@mdrepros.bsky.social**: 🏡 What if your next property could be your home and your business?
+Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garage/workshop, and endless possibilities for farming, tr
+  → https://bsky.app/profile/mdrepros.bsky.social/post/3mqjsgusla32p
+
+- **@xavierdleau.com**: being into sports is worse than being into a pop diva. 
+
+at least they dont be on tv much. 
+
+sports? tv. all the time. and then interviews. commentary. history. radio. 
+
+and then business. trades. mon
+  → https://bsky.app/profile/xavierdleau.com/post/3mqq7yu7qtc2j
+
 - **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
 
 https://www.byteseu.com/2187905/
@@ -173,18 +199,3 @@ Boston, North & South Shores,
 
 - **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
   → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
-
-Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
-  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
-
-- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
-
-Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
-
-therealbuzzfeed.com/most-recomme.
-  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
