@@ -340,13 +340,15 @@
       "slug": "painter-marketing",
       "series": "Lead Sources",
       "go_live": "2026-07-16",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-16"
     },
     {
       "slug": "landscaping-marketing-guide",
       "series": "Lead Sources",
       "go_live": "2026-07-16",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-16"
     },
     {
       "slug": "contractor-marketing-budget",
