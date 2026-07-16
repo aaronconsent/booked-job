@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T09:23:05Z",
+  "updated": "2026-07-16T11:49:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 20,
+        "uses": 21,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -102,6 +102,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#HVACsystem",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVACsystem"
+      },
+      {
         "tag": "#hvacousticpartition",
         "uses": 1,
         "link": "https://mastodon.social/tags/hvacousticpartition"
@@ -110,11 +115,6 @@
         "tag": "#hvacousticslidingpartition",
         "uses": 1,
         "link": "https://mastodon.social/tags/hvacousticslidingpartition"
-      },
-      {
-        "tag": "#hvacousticfoldingpartition",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
       },
       {
         "tag": "#roofing",
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2230,
+      "followers": 2229,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
