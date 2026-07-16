@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T09:16",
+  "updated": "2026-07-16T11:37",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 179
+    "media": 181
   },
   "email": {
     "subscribers": 7
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 98,
+      "count": 99,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 75,
+      "count": 76,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -535,9 +535,9 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 116,
+      "count": 117,
       "unit": "posts",
-      "followers": 1,
+      "followers": 2,
       "grade": "D",
       "group": "social"
     },
@@ -592,7 +592,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 116,
+      "count": 117,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 35
+        "count": 36
       },
       {
         "type": "Articles",
@@ -733,7 +733,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 116
+        "count": 117
       },
       {
         "type": "Video pins",
@@ -750,7 +750,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 1
+        "count": 2
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 116
+        "count": 117
       },
       {
         "type": "Video",
@@ -804,12 +804,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 75
+        "count": 76
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 50
+        "count": 51
       }
     ]
   },
@@ -853,11 +853,11 @@
   "funnel": {
     "reach": 38716,
     "engagement": 6,
-    "audience": 38,
+    "audience": 39,
     "cr_clicks": 28
   },
   "trends": {
-    "audience": 18,
+    "audience": 19,
     "engagement": -13,
     "email": 2,
     "reach": 6916
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1248,
+        "value": 1252,
         "grade": "A"
       },
       {
@@ -886,7 +886,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 38,
+        "value": 39,
         "grade": "D"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1248 posts, 38 audience, 28 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1252 posts, 39 audience, 28 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

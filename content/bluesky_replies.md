@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
+  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
+  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
+
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
 - **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
 
  https://stylelib.org/?p=106268 
@@ -182,22 +206,3 @@ Boston, North & South Shores,
 
 - **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
   → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m
-
-- **@lglly.bsky.social**: Becoming 100% DAV tho isn't an easy threshold to meet & gives the vet & family life changing economic & Ed funding sm business & home loans benefits so maybe part of why he wasn't actively employable 
-  → https://bsky.app/profile/lglly.bsky.social/post/3mq72gb47nc24
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mq7vn3gd5z2j
-
-- **@dannygroner.bsky.social**: "In interviews, a dozen young people in the skilled trades said they had grown accustomed to the advice of guidance counselors and well-meaning aunts that they should go to college instead. But that m
-  → https://bsky.app/profile/dannygroner.bsky.social/post/3mqnh3xolqk26
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
