@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Reneva –  Small Business HTML Template
+
+ https://themes.stylelib.org/?p=19089 
+
+#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
+  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
+
+- **@dannygroner.bsky.social**: "In interviews, a dozen young people in the skilled trades said they had grown accustomed to the advice of guidance counselors and well-meaning aunts that they should go to college instead. But that m
+  → https://bsky.app/profile/dannygroner.bsky.social/post/3mqnh3xolqk26
+
+- **@chriscardsfan.bsky.social**: People who say things like that would never seriously consider a job in the manufacturing sector. Moreover, it’s a moot point. We do need more young people in skilled trades, but ask anyone recruiting
+  → https://bsky.app/profile/chriscardsfan.bsky.social/post/3mqrtu2lml222
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@theferalhermit.bsky.social**: "We" is too general of a term. Do you mean militarily, technologically, intelligence, AI, economical funding, etc? By the government directly or via a contractor? I might be able to point you in the r
+  → https://bsky.app/profile/theferalhermit.bsky.social/post/3mqrr2e5ofk2k
+
+- **@lesjfrie.bsky.social**: It is not misleading.  Why does the Globe say "US defence contractor"?  Because General Dynamics is a US company based in Virginia, and its London, Ontario plant is a subsidiary. 
+www.gdlscanada.com/a
+  → https://bsky.app/profile/lesjfrie.bsky.social/post/3mqrrqdj2q22p
+
+- **@theswolenerd.bsky.social**: The “white working class” right, so do you mean people who work (along with their colleagues from a multitude of backgrounds) in offices for wages just above the legally mandated minimum or do you mea
+  → https://bsky.app/profile/theswolenerd.bsky.social/post/3mqrtsncz422t
+
 - **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
   → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
 
@@ -163,46 +189,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
   → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
-
-- **@bollymama.bsky.social**: #DrClaudAnderson
-
-This educator’s story is INCREDIBLE.
-
-“Racism was never really about hate. Hate is the customer service window. The actual business is competition.”
-
-The strident attacks on DEI driv
-  → https://bsky.app/profile/bollymama.bsky.social/post/3mqowx2as7s2c
-
-- **@thewebmavericks.bsky.social**: AI search is real and it's local. "Find me a plumber near me" is being asked to ChatGPT, not just Google. Is your business in the answer?
-  → https://bsky.app/profile/thewebmavericks.bsky.social/post/3mpmq53srmk2s
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@robertkilroy.bsky.social**: #Trump has always been desperate to belong. The luxury real estate crowd ignored him, after Atlantic City, no general contractor would work for him because they were worried about being paid. All he h
-  → https://bsky.app/profile/robertkilroy.bsky.social/post/3mqosyppav22j
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@schlumbrechtselec.bsky.social**: Need CAT 5 installation for your home or business? Schlumbrecht's Electric delivers professional network cabling solutions that support fast, stable internet and communication systems. Our experienced
-  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mq6zrtk6mk2m

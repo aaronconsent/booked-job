@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T16:37:47Z",
+  "updated": "2026-07-16T18:15:27Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -102,6 +102,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#contractors",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#HVACsystem",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACsystem"
@@ -120,11 +125,6 @@
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#HandymanSolutions",
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2229,
+      "followers": 2230,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
