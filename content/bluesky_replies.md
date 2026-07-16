@@ -2,6 +2,40 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Constructo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=6194 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
+  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
+
+- **@riversdaughter.bsky.social**: *ahem*
+
+Your attention, please!
+
+Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
+
+Boston, North & South Shores, 
+  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
+
+- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
+
+AI can help your home service business save time, capture more leads, and improve customer service.
+
+Explore the best AI tools here 👇
+
+🔗 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
+
+- **@bollymama.bsky.social**: #DrClaudAnderson
+
+This educator’s story is INCREDIBLE.
+
+“Racism was never really about hate. Hate is the customer service window. The actual business is competition.”
+
+The strident attacks on DEI driv
+  → https://bsky.app/profile/bollymama.bsky.social/post/3mqowx2as7s2c
+
 - **@stylelib.org**: Reneva –  Small Business HTML Template
 
  https://themes.stylelib.org/?p=19089 
@@ -177,15 +211,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
   → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
-
-- **@parraseaux.bsky.social**: Ooof I hate this stuff. I get a few of these requests once in a while too and it’s just so frustrating. I have never seen anyone so lackadaisical about any other profession. Nobody would ask a plumber
-  → https://bsky.app/profile/parraseaux.bsky.social/post/3mqandpvjg22j
-
-- **@tyk314.net**: Vocational school or trade school is higher education. A "brainiac" can thrive in a different area of expertise, and the bottom line is trades require business acumen. "What will my girlfriend think?"
-  → https://bsky.app/profile/tyk314.net/post/3mqktooovp22h
-
-- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
-  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
-
-- **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
-  → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
