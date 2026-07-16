@@ -23,7 +23,7 @@ IDX = os.path.join(ROOT, "site", "blog", "index.html")
 QUEUE = os.path.join(ROOT, "content", "queue.json")
 STAGED = os.path.join(ROOT, "content", "staged")
 SCHEDULE = os.path.join(ROOT, "content", "schedule.json")
-TODAY = "2026-06-30"
+TODAY = datetime.date.today().isoformat()   # real publish date for sitemap lastmod (was hardcoded stale)
 B = "https://booked-job.com"
 
 
