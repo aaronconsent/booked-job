@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@parraseaux.bsky.social**: Ooof I hate this stuff. I get a few of these requests once in a while too and it’s just so frustrating. I have never seen anyone so lackadaisical about any other profession. Nobody would ask a plumber
+  → https://bsky.app/profile/parraseaux.bsky.social/post/3mqandpvjg22j
+
+- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
+  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
+
+- **@nonrevtraindisco.bsky.social**: It's generally well proven that skilled trades are good money and it makes a lot of the lower middle class who went to college and basically wasted that time and money very, very mad. "I gotta pay a p
+  → https://bsky.app/profile/nonrevtraindisco.bsky.social/post/3mqs7jfjqk22j
+
+- **@jenonymous.bsky.social**: How can you NOT be cynical when the president is publicly announcing advance access to his social media posts so you can place your insider trades (for a massive fee to his private business!) ahead of
+  → https://bsky.app/profile/jenonymous.bsky.social/post/3mqsa6xwlak2j
+
+- **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
+  → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
+
 - **@stylelib.org**: Constructo – Construction WordPress Theme
 
  https://themes.stylelib.org/?p=6194 
@@ -192,22 +207,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 #architect #builder #business #contractor #corporate #handyman #industry #interior #plumber #themeforest #wordp
   → https://bsky.app/profile/stylelib.org/post/3mqitwsupfn2l
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
-  → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
-
-- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
-
- https://themes.stylelib.org/?p=640 
-
-#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
-
-- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
-  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
-
-- **@rmappleby.uk**: But does that not just mean that they’ve not been keeping their books properly? Surely it can’t be that hard, in a small business like a plumber, builder or small shop, to have a pretty accurate idea 
-  → https://bsky.app/profile/rmappleby.uk/post/3mpnkzga34kyz
