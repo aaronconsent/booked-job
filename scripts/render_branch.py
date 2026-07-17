@@ -117,7 +117,6 @@ def wire_articles(picks):
     """Render each article live + wire into syndication, variants, sitemap, blog index, FB/IG queue."""
     synd = json.load(open(SYND)); sids = {i["id"] for i in synd["items"]}
     cv = json.load(open(VAR))
-    q = json.load(open(QUEUE)); qids = {p["id"] for p in q["posts"]}
     sm = open(SITEMAP).read(); idx = open(IDX).read()
     new_cards = ""; new_sm = ""; built = []
     for a in picks:
@@ -132,13 +131,12 @@ def wire_articles(picks):
             new_sm += f'  <url><loc>{url}</loc><lastmod>{TODAY}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>\n'
         new_cards += (f'\n    <a class="post" href="/blog/{slug}/">\n      <span class="tag">{a["_series"]}</span>'
                       f'\n      <h2>{html.unescape(a["title"])}</h2>\n      <p>{a["short"][:160]}</p>\n    </a>')
-        pid = f"art2-{slug[:24]}"
-        if pid not in qids and a.get("fbPosts"):
-            q["posts"].append({"id": pid, "archetype": "branch-series", "caption": a["fbPosts"][0],
-                               "image": None, "link": url, "comment": "Full breakdown 👇"})
+        # NOTE (pure-engagement pivot 2026-07-17): we intentionally NO LONGER push
+        # branch-series link posts into the FB engagement queue (content/queue.json).
+        # The FB feed is 100% native engagement (seed_content.py); blog articles are
+        # syndicated for SEO/backlinks via syndication_queue.json (added above) only.
     json.dump(synd, open(SYND, "w"), indent=2)
     json.dump(cv, open(VAR, "w"), indent=1, ensure_ascii=False)
-    json.dump(q, open(QUEUE, "w"), indent=2)
     open(SITEMAP, "w").write(sm.replace("</urlset>", new_sm + "</urlset>"))
     open(IDX, "w").write(idx.replace('<div class="grid">', '<div class="grid">' + new_cards, 1))
     import xml.dom.minidom; xml.dom.minidom.parse(SITEMAP)

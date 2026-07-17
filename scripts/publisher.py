@@ -85,12 +85,10 @@ def publish(item, env):
     else:
         res = fb_post._post(f"{page_id}/feed", {"message": item["caption"], "access_token": token})
         post_id = res.get("id")
-    # link / first comment (warm-up: queue keeps these null for ~2 weeks)
-    if item.get("link") or item.get("comment"):
-        ctext = item.get("comment") or "Link in comments 👇"
-        if item.get("link"):
-            ctext = f"{ctext}\n{item['link']}"
-        fb_post._post(f"{post_id}/comments", {"message": ctext, "access_token": token})
+    # PURE ENGAGEMENT (Aaron, 2026-07-17): no in-feed links, ever. The link lives
+    # in the Page bio / pinned post only, so every post stays native and the
+    # algorithm doesn't suppress it for pushing traffic off-platform. We deliberately
+    # do NOT drop item["link"] as a first comment anymore.
     return post_id
 
 

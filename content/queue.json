@@ -1,84 +1,20 @@
 {
   "posts": [
     {
-      "id": "course-angi",
-      "archetype": "course-promo",
-      "caption": "Angi sells the same \"lead\" to a dozen guys, then you race each other to the bottom on price. We did the math on what a booked job actually costs you. It's worse than you think. \ud83d\udd27",
-      "image": "site/img/is-angi-worth-it-story.png",
-      "link": "https://booked-job.com/blog/is-angi-worth-it/",
-      "comment": "Full breakdown + free calculator \ud83d\udc47"
-    },
-    {
-      "id": "course-pricing",
-      "archetype": "course-promo",
-      "caption": "Pricing a job isn't a number you pull out of the air. It's a number you can defend when the homeowner flinches. Here's how to build one that holds.",
-      "image": "site/img/how-to-price-a-job-story.png",
-      "link": "https://booked-job.com/blog/how-to-price-a-job/",
-      "comment": "How to price a job \ud83d\udc47"
-    },
-    {
-      "id": "course-reviews",
-      "archetype": "course-promo",
-      "caption": "Two shops, same town, same price. One's got 12 reviews, the other's got 140. You already know who gets the call. Here's how to close that gap \u2014 free.",
-      "image": "site/img/get-more-google-reviews-story.png",
-      "link": "https://booked-job.com/blog/get-more-google-reviews/",
-      "comment": "Get more reviews \ud83d\udc47"
-    },
-    {
-      "id": "course-slowseason",
-      "archetype": "course-promo",
-      "caption": "The slow season isn't bad luck. It's a marketing problem you can see coming a mile away. Here's how to flatten it out before it hits.",
-      "image": "site/img/surviving-the-slow-season-story.png",
-      "link": "https://booked-job.com/blog/surviving-the-slow-season/",
-      "comment": "Surviving the slow season \ud83d\udc47"
-    },
-    {
-      "id": "podcast-launch",
-      "archetype": "podcast-promo",
-      "caption": "We made a podcast. It's called Get Booked, Not F***ed \u2014 two old tradesmen and an idiot apprentice talking real shop marketing. No fluff, all bite, occasionally educational. Listen free. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic",
-      "image": "site/podcast/cover.jpg",
-      "link": "https://booked-job.com/podcast/",
-      "comment": "Listen free \ud83d\udc47"
-    },
-    {
-      "id": "art-what-marketing",
-      "archetype": "course-promo",
-      "caption": "Most contractors think 'marketing' is a logo and a boosted post. It's not. It's a machine: get found, get picked, get booked. Everything else is decoration. \ud83d\udd27",
-      "image": "content/course/thumbs/lesson-01.png",
-      "link": "https://booked-job.com/blog/what-marketing-actually-is/",
-      "comment": "What marketing actually is \ud83d\udc47"
-    },
-    {
       "id": "pricing-pick-two",
       "archetype": "pricing-drama",
-      "caption": "Quoting, in one sentence. What would you add to the list? \ud83d\udc47",
+      "caption": "Quoting, in one sentence. What would you add to the list? 👇",
       "image": "content/assets/pricing-pick-two.png",
       "link": null,
       "comment": null
     },
     {
-      "id": "art-cpl",
-      "archetype": "course-promo",
-      "caption": "Your $35 lead isn't $35. Once you count the ones that never book, the real cost of a booked job is closer to $700. Here's the math nobody shows you.",
-      "image": "content/course/thumbs/lesson-02.png",
-      "link": "https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/",
-      "comment": "The 2 numbers \ud83d\udc47"
-    },
-    {
       "id": "pricing-insurance",
       "archetype": "pricing-drama",
-      "caption": "Every shop has had this exact conversation. \ud83e\udd1d",
+      "caption": "Every shop has had this exact conversation. 🤝",
       "image": "content/assets/pricing-insurance.png",
       "link": null,
       "comment": null
-    },
-    {
-      "id": "art-5doors",
-      "archetype": "course-promo",
-      "caption": "Customers find you through 5 doors. If one lead app is most of your work, you don't own a business \u2014 you rent one. Spread out before they shut you off.",
-      "image": "content/course/thumbs/lesson-03.png",
-      "link": "https://booked-job.com/blog/where-customers-find-contractors/",
-      "comment": "The 5 doors \ud83d\udc47"
     },
     {
       "id": "pricing-low-bid",
@@ -89,76 +25,140 @@
       "comment": null
     },
     {
-      "id": "art-gbp",
-      "archetype": "course-promo",
-      "caption": "There are 3 free spots at the top of every local search. Your Google Business Profile is the ticket in \u2014 and most contractors leave it half-empty.",
-      "image": "content/course/thumbs/lesson-04.png",
-      "link": "https://booked-job.com/blog/google-business-profile-for-contractors/",
-      "comment": "Win the map pack \ud83d\udc47"
+      "id": "pricing-once-not-twice",
+      "archetype": "pricing-drama",
+      "caption": "The part is cheap. Knowing which part isn't. Where do you land on this? 👇",
+      "image": "content/assets/pricing-once-not-twice.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "pricing-diagnostic-fee",
+      "archetype": "pricing-drama",
+      "caption": "Customer wants the diagnostic fee waived “since you're already here.” The knowledge IS the product. Do you hold the line or eat it? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "pricing-callback",
+      "archetype": "pricing-drama",
+      "caption": "The other guy's quote and yours aren't the same job. Homeowners find that out on visit #2. 🔧",
+      "image": "content/assets/pricing-callback.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "pricing-friend-price",
+      "archetype": "pricing-drama",
+      "caption": "The “friend price” is full price plus the headache. Every shop learns this once. What finally made you stop giving it? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
     },
     {
       "id": "lastguy-worst",
       "archetype": "hack-job",
-      "caption": "What's the worst \u201cthe last guy did it\u201d job you've walked into? Photos absolutely encouraged. We'll feature the best (worst) ones. \ud83d\udc47",
+      "caption": "What's the worst “the last guy did it” job you've walked into? Photos absolutely encouraged. We'll feature the best (worst) ones. 👇",
       "image": null,
       "link": null,
       "comment": null
-    },
-    {
-      "id": "art-website",
-      "archetype": "course-promo",
-      "caption": "98% of people leave a contractor website without calling. It's not the colors \u2014 it's that the phone number isn't a giant tap-to-call button. Fix that.",
-      "image": "content/course/thumbs/lesson-05.png",
-      "link": "https://booked-job.com/blog/contractor-website-one-job/",
-      "comment": "The fix \ud83d\udc47"
     },
     {
       "id": "lastguy-rate",
       "archetype": "hack-job",
-      "caption": "Found behind the drywall this week: a garden hose doing a P-trap's job. Rate the previous install 1\u201310. I'll start \u2014 it's on fire. \ud83d\udd25",
+      "caption": "Found behind the drywall this week: a garden hose doing a P-trap's job. Rate the previous install 1–10. I'll start — it's on fire. 🔥",
       "image": null,
       "link": null,
       "comment": null
     },
     {
-      "id": "art-reviews-win",
-      "archetype": "course-promo",
-      "caption": "Before a customer ever hears your voice, they've judged you on your reviews. 140 recent reviews beats 12 \u2014 even at a higher price.",
-      "image": "content/course/thumbs/lesson-06.png",
-      "link": "https://booked-job.com/blog/why-reviews-win-the-call/",
-      "comment": "Why reviews win \ud83d\udc47"
+      "id": "lastguy-panel",
+      "archetype": "hack-job",
+      "caption": "Opened a panel today and found wire nuts holding things together like a craft project. What's the scariest thing you've found behind a wall? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "lastguy-flextape",
+      "archetype": "hack-job",
+      "caption": "Flex tape on a supply line isn't a repair — it's a countdown. Post the worst “temporary fix” you've inherited. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "lastguy-diy",
+      "archetype": "hack-job",
+      "caption": "Homeowner “saved money” doing it himself. Now I'm charging double to undo it. What's the most expensive DIY you've had to rip back out? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "ugc-before-after",
+      "archetype": "before-after",
+      "caption": "Drop your best before/after. Any trade — roof, panel, re-pipe, install, cleanout. Let's see the work that doesn't get enough credit. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "ba-credit",
+      "archetype": "before-after",
+      "caption": "Nobody claps when it's done right — the light just turns on, the water just drains. Post the job you were proudest of that no one noticed. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
     },
     {
       "id": "homeowner-lie",
       "archetype": "homeowner-says",
-      "caption": "Drop the runner-up below. \ud83d\udc47",
+      "caption": "Drop the runner-up below. 👇",
       "image": "content/assets/homeowner-lie.png",
       "link": null,
       "comment": null
     },
     {
-      "id": "art-pay-leads",
-      "archetype": "course-promo",
-      "caption": "Should you pay for leads? Sometimes gold (LSA), sometimes a footrace (Angi). The test is the same: cost per BOOKED job, never the sticker price.",
-      "image": "content/course/thumbs/lesson-07.png",
-      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
-      "comment": "The honest math \ud83d\udc47"
-    },
-    {
       "id": "homeowner-drain",
       "archetype": "homeowner-says",
-      "caption": "Plumbers, you're up first. The rest of us are not ready. \ud83d\udc47",
+      "caption": "Plumbers, you're up first. The rest of us are not ready. 👇",
       "image": "content/assets/homeowner-drain.png",
       "link": null,
       "comment": null
     },
     {
-      "id": "art-google-ads",
-      "archetype": "course-promo",
-      "caption": "Most contractors who 'tried Google Ads' just never answered the phone. Answer every call, start tiny, kill the losers. Here's how to not get burned.",
-      "image": "content/course/thumbs/lesson-08.png",
-      "link": "https://booked-job.com/blog/google-ads-without-burning-cash/",
-      "comment": "Spend your first ad dollar \ud83d\udc47"
+      "id": "homeowner-quick",
+      "archetype": "homeowner-says",
+      "caption": "There is no “just quickly.” Every trade knows it. What's the line that makes you brace? 👇",
+      "image": "content/assets/homeowner-quick.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "homeowner-youtube",
+      "archetype": "homeowner-says",
+      "caption": "It looked easy in the video. That's the whole business model. 😅",
+      "image": "content/assets/homeowner-youtube.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "homeowner-neighbor",
+      "archetype": "homeowner-says",
+      "caption": "The magic words: “my neighbor's guy.” Cool. Go call him. 👇",
+      "image": "content/assets/homeowner-neighbor.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "homeowner-cash",
+      "archetype": "homeowner-says",
+      "caption": "“Can we do cash and skip the paperwork?” The paperwork is what protects THEM. How do you explain that without losing the job? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
     },
     {
       "id": "humor-10mm",
@@ -169,980 +169,156 @@
       "comment": null
     },
     {
-      "id": "art-google-ai",
-      "archetype": "course-promo",
-      "caption": "A third of your future customers won't Google you \u2014 they'll ask ChatGPT who to hire. Good news: the same foundation wins both.",
-      "image": "content/course/thumbs/lesson-09.png",
-      "link": "https://booked-job.com/blog/get-found-by-google-and-ai/",
-      "comment": "SEO + AI \ud83d\udc47"
-    },
-    {
       "id": "humor-that-guy",
       "archetype": "trade-humor",
-      "caption": "Every jobsite has \u201cthat guy.\u201d What's his signature move? \ud83d\udc47",
+      "caption": "Every jobsite has “that guy.” What's his signature move? 👇",
       "image": null,
       "link": null,
       "comment": null
     },
     {
-      "id": "art-scorecard",
-      "archetype": "course-promo",
-      "caption": "Five numbers, once a month, makes you impossible to fleece: cost per lead, cost per booked job, close rate, review count, response time.",
-      "image": "content/course/thumbs/lesson-10.png",
-      "link": "https://booked-job.com/blog/marketing-scorecard-for-contractors/",
-      "comment": "The scorecard \ud83d\udc47"
+      "id": "humor-quick-job",
+      "archetype": "trade-humor",
+      "caption": "The “quick 30-minute job” has never once taken 30 minutes. Not once. What's your longest “quick” job? 👇",
+      "image": "content/assets/humor-quick-job.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "humor-one-more",
+      "archetype": "trade-humor",
+      "caption": "“Just one more thing before you go.” We all felt that in our spine. 😮‍💨",
+      "image": "content/assets/humor-one-more.png",
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "humor-clean-shirt",
+      "archetype": "trade-humor",
+      "caption": "Put on a clean shirt for ONE estimate and somehow ended up crawling through 40 years of attic insulation. Every time. What's your version? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "humor-friday",
+      "archetype": "trade-humor",
+      "caption": "Friday, 3pm, phone rings — emergency call. You taking it or letting it ring? No wrong answers. 👇",
+      "image": null,
+      "link": null,
+      "comment": null
     },
     {
       "id": "tools-mil-vs-dewalt",
       "archetype": "tool-wars",
-      "caption": "Settle it in the comments. We're not picking sides. (Yes we are.) \ud83d\udc47",
+      "caption": "Settle it in the comments. We're not picking sides. (Yes we are.) 👇",
       "image": "content/assets/tools-mil-vs-dewalt.png",
       "link": null,
       "comment": null
     },
     {
-      "id": "art-speed-to-lead",
-      "archetype": "course-promo",
-      "caption": "You don't lose most jobs on price. You lose them on response time. The first contractor to call back usually wins \u2014 even if he's worse than you.",
-      "image": "content/course/thumbs/lesson-08.png",
-      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
-      "comment": "Speed to lead \ud83d\udc47"
+      "id": "tools-ford-chevy",
+      "archetype": "tool-wars",
+      "caption": "Work-truck edition. Choose your fighter. This will not stay civil. 👇",
+      "image": "content/assets/tools-ford-chevy.png",
+      "link": null,
+      "comment": null
     },
     {
-      "id": "biz-slow-season",
-      "archetype": "business",
-      "caption": "Slow-season survival rule #1: the time to market is when you're busy, not when the phone stops. The work you book in summer is what fills January. What are you doing now to stay booked through winter? \ud83d\udc47",
+      "id": "tools-borrowed",
+      "archetype": "tool-wars",
+      "caption": "You lend tools on a jobsite: never / to a chosen few / to anyone with a pulse? The wrong answer is how you lose a $200 impact. 👇",
       "image": null,
       "link": null,
       "comment": null
     },
     {
-      "id": "art-referrals",
-      "archetype": "course-promo",
-      "caption": "Your cheapest leads aren't on Angi. They're the customers you already made happy. Most contractors never ask \u2014 then complain leads are expensive.",
-      "image": "content/course/thumbs/lesson-06.png",
-      "link": "https://booked-job.com/blog/contractor-referrals-and-repeat-customers/",
-      "comment": "Referrals \ud83d\udc47"
-    },
-    {
-      "id": "biz-money-leaks",
-      "archetype": "business",
-      "caption": "Three ways shops bleed money they never see:\n\n1. Unbilled change orders\n2. \u201cQuick favors\u201d that aren't quick\n3. Not charging for the drive\n\nWhich one's getting you this year? \ud83d\udc47",
+      "id": "tools-burning-truck",
+      "archetype": "tool-wars",
+      "caption": "One tool you'd run back into a burning truck for. Go. 👇",
       "image": null,
       "link": null,
       "comment": null
     },
     {
-      "id": "podcast-ep2",
-      "archetype": "podcast-promo",
-      "caption": "New episode of Get Booked, Not F***ed: why the guy with 140 reviews beats you even when he's worse \u2014 plus round 2 of Porno or Plumbing. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic",
-      "image": "site/podcast/cover.jpg",
-      "link": "https://booked-job.com/podcast/",
-      "comment": "Listen free \ud83d\udc47"
+      "id": "guy-radio",
+      "archetype": "that-guy",
+      "caption": "Every crew has the guy who guards the radio like it's a hostage situation. What's the ONE song that starts a jobsite fight? 👇",
+      "image": null,
+      "link": null,
+      "comment": null
+    },
+    {
+      "id": "guy-measures",
+      "archetype": "that-guy",
+      "caption": "We all know him. Tag him (gently). 👇",
+      "image": "content/assets/guy-measures.png",
+      "link": null,
+      "comment": null
     },
     {
       "id": "labor-show-up",
       "archetype": "owner-solidarity",
-      "caption": "Posted for a helper. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem \u2014 they have a \u201cshow up\u201d problem. Who's actually hiring right now? Drop your city. \ud83d\udc47",
+      "caption": "Posted for a helper. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem — they have a “show up” problem. Who's actually hiring right now? Drop your city. 👇",
       "image": null,
       "link": null,
       "comment": null
     },
     {
-      "id": "podcast-ep3",
-      "archetype": "podcast-promo",
-      "caption": "New episode: you don't lose jobs on price, you lose them on response time. 'Answer Your Phone' \u2014 speed to lead, plus a roofing company gets roasted. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic",
-      "image": "site/podcast/cover.jpg",
-      "link": "https://booked-job.com/podcast/",
-      "comment": "Listen free \ud83d\udc47"
-    },
-    {
-      "id": "ugc-before-after",
-      "archetype": "before-after",
-      "caption": "Drop your best before/after. Any trade \u2014 roof, panel, re-pipe, install, cleanout. Let's see the work that doesn't get enough credit. \ud83d\udc47",
+      "id": "labor-ghost",
+      "archetype": "owner-solidarity",
+      "caption": "Guy accepted the job, said “see you Monday,” vanished. It's not a labor shortage, it's a follow-through shortage. Who's reliable and actually looking? Drop your city. 👇",
       "image": null,
       "link": null,
       "comment": null
     },
     {
-      "id": "stat-first-responder",
-      "archetype": "real-trade-numbers",
-      "caption": "78% of homeowners hire whoever calls back FIRST \u2014 not the best, not the cheapest. The first. (Lead Connect.) If you let calls ring, you're handing jobs to your competitor.",
-      "image": "content/cards/first-responder-sq.png",
-      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-5min",
-      "archetype": "real-trade-numbers",
-      "caption": "Respond to a lead in 5 minutes and you're 100x more likely to qualify it than if you wait 30. (MIT Sloan.) Speed isn't a nice-to-have \u2014 it's the game.",
-      "image": "content/cards/5min-100x-sq.png",
-      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-angi-cpbj",
-      "archetype": "real-trade-numbers",
-      "caption": "What an Angi booked job ACTUALLY costs once you count the leads that never close: ~$542. Google LSA: ~$168. Same money, very different math. (2026 data.)",
-      "image": "content/cards/angi-cpbj-sq.png",
-      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-site",
-      "archetype": "real-trade-numbers",
-      "caption": "The average contractor website converts 2\u20133% \u2014 meaning ~98% leave without calling. (WebFX.) Your site has one job: make the call easy.",
-      "image": "content/cards/site-convert-sq.png",
-      "link": "https://booked-job.com/blog/contractor-website-one-job/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-reviews",
-      "archetype": "real-trade-numbers",
-      "caption": "91% of people read your reviews before they call, and most won't consider you under 4 stars. (BrightLocal.) Your reputation sells before you pick up.",
-      "image": "content/cards/reviews-read-sq.png",
-      "link": "https://booked-job.com/blog/why-reviews-win-the-call/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-hvac-lsa",
-      "archetype": "real-trade-numbers",
-      "caption": "HVAC on Google LSA: $51/lead, 44% book, $2,110 avg ticket \u2014 9.55x return. (SearchLight, 888 contractors.) The exclusive-lead math shared apps don't want you running.",
-      "image": "content/cards/hvac-lsa-sq.png",
-      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-ai",
-      "archetype": "real-trade-numbers",
-      "caption": "35% of people now ask AI \u2014 ChatGPT, Gemini \u2014 who to hire, not Google. (2026.) Invisible to AI = invisible to a third of the market.",
-      "image": "content/cards/ai-discovery-sq.png",
-      "link": "https://booked-job.com/blog/get-found-by-google-and-ai/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-missed-call",
-      "archetype": "real-trade-numbers",
-      "caption": "1 in 7 calls to home-services businesses goes unanswered. (CallRail.) That's not a phone problem \u2014 it's a payroll problem.",
-      "image": "content/cards/missed-call-sq.png",
-      "link": "https://booked-job.com/blog/speed-to-lead-for-contractors/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-shared",
-      "archetype": "real-trade-numbers",
-      "caption": "Shared leads convert 6\u201310%. Your own organic leads: 18\u201324%. A direct call: up to 40%. (2026.) Cheap leads are the most expensive kind.",
-      "image": "content/cards/shared-convert-sq.png",
-      "link": "https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-budgets",
-      "archetype": "real-trade-numbers",
-      "caption": "72% of contractors are upping their marketing budget in 2026 \u2014 and 62% say lead gen is their #1 challenge. (CallRail.) The question isn't whether to market. It's whether you do it smart.",
-      "image": "content/cards/budgets-up-sq.png",
-      "link": "https://booked-job.com/blog/what-marketing-actually-is/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-plumbing-lsa",
-      "archetype": "real-trade-numbers",
-      "caption": "Plumbing on Google LSA: $57/lead, 44.5% book, $1,714 ticket, 6.85x ROAS. (SearchLight.) Real numbers beat 'trust me' every time.",
-      "image": "content/cards/plumbing-lsa-sq.png",
-      "link": "https://booked-job.com/blog/should-you-pay-for-leads/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "stat-market",
-      "archetype": "real-trade-numbers",
-      "caption": "The US home-services market is over $524 BILLION a year, and 75% of pros expect to grow in 2026. There's plenty of work \u2014 winners are just easier to find.",
-      "image": "content/cards/market-size-sq.png",
-      "link": "https://booked-job.com/blog/what-marketing-actually-is/",
-      "comment": "The full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-google-local-services-ad",
-      "archetype": "branch-series",
-      "caption": "Quick gut-check for any contractor buying leads: a booked job from Google Local Services Ads runs about $168. The same job from Angi/HomeAdvisor? About $542 (2026 lead-network comparisons). The difference is who else gets your lead \u2014 Angi sells it to 2-4 pros, Google sells it to you alone.",
-      "image": null,
-      "link": "https://booked-job.com/blog/google-local-services-ads-better-math/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-i-audited-your-site-cold",
-      "archetype": "branch-series",
-      "caption": "Got an email saying \"I audited your site and found problems\"? Delete it. If that marketer were so great at marketing, why are they cold-calling a plumber three states away? Real agencies get FOUND. They don't hunt you down with a form-letter audit. Ask them: where'd you find me, and name 3 clients in my trade. Watch them go quiet.",
-      "image": null,
-      "link": "https://booked-job.com/blog/i-audited-your-site-cold-pitch-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-guaranteed-number-one-go",
-      "archetype": "branch-series",
-      "caption": "\"Guaranteed #1 on Google in 30 days.\" Google itself says that's impossible \u2014 no one can guarantee a ranking spot. So when a guy promises one, he just told you everything you need to know about him. Real local SEO is months of honest work, not a 30-day miracle.",
-      "image": null,
-      "link": "https://booked-job.com/blog/guaranteed-number-one-google-ranking-lie/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-limited-time-seo-offer-u",
-      "archetype": "branch-series",
-      "caption": "\"Only 3 SEO spots left in your city \u2014 sign by Friday!\" Nope. Google's rankings take months to move. Signing today vs next week changes nothing about your results. The only thing that countdown clock speeds up is money leaving your pocket. If it's a good deal today, it's a good deal next week.",
-      "image": null,
-      "link": "https://booked-job.com/blog/limited-time-seo-offer-urgency-trick/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-canned-scare-tactic-seo-",
-      "archetype": "branch-series",
-      "caption": "\"We found 47 critical errors on your website!\" Relax. A robot made that list in 4 seconds and would send the same one to every contractor in town. Missing alt tags and meta descriptions don't move your rankings \u2014 they're bait for a monthly retainer. The real tell? It never names the competitors actually beating you.",
-      "image": null,
-      "link": "https://booked-job.com/blog/canned-scare-tactic-seo-audits/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-white-label-marketing-ma",
-      "archetype": "branch-series",
-      "caption": "That \"local in-house team\" your marketing company brags about? Sometimes it's a few contractors overseas, marked up big, sold to you as senior American talent. Outsourcing isn't the crime \u2014 hiding it and overcharging for it is. Here's how to catch a white-label markup shop before you sign.",
-      "image": null,
-      "link": "https://booked-job.com/blog/white-label-marketing-markup/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-fake-google-maps-listing",
-      "archetype": "branch-series",
-      "caption": "That extra plumber on the map near you? It might not exist. Some agencies build fake Google listings to catch your calls and resell them to the highest bidder. You end up buying back work that was always yours. Here's how to spot a ghost pin and report it.",
-      "image": null,
-      "link": "https://booked-job.com/blog/fake-google-maps-listings-steal-traffic/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-free-marketing-demo-surp",
-      "archetype": "branch-series",
-      "caption": "\"Free demo\" for your contracting business? The demo's free. The 12-month auto-renewing contract they slide under you at the end is not. Before you sign ANYTHING, ask one question: \"If I cancel next month, what do I keep?\" If the answer is nothing, you're renting, not buying.",
-      "image": null,
-      "link": "https://booked-job.com/blog/free-marketing-demo-surprise-bill/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-true-cost-of-hiring-mark",
-      "archetype": "branch-series",
-      "caption": "The agency retainer is never the real cost. On top of it you're paying a setup fee, ad spend that goes straight to Google (not you), and a contract that locks you in. The only number that matters? Cost per booked job. Google LSA books one for ~$168 exclusive. Angi/HomeAdvisor? ~$542, shared with up to 4 other pros (SearchLight 2026).",
-      "image": null,
-      "link": "https://booked-job.com/blog/true-cost-of-hiring-marketing-agency/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-to-spend-your-first-",
-      "archetype": "branch-series",
-      "caption": "Got $10K to spend on marketing? Don't blow it on ads yet. Fix your Google profile and reviews first \u2014 91% of homeowners read reviews and most skip anyone under 4 stars (BrightLocal 2025). Then build a site that books jobs. THEN turn on ads. Order matters. Here's the math.",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-to-spend-your-first-10k-marketing/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-reels-is-where-to-spend-",
-      "archetype": "branch-series",
-      "caption": "Real talk for contractors: an Angi booked job runs about $542 (2026 data) and you share that lead with 4-5 other pros. A 30-second Reel of you fixing a slab leak? Costs you 20 minutes and reaches strangers in your town who never followed you. That's the trade worth making in 2026.",
-      "image": null,
-      "link": "https://booked-job.com/blog/reels-is-where-to-spend-your-time/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-evaluate-any-marketing-w",
-      "archetype": "branch-series",
-      "caption": "Quick gut check for contractors: stop asking what a lead costs. Ask what a BOOKED JOB costs. Same plumbing job runs about $168 on Google LSA but about $542 on Angi/HomeAdvisor (2026 lead-network data) \u2014 because LSA is exclusive and Angi sells your lead to 2\u20134 other pros. One formula, and nobody can fleece you again.",
-      "image": null,
-      "link": "https://booked-job.com/blog/evaluate-any-marketing-with-simple-math/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-long-seo-really-take",
-      "archetype": "branch-series",
-      "caption": "Real talk for contractors: SEO doesn't ring the phone next week. Google ranks you on trust, and trust takes months to earn. It's the cheapest job source over time (~$290-310 per booked job, 2026 comparisons) \u2014 but you can't wait around. Run Local Services Ads to book jobs NOW and answer every call in 5 minutes. 78% of homeowners hire whoever responds first (Lead Connect 2026).",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-long-seo-really-takes/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-yelp-for-contractors-yes",
-      "archetype": "branch-series",
-      "caption": "Yelp for contractors: yes or no? Honest answer \u2014 claim the FREE listing (91% read reviews, BrightLocal 2025), but think hard before buying the ads. The cheapest booked job out there is Google LSA at ~$168 and it's exclusive (SearchLight 2026). Make Yelp beat that or skip it.",
-      "image": null,
-      "link": "https://booked-job.com/blog/yelp-for-contractors-yes-or-no/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-hvac-marketing-numbers-c",
-      "archetype": "branch-series",
-      "caption": "HVAC owners, real talk: a \"lead\" and a \"booked job\" are not the same thing. Per 2026 lead-network comparisons, a booked job costs ~$168 on Google LSA, ~$250 on Thumbtack, and ~$542 on Angi/HomeAdvisor \u2014 same homeowner, wildly different price. The difference? Exclusive vs. shared leads.",
-      "image": null,
-      "link": "https://booked-job.com/blog/hvac-marketing-numbers-cost-per-booked-job/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-thumbtack-worth-it-for-c",
-      "archetype": "branch-series",
-      "caption": "Thumbtack isn't ripping you off \u2014 it's just math. Your lead gets sold to 4-5 pros, shared leads close at only 6-10% (2026 figures), and that's how a cheap contact becomes ~$250 per booked job (2026 lead-network comparisons). The fix is free: answer first. 78% of homeowners hire whoever responds first (Lead Connect 2026).",
-      "image": null,
-      "link": "https://booked-job.com/blog/thumbtack-worth-it-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-angi-homeadvisor-real-co",
-      "archetype": "branch-series",
-      "caption": "Angi and HomeAdvisor are the SAME company. And that same booked job that costs ~$168 on Google LSA? It runs about $542 through Angi/HomeAdvisor (2026 lead-network comparisons). The lead gets sold to 2-4 pros at once, so you're racing other contractors for something you already paid for.",
-      "image": null,
-      "link": "https://booked-job.com/blog/angi-homeadvisor-real-cost/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-agency-wont-share-access",
-      "archetype": "branch-series",
-      "caption": "Your marketing guy won't give you the login to your own Google Analytics? That's not him protecting you from \"the technical stuff.\" That's a hostage situation. You own the accounts. He gets invited in as a guest you can kick out \u2014 never the other way around.",
-      "image": null,
-      "link": "https://booked-job.com/blog/agency-wont-share-access-or-work/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-why-wordpress-is-wrong-f",
-      "archetype": "branch-series",
-      "caption": "Nobody tells contractors this: WordPress is a back office, not a salesman. It collects leads and waits while you're under a sink. Meanwhile 78% of homeowners hire the FIRST contractor to respond (Lead Connect 2026). Your site shouldn't slow you down \u2014 it should get you the call.",
-      "image": null,
-      "link": "https://booked-job.com/blog/why-wordpress-is-wrong-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-getting-followers-isnt-f",
-      "archetype": "branch-series",
-      "caption": "Followers don't pay your light bill. A plumber with 10,000 followers and one with 200 eat the same if neither one's phone rings. The number that actually matters? Cost per booked job. Google LSA runs ~$168 per booked job; Angi/HomeAdvisor ~$542 (2026 lead comparisons). Likes aren't on that list for a reason.",
-      "image": null,
-      "link": "https://booked-job.com/blog/getting-followers-isnt-free-or-easy/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-plumbing-marketing-numbe",
-      "archetype": "branch-series",
-      "caption": "Plumbers \u2014 a $57 lead and a $542 lead can both make you exactly $0. The difference? 78% of homeowners hire the FIRST contractor who responds (Lead Connect 2026). Your best marketing move this week costs nothing: answer the phone faster.",
-      "image": null,
-      "link": "https://booked-job.com/blog/plumbing-marketing-numbers-cost-per-booked-job/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-electrical-marketing-num",
-      "archetype": "branch-series",
-      "caption": "Electricians, here's a real number: your Google leads cost about $39 each on Local Services Ads per SearchLight 2026 \u2014 the cheapest in the trades. HVAC pays $51, plumbing $57. 43.4% book at a $1,434 job. That's an 8.52x return. The only way to blow it? Not answering the phone.",
-      "image": null,
-      "link": "https://booked-job.com/blog/electrical-marketing-numbers-cost-per-booked-job/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-roofing-marketing-number",
-      "archetype": "branch-series",
-      "caption": "Roofers: that $79 Google lead (LocaliQ 2025) isn't your real problem. Your website is. Roofing sites convert just 3-7% (WebFX 2026), so 9 of every 10 clicks you paid for walk right out the door. Fix the leak before you blame the price.",
-      "image": null,
-      "link": "https://booked-job.com/blog/roofing-marketing-numbers-cost-per-booked-job/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-set-up-contractor-social",
-      "archetype": "branch-series",
-      "caption": "One-truck contractor? You don't need 6 social accounts. You need 2 done right. Google Business Profile is where buyers actually look \u2014 per CallRail 2026, 81% of homeowners rely on Google reviews to decide who to hire. Add a Facebook page for local groups. Skip TikTok and X. Use a real photo, keep your name/address/phone identical everywhere, and answer the phone fast. That's the whole game. Full guide at booked-job.com.",
-      "image": null,
-      "link": "https://booked-job.com/blog/set-up-contractor-social-accounts-right/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-get-your-first-50-review",
-      "archetype": "branch-series",
-      "caption": "Want to know who's getting the calls in your area? It's not the best contractor \u2014 it's the one with the most reviews. 91% of people read reviews before hiring, and most skip anyone under 4 stars (BrightLocal 2025). The good news: your first 50 reviews are already in your phone. Every past customer you never asked. Here's the exact text to send and when: https://booked-job.com/blog/get-your-first-50-reviews/",
-      "image": null,
-      "link": "https://booked-job.com/blog/get-your-first-50-reviews/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-marketing-warm-up-tiny-b",
-      "archetype": "branch-series",
-      "caption": "No ad budget yet? Good news: the stuff that wins your first 30 days is free. 78% of homeowners hire the FIRST contractor to respond (Lead Connect 2026). Answer the phone fast, fill out your Google Business Profile, and ask every happy customer for a review. That's the whole month-one plan. Read it: https://booked-job.com/blog/marketing-warm-up-tiny-budget/",
-      "image": null,
-      "link": "https://booked-job.com/blog/marketing-warm-up-tiny-budget/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-which-ad-platform-fits-y",
-      "archetype": "branch-series",
-      "caption": "Picking your ad platform by gut? Stop. The rule is start where intent is highest. Google LSA books jobs at about $168 each because the lead is exclusive and ready to hire (SearchLight Digital 2026). Google Search catches the big jobs LSA misses. Meta is for demand you create, not catch. And none of it matters if you don't pick up: 78% of homeowners hire the first contractor to respond (Lead Connect 2026). Full breakdown on the blog.",
-      "image": null,
-      "link": "https://booked-job.com/blog/which-ad-platform-fits-your-trade/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-your-first-google-search",
-      "archetype": "branch-series",
-      "caption": "Your first Google Search ad isn't about getting clicks. It's about the phone ringing with a job you actually want. Go tight on keywords (service + your town), send the click to a page that matches, and ANSWER every call. 14% of home-service calls go missed (CallRail 2026), and 78% of homeowners hire whoever responds first (Lead Connect 2026). Full no-hype guide: booked-job.com/blog/your-first-google-search-ad/",
-      "image": null,
-      "link": "https://booked-job.com/blog/your-first-google-search-ad/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-your-first-meta-facebook",
-      "archetype": "branch-series",
-      "caption": "Your first Facebook ad isn't going to ring the phone this week \u2014 and that's not a bug. Google ads catch people who ALREADY want the work (great for emergency plumbing, HVAC, electrical). Facebook ads plant seeds in people who aren't ready yet. Both work. They just work on different clocks. New to ads? Start with Google for the ready buyers, then add Meta for your before-and-afters. Here's the plain-money breakdown \u2192 https://booked-job.com/blog/your-first-meta-facebook-ad/",
-      "image": null,
-      "link": "https://booked-job.com/blog/your-first-meta-facebook-ad/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-truck-wraps-rolling-bill",
-      "archetype": "branch-series",
-      "caption": "A truck wrap is a billboard that drives to the job. Here's the part the wrap shop won't tell you: it builds memory, it doesn't ring your phone today. The wraps that actually get calls have a big readable number, ONE trade, and your town \u2014 not six services in tiny font and a URL nobody can type at 40mph. And if you want to know whether it works? Put a dedicated tracking number on the truck. No tracking number, no real answer. A guess is not a number.",
-      "image": null,
-      "link": "https://booked-job.com/blog/truck-wraps-rolling-billboard/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-billboards-worth-it-for-",
-      "archetype": "branch-series",
-      "caption": "That billboard on the highway feels great to see \u2014 your name up in lights, your buddies texting you. But here's the cold question: did it book a single job? Most contractor billboards are trophies, not lead sources. The fix is dead simple: put a dedicated tracking phone number on it that lives NOWHERE else. Every call to that number came from the board. Now you can actually do the math. No tracking number, no proof. Full breakdown at booked-job.com.",
-      "image": null,
-      "link": "https://booked-job.com/blog/billboards-worth-it-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-vanity-numbers-and-maile",
-      "archetype": "branch-series",
-      "caption": "Old-school still works. A vanity number on your truck is a billboard you pay for ONCE, then it books calls for years with no per-lead fee. Direct mail still lands too. But here's the rule: put a unique tracking number on every mailer, or you'll never know if it made you a dime. And answer the phone, home-service shops miss 14% of calls (CallRail 2026). Full playbook on the blog.",
-      "image": null,
-      "link": "https://booked-job.com/blog/vanity-numbers-and-mailers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-why-nobody-clicks-your-a",
-      "archetype": "branch-series",
-      "caption": "That swirly AI flyer you posted? Your customer has seen it 500 times this week. Generic AI content blends in \u2014 and the average contractor site already loses 98% of visitors without a single call (WebFX 2026). The fix isn't fancier. It's realer: your job, your photo, your street name. AI polishes the words. You bring the truth.",
-      "image": null,
-      "link": "https://booked-job.com/blog/why-nobody-clicks-your-ai-poster/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-ai-prompt-pack-for-contr",
-      "archetype": "branch-series",
-      "caption": "Tired of typing the same review replies, captions, and customer answers every week? We put together copy-paste AI prompts built for contractors \u2014 and the one trick that makes them sound like a real tradesperson, not a marketer. (Hint: you feed the AI your own words first.) 88% of buyers would use a business that responds to all its reviews (BrightLocal 2024). Link in comments.",
-      "image": null,
-      "link": "https://booked-job.com/blog/ai-prompt-pack-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-why-home-service-custome",
-      "archetype": "branch-series",
-      "caption": "Your customer isn't calling because they're excited. They're calling because something broke and they're scared of two things: the broken thing, and getting ripped off by whoever shows up. 78% hire the FIRST contractor to respond (Lead Connect 2026). Not the cheapest. The first one who answers. Are you answering? https://booked-job.com/blog/why-home-service-customers-buy/",
-      "image": null,
-      "link": "https://booked-job.com/blog/why-home-service-customers-buy/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-the-one-trust-signal-tha",
-      "archetype": "branch-series",
-      "caption": "The reason you lost that job probably had nothing to do with your price. 91% of homeowners read reviews before they decide (BrightLocal 2025), and 78% hire the FIRST contractor to respond (Lead Connect 2026). Strong reviews get you picked. Answering first gets you booked. If you're doing one without the other, you're leaking jobs. Get found, get picked, get booked. booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/the-one-trust-signal-that-matters-most/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-three-hours-a-month-mark",
-      "archetype": "branch-series",
-      "caption": "Hate marketing? Same. Here's the whole plan for a one-truck shop: 3 hours, once a month. Hour 1 \u2014 fix your Google profile and add fresh job photos. Hour 2 \u2014 reply to your reviews and text happy customers for new ones. Hour 3 \u2014 set up a way to answer leads in 5 minutes. That's it. 78% of homeowners hire the first contractor to respond (Lead Connect 2026), so speed beats a fancy website every time. Full plan on the blog.",
-      "image": null,
-      "link": "https://booked-job.com/blog/three-hours-a-month-marketing-plan/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-first-content-that-isnt-",
-      "archetype": "branch-series",
-      "caption": "Your jobsite photos feel fake because you took them AFTER you cleaned everything up. That's a brochure \u2014 people scroll right past it. Next job, take the BEFORE shot too. The rusty pipe. The scary panel. The soaked attic. That's the part a homeowner looks at and goes \"that's exactly my problem.\" That's what books the job. No script. No fancy camera. Just point your phone at the work you're already standing in front of.",
-      "image": null,
-      "link": "https://booked-job.com/blog/first-content-that-isnt-cringe/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-do-yard-signs-still-work",
-      "archetype": "branch-series",
-      "caption": "Real talk for contractors: the cheapest lead you'll ever get is the yard sign at your last job. The neighbors can SEE your work \u2014 that's trust you can't buy on Google. But here's the move almost nobody makes: put a call-TRACKING number on the sign instead of your main line. Now you know exactly which signs and which streets ring the phone. Full guide \u2192 booked-job.com/blog/do-yard-signs-still-work-for-contractors/",
-      "image": null,
-      "link": "https://booked-job.com/blog/do-yard-signs-still-work-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-the-tracking-method-offl",
-      "archetype": "branch-series",
-      "caption": "Quick question: which of your yard signs booked a job last month? If you can't answer that, you're not alone \u2014 but you are flying blind. Online leads come with a dashboard built in. Google LSA even shows ~$168 per booked job (SearchLight 2026). Your truck wrap, your signs, your door hangers? They tell you nothing \u2014 unless you tag them. Give each one its own phone number or QR code and finally see what's working. Here's how: booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/the-tracking-method-offline-marketing/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-ai-101-for-contractors",
-      "archetype": "branch-series",
-      "caption": "AI won't crawl your attic or answer your phone. But it WILL write every Google review reply in 5 minutes instead of a whole evening, and 88% of homeowners would use a business that responds to all its reviews (BrightLocal 2024). That's the real use for AI in a service business. Everything else is mostly hype. Plain-English breakdown for plumbers, HVAC, roofers and GCs: https://booked-job.com/blog/ai-101-for-contractors/",
-      "image": null,
-      "link": "https://booked-job.com/blog/ai-101-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-google-lsa-yes-or-no",
-      "archetype": "branch-series",
-      "caption": "Real talk on Google Local Services Ads: for most trades, it's a yes. They book a job at about $168 each, the cheapest lead source out there, and the lead is YOURS, not shared with 4-5 other pros like Thumbtack and Angi (SearchLight 2026). HVAC pros are seeing 9.55x ROAS. The one thing that kills it? A slow phone. 78% of homeowners hire whoever answers first (Lead Connect 2026). Fix that, then turn on the ads.",
-      "image": null,
-      "link": "https://booked-job.com/blog/google-lsa-yes-or-no/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-marketing-trends-nobody-",
-      "archetype": "branch-series",
-      "caption": "The marketing trend nobody in the trades is talking about: 35% of homeowners now START with AI tools like ChatGPT, not Google (2026). If your shop isn't in the AI's answer, you don't exist for that customer. Good news \u2014 the fix is boring and free-ish: clear answers on your site, an accurate Google profile, and reviews. Get found, get picked, get booked.",
-      "image": null,
-      "link": "https://booked-job.com/blog/marketing-trends-nobody-is-talking-about/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-gc-general-contractor-ma",
-      "archetype": "branch-series",
-      "caption": "General contractors pay the MOST per lead of any trade: about $94 for one Google Search lead (LocaliQ 2025 / CallRail). And GC websites convert the worst at 3.65% (WebFX 2026). Most expensive clicks plus worst conversion equals money walking out the door. The fix is not cheaper leads. It is answering every call and giving homeowners a reason to pick you. Full breakdown on the blog.",
-      "image": null,
-      "link": "https://booked-job.com/blog/gc-general-contractor-marketing-numbers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-painting-contractor-mark",
-      "archetype": "branch-series",
-      "caption": "Painters, real talk: that $25 Angi lead is not a $25 problem. The number that actually matters is cost per BOOKED job \u2014 and for painters that's $180-450, per PCA 2026. Why so high? Most leads are shared (Thumbtack sends one lead to 4-5 pros, per 2026) and shared leads only convert at 6-10%. You burn a stack of cheap leads to land one job. We did the full math \u2192 https://booked-job.com/blog/painting-contractor-marketing-numbers/",
-      "image": null,
-      "link": "https://booked-job.com/blog/painting-contractor-marketing-numbers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-many-google-reviews-",
-      "archetype": "branch-series",
-      "caption": "We scraped the contractors actually ranking on Google Maps. They don't have 20-30 reviews \u2014 they have hundreds. Median: HVAC 519, plumbing 337, roofing 144, electrical 64 (our own 2026 data). If you've got 18 reviews and wonder why you're invisible, that's your answer.",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-many-google-reviews-to-rank/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "gbp-hvac-card",
-      "archetype": "real-trade-numbers",
-      "caption": "Real data: we scraped the HVAC contractors actually ranking on Google Maps. Median review count? 519. (Booked Job scrape, 2026.) Most shops have a tenth of that \u2014 which is exactly the opening.",
-      "image": "content/cards/gbp-hvac-reviews-sq.png",
-      "link": "https://booked-job.com/blog/how-many-google-reviews-to-rank/",
-      "comment": "The full breakdown by trade \ud83d\udc47"
-    },
-    {
-      "id": "gbp-plumbing-card",
-      "archetype": "real-trade-numbers",
-      "caption": "The plumbers ranking on Google Maps have a median of 337 reviews (our own 2026 scrape). Think 30 is enough? The data says otherwise. Here's the bar by trade.",
-      "image": "content/cards/gbp-plumbing-reviews-sq.png",
-      "link": "https://booked-job.com/blog/how-many-google-reviews-to-rank/",
-      "comment": "The full breakdown by trade \ud83d\udc47"
-    },
-    {
-      "id": "art2-pest-control-marketing-n",
-      "archetype": "branch-series",
-      "caption": "Pest-control lead truth: a shared lead costs about $15 \u2014 but it's sold to ~5 pros at once (BuiltRight 2026). An exclusive lead is $45-150 and it's only yours. The cheap one isn't cheap. It's a 5-way race, and 78% of people hire whoever calls first (Lead Connect 2026). Read the real numbers at booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/pest-control-marketing-numbers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-lawn-care-marketing-numb",
-      "archetype": "branch-series",
-      "caption": "Lawn-care operators: stop chasing the one-off mow. One mow pays $50-90/hr (Angi 2026). The same yard on a full season program is worth $1,000-3,000/year (industry 2026). The whole game is the customer who stays. Market the season, not the mow.",
-      "image": null,
-      "link": "https://booked-job.com/blog/lawn-care-marketing-numbers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-roofing-storm-chaser-fre",
-      "archetype": "branch-series",
-      "caption": "After a storm, out-of-town crews knock with a \"free roof inspection.\" Then they fake damage, file an insurance claim in YOUR name, and disappear. The honest local roofer gets blamed for it. Here's how to spot the storm-chaser scam \u2014 and why 78% of people hire the first contractor to respond (Lead Connect 2026), which is exactly what chasers count on. Full breakdown: booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/roofing-storm-chaser-free-inspection-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-hvac-free-system-check-u",
-      "archetype": "branch-series",
-      "caption": "That \"free HVAC system check\" flyer on your door? It's usually not a favor. It's the front door of a sales funnel built to find a scary problem and quote you a whole new system. The math is simple: the average HVAC job booked through Google ads is worth ~$2,110 (SearchLight 2026). Nobody gives away a tech's time for free unless the swap pays for it. Contractors: you don't need bait to win. 78% of people hire the first company that responds (Lead Connect 2026). Pick up the phone and beat the bait shops. Full breakdown \u2192 booked-job.com/blog/hvac-free-system-check-upsell-scam",
-      "image": null,
-      "link": "https://booked-job.com/blog/hvac-free-system-check-upsell-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-missed-calls-cost-contra",
-      "archetype": "branch-series",
-      "caption": "Contractors: every call to your shop that goes straight to voicemail isn't a missed 'lead' you can chase later. It's a homeowner with a job they'll pay to fix today, dialing down a list until someone answers. Most of them hire whoever picks up first. Count your calls, figure out how many hit voicemail, attach a ticket to each \u2014 the number will stop you cold. Answer the phone before you spend another dollar on leads.",
-      "image": null,
-      "link": "https://booked-job.com/blog/missed-calls-cost-contractors-invoices/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-website-conversion-98-pe",
-      "archetype": "branch-series",
-      "caption": "Hard truth for contractors: the typical contractor website converts just 2 to 3% of the people who visit it. That means about 98% leave without calling you (WebFX 2026). When the phone goes quiet, everyone reaches for 'more traffic' \u2014 but at a 2% conversion rate, more traffic just sends more people through the same leak. You already paid roughly $6.59 a click to get them there (LocaliQ 2025). Fix the page, not the traffic. booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/website-conversion-98-percent-leave/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-lead-resellers-double-se",
-      "archetype": "branch-series",
-      "caption": "You bought an \"exclusive\" lead. So did the four other shops down the road. Shared-lead networks take ONE homeowner's request and sell it five times \u2014 then everybody calls it exclusive. That's why shared leads convert at 6-10% while a direct call converts up to 40% [2026]. Before you spend a dime, ask: \"How many pros get this exact lead?\" If they won't say the number, that IS the number. Read how to spot it \u2192 booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/lead-resellers-double-selling-same-lead-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-aged-leads-sold-as-exclu",
-      "archetype": "branch-series",
-      "caption": "\"Exclusive\" leads that are really old, dead, or sold to 5 other pros \u2014 just with a fresh label slapped on. That's the scam. Here's the catch: 78% of homeowners hire the FIRST contractor to respond [Lead Connect 2026], so an aged lead already lost before it hit your phone. Before you pay any new lead source: buy a small batch, ask the exact submission date, and measure how many actually book. Full test inside. booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/aged-leads-sold-as-exclusive-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-respond-fast-land-more-j",
-      "archetype": "branch-series",
-      "caption": "Nobody tells you the cheapest way to book more jobs, so here it is: answer faster. Replying to a lead quickly makes you far more likely to win it, and homeowners tend to hire the first contractor who responds. You already paid for the lead. Don't let it rot in voicemail while it calls the next guy. Text first, call second, and treat any lead that's been sitting for more than a few minutes like an emergency.",
-      "image": null,
-      "link": "https://booked-job.com/blog/respond-fast-land-more-jobs/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-plumbers-337-google-revi",
-      "archetype": "branch-series",
-      "caption": "Here's a number no marketer will tell you: we scraped the plumbers ranking on page 1 of Google Maps in Austin and Dallas, and the median one had 337 Google reviews (Booked Job GBP scrape, 2026). That's the bar to even show up. Go check your own count. If you're sitting at 40 or 90, you're not losing to a better plumber \u2014 you're losing to one with a longer review list. The fix is free: text a Google review link to every customer, same day, on every job. Do that and 337 stops being a wall and starts being math.",
-      "image": null,
-      "link": "https://booked-job.com/blog/plumbers-337-google-reviews-map-pack/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-directory-listing-shaked",
-      "archetype": "branch-series",
-      "caption": "\"Hi, this is Google calling about your business listing \u2014 pay today to verify it or it gets removed.\" \ud83d\udea9 It's a scam, and they're targeting contractors on purpose. Claiming and verifying your Google Business Profile is FREE. Editing your hours, adding photos, replying to reviews \u2014 all free. The scary deadline only exists to rush you into handing over a card. Hang up, open Google yourself, and check. Your listing will be sitting right there, fine. Full breakdown \ud83d\udc49 booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/directory-listing-shakedown-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-best-leads-for-hvac-cont",
-      "archetype": "branch-series",
-      "caption": "HVAC contractors: stop chasing the cheapest lead. Chase the booked job. Google Local Services Ads get you a booked HVAC job for about $168 vs about $542 on Angi (2026), and return 9.55x on spend (SearchLight 2026). The reason it works? Your $2,110 average ticket (SearchLight 2026) pays for every lead you don't book. Full math at booked-job.com.",
-      "image": null,
-      "link": "https://booked-job.com/blog/best-leads-for-hvac-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-hvac-map-pack-519-review",
-      "archetype": "branch-series",
-      "caption": "Here's a number that should scare every HVAC owner: the MEDIAN contractor ranking on Google Maps for HVAC has 519 Google reviews (Booked Job GBP scrape, 2026, Texas metros). Median means half of them have even more. If your shop is sitting at 40 or 50 reviews, you're not a little behind \u2014 you're playing a different sport. HVAC is the hardest local trade to crack, by far (electrical only needs 64). The only legitimate fix: ask every customer, every job, starting now \u2014 before peak season hits. Get found, get picked, get booked \u2192 booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/hvac-map-pack-519-reviews/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-shared-leads-vs-direct-c",
-      "archetype": "branch-series",
-      "caption": "Quick math: shared leads from Angi and Thumbtack close at 6-10%. A direct call closes at up to 40% (2026 lead-network data). That's not a you problem \u2014 it's that the platform sold the same lead to 4-12 other pros, so you're racing a crowd for one phone number. 78% of people hire whoever answers first (Lead Connect 2026), and on a shared lead the other guys got a head start. Point your budget at exclusive and owned channels that convert far better. Full breakdown -> https://booked-job.com/blog/shared-leads-vs-direct-call-conversion-math/",
-      "image": null,
-      "link": "https://booked-job.com/blog/shared-leads-vs-direct-call-conversion-math/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-best-leads-for-plumbers",
-      "archetype": "branch-series",
-      "caption": "Plumbers: stop buying leads that get sold to 4 other guys. Google LSA leads are EXCLUSIVE \u2014 and SearchLight Digital (2026) clocks them at ~$57 a lead, 44.5% book rate, $1,714 average ticket, 6.85x ROAS. The catch? 78% of people hire whoever answers first (Lead Connect 2026). Answer fast. Full breakdown \u2192 https://booked-job.com/blog/best-leads-for-plumbers/",
-      "image": null,
-      "link": "https://booked-job.com/blog/best-leads-for-plumbers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-best-leads-for-roofers",
-      "archetype": "branch-series",
-      "caption": "Roofing leads cost more than any trade but general contracting \u2014 about $79 each on Google Search (LocaliQ 2025) \u2014 and only 3-7% of your website visitors convert (WebFX 2026). Sounds rough. But here's the part most roofers miss: 78% of homeowners hire the FIRST contractor who calls back (Lead Connect 2026). The $79 lead isn't the problem. The slow callback is. Full breakdown on Booked Job.",
-      "image": null,
-      "link": "https://booked-job.com/blog/best-leads-for-roofers/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-angi-refunds-15-22-perce",
-      "archetype": "branch-series",
-      "caption": "Angi refunds 15-22% of the leads you buy (2026 lead-network comparisons). Think about that. When a company hands back a fifth of what it sells you, it's admitting the product was junk to begin with. And you don't even get cash \u2014 you get a credit you have to notice, dispute, and fight for. You pay first, chase the credit later, on top of a $300-500/yr membership and ~$542 per booked job. Full breakdown: booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/angi-refunds-15-22-percent-junk-leads-scam/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-google-ads-cpc-conversio",
-      "archetype": "branch-series",
-      "caption": "Google Ads truth for contractors: the average click costs $6.59 (LocaliQ 2025) \u2014 that's fine. What's not fine is your site. The average contractor page converts just 2-3%, so about 98% of those paid visitors leave without contacting you (WebFX 2026). Do the math and one lead costs $220-$330 before you've quoted a thing. Raising your budget won't fix that. Fixing your site will. booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/google-ads-cpc-conversion-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-best-leads-for-electrici",
-      "archetype": "branch-series",
-      "caption": "Electricians, here's a number that'll make your day: your leads are the cheapest of any trade. Google Local Services Ads run about $39 a lead, book 43.4% of them, and return 8.52x ROAS (SearchLight Digital 2026) \u2014 and they come to you alone, no sharing. With a $1,434 average ticket, exclusive beats shared every time. Get found, get picked, get booked \u2192 booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/best-leads-for-electricians/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-many-reviews-hvac-ne",
-      "archetype": "branch-series",
-      "caption": "We scraped Google Business Profiles across major Texas metros and found the HVAC contractors ranking on page 1 of Maps have a median of 519 reviews (Booked Job GBP scrape, 2026). That's the highest bar of any trade \u2014 and it's not a trophy, it's the price of entry. Below it, you're basically invisible on the map. The fix is simple but not easy: ask every happy customer, every job, every day. Full breakdown at booked-job.com.",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-many-reviews-hvac-needs-to-rank/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-chatgpt-search-answer-en",
-      "archetype": "branch-series",
-      "caption": "Before a homeowner opens Google, a lot of them now ask ChatGPT: \"who should I call for this?\" 35% of consumers use AI tools at the discovery stage, vs just 13.6% who go to traditional search first (2026 search-behavior data). The contractor the AI names gets the call. Almost none of your competitors are working to be that name yet. That's the opening. booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/chatgpt-search-answer-engine-optimization-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-homeowners-read-reviews-",
-      "archetype": "branch-series",
-      "caption": "Homeowners read your reviews before they ever call you \u2014 and most won't even consider a low-rated business. That means the job is often won or lost before your phone rings. Most lean on Google reviews specifically, so that's the profile to protect. And here's the free edge almost nobody uses: most people favor businesses that reply to ALL their reviews. Ask every happy customer the same day, reply to every review, and you'll clear the gate your competitors are failing. Full playbook at booked-job.com.",
-      "image": null,
-      "link": "https://booked-job.com/blog/homeowners-read-reviews-before-they-call/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-many-reviews-plumber",
-      "archetype": "branch-series",
-      "caption": "Quick gut-check for plumbers: how many Google reviews do the guys ranking on page one of Maps actually have? Median of 337 (Booked Job GBP scrape, 2026). That's the pack you're trying to join. The fix isn't a sprint, it's never stopping: ask every customer the same day you finish, one text, one link. Get found, get picked, get booked. booked-job.com",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-many-reviews-plumbers-need-to-rank/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-many-reviews-roofers",
-      "archetype": "branch-series",
-      "caption": "Roofers \u2014 stop comparing yourself to the HVAC guy's 500 reviews. Page-1 roofers carry a median of just 144 Google reviews (Booked Job GBP scrape, 2026). The bar is LOW because roofing is one-and-done \u2014 you replace a roof once every 15-20 years, so the whole field collects reviews slower. That's your opening. Ask the day the roof goes on, respond to every review, and you'll crack page 1 faster than you think. Full numbers \u2192 booked-job.com/blog/how-many-reviews-roofers-need-to-rank/",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-many-reviews-roofers-need-to-rank/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-is-angi-worth-it-the-rea",
-      "archetype": "branch-series",
-      "caption": "Is Angi worth it? On the podcast we did the math nobody at Angi says out loud: your shared lead is sold to up to 12 pros, and 78% of homeowners hire whoever calls first (Lead Connect 2026). That's not a lead \u2014 it's a 12-way race.",
-      "image": null,
-      "link": "https://booked-job.com/blog/is-angi-worth-it-the-real-math/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-homeadvisor-ftc-72-milli",
-      "archetype": "branch-series",
-      "caption": "The FTC made HomeAdvisor pay up to $7.2M for lying to contractors about lead quality (FTC 2023). When a regulator fines the lead seller, maybe stop arguing about whether the leads are good.",
-      "image": null,
-      "link": "https://booked-job.com/blog/homeadvisor-ftc-72-million-fine/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-when-angi-actually-works",
-      "archetype": "branch-series",
-      "caption": "We rip Angi a lot \u2014 so here's the fair part. There's ONE case it works: brand-new shop, no pipeline, and you answer in minutes. Respond in 5 vs 30 and you're up to 100x more likely to connect (MIT Sloan 2026).",
-      "image": null,
-      "link": "https://booked-job.com/blog/when-angi-actually-works/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-contractor-marketing-sta",
-      "archetype": "branch-series",
-      "caption": "Every contractor-marketing number that matters, in one sourced page: $542 vs $168 per booked job, the 4-star cliff, the 5-minute rule, the 98% who leave your website. Bookmark it.",
-      "image": null,
-      "link": "https://booked-job.com/blog/contractor-marketing-statistics/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-angi-alternatives",
-      "archetype": "branch-series",
-      "caption": "Leaving Angi? Ranked by cost per booked job: Google LSA ~$168, Thumbtack ~$250, Angi ~$542 \u2014 and the owned channels that beat all three long-term. The honest comparison.",
-      "image": null,
-      "link": "https://booked-job.com/blog/angi-alternatives/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-why-homeowners-skip-shop",
-      "archetype": "branch-series",
-      "caption": "Your Google rating is a bouncer. Most homeowners won't even consider a shop under 4 stars (BrightLocal 2026). If you're at 3.8, you're not competing \u2014 you're invisible before the call.",
-      "image": null,
-      "link": "https://booked-job.com/blog/why-homeowners-skip-shops-under-4-stars/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-one-tap-google-review-sy",
-      "archetype": "branch-series",
-      "caption": "Nobody leaves a review because they 'forgot to.' They didn't forget \u2014 you made it hard. The one-tap system: ask at the peak, text the direct link within the hour, ask everyone. That's it.",
-      "image": null,
-      "link": "https://booked-job.com/blog/one-tap-google-review-system/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-buying-fake-google-revie",
-      "archetype": "branch-series",
-      "caption": "Buying reviews isn't a shortcut \u2014 it's a self-inflicted wound. The FTC banned fake reviews outright in 2024 (FTC 2024), and Google strips them and can tank your ranking. You'd be paying to destroy your own asset.",
-      "image": null,
-      "link": "https://booked-job.com/blog/buying-fake-google-reviews-risk/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-cost-per-lead-is-the-wro",
-      "archetype": "branch-series",
-      "caption": "Cost per lead is the number lead sellers wave around because it hides your close rate. The only number that pays your mortgage is cost per BOOKED JOB: ad spend \u00f7 jobs actually won, per source.",
-      "image": null,
-      "link": "https://booked-job.com/blog/cost-per-lead-is-the-wrong-number/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-lead-cost-per-booked-job",
-      "archetype": "branch-series",
-      "caption": "Cheap shared lead: sold to a pack, won on price, a race you win only by underbidding. Expensive exclusive lead: only yours, won on value. 78% hire whoever calls first (Lead Connect 2026) \u2014 that's why 'cheap' is a trap.",
-      "image": null,
-      "link": "https://booked-job.com/blog/lead-cost-per-booked-job-by-channel/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-much-do-contractor-l",
-      "archetype": "branch-series",
-      "caption": "How much do contractor leads REALLY cost? Per booked job: Google LSA ~$168, Thumbtack ~$250, Angi ~$542. Per-lead prices hide the close rate \u2014 that's where the money goes. Sourced breakdown.",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-much-do-contractor-leads-cost/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-homeadvisor-alternatives",
-      "archetype": "branch-series",
-      "caption": "Leaving HomeAdvisor? Ranked by cost per booked job: Google LSA ~$168, Thumbtack ~$250 \u2014 and the owned channels that beat both. Plus the $7.2M FTC order that says the quiet part out loud.",
-      "image": null,
-      "link": "https://booked-job.com/blog/homeadvisor-alternatives/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-hvac-marketing-statistic",
-      "archetype": "branch-series",
-      "caption": "HVAC marketing by the numbers: ~$542 per booked job on Angi vs ~$168 on Google LSA, ~519 reviews to top a competitive map pack, and 78% hire whoever answers first. The sourced roundup.",
-      "image": null,
-      "link": "https://booked-job.com/blog/hvac-marketing-statistics/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-roofing-marketing-statis",
-      "archetype": "branch-series",
-      "caption": "Roofing marketing by the numbers: ~$542 per booked job on Angi vs ~$168 on Google LSA, and 78% of homeowners hire whoever answers first. Plus why storm-chasers inflate your lead costs.",
-      "image": null,
-      "link": "https://booked-job.com/blog/roofing-marketing-statistics/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-to-get-more-hvac-lea",
-      "archetype": "branch-series",
-      "caption": "How to get more HVAC leads, ranked by cost per booked job: Google LSA ~$168, then the channels you own (profile, reviews, referrals). Stop overpaying for shared leads.",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-to-get-more-hvac-leads/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-how-to-get-more-plumbing",
-      "archetype": "branch-series",
-      "caption": "How to get more plumbing leads: answer fast (78% hire whoever calls first), hit ~337 reviews for the map pack, and use Google LSA (~$168/job) over shared leads. The honest playbook.",
-      "image": null,
-      "link": "https://booked-job.com/blog/how-to-get-more-plumbing-leads/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-google-business-profile-",
-      "archetype": "branch-series",
-      "caption": "Your Google Business Profile is your storefront \u2014 and most contractors leave it half-empty. The checklist: every field, weekly photos + posts, steady reviews. 91% won't consider under 4 stars.",
-      "image": null,
-      "link": "https://booked-job.com/blog/google-business-profile-checklist-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-why-your-contractor-webs",
-      "archetype": "branch-series",
-      "caption": "~98% of your website visitors leave without calling. Four fixes: phone number up top, outcomes not services, proof on page one, load under 3 seconds. That's the whole game.",
-      "image": null,
-      "link": "https://booked-job.com/blog/why-your-contractor-website-isnt-converting/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-facebook-ads-vs-google-a",
-      "archetype": "branch-series",
-      "caption": "Facebook or Google for contractor ads? Google catches demand (ready-to-book searches). Facebook creates it (brand + big-ticket). Start where the intent is, then layer social.",
-      "image": null,
-      "link": "https://booked-job.com/blog/facebook-ads-vs-google-ads-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-speed-to-lead-why-5-minu",
-      "archetype": "branch-series",
-      "caption": "The cheapest edge in the trades costs $0: answer fast. 5 minutes vs 30 = up to 100x more likely to connect, and 78% hire whoever responds first. Speed to lead wins.",
-      "image": null,
-      "link": "https://booked-job.com/blog/speed-to-lead-why-5-minutes-matters/",
-      "comment": "Full breakdown \ud83d\udc47"
-    },
-    {
-      "id": "art2-plumber-marketing",
-      "archetype": "branch-series",
-      "caption": "How to market a plumbing business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+      "id": "labor-good-help",
+      "archetype": "owner-solidarity",
+      "caption": "Hardest part of running a shop this year: finding work / finding good help / getting paid on time? Pick your poison. 👇",
       "image": null,
-      "link": "https://booked-job.com/blog/plumber-marketing/",
-      "comment": "Full breakdown \ud83d\udc47"
+      "link": null,
+      "comment": null
     },
     {
-      "id": "art2-electrician-marketing",
-      "archetype": "branch-series",
-      "caption": "How to market a electrical business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+      "id": "biz-slow-season",
+      "archetype": "business",
+      "caption": "Slow-season survival rule #1: the time to market is when you're busy, not when the phone stops. The work you book in summer fills January. What are you doing NOW to stay booked through winter? 👇",
       "image": null,
-      "link": "https://booked-job.com/blog/electrician-marketing/",
-      "comment": "Full breakdown \ud83d\udc47"
+      "link": null,
+      "comment": null
     },
     {
-      "id": "art2-painter-marketing",
-      "archetype": "branch-series",
-      "caption": "How to market a painting business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+      "id": "biz-money-leaks",
+      "archetype": "business",
+      "caption": "Three ways shops bleed money they never see:\n\n1. Unbilled change orders\n2. “Quick favors” that aren't quick\n3. Not charging for the drive\n\nWhich one's getting you this year? 👇",
       "image": null,
-      "link": "https://booked-job.com/blog/painter-marketing/",
-      "comment": "Full breakdown \ud83d\udc47"
+      "link": null,
+      "comment": null
     },
     {
-      "id": "art2-landscaping-marketing-gu",
-      "archetype": "branch-series",
-      "caption": "How to market a landscaping business in 2026: own your Google profile + reviews, answer fast (78% hire the first responder), and skip shared leads (~$542/job) for Google LSA (~$168). The playbook.",
+      "id": "biz-chasing-invoices",
+      "archetype": "business",
+      "caption": "Third month chasing a customer for a $4k invoice. At what point is it worth the lien? Asking for me, honestly. 👇",
       "image": null,
-      "link": "https://booked-job.com/blog/landscaping-marketing-guide/",
-      "comment": "Full breakdown \ud83d\udc47"
+      "link": null,
+      "comment": null
     },
     {
-      "id": "art2-contractor-marketing-bud",
-      "archetype": "branch-series",
-      "caption": "How much should a contractor spend on marketing? Forget the flat 5\u201310% rule. Budget by cost per booked job: Angi ~$542 vs Google LSA ~$168. Spend where a customer costs less than the job.",
+      "id": "biz-deposit",
+      "archetype": "business",
+      "caption": "No deposit, no material order. I learned that with $6k of custom material sitting in my garage. What's your deposit rule? 👇",
       "image": null,
-      "link": "https://booked-job.com/blog/contractor-marketing-budget/",
-      "comment": "Full breakdown \ud83d\udc47"
+      "link": null,
+      "comment": null
     },
     {
-      "id": "art2-small-business-marketing",
-      "archetype": "branch-series",
-      "caption": "Small business marketing for contractors, in order of return: 1) Google profile + reviews, 2) answer fast, 3) converting website, 4) paid where it pays. Free channels first \u2014 they win.",
+      "id": "biz-review-timing",
+      "archetype": "business",
+      "caption": "The best time to ask for the Google review is the second the customer says “wow, looks great” — not three days later by text. When do YOU ask? 👇",
       "image": null,
-      "link": "https://booked-job.com/blog/small-business-marketing-for-contractors/",
-      "comment": "Full breakdown \ud83d\udc47"
+      "link": null,
+      "comment": null
     }
   ]
 }
