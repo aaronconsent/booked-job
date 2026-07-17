@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ninapryce.bsky.social**: He turned a $25 prison phone call into a free letter. Then he built Emerge Career to put people in skilled trades.
+
+https://yespress.io/uzoma-orchingwa?utm_source=bluesky&utm_medium=social via Yespres
+  → https://bsky.app/profile/ninapryce.bsky.social/post/3mqsy5sfri22m
+
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
 - **@stylelib.org**: Blue Collar – Handyman HTML Template
 
  https://stylelib.org/?p=285473 
@@ -185,20 +197,3 @@ therealbuzzfeed.com/most-recomme.
 
 Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
   → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
-
-- **@spooknine.bsky.social**: Construction manager: anybody got anything?
-
-Architect: nope
-
-Engineers: nope 
-
-General contractor: nope 
-
-Owner's rep: nope
-
-Intensive Care nurse with an armload of printouts who put in 40 hours on t
-  → https://bsky.app/profile/spooknine.bsky.social/post/3mqq52zvdxs2b
-
-- **@mdrepros.bsky.social**: 🏡 What if your next property could be your home and your business?
-Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garage/workshop, and endless possibilities for farming, tr
-  → https://bsky.app/profile/mdrepros.bsky.social/post/3mqjsgusla32p

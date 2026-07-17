@@ -1127,6 +1127,22 @@
       "image": null,
       "link": "https://booked-job.com/blog/landscaping-marketing-guide/",
       "comment": "Full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "art2-contractor-marketing-bud",
+      "archetype": "branch-series",
+      "caption": "How much should a contractor spend on marketing? Forget the flat 5\u201310% rule. Budget by cost per booked job: Angi ~$542 vs Google LSA ~$168. Spend where a customer costs less than the job.",
+      "image": null,
+      "link": "https://booked-job.com/blog/contractor-marketing-budget/",
+      "comment": "Full breakdown \ud83d\udc47"
+    },
+    {
+      "id": "art2-small-business-marketing",
+      "archetype": "branch-series",
+      "caption": "Small business marketing for contractors, in order of return: 1) Google profile + reviews, 2) answer fast, 3) converting website, 4) paid where it pays. Free channels first \u2014 they win.",
+      "image": null,
+      "link": "https://booked-job.com/blog/small-business-marketing-for-contractors/",
+      "comment": "Full breakdown \ud83d\udc47"
     }
   ]
 }
