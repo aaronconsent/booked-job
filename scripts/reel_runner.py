@@ -111,7 +111,10 @@ def main():
     # IG Reels (Graph API)
     try:
         import urllib.request
-        if urllib.request.urlopen(pub_url, timeout=15).status == 200:
+        # curl UA: Cloudflare 403s the default Python-urllib UA on this zone, which
+        # was silently killing the IG leg even though the reel was public.
+        req = urllib.request.Request(pub_url, headers={"User-Agent": "curl/8.4.0"})
+        if urllib.request.urlopen(req, timeout=15).status == 200:
             import ig_publish; ig_publish.publish(pub_url, cap); log("  -> IG Reel posted")
     except Exception as e:
         log(f"  IG reel skipped/failed: {str(e)[:100]}")
