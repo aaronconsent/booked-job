@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T00:09:04Z",
+  "updated": "2026-07-17T04:17:16Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -82,14 +82,14 @@
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
+        "tag": "#hvac",
+        "uses": 7,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#contractor",
         "uses": 7,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#handyman",
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8494,
+        "followers": 8493,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9501,
+      "followers": 9502,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1778,
+      "followers": 1779,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1414,
+      "followers": 1413,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },

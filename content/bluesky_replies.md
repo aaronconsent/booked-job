@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@stylelib.org**: Kothu – Building  Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=825138 
+
+#architect #builder #business #contractor #corporate #handyman #industry #interior #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mqitwsupfn2l
+
+- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
+  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
   → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
 
@@ -174,30 +202,3 @@ Intensive Care nurse with an armload of printouts who put in 40 hours on t
 - **@mdrepros.bsky.social**: 🏡 What if your next property could be your home and your business?
 Over 2 usable acres, a 5-bedroom home, office with separate entrance, huge garage/workshop, and endless possibilities for farming, tr
   → https://bsky.app/profile/mdrepros.bsky.social/post/3mqjsgusla32p
-
-- **@xavierdleau.com**: being into sports is worse than being into a pop diva. 
-
-at least they dont be on tv much. 
-
-sports? tv. all the time. and then interviews. commentary. history. radio. 
-
-and then business. trades. mon
-  → https://bsky.app/profile/xavierdleau.com/post/3mqq7yu7qtc2j
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
-
-Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
-  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
