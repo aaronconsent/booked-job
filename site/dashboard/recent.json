@@ -1,46 +1,40 @@
 {
-  "updated": "2026-07-17T13:20",
+  "updated": "2026-07-17T15:17",
   "posts": [
     {
-      "ts": "2026-07-17T13:18:11",
+      "ts": "2026-07-17T15:16:27",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-07-17T13:17:23",
+      "ts": "2026-07-17T15:16:14",
       "channel": "tumblr",
-      "item": "is-angi-worth-it-the-real-math",
+      "item": "homeadvisor-ftc-72-million-fine",
       "url": null
     },
     {
-      "ts": "2026-07-17T13:17:22",
+      "ts": "2026-07-17T15:16:11",
       "channel": "tumblr",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
       "url": null
     },
     {
-      "ts": "2026-07-17T13:17:20",
+      "ts": "2026-07-17T15:16:04",
       "channel": "bluesky",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-07-17T13:17:18",
-      "channel": "linkedin",
-      "item": "bj-first10k",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T13:17:17",
+      "ts": "2026-07-17T15:16:02",
       "channel": "tiktok",
-      "item": "rip-reviews-rip",
+      "item": "rip-speed-rip",
       "url": null
     },
     {
-      "ts": "2026-07-17T13:17:16",
-      "channel": "facebook",
-      "item": "bj-favor",
+      "ts": "2026-07-17T15:16:01",
+      "channel": "ig",
+      "item": "bj-angi",
       "url": null
     }
   ]

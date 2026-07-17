@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-07-17T15:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy flextape"
+    },
+    {
+      "ts": "2026-07-17T15:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy panel"
+    },
+    {
+      "ts": "2026-07-17T15:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing once not twice"
+    },
+    {
+      "ts": "2026-07-17T15:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing once not twice"
+    },
+    {
+      "ts": "2026-07-17T15:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): The $7.2M FTC Fine Against HomeAdvisor, Explained for Contractors"
+    },
+    {
+      "ts": "2026-07-17T15:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): Speed to Lead: Why 5 Minutes Decides Who Books the Job"
+    },
+    {
       "ts": "2026-07-17T13:17",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to GitHub Pages (canonical backlink): AI 101 for Contractors: What Actually Helps and What's Just Hype"
-    },
-    {
-      "ts": "2026-07-07T00:04",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: AI 101 for Contractors: What Actually Helps and What's Just Hype"
-    },
-    {
-      "ts": "2026-07-07T00:04",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Google Business Profile for Contractors: Win the Map Pack"
-    },
-    {
-      "ts": "2026-07-06T19:21",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Why Nobody Clicks Your AI-Generated Poster"
-    },
-    {
-      "ts": "2026-07-06T19:21",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Do Yard Signs Still Work for Contractors? Placement, Wording, and Tracking the Calls"
-    },
-    {
-      "ts": "2026-07-06T19:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: The 3-Hours-a-Month Marketing Plan for Contractors Who Hate Marketing"
-    },
-    {
-      "ts": "2026-07-06T19:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: The Tracking Method: Know Which Offline Marketing Actually Books Jobs"
     }
   ]
 }
