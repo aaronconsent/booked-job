@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-"""Autonomous Buffer syndication (launchd) — queues the next article to LinkedIn
-(text + link) via Buffer, the interim path until direct API approval. Reuses
-content/syndication_queue.json. TikTok (video) handled by buffer_tiktok later.
-State: content/buffer_state.json"""
+"""Autonomous Buffer runner (launchd) — queues LinkedIn posts via Buffer, the
+interim path until direct API approval. PURE ENGAGEMENT (2026-07-17): native
+engagement content from the shared pool (content/queue.json), no links.
+TikTok (video) handled by buffer_tiktok later. State: content/buffer_state.json"""
 import argparse, datetime as dt, json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
 sys.path.insert(0, HERE)
 
-QUEUE = os.path.join(ROOT, "content", "syndication_queue.json")
 STATE = os.path.join(ROOT, "content", "buffer_state.json")
 LOG = os.path.join(ROOT, "content", "buffer.log")
 
@@ -27,22 +26,24 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true"); ap.add_argument("--status", action="store_true")
     a = ap.parse_args()
-    items = load(QUEUE, {"items": []})["items"]
+    import engagement_pool
     state = load(STATE, {"linkedin": []})
     done = set(state.get("linkedin", []))
     if a.status:
-        print(json.dumps({"linkedin_done": len(done), "remaining": [i["id"] for i in items if i["id"] not in done]}, indent=2)); return
+        rem = [p["id"] for p in engagement_pool.posts() if p["id"] not in done]
+        print(json.dumps({"linkedin_done": len(done), "remaining": rem}, indent=2)); return
     if not os.path.exists(os.path.join(ROOT, "secrets", "buffer.env")):
         log("Buffer not connected — skipping."); return
-    import variants, buffer_publish
+    import buffer_publish
     e = buffer_publish.env()
     queued = 0
     for _ in range(12):                                   # loop-to-fill: max out Buffer's queue
-        nxt = next((i for i in items if i["id"] not in done), None)
+        nxt, reset = engagement_pool.next_unposted(done)
         if not nxt:
-            log("syndication queue empty — nothing new for Buffer/LinkedIn."); break
-        v = variants.get("linkedin", nxt["id"])
-        text = v if v else f"{(nxt.get('blurb', '') or '')[:600]}\n\n{nxt['url']}"
+            log("engagement pool empty — nothing for Buffer/LinkedIn."); break
+        if reset:
+            done = set(); log("engagement pool exhausted — recycling from the top.")
+        text = engagement_pool.text_of(nxt)
         try:
             buffer_publish.queue_text(e["BUFFER_LINKEDIN_CHANNEL"], text)
         except Exception as ex:
@@ -51,9 +52,9 @@ def main():
             log(f"LinkedIn queue failed: {str(ex)[:160]}"); break
         done.add(nxt["id"]); state["linkedin"] = list(done)
         json.dump(state, open(STATE, "w"), indent=2)
-        log(f"QUEUED '{nxt['id']}' to LinkedIn via Buffer"); queued += 1
+        log(f"QUEUED '{nxt['id']}' ({nxt.get('archetype')}) to LinkedIn via Buffer"); queued += 1
         try:
-            import log_change; log_change.add("site", f"Queued to LinkedIn (Buffer): {nxt['title']}")
+            import log_change; log_change.add("site", f"Queued engagement to LinkedIn: {nxt['id'].replace('-', ' ')}")
         except Exception:
             pass
 

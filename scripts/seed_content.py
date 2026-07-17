@@ -149,9 +149,13 @@ POSTS = [
 def build():
     queue = []
     for p in POSTS:
-        item = {"id": p["id"], "archetype": p["archetype"], "caption": p["caption"],
-                "image": None, "link": None, "comment": None}
         card = p.get("card")
+        # `text` = the full native post for text-only channels (Threads/Bluesky/
+        # LinkedIn), which can't show the card image: punchline + the invite.
+        # FB (publisher.py) ignores `text` and uses caption + the card image.
+        text = f"{card['text']}\n\n{p['caption']}" if card else p["caption"]
+        item = {"id": p["id"], "archetype": p["archetype"], "caption": p["caption"],
+                "text": text, "image": None, "link": None, "comment": None}
         if card:
             out = os.path.join(ASSETS, f"{p['id']}.png")
             make(card["text"], card.get("label", ""), out, card.get("accent", "orange"))

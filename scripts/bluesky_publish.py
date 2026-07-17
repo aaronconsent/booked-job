@@ -46,6 +46,15 @@ def publish(text, link, link_title, link_desc):
                  {"repo": s["did"], "collection": "app.bsky.feed.post", "record": record}, s["accessJwt"])
 
 
+def publish_text(text):
+    """Post a plain native text skeet — no external link card (pure-engagement play)."""
+    e = env(); s = session(e)
+    record = {"$type": "app.bsky.feed.post", "text": text[:300],
+              "createdAt": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S.000Z")}
+    return _post("com.atproto.repo.createRecord",
+                 {"repo": s["did"], "collection": "app.bsky.feed.post", "record": record}, s["accessJwt"])
+
+
 def publish_video(text, video_url, alt=""):
     """Post a native video. Uploads the mp4 as a blob and embeds it."""
     e = env(); s = session(e); jwt = s["accessJwt"]
