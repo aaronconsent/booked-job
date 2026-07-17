@@ -21,7 +21,10 @@ LOG = os.path.join(ROOT, "content", "reels.log")
 OUTDIR = os.path.join(ROOT, "content", "reels")
 
 POST_DAYS = {0, 1, 2, 3, 4, 5, 6}  # daily — each reel fans to FB+IG+TikTok
-WINDOW = (6, 22)        # all day (uncapped — max reels, ElevenLabs spend OK'd by Aaron 2026-07-01)
+WINDOW = (6, 22)        # 6am–10pm posting window
+REELS_PER_DAY = 2       # max reels/day (2026-07-17: "maximize" — 2/day = 14/wk, the
+                        # aggressive-but-safe ceiling; more/day suppresses per-reel reach)
+MIN_GAP_H = 6           # space the two apart so they don't cannibalize each other
 BACKEND = "elevenlabs"  # falls back by editing make_reel default if credits run out
 
 
@@ -54,15 +57,18 @@ def main():
         log("reels queue empty — refill content/reels_queue.json"); return
 
     now = dt.datetime.now()
+    today = now.date().isoformat()
     if not a.force:
         if now.weekday() not in POST_DAYS:
             log(f"skip: {now:%A} not a reel day"); return
         if not (WINDOW[0] <= now.hour < WINDOW[1]):
             log(f"skip: outside reel window {WINDOW}"); return
+        if state.get("by_date", {}).get(today, 0) >= REELS_PER_DAY:
+            log(f"skip: {REELS_PER_DAY} reels already today"); return
         if state.get("last_iso"):
             gap = (now - dt.datetime.fromisoformat(state["last_iso"])).total_seconds() / 3600
-            if gap < 20:                      # 1 fresh render/day — the video POOL does the
-                log(f"skip: only {gap:.1f}h since last reel (<20h)"); return  # aggressive multi-platform distribution now
+            if gap < MIN_GAP_H:
+                log(f"skip: only {gap:.1f}h since last reel (<{MIN_GAP_H}h)"); return
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")
     pre = nxt.get("video")
@@ -86,6 +92,7 @@ def main():
     done.add(nxt["id"])
     state["done"] = list(done)
     state["last_iso"] = now.isoformat(timespec="seconds")
+    state.setdefault("by_date", {})[today] = state.get("by_date", {}).get(today, 0) + 1
     json.dump(state, open(STATE, "w"), indent=2)
     log(f"PUBLISHED reel '{nxt['id']}' (FB) -> {res.get('video_id')}")
 
