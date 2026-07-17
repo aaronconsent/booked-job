@@ -72,7 +72,7 @@ def main():
             log(f"'{slug}' images not all live yet — retry next run"); continue
         try:
             res = ig_publish.publish_carousel(urls, caption_for(slug, c))
-        except Exception as ex:
+        except (Exception, SystemExit) as ex:   # ig_publish sys.exit()s on Meta 403 — catch it, don't hard-fail
             if meta_cooldown.is_rate_limit(ex):
                 meta_cooldown.trip(); log("Meta rate-limited — cooling down 3h, skipping IG")
             else:

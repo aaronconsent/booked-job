@@ -84,7 +84,7 @@ def compose(now):
     health = load(HEALTH, {})
     failing = [f"{a.replace('.py','')} ({n}×)" for a, n in health.items() if isinstance(n, int) and n >= 3]
 
-    hh = now.strftime("%-I:%M %p")
+    hh = now.strftime("%I:%M %p").lstrip("0")   # portable (%-I is a GNU/BSD ext that ValueErrors elsewhere)
     rows = []
     if majors:
         rows.append("<p><b>Just happened:</b><br>" + "<br>".join(majors[:6]) + "</p>")
@@ -140,4 +140,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:   # a digest failure must never spam the health counter / block run_all
+        log(f"founder_digest crashed (non-fatal): {str(e)[:180]}")
