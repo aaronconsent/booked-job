@@ -149,9 +149,18 @@ def _clean(desc):
 def build():
     root = os.path.join(os.path.dirname(__file__), "..", "content")
     qpath = os.path.join(root, "reels_queue.json")
+    reeldir = os.path.join(os.path.dirname(__file__), "..", "site", "reels")
     os.makedirs(root, exist_ok=True)
     ids = {r["id"] for r in REELS}
-    reels = list(REELS)
+    # Attach a pre-rendered clip if one is banked in site/reels/ (durable + public
+    # on Cloudflare). reel_runner then posts the stored file — no per-run TTS call.
+    reels = []
+    for r in REELS:
+        r = dict(r)
+        mp4 = os.path.join(reeldir, f"{r['id']}.mp4")
+        if os.path.exists(mp4):
+            r["video"] = f"site/reels/{r['id']}.mp4"
+        reels.append(r)
     # Preserve already-rendered clips (podcast/ad shorts) but strip their links.
     if os.path.exists(qpath):
         for r in json.load(open(qpath)).get("reels", []):
