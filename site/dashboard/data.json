@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:26",
+  "updated": "2026-07-17T05:08",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -200,7 +200,7 @@
     "comments": 4,
     "shares": 0,
     "reels_published": 19,
-    "posts_remaining": 116,
+    "posts_remaining": 118,
     "reels_remaining": 0
   },
   "ads": {
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 193
+    "media": 194
   },
   "email": {
     "subscribers": 7
@@ -443,7 +443,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 117,
+      "count": 119,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1379,
+      "views": 1381,
       "followers": 1
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 105,
+      "count": 106,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 82,
+      "count": 83,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Long video",
@@ -804,7 +804,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 82
+        "count": 83
       },
       {
         "type": "Video",
@@ -816,9 +816,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 116,
+      "remaining": 118,
       "per_day": 2,
-      "days": 58.0,
+      "days": 59.0,
       "status": "green"
     },
     {
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 38933,
+    "reach": 38935,
     "engagement": 5,
     "audience": 42,
     "cr_clicks": 31
@@ -860,7 +860,7 @@
     "audience": 19,
     "engagement": -11,
     "email": 2,
-    "reach": 5395
+    "reach": 5397
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1265,
+        "value": 1269,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1265 posts, 42 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1269 posts, 42 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

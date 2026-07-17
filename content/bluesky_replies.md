@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
+
+Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
+  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
+
+- **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
+
+https://calib
+  → https://bsky.app/profile/calibrebooks.bsky.social/post/3mqt3eenowg2j
+
 - **@ninapryce.bsky.social**: He turned a $25 prison phone call into a free letter. Then he built Emerge Career to put people in skilled trades.
 
 https://yespress.io/uzoma-orchingwa?utm_source=bluesky&utm_medium=social via Yespres
@@ -182,18 +195,3 @@ Dude, the guy owned a roofing business and was almost done with his residency. H
 
 - **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
   → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
-
-Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
-
-therealbuzzfeed.com/most-recomme.
-  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
-
-- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
-
-Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
-  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
