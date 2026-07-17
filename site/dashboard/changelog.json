@@ -1,7 +1,6 @@
 {
   "entries": [
     {
-<<<<<<< Updated upstream
       "ts": "2026-07-09T03:44",
       "kind": "engage",
       "icon": "💬",
@@ -114,18 +113,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to Telegraph: HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T23:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): How to Spend Your First $10K in Marketing as a Contractor"
-=======
-      "ts": "2026-07-09T05:27",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Tumblr (backlink): Surviving the Slow Season: A Cash-Flow Playbook for the Trades"
->>>>>>> Stashed changes
     },
     {
       "ts": "2026-07-08T18:24",
@@ -1206,123 +1193,12 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Bluesky: The One Trust Signal That Matters Most for the Trades"
-<<<<<<< Updated upstream
-=======
     },
     {
       "ts": "2026-07-06T09:01",
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to GitHub Pages (canonical backlink): The One Trust Signal That Matters Most for the Trades"
-    },
-    {
-      "ts": "2026-07-06T09:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: The One Trust Signal That Matters Most for the Trades"
-    },
-    {
-      "ts": "2026-07-06T08:59",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: The 5-minute favor that isn't"
-    },
-    {
-      "ts": "2026-07-06T04:11",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Your First Meta Ad: When Facebook Beats Google for Contractors (and When It Doesn't)"
-    },
-    {
-      "ts": "2026-07-06T04:11",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Your First Google Search Ad for a Contractor (Without Lighting Money on Fire)"
-    },
-    {
-      "ts": "2026-07-06T04:11",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Why Home-Service Customers Buy the Way They Do"
-    },
-    {
-      "ts": "2026-07-06T04:11",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-06T04:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Vanity Numbers and Direct Mailers: Do They Still Book Jobs?"
-    },
-    {
-      "ts": "2026-07-06T04:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Why Home-Service Customers Buy the Way They Do"
-    },
-    {
-      "ts": "2026-07-06T04:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Why Home-Service Customers Buy the Way They Do"
-    },
-    {
-      "ts": "2026-07-06T04:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Why Home-Service Customers Buy the Way They Do"
-    },
-    {
-      "ts": "2026-07-05T23:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Which Ad Platform Fits Your Trade: Google Search vs LSA vs Meta"
-    },
-    {
-      "ts": "2026-07-05T23:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T23:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Why Nobody Clicks Your AI-Generated Poster"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Billboards for Contractors: When They Pay Off and When They're a Vanity Buy"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T23:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: AI Prompt Pack for Contractors: Copy-Paste Prompts That Sound Human"
-    },
-    {
-      "ts": "2026-07-05T18:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Telegram: Why Nobody Clicks Your AI-Generated Poster"
->>>>>>> Stashed changes
     }
   ]
 }

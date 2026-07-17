@@ -14,7 +14,10 @@ ICON = {"post": "📝", "reel": "🎬", "ad": "💸", "engage": "💬", "build":
 
 def add(kind, text):
     os.makedirs(os.path.dirname(LOG), exist_ok=True)
-    data = json.load(open(LOG)) if os.path.exists(LOG) else {"entries": []}
+    try:
+        data = json.load(open(LOG)) if os.path.exists(LOG) else {"entries": []}
+    except Exception:   # never let a corrupted changelog break event logging
+        data = {"entries": []}
     data["entries"].insert(0, {"ts": dt.datetime.now().isoformat(timespec="minutes"),
                                "kind": kind, "icon": ICON.get(kind, "•"), "text": text})
     data["entries"] = data["entries"][:200]

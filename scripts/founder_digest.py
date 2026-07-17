@@ -24,7 +24,10 @@ MAJOR = re.compile(r"podcast episode|blog drip|published \d+ staged|went live|de
 
 
 def load(p, d):
-    return json.load(open(p)) if os.path.exists(p) else d
+    try:
+        return json.load(open(p)) if os.path.exists(p) else d
+    except Exception:   # a corrupted state/changelog file must not crash the digest
+        return d
 
 
 def log(m):
