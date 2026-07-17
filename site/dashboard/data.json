@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T09:51",
+  "updated": "2026-07-17T11:23",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,17 +9,17 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 19,
+        "current": 20,
         "target": 30,
-        "pct": 63,
+        "pct": 67,
         "on_track": true
       },
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 26,
+        "current": 27,
         "target": 30,
-        "pct": 87,
+        "pct": 90,
         "on_track": true
       },
       {
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 126,
+        "current": 130,
         "target": 10000,
         "pct": 1,
         "on_track": false
@@ -122,7 +122,7 @@
       "date": "2026-07-21",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Every missed call is a booked job",
+      "title": "\"Can you do it cheaper?\"",
       "sub": "Reel"
     },
     {
@@ -150,7 +150,7 @@
       "date": "2026-07-24",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "\"Can you do it cheaper?\"",
+      "title": "No deposit, no material order",
       "sub": "Reel"
     },
     {
@@ -171,7 +171,7 @@
       "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "No deposit, no material order",
+      "title": "Ask for the review at 'wow'",
       "sub": "Reel"
     },
     {
@@ -199,9 +199,9 @@
     "reactions": 1,
     "comments": 4,
     "shares": 0,
-    "reels_published": 19,
+    "reels_published": 20,
     "posts_remaining": 32,
-    "reels_remaining": 11
+    "reels_remaining": 25
   },
   "ads": {
     "status": "PAUSED",
@@ -214,15 +214,15 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 126,
+    "views": 130,
     "likes": 0,
-    "videos": 26,
-    "shorts": 26
+    "videos": 27,
+    "shorts": 27
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 197
+    "media": 199
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 56,
+      "count": 57,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,28 +470,28 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 24,
+      "count": 25,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1525,
+      "views": 1529,
       "followers": 1
     },
     {
       "name": "YouTube",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "shorts",
       "grade": "D",
       "group": "social",
-      "views": 126,
+      "views": 130,
       "followers": 0,
       "likes": 0
     },
     {
       "name": "Blogger",
       "status": "live",
-      "count": 108,
+      "count": 109,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 85,
+      "count": 86,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 119,
+      "count": 120,
       "unit": "posts",
       "followers": 27,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 118,
+      "count": 119,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 99,
+      "count": 108,
       "unit": "posts (Buffer)",
       "stat": "844 reach \u00b7 5 reactions",
       "views": 7,
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 38,
+      "count": 39,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -592,7 +592,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 118,
+      "count": 119,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Long video",
@@ -669,7 +669,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Community posts",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 26
+        "count": 27
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 87
+        "count": 96
       },
       {
         "type": "Documents",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 40
+        "count": 41
       },
       {
         "type": "Articles",
@@ -733,7 +733,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 118
+        "count": 119
       },
       {
         "type": "Video pins",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 119
+        "count": 120
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 8
+        "count": 9
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 118
+        "count": 119
       },
       {
         "type": "Video",
@@ -804,12 +804,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 85
+        "count": 86
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 57
+        "count": 58
       }
     ]
   },
@@ -823,16 +823,16 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 11,
+      "remaining": 25,
       "per_day": 1,
-      "days": 11.0,
+      "days": 25.0,
       "status": "green"
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 56,
+      "remaining": 55,
       "per_day": 2,
-      "days": 28.0,
+      "days": 27.5,
       "status": "green"
     },
     {
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 39230,
+    "reach": 39242,
     "engagement": 5,
     "audience": 43,
     "cr_clicks": 31
@@ -860,13 +860,13 @@
     "audience": 20,
     "engagement": -11,
     "email": 2,
-    "reach": 5692
+    "reach": 5704
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 16830,
+        "value": 16834,
         "grade": "B"
       },
       {
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1281,
+        "value": 1299,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1281 posts, 43 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1299 posts, 43 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -2,6 +2,42 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@nates-t.bsky.social**: “Real ID doesn’t prove citizenship.” Then what does you stupid nepo-baby plumber (well, plumbing business inheritor)? This fucking guy - what a putz.
+  → https://bsky.app/profile/nates-t.bsky.social/post/3mqu2y3okj22i
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@xavierdleau.com**: being into sports is worse than being into a pop diva. 
+
+at least they dont be on tv much. 
+
+sports? tv. all the time. and then interviews. commentary. history. radio. 
+
+and then business. trades. mon
+  → https://bsky.app/profile/xavierdleau.com/post/3mqq7yu7qtc2j
+
+- **@theswolenerd.bsky.social**: The “white working class” right, so do you mean people who work (along with their colleagues from a multitude of backgrounds) in offices for wages just above the legally mandated minimum or do you mea
+  → https://bsky.app/profile/theswolenerd.bsky.social/post/3mqrtsncz422t
+
+- **@stylelib.org**: Reneva –  Small Business HTML Template
+
+ https://themes.stylelib.org/?p=19089 
+
+#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
+  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@lesjfrie.bsky.social**: It is not misleading.  Why does the Globe say "US defence contractor"?  Because General Dynamics is a US company based in Virginia, and its London, Ontario plant is a subsidiary. 
+www.gdlscanada.com/a
+  → https://bsky.app/profile/lesjfrie.bsky.social/post/3mqrrqdj2q22p
+
 - **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
   → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
 
@@ -155,46 +191,3 @@ www
 
 - **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
   → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
-
-- **@nonrevtraindisco.bsky.social**: It's generally well proven that skilled trades are good money and it makes a lot of the lower middle class who went to college and basically wasted that time and money very, very mad. "I gotta pay a p
-  → https://bsky.app/profile/nonrevtraindisco.bsky.social/post/3mqs7jfjqk22j
-
-- **@jenonymous.bsky.social**: How can you NOT be cynical when the president is publicly announcing advance access to his social media posts so you can place your insider trades (for a massive fee to his private business!) ahead of
-  → https://bsky.app/profile/jenonymous.bsky.social/post/3mqsa6xwlak2j
-
-- **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
-  → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@bollymama.bsky.social**: #DrClaudAnderson
-
-This educator’s story is INCREDIBLE.
-
-“Racism was never really about hate. Hate is the customer service window. The actual business is competition.”
-
-The strident attacks on DEI driv
-  → https://bsky.app/profile/bollymama.bsky.social/post/3mqowx2as7s2c
