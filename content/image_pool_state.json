@@ -3,12 +3,13 @@
     "posted": [
       "card-cpbj",
       "card-angi",
-      "card-reviews"
+      "card-reviews",
+      "card-rev-plumb"
     ],
-    "last_iso": "2026-07-17T15:16:24",
+    "last_iso": "2026-07-17T17:06:02",
     "day": {
       "date": "2026-07-17",
-      "count": 4
+      "count": 5
     }
   },
   "ig": {
@@ -27,12 +28,13 @@
       "card-rev-plumb",
       "card-rev-roof",
       "card-rev-elec",
-      "card-rev-paint"
+      "card-rev-paint",
+      "card-speed"
     ],
-    "last_iso": "2026-07-17T09:53:52",
+    "last_iso": "2026-07-17T17:06:02",
     "day": {
       "date": "2026-07-17",
-      "count": 1
+      "count": 2
     }
   }
 }

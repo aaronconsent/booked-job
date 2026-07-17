@@ -2,6 +2,61 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Kothu – Building  Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=825138 
+
+#architect #builder #business #contractor #corporate #handyman #industry #interior #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mqitwsupfn2l
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
+- **@ninapryce.bsky.social**: He turned a $25 prison phone call into a free letter. Then he built Emerge Career to put people in skilled trades.
+
+https://yespress.io/uzoma-orchingwa?utm_source=bluesky&utm_medium=social via Yespres
+  → https://bsky.app/profile/ninapryce.bsky.social/post/3mqsy5sfri22m
+
+- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
+
+Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
+  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
+
+- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
+  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
+
+- **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
+
+https://calib
+  → https://bsky.app/profile/calibrebooks.bsky.social/post/3mqt3eenowg2j
+
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
+  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
 - **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
   → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
 
@@ -142,56 +197,3 @@ www.gdlscanada.com/a
 - **@judgement-bot.bsky.social**: Brothekanon:
 Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
   → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
-
-- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
-
-Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
-  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
-
-- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=846637 
-
-#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
-  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
-
-- **@stylelib.org**: Renovar – Construction Company WordPress Theme
-
- https://stylelib.org/?p=639287 
-
-#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
-  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
-  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
-
-- **@kitchenpro.bsky.social**: Planning a kitchen remodel or new build? I’ll walk you through a real layout in one visit, then give you a clear scope for cabinets, plumbing, and electrical. If you’re building new, I can time it to 
-  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqt2na5b3w24
-
-- **@lhalljd.bsky.social**: Was he also a general contractor, and paid as one, like he is for the White House?
-  → https://bsky.app/profile/lhalljd.bsky.social/post/3mqtj473c422a
-
-- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
-
-Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
-  → https://bsky.app/profile/youngconst.bsky.social/post/3mqtpbto3zs2f
-
-- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
-
-Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
-
-therealbuzzfeed.com/most-recomme.
-  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T20:13:43Z",
+  "updated": "2026-07-17T22:02:27Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -82,14 +82,14 @@
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
+        "tag": "#hvac",
+        "uses": 8,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#contractor",
         "uses": 8,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",

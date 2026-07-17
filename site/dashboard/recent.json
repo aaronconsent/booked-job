@@ -1,40 +1,52 @@
 {
-  "updated": "2026-07-17T15:17",
+  "updated": "2026-07-17T17:07",
   "posts": [
     {
-      "ts": "2026-07-17T15:16:27",
+      "ts": "2026-07-17T17:06:44",
+      "channel": "facebook",
+      "item": "card-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T17:06:05",
       "channel": "mastodon",
-      "item": "card-reviews",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-07-17T15:16:14",
+      "ts": "2026-07-17T17:05:19",
       "channel": "tumblr",
-      "item": "homeadvisor-ftc-72-million-fine",
+      "item": "when-angi-actually-works",
       "url": null
     },
     {
-      "ts": "2026-07-17T15:16:11",
+      "ts": "2026-07-17T17:05:17",
       "channel": "tumblr",
-      "item": "explainer-lesson-01",
+      "item": "rip-angi-rip",
       "url": null
     },
     {
-      "ts": "2026-07-17T15:16:04",
+      "ts": "2026-07-17T17:05:13",
       "channel": "bluesky",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-07-17T15:16:02",
+      "ts": "2026-07-17T17:05:11",
+      "channel": "linkedin",
+      "item": "bj-yelp",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T17:05:10",
       "channel": "tiktok",
-      "item": "rip-speed-rip",
+      "item": "stop-renting-leads",
       "url": null
     },
     {
-      "ts": "2026-07-17T15:16:01",
-      "channel": "ig",
-      "item": "bj-angi",
+      "ts": "2026-07-17T17:03:34",
+      "channel": "fb",
+      "item": "cheaper",
       "url": null
     }
   ]
