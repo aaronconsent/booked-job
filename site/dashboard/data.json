@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:18",
+  "updated": "2026-07-17T09:51",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -108,50 +108,71 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "You don't lose most jobs on price. You lose them on response",
-      "sub": "course promo"
+      "title": "The part is cheap. Knowing which part isn't. Where do you la",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
-      "sub": "business"
+      "title": "Customer wants the diagnostic fee waived \u201csince you're alrea",
+      "sub": "pricing drama"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Every missed call is a booked job",
+      "sub": "Reel"
     },
     {
       "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Your cheapest leads aren't on Angi. They're the customers yo",
-      "sub": "course promo"
+      "title": "The other guy's quote and yours aren't the same job. Homeown",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Three ways shops bleed money they never see:",
-      "sub": "business"
+      "title": "The \u201cfriend price\u201d is full price plus the headache. Every sh",
+      "sub": "pricing drama"
     },
     {
       "date": "2026-07-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "New episode of Get Booked, Not F***ed: why the guy with 140 ",
-      "sub": "podcast promo"
+      "title": "Opened a panel today and found wire nuts holding things toge",
+      "sub": "hack job"
+    },
+    {
+      "date": "2026-07-24",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "\"Can you do it cheaper?\"",
+      "sub": "Reel"
     },
     {
       "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
-      "sub": "owner solidarity"
+      "title": "Flex tape on a supply line isn't a repair \u2014 it's a countdown",
+      "sub": "hack job"
     },
     {
       "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "New episode: you don't lose jobs on price, you lose them on ",
-      "sub": "podcast promo"
+      "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
+      "sub": "hack job"
+    },
+    {
+      "date": "2026-07-28",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "No deposit, no material order",
+      "sub": "Reel"
     },
     {
       "date": "2026-07-29",
@@ -164,29 +185,8 @@
       "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "78% of homeowners hire whoever calls back FIRST \u2014 not the be",
-      "sub": "real trade numbers"
-    },
-    {
-      "date": "2026-07-31",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Respond to a lead in 5 minutes and you're 100x more likely t",
-      "sub": "real trade numbers"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "What an Angi booked job ACTUALLY costs once you count the le",
-      "sub": "real trade numbers"
-    },
-    {
-      "date": "2026-08-04",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "The average contractor website converts 2\u20133% \u2014 meaning ~98% ",
-      "sub": "real trade numbers"
+      "title": "Nobody claps when it's done right \u2014 the light just turns on,",
+      "sub": "before after"
     }
   ],
   "page": {
@@ -200,8 +200,8 @@
     "comments": 4,
     "shares": 0,
     "reels_published": 19,
-    "posts_remaining": 118,
-    "reels_remaining": 0
+    "posts_remaining": 32,
+    "reels_remaining": 11
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 195
+    "media": 197
   },
   "email": {
     "subscribers": 7
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1418,
+      "views": 1525,
       "followers": 1
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 107,
+      "count": 108,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 84,
+      "count": 85,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 118,
+      "count": 119,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 118,
+      "count": 119,
       "unit": "posts",
       "followers": 27,
       "grade": "C",
@@ -525,7 +525,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 118,
+      "count": 119,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -592,7 +592,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 117,
+      "count": 118,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 3
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 3
       },
       {
         "type": "Long video",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 39
+        "count": 40
       },
       {
         "type": "Articles",
@@ -733,7 +733,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 117
+        "count": 118
       },
       {
         "type": "Video pins",
@@ -745,19 +745,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 118
+        "count": 119
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 7
+        "count": 8
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 118
+        "count": 119
       },
       {
         "type": "Video",
@@ -804,29 +804,29 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 84
+        "count": 85
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 56
+        "count": 57
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 118,
+      "remaining": 47,
       "per_day": 2,
-      "days": 59.0,
+      "days": 23.5,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 0,
+      "remaining": 11,
       "per_day": 1,
-      "days": 0.0,
-      "status": "red"
+      "days": 11.0,
+      "status": "green"
     },
     {
       "label": "YouTube/IG shorts",
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 39007,
+    "reach": 39230,
     "engagement": 5,
     "audience": 43,
     "cr_clicks": 31
@@ -860,7 +860,7 @@
     "audience": 20,
     "engagement": -11,
     "email": 2,
-    "reach": 5469
+    "reach": 5692
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1275,
+        "value": 1281,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1275 posts, 43 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1281 posts, 43 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

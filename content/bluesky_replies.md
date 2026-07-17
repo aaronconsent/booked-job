@@ -2,6 +2,48 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
+  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
+
+- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
+  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
+
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
+- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
+
+ https://stylelib.org/?p=106268 
+
+#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
+  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
+
+- **@boulderseomarketing.com**: When someone asks AI for the best local plumber, does your business show up? Earned media is now a top way to get cited in AI search.
+
+Here's how: https://www.linkedin.com/pulse/why-ai-assistants-reco
+  → https://bsky.app/profile/boulderseomarketing.com/post/3mqdppsh4ek2s
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@stylelib.org**: Renovar – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=639287 
+
+#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
+  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
+
+- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
+
+- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
+  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
+
 - **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
   → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
 
@@ -156,39 +198,3 @@ This educator’s story is INCREDIBLE.
 
 The strident attacks on DEI driv
   → https://bsky.app/profile/bollymama.bsky.social/post/3mqowx2as7s2c
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
-
-- **@dannygroner.bsky.social**: "In interviews, a dozen young people in the skilled trades said they had grown accustomed to the advice of guidance counselors and well-meaning aunts that they should go to college instead. But that m
-  → https://bsky.app/profile/dannygroner.bsky.social/post/3mqnh3xolqk26
-
-- **@chriscardsfan.bsky.social**: People who say things like that would never seriously consider a job in the manufacturing sector. Moreover, it’s a moot point. We do need more young people in skilled trades, but ask anyone recruiting
-  → https://bsky.app/profile/chriscardsfan.bsky.social/post/3mqrtu2lml222
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@theferalhermit.bsky.social**: "We" is too general of a term. Do you mean militarily, technologically, intelligence, AI, economical funding, etc? By the government directly or via a contractor? I might be able to point you in the r
-  → https://bsky.app/profile/theferalhermit.bsky.social/post/3mqrr2e5ofk2k
-
-- **@lesjfrie.bsky.social**: It is not misleading.  Why does the Globe say "US defence contractor"?  Because General Dynamics is a US company based in Virginia, and its London, Ontario plant is a subsidiary. 
-www.gdlscanada.com/a
-  → https://bsky.app/profile/lesjfrie.bsky.social/post/3mqrrqdj2q22p
-
-- **@theswolenerd.bsky.social**: The “white working class” right, so do you mean people who work (along with their colleagues from a multitude of backgrounds) in offices for wages just above the legally mandated minimum or do you mea
-  → https://bsky.app/profile/theswolenerd.bsky.social/post/3mqrtsncz422t
-
-- **@mackaracka.bsky.social**: If you are in metro Detroit, and need a plumber, highly recommend Lakeview.  Have used in past. They are down to earth, prompt, polite, efficient, and reasonably priced.  They also do electric and hva
-  → https://bsky.app/profile/mackaracka.bsky.social/post/3mpocaauwik2k
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f

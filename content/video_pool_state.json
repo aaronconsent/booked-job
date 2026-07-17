@@ -105,12 +105,13 @@
       "clip3-onestar",
       "is-angi-worth-it",
       "money-leaks-torque",
-      "money-leaks"
+      "money-leaks",
+      "explainer-lesson-01"
     ],
-    "last_iso": "2026-07-17T07:19:43",
+    "last_iso": "2026-07-17T09:52:57",
     "day": {
       "date": "2026-07-17",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -154,12 +155,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-07-17T07:19:43",
+    "last_iso": "2026-07-17T09:52:57",
     "day": {
       "date": "2026-07-17",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -230,12 +232,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-07-17T07:19:43",
+    "last_iso": "2026-07-17T09:52:57",
     "day": {
       "date": "2026-07-17",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -311,12 +314,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-07-17T07:19:43",
+    "last_iso": "2026-07-17T09:52:57",
     "day": {
       "date": "2026-07-17",
-      "count": 1
+      "count": 2
     }
   }
 }

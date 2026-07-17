@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T12:18:27Z",
+  "updated": "2026-07-17T14:51:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 20,
+        "uses": 21,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,14 +92,14 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#plumbing",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#handyman",
         "uses": 4,
         "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#HVACsystem",
@@ -117,6 +117,11 @@
         "link": "https://mastodon.social/tags/hvacousticslidingpartition"
       },
       {
+        "tag": "#roofing",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
@@ -130,11 +135,6 @@
         "tag": "#hvacengineer",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacengineer"
-      },
-      {
-        "tag": "#PlumbingLambeth",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingLambeth"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23003,
+        "followers": 23004,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
