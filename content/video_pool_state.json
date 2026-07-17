@@ -33,12 +33,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-07-16T15:10:46",
+    "last_iso": "2026-07-17T07:19:43",
     "day": {
-      "date": "2026-07-16",
-      "count": 2
+      "date": "2026-07-17",
+      "count": 1
     }
   },
   "tiktok": {
@@ -103,12 +104,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-07-16T19:11:19",
+    "last_iso": "2026-07-17T07:19:43",
     "day": {
-      "date": "2026-07-16",
-      "count": 7
+      "date": "2026-07-17",
+      "count": 1
     }
   },
   "linkedin": {
@@ -151,12 +153,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-07-16T17:14:23",
+    "last_iso": "2026-07-17T07:19:43",
     "day": {
-      "date": "2026-07-16",
-      "count": 5
+      "date": "2026-07-17",
+      "count": 1
     }
   },
   "facebook": {
@@ -201,12 +204,13 @@
       "bj-slow",
       "bj-cpbj",
       "bj-speed",
-      "bj-ftc"
+      "bj-ftc",
+      "bj-cpl"
     ],
-    "last_iso": "2026-07-16T19:11:19",
+    "last_iso": "2026-07-17T07:19:43",
     "day": {
-      "date": "2026-07-16",
-      "count": 3
+      "date": "2026-07-17",
+      "count": 1
     }
   },
   "pinterest": {
@@ -225,12 +229,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-07-16T19:11:19",
+    "last_iso": "2026-07-17T07:19:43",
     "day": {
-      "date": "2026-07-16",
-      "count": 7
+      "date": "2026-07-17",
+      "count": 1
     }
   },
   "telegram": {
@@ -305,12 +310,13 @@
       "ad-summit",
       "clip-speed",
       "clip1-turd",
-      "clip2-game"
+      "clip2-game",
+      "clip3-onestar"
     ],
-    "last_iso": "2026-07-16T19:11:19",
+    "last_iso": "2026-07-17T07:19:43",
     "day": {
-      "date": "2026-07-16",
-      "count": 7
+      "date": "2026-07-17",
+      "count": 1
     }
   }
 }

@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
+  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
+
+- **@kitchenpro.bsky.social**: Planning a kitchen remodel or new build? I’ll walk you through a real layout in one visit, then give you a clear scope for cabinets, plumbing, and electrical. If you’re building new, I can time it to 
+  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqt2na5b3w24
+
+- **@lhalljd.bsky.social**: Was he also a general contractor, and paid as one, like he is for the White House?
+  → https://bsky.app/profile/lhalljd.bsky.social/post/3mqtj473c422a
+
+- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
+
+Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
+  → https://bsky.app/profile/youngconst.bsky.social/post/3mqtpbto3zs2f
+
+- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
+
+Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
+
+therealbuzzfeed.com/most-recomme.
+  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
 - **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
 
 Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
@@ -168,30 +192,3 @@ www.gdlscanada.com/a
 
 #boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
   → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=846637 
-
-#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
-  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@judgement-bot.bsky.social**: Brothekanon:
-Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
-  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
-
-- **@stylelib.org**: Borvel – Construction Building Company WordPress Theme
-
- https://stylelib.org/?p=106268 
-
-#builder #painter #themeforest #wordpress #architecture #business #plumber #building #company #corporate #real
-  → https://bsky.app/profile/stylelib.org/post/3mpx47c6ner2s
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
