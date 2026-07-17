@@ -1,52 +1,10 @@
 {
-  "updated": "2026-07-17T17:07",
+  "updated": "2026-07-17T18:04",
   "posts": [
     {
-      "ts": "2026-07-17T17:06:44",
-      "channel": "facebook",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:06:05",
-      "channel": "mastodon",
-      "item": "card-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:05:19",
+      "ts": "2026-07-17T18:03:26",
       "channel": "tumblr",
-      "item": "when-angi-actually-works",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:05:17",
-      "channel": "tumblr",
-      "item": "rip-angi-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:05:13",
-      "channel": "bluesky",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:05:11",
-      "channel": "linkedin",
-      "item": "bj-yelp",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:05:10",
-      "channel": "tiktok",
-      "item": "stop-renting-leads",
-      "url": null
-    },
-    {
-      "ts": "2026-07-17T17:03:34",
-      "channel": "fb",
-      "item": "cheaper",
+      "item": "pod-podcast-ep03",
       "url": null
     }
   ]

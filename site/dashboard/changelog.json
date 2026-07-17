@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-07-17T18:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: ugc before after"
+    },
+    {
+      "ts": "2026-07-17T18:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing callback"
+    },
+    {
+      "ts": "2026-07-17T18:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing callback"
+    },
+    {
+      "ts": "2026-07-17T18:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Cost Per Lead vs Cost Per Booked Job — The 2 Numbers"
+    },
+    {
+      "ts": "2026-07-17T18:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): Plumber Marketing: How to Get More Plumbing Jobs in 2026"
+    },
+    {
       "ts": "2026-07-17T17:06",
       "kind": "engage",
       "icon": "💬",
@@ -1169,36 +1199,6 @@
       "kind": "reel",
       "icon": "🎬",
       "text": "Published Reel: The spite ad that opens the show"
-    },
-    {
-      "ts": "2026-07-07T07:08",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
-    },
-    {
-      "ts": "2026-07-07T03:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): The 3-Hours-a-Month Marketing Plan for Contractors Who Hate Marketing"
-    },
-    {
-      "ts": "2026-07-07T03:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): The One Trust Signal That Matters Most for the Trades"
-    },
-    {
-      "ts": "2026-07-07T03:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: AI 101 for Contractors: What Actually Helps and What's Just Hype"
-    },
-    {
-      "ts": "2026-07-07T03:37",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Do Yard Signs Still Work for Contractors? Placement, Wording, and Tracking the Calls"
     }
   ]
 }
