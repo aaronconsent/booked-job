@@ -108,12 +108,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-07-18T14:21:07",
+    "last_iso": "2026-07-18T17:02:20",
     "day": {
       "date": "2026-07-18",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
