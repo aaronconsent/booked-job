@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-18T10:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: ba credit"
+    },
+    {
+      "ts": "2026-07-18T10:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: ba credit"
+    },
+    {
+      "ts": "2026-07-18T10:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Thumbtack vs Angi for Contractors (2026): The Per-Booked-Job Math"
+    },
+    {
       "ts": "2026-07-18T08:45",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Bluesky: The Roofing Storm-Chaser \"Free Inspection\" Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-07T23:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): The Roofing Storm-Chaser \"Free Inspection\" Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-07T23:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: The Roofing Storm-Chaser \"Free Inspection\" Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-07T23:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Contractor Referrals & Repeat Customers: Your Cheapest Marketing"
     }
   ]
 }
