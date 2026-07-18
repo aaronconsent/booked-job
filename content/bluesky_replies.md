@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
+
+ https://stylelib.org/?p=164679 
+
+#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
+  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
+
+- **@beanjammin.bsky.social**: Aren't personnel carriers the things getting blown up regularly by drones when they wander within 50km of the front in Ukraine?
+
+What say we buy fewer expensive targets from US arms manufacturers?
+www
+  → https://bsky.app/profile/beanjammin.bsky.social/post/3mqsdnjo5t22b
+
+- **@204queenb0574.bsky.social**: So why allow them to build this on the shores of the St Lawrence River, a very strategic waterway for our national security? Fully funded by the US military? The fifth largest military contractor in t
+  → https://bsky.app/profile/204queenb0574.bsky.social/post/3mqufk23ipc2r
+
 - **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
 
  https://themes.stylelib.org/?p=640 
@@ -185,16 +201,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 #electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
   → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
-
- https://stylelib.org/?p=877700 
-
-#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
-  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
-
-- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
-  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
