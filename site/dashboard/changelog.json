@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-07-18T14:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner neighbor"
+    },
+    {
+      "ts": "2026-07-18T14:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: homeowner drain"
+    },
+    {
+      "ts": "2026-07-18T14:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner drain"
+    },
+    {
+      "ts": "2026-07-18T14:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Cost Per Lead Is the Wrong Number. Track Cost Per Booked Job."
+    },
+    {
+      "ts": "2026-07-18T14:20",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published Reel: Ask for the review at 'wow'"
+    },
+    {
       "ts": "2026-07-18T12:10",
       "kind": "engage",
       "icon": "💬",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Threads: The Roofing Storm-Chaser \"Free Inspection\" Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T02:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Real Pest-Control Marketing Numbers: Lead Costs & What a Booked Job Is Worth"
-    },
-    {
-      "ts": "2026-07-08T02:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: The HVAC \"Free System Check\" Upsell Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T02:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): The HVAC \"Free System Check\" Upsell Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T02:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: The HVAC \"Free System Check\" Upsell Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T02:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Google Local Services Ads: The Better Lead Math"
     }
   ]
 }

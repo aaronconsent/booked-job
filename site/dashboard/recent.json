@@ -1,40 +1,52 @@
 {
-  "updated": "2026-07-18T12:11",
+  "updated": "2026-07-18T14:23",
   "posts": [
     {
-      "ts": "2026-07-18T12:10:15",
+      "ts": "2026-07-18T14:22:26",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-07-18T12:10:06",
+      "ts": "2026-07-18T14:21:46",
       "channel": "tumblr",
-      "item": "google-local-service-ads-worth-it",
+      "item": "pod-ep03-exclusive",
       "url": null
     },
     {
-      "ts": "2026-07-18T12:10:05",
+      "ts": "2026-07-18T14:21:46",
       "channel": "tumblr",
-      "item": "pod-ep03-track",
+      "item": "cost-per-lead-is-the-wrong-number",
       "url": null
     },
     {
-      "ts": "2026-07-18T12:10:04",
+      "ts": "2026-07-18T14:21:45",
       "channel": "bluesky",
-      "item": "pod-ep01-cost",
+      "item": "pod-ep01-wrongnum",
       "url": null
     },
     {
-      "ts": "2026-07-18T12:10:02",
+      "ts": "2026-07-18T14:21:43",
+      "channel": "linkedin",
+      "item": "bj-stormchaser",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T14:21:42",
       "channel": "tiktok",
-      "item": "pod-ep03-trap",
+      "item": "pod-ep03-lie",
       "url": null
     },
     {
-      "ts": "2026-07-18T12:10:01",
-      "channel": "facebook",
-      "item": "bj-scam",
+      "ts": "2026-07-18T14:21:41",
+      "channel": "ig",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T14:19:31",
+      "channel": "fb",
+      "item": "review-timing",
       "url": null
     }
   ]
