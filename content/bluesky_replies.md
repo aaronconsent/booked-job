@@ -2,6 +2,53 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
+  → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
+
+- **@bollymama.bsky.social**: #DrClaudAnderson
+
+This educator’s story is INCREDIBLE.
+
+“Racism was never really about hate. Hate is the customer service window. The actual business is competition.”
+
+The strident attacks on DEI driv
+  → https://bsky.app/profile/bollymama.bsky.social/post/3mqowx2as7s2c
+
+- **@stylelib.org**: Constructo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=6194 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
+  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
+
+- **@riversdaughter.bsky.social**: *ahem*
+
+Your attention, please!
+
+Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
+
+Boston, North & South Shores, 
+  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
+
+- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
+
+AI can help your home service business save time, capture more leads, and improve customer service.
+
+Explore the best AI tools here 👇
+
+🔗 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
+
+- **@promarksolutions.bsky.social**: New site live for Chaspen Construction, a skidsteer and hot shot hauling business in Blackfalds serving Central Alberta. Want a website like this for your trades or hauling business? Promark Business 
+  → https://bsky.app/profile/promarksolutions.bsky.social/post/3mqu65vbrpr23
+
+- **@stylelib.org**: Buildbench – Construction Business WordPress Theme
+
+ https://themes.stylelib.org/?p=2183 
+
+#builder #building #business #construction #contractor #corporate #industrial #industry #plumber #renovation 
+  → https://bsky.app/profile/stylelib.org/post/3mqubfat5lf23
+
 - **@nates-t.bsky.social**: “Real ID doesn’t prove citizenship.” Then what does you stupid nepo-baby plumber (well, plumbing business inheritor)? This fucking guy - what a putz.
   → https://bsky.app/profile/nates-t.bsky.social/post/3mqu2y3okj22i
 
@@ -148,35 +195,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@parraseaux.bsky.social**: Ooof I hate this stuff. I get a few of these requests once in a while too and it’s just so frustrating. I have never seen anyone so lackadaisical about any other profession. Nobody would ask a plumber
   → https://bsky.app/profile/parraseaux.bsky.social/post/3mqandpvjg22j
-
-- **@maliciouschat.bsky.social**: JPMorgan CEO Jamie Dimon says 300,000 workers are needed to rebuild American shipbuilding—with jobs paying $100,000 without a college degree 
-
-now he is a ship builder 
-
-who is going to buy those ship
-  → https://bsky.app/profile/maliciouschat.bsky.social/post/3mqsfwfed5c2x
-
-- **@beanjammin.bsky.social**: Aren't personnel carriers the things getting blown up regularly by drones when they wander within 50km of the front in Ukraine?
-
-What say we buy fewer expensive targets from US arms manufacturers?
-www
-  → https://bsky.app/profile/beanjammin.bsky.social/post/3mqsdnjo5t22b
-
-- **@204queenb0574.bsky.social**: So why allow them to build this on the shores of the St Lawrence River, a very strategic waterway for our national security? Fully funded by the US military? The fifth largest military contractor in t
-  → https://bsky.app/profile/204queenb0574.bsky.social/post/3mqufk23ipc2r
-
-- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
-
- https://themes.stylelib.org/?p=640 
-
-#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
-
-- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
-  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
-
-- **@orchy408.bsky.social**: It makes more sense than covering up farmland or waterbodies !  Every roof / parkade , etc. should be required to have solar & it will also help spur on innovation for solar roofing/ siding/ windows??
-  → https://bsky.app/profile/orchy408.bsky.social/post/3mpu677dtpk24
-
-- **@jenonymous.bsky.social**: How can you NOT be cynical when the president is publicly announcing advance access to his social media posts so you can place your insider trades (for a massive fee to his private business!) ahead of
-  → https://bsky.app/profile/jenonymous.bsky.social/post/3mqsa6xwlak2j
