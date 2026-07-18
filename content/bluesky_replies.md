@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
+
+ https://themes.stylelib.org/?p=640 
+
+#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
+
+- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
+  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
+
 - **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
   → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
 
@@ -188,10 +198,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@parraseaux.bsky.social**: Ooof I hate this stuff. I get a few of these requests once in a while too and it’s just so frustrating. I have never seen anyone so lackadaisical about any other profession. Nobody would ask a plumber
-  → https://bsky.app/profile/parraseaux.bsky.social/post/3mqandpvjg22j
