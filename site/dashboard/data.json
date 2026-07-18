@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T14:18",
+  "updated": "2026-07-18T16:01",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 22,
+        "current": 23,
         "target": 30,
-        "pct": 73,
+        "pct": 77,
         "on_track": true
       },
       {
@@ -122,7 +122,7 @@
       "date": "2026-07-21",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Ask for the review at 'wow'",
+      "title": "Five minutes or you lose the lead",
       "sub": "Reel"
     },
     {
@@ -150,7 +150,7 @@
       "date": "2026-07-24",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Five minutes or you lose the lead",
+      "title": "The trades don't have a wage problem",
       "sub": "Reel"
     },
     {
@@ -171,7 +171,7 @@
       "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The trades don't have a wage problem",
+      "title": "Stop waiving the diagnostic fee",
       "sub": "Reel"
     },
     {
@@ -199,9 +199,9 @@
     "reactions": 3,
     "comments": 3,
     "shares": 0,
-    "reels_published": 22,
+    "reels_published": 23,
     "posts_remaining": 29,
-    "reels_remaining": 23
+    "reels_remaining": 22
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 218
+    "media": 222
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 62,
+      "count": 63,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 27,
+      "count": 28,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1584,
+      "views": 1591,
       "followers": 1
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 100,
+      "count": 101,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 134,
+      "count": 135,
       "unit": "posts",
       "followers": 31,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 133,
+      "count": 134,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 117,
+      "count": 118,
       "unit": "posts (Buffer)",
       "stat": "844 reach \u00b7 5 reactions",
       "views": 7,
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 22
+        "count": 23
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 3
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 22
+        "count": 23
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 3
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 30
+        "count": 31
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 105
+        "count": 106
       },
       {
         "type": "Documents",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 45
+        "count": 46
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 134
+        "count": 135
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 18
+        "count": 19
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 133
+        "count": 134
       },
       {
         "type": "Video",
@@ -804,12 +804,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 100
+        "count": 101
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -823,9 +823,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 23,
+      "remaining": 22,
       "per_day": 1,
-      "days": 23.0,
+      "days": 22.0,
       "status": "green"
     },
     {
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 39541,
+    "reach": 39554,
     "engagement": 6,
     "audience": 48,
     "cr_clicks": 31
@@ -860,7 +860,7 @@
     "audience": 22,
     "engagement": -8,
     "email": 2,
-    "reach": 5343
+    "reach": 5356
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1370,
+        "value": 1377,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1370 posts, 48 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1377 posts, 48 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -1,52 +1,40 @@
 {
-  "updated": "2026-07-18T14:23",
+  "updated": "2026-07-18T16:04",
   "posts": [
     {
-      "ts": "2026-07-18T14:22:26",
+      "ts": "2026-07-18T16:04:15",
+      "channel": "facebook",
+      "item": "card-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T16:03:33",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-07-18T14:21:46",
+      "ts": "2026-07-18T16:03:21",
       "channel": "tumblr",
-      "item": "pod-ep03-exclusive",
+      "item": "lead-cost-per-booked-job-by-channel",
       "url": null
     },
     {
-      "ts": "2026-07-18T14:21:46",
+      "ts": "2026-07-18T16:03:19",
       "channel": "tumblr",
-      "item": "cost-per-lead-is-the-wrong-number",
+      "item": "pod-ep03-channels",
       "url": null
     },
     {
-      "ts": "2026-07-18T14:21:45",
+      "ts": "2026-07-18T16:03:19",
       "channel": "bluesky",
-      "item": "pod-ep01-wrongnum",
+      "item": "pod-ep01-shared",
       "url": null
     },
     {
-      "ts": "2026-07-18T14:21:43",
-      "channel": "linkedin",
-      "item": "bj-stormchaser",
-      "url": null
-    },
-    {
-      "ts": "2026-07-18T14:21:42",
+      "ts": "2026-07-18T16:03:17",
       "channel": "tiktok",
-      "item": "pod-ep03-lie",
-      "url": null
-    },
-    {
-      "ts": "2026-07-18T14:21:41",
-      "channel": "ig",
-      "item": "bj-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-07-18T14:19:31",
-      "channel": "fb",
-      "item": "review-timing",
+      "item": "pod-ep02-system",
       "url": null
     }
   ]
