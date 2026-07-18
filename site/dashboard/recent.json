@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-18T17:03",
+  "updated": "2026-07-18T18:06",
   "posts": [
     {
-      "ts": "2026-07-18T17:02:23",
-      "channel": "tumblr",
-      "item": "how-much-do-contractor-leads-cost",
+      "ts": "2026-07-18T18:04:57",
+      "channel": "mastodon",
+      "item": "card-ai",
       "url": null
     },
     {
-      "ts": "2026-07-18T17:02:22",
-      "channel": "linkedin",
-      "item": "bj-freecheck",
+      "ts": "2026-07-18T18:04:14",
+      "channel": "tumblr",
+      "item": "homeadvisor-alternatives",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T18:04:13",
+      "channel": "tumblr",
+      "item": "pod-ep03-trap",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T18:04:12",
+      "channel": "bluesky",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T18:04:09",
+      "channel": "tiktok",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T18:04:08",
+      "channel": "facebook",
+      "item": "bj-rev-hvac",
       "url": null
     }
   ]
