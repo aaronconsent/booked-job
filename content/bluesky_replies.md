@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
+  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
+
+- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
+  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
+
+- **@yespress.bsky.social**: Ruchir Shah researched the BP oil spill, concluded bad training kills, and built a career fixing it.
+
+Full story on https://yespress.io/ruchir-shah?utm_source=bluesky&utm_medium=social - apply for com
+  → https://bsky.app/profile/yespress.bsky.social/post/3mqw5l4iepv2n
+
+- **@jenonymous.bsky.social**: How can you NOT be cynical when the president is publicly announcing advance access to his social media posts so you can place your insider trades (for a massive fee to his private business!) ahead of
+  → https://bsky.app/profile/jenonymous.bsky.social/post/3mqsa6xwlak2j
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
 
  https://stylelib.org/?p=164679 
@@ -168,36 +196,3 @@ therealbuzzfeed.com/most-recomme.
 
 https://yespress.io/uzoma-orchingwa?utm_source=bluesky&utm_medium=social via Yespres
   → https://bsky.app/profile/ninapryce.bsky.social/post/3mqsy5sfri22m
-
-- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
-
-Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
-  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
-
-- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
-  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
-
-- **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
-
-https://calib
-  → https://bsky.app/profile/calibrebooks.bsky.social/post/3mqt3eenowg2j
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x

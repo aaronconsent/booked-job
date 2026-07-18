@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:01",
+  "updated": "2026-07-18T08:42",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 21,
+        "current": 22,
         "target": 30,
-        "pct": 70,
+        "pct": 73,
         "on_track": true
       },
       {
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 28,
+        "current": 29,
         "target": 60,
-        "pct": 47,
+        "pct": 48,
         "on_track": false
       },
       {
@@ -57,7 +57,7 @@
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 4,
+        "current": 5,
         "target": 400,
         "pct": 1,
         "on_track": false
@@ -89,9 +89,9 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 4,
+        "current": 5,
         "target": 300,
-        "pct": 1,
+        "pct": 2,
         "on_track": false
       }
     ]
@@ -108,39 +108,32 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The other guy's quote and yours aren't the same job. Homeown",
-      "sub": "pricing drama"
-    },
-    {
-      "date": "2026-07-21",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "The \u201cfriend price\u201d is full price plus the headache. Every sh",
       "sub": "pricing drama"
     },
     {
       "date": "2026-07-21",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "No deposit, no material order",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Opened a panel today and found wire nuts holding things toge",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-21",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Ask for the review at 'wow'",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Flex tape on a supply line isn't a repair \u2014 it's a countdown",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
@@ -148,20 +141,20 @@
     },
     {
       "date": "2026-07-24",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Ask for the review at 'wow'",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Drop your best before/after. Any trade \u2014 roof, panel, re-pip",
       "sub": "before after"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-24",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Five minutes or you lose the lead",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Nobody claps when it's done right \u2014 the light just turns on,",
@@ -169,39 +162,46 @@
     },
     {
       "date": "2026-07-28",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Five minutes or you lose the lead",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "There is no \u201cjust quickly.\u201d Every trade knows it. What's the",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-28",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The trades don't have a wage problem",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "It looked easy in the video. That's the whole business model",
+      "sub": "homeowner says"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
       "sub": "homeowner says"
     }
   ],
   "page": {
     "name": "Booked Job",
-    "followers": 4,
-    "likes": 4
+    "followers": 5,
+    "likes": 5
   },
   "content": {
-    "posts_published": 28,
+    "posts_published": 29,
     "reactions": 3,
     "comments": 3,
     "shares": 0,
-    "reels_published": 21,
-    "posts_remaining": 30,
-    "reels_remaining": 24
+    "reels_published": 22,
+    "posts_remaining": 29,
+    "reels_remaining": 23
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 211
+    "media": 214
   },
   "email": {
     "subscribers": 7
@@ -459,22 +459,22 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 60,
+      "count": 62,
       "unit": "posts",
       "grade": "B",
       "group": "social",
       "views": 4197,
-      "followers": 4,
+      "followers": 5,
       "likes": 3
     },
     {
       "name": "Instagram",
       "status": "live",
-      "count": 26,
+      "count": 27,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1580,
+      "views": 1583,
       "followers": 1
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 96,
+      "count": 97,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 130,
+      "count": 131,
       "unit": "posts",
       "followers": 30,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 129,
+      "count": 130,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 115,
+      "count": 116,
       "unit": "posts (Buffer)",
       "stat": "844 reach \u00b7 5 reactions",
       "views": 7,
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 41,
+      "count": 42,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 27
+        "count": 28
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 29
+        "count": 30
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 103
+        "count": 104
       },
       {
         "type": "Documents",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 43
+        "count": 44
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 130
+        "count": 131
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 14
+        "count": 15
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 129
+        "count": 130
       },
       {
         "type": "Video",
@@ -804,28 +804,28 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 96
+        "count": 97
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 63
+        "count": 64
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 45,
+      "remaining": 44,
       "per_day": 2,
-      "days": 22.5,
+      "days": 22.0,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 24,
+      "remaining": 23,
       "per_day": 1,
-      "days": 24.0,
+      "days": 23.0,
       "status": "green"
     },
     {
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 39531,
+    "reach": 39540,
     "engagement": 6,
-    "audience": 46,
+    "audience": 47,
     "cr_clicks": 31
   },
   "trends": {
-    "audience": 20,
+    "audience": 21,
     "engagement": -8,
     "email": 2,
-    "reach": 5333
+    "reach": 5342
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1352,
+        "value": 1360,
         "grade": "A"
       },
       {
@@ -886,7 +886,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 46,
+        "value": 47,
         "grade": "D"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1352 posts, 46 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1360 posts, 47 audience, 31 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

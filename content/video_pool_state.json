@@ -47,12 +47,13 @@
   "tiktok": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-07-18T07:04:45",
+    "last_iso": "2026-07-18T08:44:11",
     "day": {
       "date": "2026-07-18",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -186,12 +187,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-07-18T07:04:45",
+    "last_iso": "2026-07-18T08:44:11",
     "day": {
       "date": "2026-07-18",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -274,12 +276,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-07-18T07:04:45",
+    "last_iso": "2026-07-18T08:44:11",
     "day": {
       "date": "2026-07-18",
-      "count": 1
+      "count": 2
     }
   }
 }
