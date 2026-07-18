@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@nates-t.bsky.social**: “Real ID doesn’t prove citizenship.” Then what does you stupid nepo-baby plumber (well, plumbing business inheritor)? This fucking guy - what a putz.
+  → https://bsky.app/profile/nates-t.bsky.social/post/3mqu2y3okj22i
+
+- **@theswolenerd.bsky.social**: The “white working class” right, so do you mean people who work (along with their colleagues from a multitude of backgrounds) in offices for wages just above the legally mandated minimum or do you mea
+  → https://bsky.app/profile/theswolenerd.bsky.social/post/3mqrtsncz422t
+
+- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
+  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
+
+- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
+  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
+
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
+- **@stylelib.org**: Reneva –  Small Business HTML Template
+
+ https://themes.stylelib.org/?p=19089 
+
+#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
+  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
 - **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
   → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
 
@@ -147,53 +180,3 @@ www
 
 - **@jenonymous.bsky.social**: How can you NOT be cynical when the president is publicly announcing advance access to his social media posts so you can place your insider trades (for a massive fee to his private business!) ahead of
   → https://bsky.app/profile/jenonymous.bsky.social/post/3mqsa6xwlak2j
-
-- **@promarksolutions.bsky.social**: New site live for Chaspen Construction, a skidsteer and hot shot hauling business in Blackfalds serving Central Alberta. Want a website like this for your trades or hauling business? Promark Business 
-  → https://bsky.app/profile/promarksolutions.bsky.social/post/3mqu65vbrpr23
-
-- **@stylelib.org**: Buildbench – Construction Business WordPress Theme
-
- https://themes.stylelib.org/?p=2183 
-
-#builder #building #business #construction #contractor #corporate #industrial #industry #plumber #renovation 
-  → https://bsky.app/profile/stylelib.org/post/3mqubfat5lf23
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@nonrevtraindisco.bsky.social**: It's generally well proven that skilled trades are good money and it makes a lot of the lower middle class who went to college and basically wasted that time and money very, very mad. "I gotta pay a p
-  → https://bsky.app/profile/nonrevtraindisco.bsky.social/post/3mqs7jfjqk22j
-
-- **@eurotrends24.bsky.social**: Did you know that the latest cybersecurity threats can be deterred with the right security cameras? Learn how the Reolink Argus 3 Pro can protect your home and business, just like how we're staying on
-  → https://bsky.app/profile/eurotrends24.bsky.social/post/3mqoaejypol2z
-
-- **@bollymama.bsky.social**: #DrClaudAnderson
-
-This educator’s story is INCREDIBLE.
-
-“Racism was never really about hate. Hate is the customer service window. The actual business is competition.”
-
-The strident attacks on DEI driv
-  → https://bsky.app/profile/bollymama.bsky.social/post/3mqowx2as7s2c

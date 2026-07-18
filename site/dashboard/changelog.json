@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-07-17T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing friend price"
+    },
+    {
+      "ts": "2026-07-17T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing friend price"
+    },
+    {
+      "ts": "2026-07-17T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Angi vs Thumbtack vs HomeAdvisor: Which Is Worth It for Contractors in 2026?"
+    },
+    {
+      "ts": "2026-07-17T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): Electrician Marketing: The Honest Playbook for More Jobs"
+    },
+    {
+      "ts": "2026-07-17T19:03",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published post: pricing diagnostic fee"
+    },
+    {
       "ts": "2026-07-17T18:03",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Mastodon: The Tracking Method: Know Which Offline Marketing Actually Books Jobs"
-    },
-    {
-      "ts": "2026-07-07T07:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Marketing Trends Nobody Is Talking About (For Contractors)"
-    },
-    {
-      "ts": "2026-07-07T07:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Marketing Trends Nobody Is Talking About (For Contractors)"
-    },
-    {
-      "ts": "2026-07-07T07:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Marketing Trends Nobody Is Talking About (For Contractors)"
-    },
-    {
-      "ts": "2026-07-07T07:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Contractor Reviews: Why They Decide Who Gets the Call"
-    },
-    {
-      "ts": "2026-07-07T07:08",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: The spite ad that opens the show"
     }
   ]
 }

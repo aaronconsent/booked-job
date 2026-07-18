@@ -1,10 +1,40 @@
 {
-  "updated": "2026-07-17T18:04",
+  "updated": "2026-07-17T19:06",
   "posts": [
     {
-      "ts": "2026-07-17T18:03:26",
+      "ts": "2026-07-17T19:05:34",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T19:05:21",
       "channel": "tumblr",
-      "item": "pod-podcast-ep03",
+      "item": "angi-vs-thumbtack-vs-homeadvisor",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T19:05:18",
+      "channel": "tumblr",
+      "item": "rip-reviews-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T19:05:12",
+      "channel": "bluesky",
+      "item": "pod-ep01-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T19:05:09",
+      "channel": "facebook",
+      "item": "bj-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-07-17T19:05:09",
+      "channel": "tiktok",
+      "item": "pod-ep03-verdict",
       "url": null
     }
   ]
