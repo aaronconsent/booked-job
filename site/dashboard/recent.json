@@ -1,40 +1,40 @@
 {
-  "updated": "2026-07-18T10:11",
+  "updated": "2026-07-18T12:11",
   "posts": [
     {
-      "ts": "2026-07-18T10:10:02",
+      "ts": "2026-07-18T12:10:15",
       "channel": "mastodon",
-      "item": "card-rev-paint",
+      "item": "card-speed",
       "url": null
     },
     {
-      "ts": "2026-07-18T10:09:13",
+      "ts": "2026-07-18T12:10:06",
       "channel": "tumblr",
-      "item": "thumbtack-vs-angi",
+      "item": "google-local-service-ads-worth-it",
       "url": null
     },
     {
-      "ts": "2026-07-18T10:09:12",
+      "ts": "2026-07-18T12:10:05",
       "channel": "tumblr",
-      "item": "pod-ep03-verdict",
+      "item": "pod-ep03-track",
       "url": null
     },
     {
-      "ts": "2026-07-18T10:09:10",
+      "ts": "2026-07-18T12:10:04",
       "channel": "bluesky",
-      "item": "pod-ep01-refunds",
+      "item": "pod-ep01-cost",
       "url": null
     },
     {
-      "ts": "2026-07-18T10:09:07",
-      "channel": "linkedin",
-      "item": "bj-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-07-18T10:09:06",
+      "ts": "2026-07-18T12:10:02",
       "channel": "tiktok",
-      "item": "pod-ep03-channels",
+      "item": "pod-ep03-trap",
+      "url": null
+    },
+    {
+      "ts": "2026-07-18T12:10:01",
+      "channel": "facebook",
+      "item": "bj-scam",
       "url": null
     }
   ]

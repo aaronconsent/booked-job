@@ -49,12 +49,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-07-18T10:09:06",
+    "last_iso": "2026-07-18T12:09:38",
     "day": {
       "date": "2026-07-18",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -157,12 +158,13 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-07-18T07:04:45",
+    "last_iso": "2026-07-18T12:09:38",
     "day": {
       "date": "2026-07-18",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -191,12 +193,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-07-18T10:09:06",
+    "last_iso": "2026-07-18T12:09:38",
     "day": {
       "date": "2026-07-18",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -216,12 +219,13 @@
   },
   "tumblr": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-07-18T10:09:06",
+    "last_iso": "2026-07-18T12:09:38",
     "day": {
       "date": "2026-07-18",
-      "count": 3
+      "count": 4
     }
   }
 }
