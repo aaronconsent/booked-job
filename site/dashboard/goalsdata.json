@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T22:27",
+  "generated": "2026-07-18T01:18",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -13,9 +13,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 2,
+        "current": 0,
         "target": 2,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 63,
+        "current": 5,
         "target": 22,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 349,
+        "current": 255,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 8,
+        "current": 7,
         "target": 7,
         "status": "green",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 20,
+        "current": 17,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1035,
+        "current": 1040,
         "target": 600,
         "status": "green",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 116,
     "reels": 21,
-    "social_posts": 1097,
+    "social_posts": 1102,
     "followers": 38,
     "engagement": 6,
     "yt_views": 133,
@@ -244,8 +244,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "20/120 \u2014 100 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (20/120). Refill the social queues / add more variant cards."
+      "why": "17/120 \u2014 103 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (17/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
