@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-18T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: homeowner cash"
+    },
+    {
+      "ts": "2026-07-18T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner cash"
+    },
+    {
+      "ts": "2026-07-18T19:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): HVAC Marketing Statistics (2026): Lead Costs, Reviews & Speed to Lead"
+    },
+    {
       "ts": "2026-07-18T18:04",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Mastodon: The Roofing Storm-Chaser \"Free Inspection\" Scam, Explained | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T07:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: 98% of Your Website Visitors Leave Without Calling — Fix the Page, Not the Traffic | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T07:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): 98% of Your Website Visitors Leave Without Calling — Fix the Page, Not the Traffic | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T07:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: 98% of Your Website Visitors Leave Without Calling — Fix the Page, Not the Traffic | Booked Job"
     }
   ]
 }
