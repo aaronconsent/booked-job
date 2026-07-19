@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T16:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools borrowed"
+    },
+    {
+      "ts": "2026-07-19T16:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools borrowed"
+    },
+    {
+      "ts": "2026-07-19T16:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Plumber Marketing: How to Get More Plumbing Jobs in 2026"
+    },
+    {
       "ts": "2026-07-19T14:23",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued to LinkedIn (Buffer): 98% of Your Website Visitors Leave Without Calling — Fix the Page, Not the Traffic | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Plumbers Need 337 Google Reviews to Rank on the Map | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Aged Leads Resold as \"Exclusive\": The Marketing Scam and How to Test a Source | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: The Directory-Listing Shakedown: The \"Pay to Claim Your Listing\" Scam"
     }
   ]
 }
