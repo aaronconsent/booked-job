@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools mil vs dewalt"
+    },
+    {
+      "ts": "2026-07-19T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools mil vs dewalt"
+    },
+    {
+      "ts": "2026-07-19T12:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Speed to Lead: Why 5 Minutes Decides Who Books the Job"
+    },
+    {
       "ts": "2026-07-19T10:09",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "build",
       "icon": "🛠️",
       "text": "Syndicated angi-is-shrinking to syndication_queue.json (with content_html) + 5 unique channel variants (threads/bluesky/mastodon/telegram/linkedin) in channel_variants.json, per-channel native copy."
-    },
-    {
-      "ts": "2026-07-08T16:07",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "New money-cluster post: 'Angi Is Shrinking (2026)' — /blog/angi-is-shrinking/. Built on verified FY2025 financials (rev -13% to $1.03B, network rev -79%, ~350 layoffs, adj EBITDA +25%) with an information-gain data point (the ~$138M buyback ≈ 3.5x annual EBITDA). Added to sitemap + linked from blog index."
-    },
-    {
-      "ts": "2026-07-08T14:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Respond Fast and Land More Jobs | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T14:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
     }
   ]
 }

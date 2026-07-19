@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
+- **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
+  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
+
+- **@kitchenpro.bsky.social**: Planning a kitchen remodel or new build? I’ll walk you through a real layout in one visit, then give you a clear scope for cabinets, plumbing, and electrical. If you’re building new, I can time it to 
+  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqt2na5b3w24
+
+- **@lhalljd.bsky.social**: Was he also a general contractor, and paid as one, like he is for the White House?
+  → https://bsky.app/profile/lhalljd.bsky.social/post/3mqtj473c422a
+
+- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
+
+Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
+  → https://bsky.app/profile/youngconst.bsky.social/post/3mqtpbto3zs2f
+
+- **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
+
 - **@phrly.bsky.social**: Like, can you do really well in the trades? Sure. But it requires a ton of work and (one way or another) education. You both need to learn your trade, and if you want to make the big $, how to run a b
   → https://bsky.app/profile/phrly.bsky.social/post/3mqyyv3twic2o
 
@@ -159,37 +180,3 @@ The strident attacks on DEI driv
 
 #architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
   → https://bsky.app/profile/stylelib.org/post/3mpczlpt3dd26
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@stylelib.org**: Reneva –  Small Business HTML Template
-
- https://themes.stylelib.org/?p=19089 
-
-#architect #architecture #business #construction #constructor #contractor #corporate #electrician #handyman #industry #p
-  → https://bsky.app/profile/stylelib.org/post/3mpcm6jxe3n2m
-
-- **@nates-t.bsky.social**: “Real ID doesn’t prove citizenship.” Then what does you stupid nepo-baby plumber (well, plumbing business inheritor)? This fucking guy - what a putz.
-  → https://bsky.app/profile/nates-t.bsky.social/post/3mqu2y3okj22i
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
