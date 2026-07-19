@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T06:18",
+  "updated": "2026-07-19T08:46",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 23,
+        "current": 24,
         "target": 30,
-        "pct": 77,
+        "pct": 80,
         "on_track": true
       },
       {
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 29,
+        "current": 30,
         "target": 60,
-        "pct": 48,
+        "pct": 50,
         "on_track": false
       },
       {
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 6,
+        "current": 5,
         "target": 800,
         "pct": 1,
         "on_track": false
@@ -108,39 +108,32 @@
       "date": "2026-07-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The \u201cfriend price\u201d is full price plus the headache. Every sh",
-      "sub": "pricing drama"
-    },
-    {
-      "date": "2026-07-21",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Opened a panel today and found wire nuts holding things toge",
       "sub": "hack job"
     },
     {
       "date": "2026-07-21",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Five minutes or you lose the lead",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Flex tape on a supply line isn't a repair \u2014 it's a countdown",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-21",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The trades don't have a wage problem",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Drop your best before/after. Any trade \u2014 roof, panel, re-pip",
@@ -148,20 +141,20 @@
     },
     {
       "date": "2026-07-24",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "The trades don't have a wage problem",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Nobody claps when it's done right \u2014 the light just turns on,",
       "sub": "before after"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-24",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Stop waiving the diagnostic fee",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "There is no \u201cjust quickly.\u201d Every trade knows it. What's the",
@@ -169,23 +162,30 @@
     },
     {
       "date": "2026-07-28",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Stop waiving the diagnostic fee",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "It looked easy in the video. That's the whole business model",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-28",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "\"Cash, and skip the paperwork\"",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
+      "sub": "homeowner says"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
       "sub": "homeowner says"
     }
   ],
@@ -195,13 +195,13 @@
     "likes": 5
   },
   "content": {
-    "posts_published": 29,
+    "posts_published": 30,
     "reactions": 3,
-    "comments": 3,
+    "comments": 2,
     "shares": 0,
-    "reels_published": 23,
-    "posts_remaining": 29,
-    "reels_remaining": 22
+    "reels_published": 24,
+    "posts_remaining": 28,
+    "reels_remaining": 21
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 229
+    "media": 230
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 63,
+      "count": 65,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 28,
+      "count": 29,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1629,
+      "views": 1631,
       "followers": 1
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 108,
+      "count": 109,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,12 +515,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 142,
+      "count": 143,
       "unit": "posts",
-      "followers": 31,
+      "followers": 32,
       "grade": "C",
       "group": "social",
-      "likes": 4
+      "likes": 5
     },
     {
       "name": "Mastodon",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 141,
+      "count": 142,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 121,
+      "count": 123,
       "unit": "posts (Buffer)",
       "stat": "849 reach \u00b7 6 reactions",
       "views": 10,
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 43,
+      "count": 44,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 28
+        "count": 29
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 31
+        "count": 32
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 109
+        "count": 111
       },
       {
         "type": "Documents",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 142
+        "count": 143
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 141
+        "count": 142
       },
       {
         "type": "Video",
@@ -804,7 +804,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 108
+        "count": 109
       },
       {
         "type": "Video",
@@ -816,16 +816,16 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 44,
+      "remaining": 43,
       "per_day": 2,
-      "days": 22.0,
+      "days": 21.5,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 22,
+      "remaining": 21,
       "per_day": 1,
-      "days": 22.0,
+      "days": 21.0,
       "status": "green"
     },
     {
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 40966,
-    "engagement": 6,
-    "audience": 48,
+    "reach": 40970,
+    "engagement": 5,
+    "audience": 49,
     "cr_clicks": 33
   },
   "trends": {
-    "audience": 22,
-    "engagement": -8,
+    "audience": 23,
+    "engagement": -9,
     "email": 2,
-    "reach": 4150
+    "reach": 4154
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1401,
+        "value": 1410,
         "grade": "A"
       },
       {
@@ -886,16 +886,16 @@
       },
       {
         "label": "Audience Size",
-        "value": 48,
+        "value": 49,
         "grade": "D"
       },
       {
         "label": "Engagement",
-        "value": 6,
+        "value": 5,
         "grade": "D"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1401 posts, 48 audience, 33 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1410 posts, 49 audience, 33 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
