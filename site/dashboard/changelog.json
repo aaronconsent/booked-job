@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T18:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools mil vs dewalt"
+    },
+    {
+      "ts": "2026-07-19T18:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: guy radio"
+    },
+    {
+      "ts": "2026-07-19T18:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: guy radio"
+    },
+    {
+      "ts": "2026-07-19T18:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Painting Business Marketing: How to Book More Jobs in 2026"
+    },
+    {
       "ts": "2026-07-19T17:08",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued to LinkedIn (Buffer): The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: The Directory-Listing Shakedown: The \"Pay to Claim Your Listing\" Scam"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Respond Fast and Land More Jobs | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Best Leads for HVAC Contractors: The Lead Math That Works (2026)"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Best Leads for HVAC Contractors: The Lead Math That Works (2026)"
     }
   ]
 }
