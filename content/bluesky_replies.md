@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@premiumtimes.bsky.social**: Weekly Review: Nigeria stock market gains N622bn amid decline in trades https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-tra
+  → https://bsky.app/profile/premiumtimes.bsky.social/post/3mqy4jzdm672r
+
+- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
+
+Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
+  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
+
+- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
+  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
+
+- **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
+
+https://calib
+  → https://bsky.app/profile/calibrebooks.bsky.social/post/3mqt3eenowg2j
+
 - **@angusm.bsky.social**: “Your honor, the plaintiff alleges that a cat should not work as a general contractor. But what, I ask, of the person who HIRES a cat as a general contractor, knowing that the cat likely lacks the req
   → https://bsky.app/profile/angusm.bsky.social/post/3mqwgxnyxuutz
 
@@ -173,26 +192,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 #builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
   → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
-
-- **@topdailyplanner.bsky.social**: trusted junk removal service in Tigard
-
-Choose PDX Junk Pro, the most recommended junk removal service in Tigard, for fast, professional, and hassle-free cleanouts. 
-
-therealbuzzfeed.com/most-recomme.
-  → https://bsky.app/profile/topdailyplanner.bsky.social/post/3mqh4ipobb22v
-
-- **@texascontractorseo.bsky.social**: Ready to capture the next wave of commercial excavation leads in Texas? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let us help you dominate your local market!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mpaczne6qs2v
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x

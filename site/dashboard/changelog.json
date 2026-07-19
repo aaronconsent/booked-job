@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T06:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor one more"
+    },
+    {
+      "ts": "2026-07-19T06:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor quick job"
+    },
+    {
+      "ts": "2026-07-19T06:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: humor one more"
+    },
+    {
+      "ts": "2026-07-19T06:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor one more"
+    },
+    {
+      "ts": "2026-07-19T06:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Google Business Profile Checklist for Contractors (2026)"
+    },
+    {
+      "ts": "2026-07-19T06:22",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published Reel: Five minutes or you lose the lead"
+    },
+    {
+      "ts": "2026-07-19T06:19",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published post: pricing friend price"
+    },
+    {
       "ts": "2026-07-19T04:12",
       "kind": "site",
       "icon": "🌐",
@@ -1157,48 +1199,6 @@
       "kind": "post",
       "icon": "📝",
       "text": "Published post: art website"
-    },
-    {
-      "ts": "2026-07-08T12:31",
-      "kind": "build",
-      "icon": "🛠️",
-      "text": "Syndication: added angi-vs-thumbtack-vs-homeadvisor to syndication_queue.json + unique per-channel variants in channel_variants.json."
-    },
-    {
-      "ts": "2026-07-08T12:31",
-      "kind": "strategy",
-      "icon": "🧭",
-      "text": "Weekly strategist 2026-07-08: paid video-view engine working (~7.5k views); recalibrated ad video-views 6k->45k; flagged retarget->follow as idle lever; 3 next-week angles from fresh research."
-    },
-    {
-      "ts": "2026-07-08T12:31",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "New money-cluster pillar: /blog/angi-vs-thumbtack-vs-homeadvisor/ — 3-way head-to-head, comparison table, Article+Person+FAQPage+BreadcrumbList schema, real cited stats (Angi=HomeAdvisor same co, 2026 -13% rev, Thumbtack 1000+ BBB), 'Booked Job crossover' info-gain model. Added to sitemap + blog index."
-    },
-    {
-      "ts": "2026-07-08T10:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
-    },
-    {
-      "ts": "2026-07-08T10:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Every Call to Your Shop That Goes to Voicemail Is an Invoice You're Torching | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T10:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Aged Leads Resold as \"Exclusive\": The Marketing Scam and How to Test a Source | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T10:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Aged Leads Resold as \"Exclusive\": The Marketing Scam and How to Test a Source | Booked Job"
     }
   ]
 }
