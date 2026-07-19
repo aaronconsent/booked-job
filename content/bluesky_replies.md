@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
+
+ https://stylelib.org/?p=164679 
+
+#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
+  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
+
+- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
+
+ https://themes.stylelib.org/?p=640 
+
+#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
+
+- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
+  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
+
 - **@bollymama.bsky.social**: #DrClaudAnderson
 
 This educator’s story is INCREDIBLE.
@@ -166,18 +186,3 @@ https://calib
 
 - **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
   → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
-
-- **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@yespress.bsky.social**: Ruchir Shah researched the BP oil spill, concluded bad training kills, and built a career fixing it.
-
-Full story on https://yespress.io/ruchir-shah?utm_source=bluesky&utm_medium=social - apply for com
-  → https://bsky.app/profile/yespress.bsky.social/post/3mqw5l4iepv2n
-
-- **@jenonymous.bsky.social**: How can you NOT be cynical when the president is publicly announcing advance access to his social media posts so you can place your insider trades (for a massive fee to his private business!) ahead of
-  → https://bsky.app/profile/jenonymous.bsky.social/post/3mqsa6xwlak2j

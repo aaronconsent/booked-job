@@ -1,46 +1,40 @@
 {
-  "updated": "2026-07-19T16:07",
+  "updated": "2026-07-19T17:09",
   "posts": [
     {
-      "ts": "2026-07-19T16:06:38",
-      "channel": "facebook",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-07-19T16:06:00",
+      "ts": "2026-07-19T17:08:14",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-07-19T16:05:18",
+      "ts": "2026-07-19T17:08:00",
       "channel": "tumblr",
-      "item": "plumber-marketing",
+      "item": "electrician-marketing",
       "url": null
     },
     {
-      "ts": "2026-07-19T16:05:17",
+      "ts": "2026-07-19T17:07:59",
       "channel": "tumblr",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-07-19T16:05:16",
+      "ts": "2026-07-19T17:07:57",
       "channel": "bluesky",
-      "item": "bj-ftc",
+      "item": "bj-cpl",
       "url": null
     },
     {
-      "ts": "2026-07-19T16:05:14",
+      "ts": "2026-07-19T17:07:53",
+      "channel": "linkedin",
+      "item": "bj-reviews50",
+      "url": null
+    },
+    {
+      "ts": "2026-07-19T17:07:52",
       "channel": "tiktok",
-      "item": "pod-ep01-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-07-19T16:05:13",
-      "channel": "ig",
-      "item": "bj-cpbj",
+      "item": "pod-ep01-starter",
       "url": null
     }
   ]

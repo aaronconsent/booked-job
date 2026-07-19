@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T17:08",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools burning truck"
+    },
+    {
+      "ts": "2026-07-19T17:08",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools burning truck"
+    },
+    {
+      "ts": "2026-07-19T17:08",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Electrician Marketing: The Honest Playbook for More Jobs"
+    },
+    {
       "ts": "2026-07-19T16:05",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to GitHub Pages (canonical backlink): Best Leads for HVAC Contractors: The Lead Math That Works (2026)"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Best Leads for HVAC Contractors: The Lead Math That Works (2026)"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): The True Cost of Hiring a Marketing Agency (Contractors)"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): 98% of Your Website Visitors Leave Without Calling — Fix the Page, Not the Traffic | Booked Job"
     }
   ]
 }
