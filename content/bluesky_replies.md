@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
+  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
+
+- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
+  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
+
+- **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@yespress.bsky.social**: Ruchir Shah researched the BP oil spill, concluded bad training kills, and built a career fixing it.
 
 Full story on https://yespress.io/ruchir-shah?utm_source=bluesky&utm_medium=social - apply for com
@@ -172,26 +192,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@angusm.bsky.social**: “Your honor, the plaintiff alleges that a cat should not work as a general contractor. But what, I ask, of the person who HIRES a cat as a general contractor, knowing that the cat likely lacks the req
   → https://bsky.app/profile/angusm.bsky.social/post/3mqwgxnyxuutz
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
-
-Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
-  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
-
-- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
-  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
-
-- **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
-
-https://calib
-  → https://bsky.app/profile/calibrebooks.bsky.social/post/3mqt3eenowg2j
