@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
 - **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
 
  https://stylelib.org/?p=877700 
@@ -189,6 +196,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
   → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@angusm.bsky.social**: “Your honor, the plaintiff alleges that a cat should not work as a general contractor. But what, I ask, of the person who HIRES a cat as a general contractor, knowing that the cat likely lacks the req
-  → https://bsky.app/profile/angusm.bsky.social/post/3mqwgxnyxuutz
