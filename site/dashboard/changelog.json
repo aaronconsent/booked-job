@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T10:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: humor friday"
+    },
+    {
+      "ts": "2026-07-19T10:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor friday"
+    },
+    {
+      "ts": "2026-07-19T10:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Facebook Ads vs Google Ads for Contractors: Where the Money Works"
+    },
+    {
       "ts": "2026-07-19T08:51",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Mastodon: The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
-    },
-    {
-      "ts": "2026-07-08T14:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: Plumbers Need 337 Google Reviews to Rank on the Map | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T14:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): Plumbers Need 337 Google Reviews to Rank on the Map | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T14:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Plumbers Need 337 Google Reviews to Rank on the Map | Booked Job"
     }
   ]
 }
