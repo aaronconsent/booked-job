@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T14:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor friday"
+    },
+    {
+      "ts": "2026-07-19T14:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools ford chevy"
+    },
+    {
+      "ts": "2026-07-19T14:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools ford chevy"
+    },
+    {
+      "ts": "2026-07-19T14:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Is Angi Worth It for Contractors? The REAL Math"
+    },
+    {
+      "ts": "2026-07-19T14:21",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published Reel: The trades don't have a wage problem"
+    },
+    {
       "ts": "2026-07-19T12:13",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Bluesky: The Directory-Listing Shakedown: The \"Pay to Claim Your Listing\" Scam"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): The Directory-Listing Shakedown: The \"Pay to Claim Your Listing\" Scam"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: The Directory-Listing Shakedown: The \"Pay to Claim Your Listing\" Scam"
-    },
-    {
-      "ts": "2026-07-08T16:22",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): The Free Marketing Demo That Turns Into a Surprise Bill"
-    },
-    {
-      "ts": "2026-07-08T16:07",
-      "kind": "strategy",
-      "icon": "🧭",
-      "text": "Recalibrated goals: posts-shipped 90→60 to match FB-only counter at 2/day. Updated strategist read/next_move: money-cluster villain (Angi) visibly cracking; highest-leverage move = retarget→Follow ad vs idle video-watcher pool + reels pivot to problem/fix walkthroughs w/ burned-in captions."
-    },
-    {
-      "ts": "2026-07-08T16:07",
-      "kind": "build",
-      "icon": "🛠️",
-      "text": "Syndicated angi-is-shrinking to syndication_queue.json (with content_html) + 5 unique channel variants (threads/bluesky/mastodon/telegram/linkedin) in channel_variants.json, per-channel native copy."
     }
   ]
 }
