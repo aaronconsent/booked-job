@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@angusm.bsky.social**: “Your honor, the plaintiff alleges that a cat should not work as a general contractor. But what, I ask, of the person who HIRES a cat as a general contractor, knowing that the cat likely lacks the req
+  → https://bsky.app/profile/angusm.bsky.social/post/3mqwgxnyxuutz
+
 - **@stylelib.org**: Blue Collar – Handyman HTML Template
 
  https://stylelib.org/?p=285473 
@@ -193,6 +196,3 @@ https://www.byteseu.com/2187905/
 
 Make better investment decisions with Simply Wall St’s easy, visual tools that giv
   → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
