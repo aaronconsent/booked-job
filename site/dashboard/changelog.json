@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "ts": "2026-07-19T22:59",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from 0100019f7d24c6a7-f9a99c5f-dd9f-47bf-b6c1-fc82fe5942bd-000000@amazonses.com — needs Aaron"
+    },
+    {
+      "ts": "2026-07-19T22:59",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com — needs Aaron"
+    },
+    {
+      "ts": "2026-07-19T22:59",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com: The Plumbing Sales Coach posted: Turn one angle stop into a full repip..."
+    },
+    {
+      "ts": "2026-07-19T22:59",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 0100019f7d24c6a7-f9a99c5f-dd9f-47bf-b6c1-fc82fe5942bd-000000@amazonses.com: \"Texas A&M employee and professional boxer Hannah Rapp dies at 26 after bei...\""
+    },
+    {
+      "ts": "2026-07-19T22:58",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools ford chevy"
+    },
+    {
+      "ts": "2026-07-19T22:58",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: guy measures"
+    },
+    {
+      "ts": "2026-07-19T22:58",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: guy measures"
+    },
+    {
+      "ts": "2026-07-19T22:58",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Tumblr (backlink): Landscaping Marketing: The Guide to a Full Schedule"
+    },
+    {
       "ts": "2026-07-19T18:09",
       "kind": "site",
       "icon": "🌐",
@@ -1151,54 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from 0100019f44a9378e-bf2ca960-17c3-4f22-89cf-c314e2a7b830-000000@amazonses.com: \"Just got fired today\""
-    },
-    {
-      "ts": "2026-07-08T23:11",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com: mymix2u started following you"
-    },
-    {
-      "ts": "2026-07-08T23:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Threads: Best Leads for HVAC Contractors: The Lead Math That Works (2026)"
-    },
-    {
-      "ts": "2026-07-08T23:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Mastodon: Plumbers Need 337 Google Reviews to Rank on the Map | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T23:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted to Bluesky: HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T23:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to GitHub Pages (canonical backlink): HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T23:10",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: HVAC's Brutal Map Pack Math: 519 Reviews Is the Cost of Admission | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): Aged Leads Resold as \"Exclusive\": The Marketing Scam and How to Test a Source | Booked Job"
-    },
-    {
-      "ts": "2026-07-08T18:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued to LinkedIn (Buffer): The Double-Sold Lead Scam: Why Your \"Exclusive\" Lead Went to 5 Shops"
     }
   ]
 }
