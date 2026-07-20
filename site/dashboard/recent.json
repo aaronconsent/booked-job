@@ -1,46 +1,28 @@
 {
-  "updated": "2026-07-20T14:09",
+  "updated": "2026-07-20T15:42",
   "posts": [
     {
-      "ts": "2026-07-20T14:07:38",
+      "ts": "2026-07-20T15:40:34",
       "channel": "mastodon",
-      "item": "card-rev-paint",
+      "item": "card-speed",
       "url": null
     },
     {
-      "ts": "2026-07-20T14:06:51",
+      "ts": "2026-07-20T15:40:21",
       "channel": "tumblr",
-      "item": "pod-ep01-refunds",
+      "item": "pod-ep01-cost",
       "url": null
     },
     {
-      "ts": "2026-07-20T14:06:49",
+      "ts": "2026-07-20T15:40:19",
       "channel": "bluesky",
-      "item": "bj-rev-hvac",
+      "item": "bj-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-07-20T14:06:46",
-      "channel": "linkedin",
-      "item": "ad-summit",
-      "url": null
-    },
-    {
-      "ts": "2026-07-20T14:06:45",
+      "ts": "2026-07-20T15:40:16",
       "channel": "tiktok",
-      "item": "pod-ep01-shared",
-      "url": null
-    },
-    {
-      "ts": "2026-07-20T14:06:44",
-      "channel": "ig",
-      "item": "bj-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-07-20T14:04:15",
-      "channel": "fb",
-      "item": "cash-job",
+      "item": "bj-angi",
       "url": null
     }
   ]

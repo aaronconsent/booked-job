@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-20T15:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: guy measures"
+    },
+    {
+      "ts": "2026-07-20T15:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: biz chasing invoices"
+    },
+    {
+      "ts": "2026-07-20T15:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz chasing invoices"
+    },
+    {
       "ts": "2026-07-20T14:08",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to Tumblr (backlink): How to Get More Google Reviews (The Contractor Playbook)"
-    },
-    {
-      "ts": "2026-07-17T11:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Why Your Contractor Website Isn't Converting (And How to Fix It)"
-    },
-    {
-      "ts": "2026-07-17T11:23",
-      "kind": "post",
-      "icon": "📝",
-      "text": "Published post: pricing once not twice"
-    },
-    {
-      "ts": "2026-07-17T09:54",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: Why the 'cheap' lead is the expensive one"
     }
   ]
 }

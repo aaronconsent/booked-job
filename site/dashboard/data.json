@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T14:03",
+  "updated": "2026-07-20T15:38",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 26,
+        "current": 27,
         "target": 30,
-        "pct": 87,
+        "pct": 90,
         "on_track": true
       },
       {
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 1132,
+        "current": 1134,
         "target": 10000,
         "pct": 11,
         "on_track": false
@@ -115,7 +115,7 @@
       "date": "2026-07-21",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "\"Cash, and skip the paperwork\"",
+      "title": "\"I watched a video, it looked easy\"",
       "sub": "Reel"
     },
     {
@@ -143,7 +143,7 @@
       "date": "2026-07-24",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "\"I watched a video, it looked easy\"",
+      "title": "Three months chasing one invoice",
       "sub": "Reel"
     },
     {
@@ -164,7 +164,7 @@
       "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Three months chasing one invoice",
+      "title": "Milwaukee or DeWalt?",
       "sub": "Reel"
     },
     {
@@ -199,9 +199,9 @@
     "reactions": 2,
     "comments": 1,
     "shares": 0,
-    "reels_published": 26,
+    "reels_published": 27,
     "posts_remaining": 27,
-    "reels_remaining": 19
+    "reels_remaining": 18
   },
   "ads": {
     "status": "PAUSED",
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 1132,
+    "views": 1134,
     "likes": 0,
     "videos": 28,
     "shorts": 28
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 251
+    "media": 255
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 68,
+      "count": 69,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 31,
+      "count": 32,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1881,
+      "views": 1883,
       "followers": 1
     },
     {
@@ -484,7 +484,7 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 1132,
+      "views": 1134,
       "followers": 0,
       "likes": 0
     },
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 155,
+      "count": 156,
       "unit": "posts",
       "followers": 32,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 154,
+      "count": 155,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 26
+        "count": 27
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 26
+        "count": 27
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 34
+        "count": 35
       },
       {
         "type": "Photo carousels",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 52
+        "count": 53
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 155
+        "count": 156
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 32
+        "count": 33
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 154
+        "count": 155
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 16
+        "count": 17
       }
     ]
   },
@@ -823,9 +823,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 19,
+      "remaining": 18,
       "per_day": 1,
-      "days": 19.0,
+      "days": 18.0,
       "status": "green"
     },
     {
@@ -851,32 +851,32 @@
     }
   ],
   "funnel": {
-    "reach": 41762,
+    "reach": 41766,
     "engagement": 3,
     "audience": 50,
-    "cr_clicks": 33
+    "cr_clicks": 34
   },
   "trends": {
     "audience": 20,
     "engagement": -10,
     "email": 0,
-    "reach": 4016
+    "reach": 4020
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 17836,
+        "value": 17838,
         "grade": "B"
       },
       {
         "label": "Total Clicks",
-        "value": 33,
+        "value": 34,
         "grade": "C"
       },
       {
         "label": "Total Posts",
-        "value": 1459,
+        "value": 1464,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1459 posts, 50 audience, 33 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1464 posts, 50 audience, 34 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
