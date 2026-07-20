@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
+
+- **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224
+
+- **@longboxreview.bsky.social**: How can you call your business In Stock Trades when those trades are, in fact, not in stock? 🤔
+  → https://bsky.app/profile/longboxreview.bsky.social/post/3mr3ryp7i222u
+
+- **@angusm.bsky.social**: “Your honor, the plaintiff alleges that a cat should not work as a general contractor. But what, I ask, of the person who HIRES a cat as a general contractor, knowing that the cat likely lacks the req
+  → https://bsky.app/profile/angusm.bsky.social/post/3mqwgxnyxuutz
+
 - **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
 
 https://calib
@@ -173,17 +185,3 @@ https://www.byteseu.com/2187905/
 
 Make better investment decisions with Simply Wall St’s easy, visual tools that giv
   → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@premiumtimes.bsky.social**: Weekly Review: Nigeria stock market gains N622bn amid decline in trades https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-tra
-  → https://bsky.app/profile/premiumtimes.bsky.social/post/3mqy4jzdm672r
-
-- **@homewardconnect.bsky.social**: YOUR BUSINESS DESERVES TO BE SEEN!
-
-Why blend in when your business was made to stand out? Whether you're a small business, home industry, service provider, NPO, school, event organiser, or entreprene
-  → https://bsky.app/profile/homewardconnect.bsky.social/post/3mqjbzyjnab2n
-
-- **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
-  → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y

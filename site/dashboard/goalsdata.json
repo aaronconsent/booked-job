@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T11:47",
+  "generated": "2026-07-20T14:09",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 14,
+        "current": 16,
         "target": 22,
         "status": "yellow",
         "needs": null
@@ -33,7 +33,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 1,
+        "current": 2,
         "target": 1,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 279,
+        "current": 281,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 10,
+        "current": 11,
         "target": 7,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1141,
+        "current": 1143,
         "target": 600,
         "status": "green",
         "needs": null
@@ -157,7 +157,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 24,
+        "current": 25,
         "target": 30,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1126,
+        "current": 1130,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -216,16 +216,16 @@
   },
   "queues": {
     "fb_ig_posts": 42,
-    "reels": 19,
+    "reels": 18,
     "staged_articles": 0
   },
   "counters": {
     "articles": 116,
-    "reels": 26,
-    "social_posts": 1203,
+    "reels": 27,
+    "social_posts": 1205,
     "followers": 43,
     "engagement": 3,
-    "yt_views": 1128,
+    "yt_views": 1132,
     "yt_shorts": 28,
     "email_subs": 7,
     "traffic": 0
