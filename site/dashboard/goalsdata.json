@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T22:59",
+  "generated": "2026-07-20T02:27",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 42,
+        "current": 5,
         "target": 22,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -65,7 +65,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 14,
+        "current": 8,
         "target": 14,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 301,
+        "current": 270,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 10,
+        "current": 9,
         "target": 7,
         "status": "green",
         "needs": null
@@ -95,7 +95,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 7,
+        "current": 5,
         "target": 7,
         "status": "green",
         "needs": null
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 21,
+        "current": 19,
         "target": 120,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1127,
+        "current": 1132,
         "target": 600,
         "status": "green",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 116,
     "reels": 25,
-    "social_posts": 1189,
+    "social_posts": 1194,
     "followers": 42,
     "engagement": 4,
     "yt_views": 1125,
@@ -241,11 +241,6 @@
       "title": "\ud83c\udf10 Website traffic isn't tracked yet",
       "why": "No Cloudflare token connected, so traffic goals show no data.",
       "prompt": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page."
-    },
-    {
-      "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "21/120 \u2014 99 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (21/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-19T22:56",
+  "updated": "2026-07-20T02:22",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 11,
+    "days_left": 10,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
@@ -105,17 +105,10 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-20",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Opened a panel today and found wire nuts holding things toge",
-      "sub": "hack job"
-    },
-    {
       "date": "2026-07-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Flex tape on a supply line isn't a repair \u2014 it's a countdown",
+      "title": "Opened a panel today and found wire nuts holding things toge",
       "sub": "hack job"
     },
     {
@@ -129,21 +122,21 @@
       "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
+      "title": "Flex tape on a supply line isn't a repair \u2014 it's a countdown",
       "sub": "hack job"
     },
     {
       "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Drop your best before/after. Any trade \u2014 roof, panel, re-pip",
-      "sub": "before after"
+      "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
+      "sub": "hack job"
     },
     {
       "date": "2026-07-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Nobody claps when it's done right \u2014 the light just turns on,",
+      "title": "Drop your best before/after. Any trade \u2014 roof, panel, re-pip",
       "sub": "before after"
     },
     {
@@ -157,14 +150,14 @@
       "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "There is no \u201cjust quickly.\u201d Every trade knows it. What's the",
-      "sub": "homeowner says"
+      "title": "Nobody claps when it's done right \u2014 the light just turns on,",
+      "sub": "before after"
     },
     {
       "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "It looked easy in the video. That's the whole business model",
+      "title": "There is no \u201cjust quickly.\u201d Every trade knows it. What's the",
       "sub": "homeowner says"
     },
     {
@@ -178,11 +171,18 @@
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
+      "title": "It looked easy in the video. That's the whole business model",
       "sub": "homeowner says"
     },
     {
       "date": "2026-07-30",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
+      "sub": "homeowner says"
+    },
+    {
+      "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 243
+    "media": 244
   },
   "email": {
     "subscribers": 7
@@ -463,7 +463,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 4534,
+      "views": 4830,
       "followers": 5,
       "likes": 2
     },
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1842,
+      "views": 1843,
       "followers": 1
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 116,
+      "count": 117,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 150,
+      "count": 151,
       "unit": "posts",
       "followers": 32,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 149,
+      "count": 150,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 126,
+      "count": 127,
       "unit": "posts (Buffer)",
       "stat": "849 reach \u00b7 6 reactions",
       "views": 10,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 9
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 9
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 114
+        "count": 115
       },
       {
         "type": "Documents",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 150
+        "count": 151
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 149
+        "count": 150
       },
       {
         "type": "Video",
@@ -804,7 +804,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 116
+        "count": 117
       },
       {
         "type": "Video",
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 41383,
+    "reach": 41680,
     "engagement": 4,
     "audience": 49,
     "cr_clicks": 33
   },
   "trends": {
-    "audience": 23,
-    "engagement": -10,
-    "email": 2,
-    "reach": 4567
+    "audience": 19,
+    "engagement": -9,
+    "email": 0,
+    "reach": 3934
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1437,
+        "value": 1441,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1437 posts, 49 audience, 33 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1441 posts, 49 audience, 33 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
