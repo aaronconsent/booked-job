@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@calibrebooks.bsky.social**: 🌟 Ready to start a virtual assistant business from home? This guide reveals practical insights on client acquisition, service pricing, and legal requirements tailored for the UK market.
+
+https://calib
+  → https://bsky.app/profile/calibrebooks.bsky.social/post/3mqt3eenowg2j
+
 - **@stylelib.org**: Blue Collar – Handyman HTML Template
 
  https://stylelib.org/?p=285473 
@@ -182,6 +187,3 @@ Why blend in when your business was made to stand out? Whether you're a small bu
 
 - **@activerootersewerd.bsky.social**: Need a trusted Plumber in Amherst, Ohio? We provide fast, reliable plumbing repairs, drain cleaning, water heater services, and emergency solutions to keep your home or business running smoothly. Visi
   → https://bsky.app/profile/activerootersewerd.bsky.social/post/3mqjgpiimms2y
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
