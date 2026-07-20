@@ -4,19 +4,20 @@
       "card-cpbj",
       "card-angi",
       "card-reviews",
-      "card-rev-plumb"
+      "card-rev-plumb",
+      "card-rev-roof"
     ],
-    "last_iso": "2026-07-19T18:09:44",
+    "last_iso": "2026-07-20T09:30:45",
     "day": {
-      "date": "2026-07-19",
-      "count": 7
+      "date": "2026-07-20",
+      "count": 1
     }
   },
   "ig": {
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "count": 0
     }
   },
@@ -33,12 +34,13 @@
       "card-ftc",
       "card-stars",
       "card-ai",
-      "card-anon98"
+      "card-anon98",
+      "card-missedcall"
     ],
-    "last_iso": "2026-07-19T16:05:58",
+    "last_iso": "2026-07-20T09:30:45",
     "day": {
-      "date": "2026-07-19",
-      "count": 2
+      "date": "2026-07-20",
+      "count": 1
     }
   }
 }
