@@ -82,9 +82,21 @@ def main():
     if not nxt:
         log("IG queue empty."); return
 
-    # reuse the YouTube Short video if it exists, else generate
+    # Video source, in order: (1) a pre-rendered clip the item points at (podcast/
+    # reel shorts carry a `video` — most of the queue), (2) a local short already
+    # rendered, (3) TTS-generate from a `script`. Never crash on a scriptless item.
     src = os.path.join(ROOT, "content", "shorts", f"{nxt['id']}.mp4")
-    if not os.path.exists(src):
+    pre = nxt.get("video")
+    if pre:
+        p = pre if os.path.isabs(pre) else os.path.join(ROOT, pre)
+        if not os.path.exists(p):
+            log(f"pre-rendered video missing for '{nxt['id']}' ({pre}) — retry next run"); return
+        src = p
+    elif not os.path.exists(src):
+        if not nxt.get("script"):
+            log(f"'{nxt['id']}' has no video and no script — skipping past it")
+            done.add(nxt["id"]); state["done"] = list(done)
+            json.dump(state, open(STATE, "w"), indent=2); return
         log(f"generating video for '{nxt['id']}' …")
         make_reel.build(nxt["hook"], nxt["script"], src, backend="elevenlabs")
 
