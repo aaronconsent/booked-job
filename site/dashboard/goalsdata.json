@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T23:26",
+  "generated": "2026-07-21T02:45",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 29,
+        "current": 4,
         "target": 22,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -65,7 +65,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 8,
+        "current": 6,
         "target": 14,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 294,
+        "current": 251,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 11,
+        "current": 10,
         "target": 7,
         "status": "green",
         "needs": null
@@ -95,7 +95,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 6,
+        "current": 4,
         "target": 7,
         "status": "green",
         "needs": null
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 20,
+        "current": 18,
         "target": 120,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1156,
+        "current": 1160,
         "target": 600,
         "status": "green",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 116,
     "reels": 27,
-    "social_posts": 1218,
+    "social_posts": 1222,
     "followers": 43,
     "engagement": 5,
     "yt_views": 1138,
@@ -241,6 +241,11 @@
       "title": "\ud83c\udf10 Website traffic isn't tracked yet",
       "why": "No Cloudflare token connected, so traffic goals show no data.",
       "prompt": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page."
+    },
+    {
+      "title": "\ud83d\udc65 New followers (all) behind this week",
+      "why": "18/120 \u2014 102 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (18/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

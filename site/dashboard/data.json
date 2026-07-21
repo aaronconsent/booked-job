@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-20T23:24",
+  "updated": "2026-07-21T02:40",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 10,
+    "days_left": 9,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
@@ -105,28 +105,21 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
       "sub": "hack job"
     },
     {
-      "date": "2026-07-21",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "\"I watched a video, it looked easy\"",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Drop your best before/after. Any trade \u2014 roof, panel, re-pip",
       "sub": "before after"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Nobody claps when it's done right \u2014 the light just turns on,",
@@ -134,20 +127,20 @@
     },
     {
       "date": "2026-07-24",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "\"I watched a video, it looked easy\"",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "There is no \u201cjust quickly.\u201d Every trade knows it. What's the",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-24",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Three months chasing one invoice",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "It looked easy in the video. That's the whole business model",
@@ -155,27 +148,27 @@
     },
     {
       "date": "2026-07-28",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
-      "sub": "homeowner says"
-    },
-    {
-      "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Milwaukee or DeWalt?",
+      "title": "Three months chasing one invoice",
       "sub": "Reel"
     },
     {
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
+      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
       "sub": "homeowner says"
     },
     {
       "date": "2026-07-30",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
+      "sub": "homeowner says"
+    },
+    {
+      "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
@@ -183,6 +176,13 @@
     },
     {
       "date": "2026-07-31",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Milwaukee or DeWalt?",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 259
+    "media": 260
   },
   "email": {
     "subscribers": 7
@@ -463,7 +463,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 4830,
+      "views": 5105,
       "followers": 6,
       "likes": 3
     },
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1887,
+      "views": 1890,
       "followers": 1
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 159,
+      "count": 160,
       "unit": "posts",
       "followers": 32,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 158,
+      "count": 159,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 132,
+      "count": 134,
       "unit": "posts (Buffer)",
       "stat": "849 reach \u00b7 6 reactions",
       "views": 10,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 120
+        "count": 122
       },
       {
         "type": "Documents",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 159
+        "count": 160
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 158
+        "count": 159
       },
       {
         "type": "Video",
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 41778,
+    "reach": 42059,
     "engagement": 5,
     "audience": 50,
     "cr_clicks": 34
   },
   "trends": {
-    "audience": 20,
-    "engagement": -8,
+    "audience": 18,
+    "engagement": -5,
     "email": 0,
-    "reach": 4032
+    "reach": 3961
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1473,
+        "value": 1477,
         "grade": "A"
       },
       {
