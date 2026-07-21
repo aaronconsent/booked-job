@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@stylelib.org**: Renovar – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=639287 
+
+#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
+  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
+
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
 
@@ -167,13 +181,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 - **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
   → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
-
-- **@phrly.bsky.social**: Like, can you do really well in the trades? Sure. But it requires a ton of work and (one way or another) education. You both need to learn your trade, and if you want to make the big $, how to run a b
-  → https://bsky.app/profile/phrly.bsky.social/post/3mqyyv3twic2o
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f

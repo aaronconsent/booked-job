@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-07-20T23:26",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from 0100019f826eb6b2-654cf000-4a7f-4033-bb91-6c736d97df96-000000@amazonses.com — needs Aaron"
+    },
+    {
+      "ts": "2026-07-20T23:26",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 0100019f826eb6b2-654cf000-4a7f-4033-bb91-6c736d97df96-000000@amazonses.com: \"Anyone here from East Texas? I just want a few friends that I can talk to ...\""
+    },
+    {
+      "ts": "2026-07-20T23:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor good help"
+    },
+    {
+      "ts": "2026-07-20T23:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor ghost"
+    },
+    {
+      "ts": "2026-07-20T23:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing scope creep"
+    },
+    {
+      "ts": "2026-07-20T23:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing scope creep"
+    },
+    {
       "ts": "2026-07-20T19:08",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy panel"
-    },
-    {
-      "ts": "2026-07-17T15:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: pricing once not twice"
-    },
-    {
-      "ts": "2026-07-17T15:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing once not twice"
-    },
-    {
-      "ts": "2026-07-17T15:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Tumblr (backlink): The $7.2M FTC Fine Against HomeAdvisor, Explained for Contractors"
-    },
-    {
-      "ts": "2026-07-17T15:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Speed to Lead: Why 5 Minutes Decides Who Books the Job"
-    },
-    {
-      "ts": "2026-07-17T13:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: pricing low bid"
-    },
-    {
-      "ts": "2026-07-17T13:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing low bid"
     }
   ]
 }
