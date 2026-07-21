@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mr5nmsrd2h2x
+
+- **@phrly.bsky.social**: Like, can you do really well in the trades? Sure. But it requires a ton of work and (one way or another) education. You both need to learn your trade, and if you want to make the big $, how to run a b
+  → https://bsky.app/profile/phrly.bsky.social/post/3mqyyv3twic2o
+
 - **@strainstars.bsky.social**: Locked Out? Austin's Trusted Locksmith Is Just a Call Away! 
 
 Whether you're locked out of your home, car, or business. Texas Premier Locksmith delivers fast, reliable, and  locksmith services across 
@@ -179,9 +186,3 @@ Dude, the guy owned a roofing business and was almost done with his residency. H
 
 - **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
   → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
-
-- **@kitchenpro.bsky.social**: Planning a kitchen remodel or new build? I’ll walk you through a real layout in one visit, then give you a clear scope for cabinets, plumbing, and electrical. If you’re building new, I can time it to 
-  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqt2na5b3w24
-
-- **@lhalljd.bsky.social**: Was he also a general contractor, and paid as one, like he is for the White House?
-  → https://bsky.app/profile/lhalljd.bsky.social/post/3mqtj473c422a

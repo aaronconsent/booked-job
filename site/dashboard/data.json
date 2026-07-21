@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T05:32",
+  "updated": "2026-07-21T07:42",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1934,
+      "views": 1995,
       "followers": 1
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 161,
+      "count": 162,
       "unit": "posts",
       "followers": 32,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 160,
+      "count": 161,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 136,
+      "count": 137,
       "unit": "posts (Buffer)",
       "stat": "849 reach \u00b7 6 reactions",
       "views": 10,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 3
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 3
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 124
+        "count": 125
       },
       {
         "type": "Documents",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 161
+        "count": 162
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 160
+        "count": 161
       },
       {
         "type": "Video",
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 42166,
+    "reach": 42273,
     "engagement": 5,
     "audience": 50,
     "cr_clicks": 34
@@ -860,7 +860,7 @@
     "audience": 18,
     "engagement": -5,
     "email": 0,
-    "reach": 4068
+    "reach": 4175
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1481,
+        "value": 1484,
         "grade": "A"
       },
       {
