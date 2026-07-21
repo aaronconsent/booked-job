@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@strainstars.bsky.social**: Locked Out? Austin's Trusted Locksmith Is Just a Call Away! 
+
+Whether you're locked out of your home, car, or business. Texas Premier Locksmith delivers fast, reliable, and  locksmith services across 
+  → https://bsky.app/profile/strainstars.bsky.social/post/3mr5bxxwsfk2c
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
 - **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
 
  https://themes.stylelib.org/?p=846637 
@@ -173,11 +185,3 @@ Dude, the guy owned a roofing business and was almost done with his residency. H
 
 - **@lhalljd.bsky.social**: Was he also a general contractor, and paid as one, like he is for the White House?
   → https://bsky.app/profile/lhalljd.bsky.social/post/3mqtj473c422a
-
-- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
-
-Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
-  → https://bsky.app/profile/youngconst.bsky.social/post/3mqtpbto3zs2f
-
-- **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
