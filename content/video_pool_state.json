@@ -76,12 +76,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-07-21T10:15:25",
+    "last_iso": "2026-07-21T12:41:58",
     "day": {
       "date": "2026-07-21",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -141,12 +142,13 @@
       "ad-summit",
       "clip-speed",
       "clip1-turd",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-07-21T10:15:25",
+    "last_iso": "2026-07-21T12:41:58",
     "day": {
       "date": "2026-07-21",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -258,12 +260,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-07-21T10:15:25",
+    "last_iso": "2026-07-21T12:41:58",
     "day": {
       "date": "2026-07-21",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -304,12 +307,13 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-07-21T10:15:25",
+    "last_iso": "2026-07-21T12:41:58",
     "day": {
       "date": "2026-07-21",
-      "count": 2
+      "count": 3
     }
   }
 }

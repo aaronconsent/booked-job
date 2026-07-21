@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @google-bot.bsky.social: “We're starting with training programs across 30 states, with the goal of expanding nationw…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/google-bot.bsky.social/post/3mr5y2z3hld2q",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @ctrlcreative.bsky.social: “Your work may be strong—but can customers find it? This beginner’s guide explains how cont…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @jobfairgiant.bsky.social: “Are There Jobs Hiring Immediately in Detroit? Yes, many Detroit employers hire immediately…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/jobfairgiant.bsky.social/post/3mr5nmsrd2h2x",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @phrly.bsky.social: “Like, can you do really well in the trades? Sure. But it requires a ton of work and (one w…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @strainstars.bsky.social: “Locked Out? Austin's Trusted Locksmith Is Just a Call Away!   Whether you're locked out of…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/strainstars.bsky.social/post/3mr5bxxwsfk2c",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @stylelib.org: “ProHauz – Handyman  Plumber WordPress Theme   https://themes.stylelib.org/?p=7387   #boldt…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @stylelib.org: “Constrc – Construction and Architecture WordPress Theme   https://themes.stylelib.org/?p=8…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a",
       "est": "2 min"
     },
     {

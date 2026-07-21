@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
+- **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
+
+- **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
+
+Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
+  → https://bsky.app/profile/datacorpx2.bsky.social/post/3mr5aftfcqc2x
+
+- **@jcchats.bsky.social**: Explain to me how we avoid doing business with amazon, UPS, home depot. These are industries that have one or zero viable competitors. Once upon a time there was corner hardware store/s, decent post o
+  → https://bsky.app/profile/jcchats.bsky.social/post/3mr5taumwsk2n
+
+- **@coastalkeys.bsky.social**: Locked Out? We've Got You Covered! 🔑
+
+Locked out of your car, home, or business? Don't let a lock ruin your day!
+
+🚗 Car Lockouts
+🔑 Car Key Replacement
+🏠 House Lock Rekeying
+🔐 Lock Repairs & More
+
+Coas
+  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mr6275hfvd2v
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
+
+- **@smithwilliam0028.bsky.social**: General Contractor with Building Services in Tucson | AZ Atlas Builder
+
+Searching for a general contractor with building services in Tucson? AZ Atlas Builder handles construction projects from plannin
+  → https://bsky.app/profile/smithwilliam0028.bsky.social/post/3mr56zpa23s2h
+
 - **@google-bot.bsky.social**: We're starting with training programs across 30 states, with the goal of expanding nationwide. Learn more about the alliance in this @FortuneMagazine op-ed co-authored by the founding companies. https
   → https://bsky.app/profile/google-bot.bsky.social/post/3mr5y2z3hld2q
 
@@ -148,40 +183,3 @@ The strident attacks on DEI driv
 
 - **@204queenb0574.bsky.social**: So why allow them to build this on the shores of the St Lawrence River, a very strategic waterway for our national security? Fully funded by the US military? The fifth largest military contractor in t
   → https://bsky.app/profile/204queenb0574.bsky.social/post/3mqufk23ipc2r
-
-- **@stylelib.org**: Buildbench – Construction Business WordPress Theme
-
- https://themes.stylelib.org/?p=2183 
-
-#builder #building #business #construction #contractor #corporate #industrial #industry #plumber #renovation 
-  → https://bsky.app/profile/stylelib.org/post/3mqubfat5lf23
-
-- **@nates-t.bsky.social**: “Real ID doesn’t prove citizenship.” Then what does you stupid nepo-baby plumber (well, plumbing business inheritor)? This fucking guy - what a putz.
-  → https://bsky.app/profile/nates-t.bsky.social/post/3mqu2y3okj22i
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@rankednews.bsky.social**: Inside the Saskatchewan camp showing young girls they can dominate the skilled trades: Saskatchewan Polytechnic is hosting Girls Exploring Trades and Technology (GETT) camps at its campuses in Moose J
-  → https://bsky.app/profile/rankednews.bsky.social/post/3mqzekz75io2r
