@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ferricoxide.blahaj.zone.ap.brid.gy**: The answer is self evident: "quit". The new boss clearly wants to act in any excuse possible to give the other person the position (is OP female, minority, etc.?).
+
+https://share.google/gHZOg73AiY3htV
+  → https://bsky.app/profile/ferricoxide.blahaj.zone.ap.brid.gy/post/3mr6oqwytgsh2
+
+- **@stylelib.org**: WoodWorker – Carpenter Handy Service WordPress Theme
+
+ https://themes.stylelib.org/?p=640 
+
+#architecture #builder #building #business #company #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mpmhdmbumi2p
+
+- **@kjiveson78.bsky.social**: I thought being an electrician was forever, but diabetes had other plans. Trading work boots for a medical boot inspired me to launch a flexible travel business. Want to know how I pivoted? Click the 
+  → https://bsky.app/profile/kjiveson78.bsky.social/post/3mpnbffrne52w
+
 - **@nates-t.bsky.social**: “Real ID doesn’t prove citizenship.” Then what does you stupid nepo-baby plumber (well, plumbing business inheritor)? This fucking guy - what a putz.
   → https://bsky.app/profile/nates-t.bsky.social/post/3mqu2y3okj22i
 
@@ -171,17 +186,3 @@ https://calib
 
 - **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
   → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
-
- https://stylelib.org/?p=164679 
-
-#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
-  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
