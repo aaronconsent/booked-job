@@ -5,10 +5,12 @@ protocol design (served at the site root as proof of ownership), so it lives her
 
 By protocol, submitting to ANY one participating endpoint shares the URLs with the
 whole IndexNow network. We POST to several and count success if ANY accepts, so one
-engine rejecting doesn't fail the ping. NOTE: Bing (api.indexnow.org forwards to it)
-returns 403 UserForbiddedToAccessSite until the domain is verified in Bing Webmaster
-Tools — that's a one-time dashboard step, unrelated to the key file (which is valid;
-Yandex accepts it). Until then Yandex + the shared network carry the pings.
+engine rejecting doesn't fail the ping. CONFIRMED 2026-07-21: Yandex accepts (202)
+and the URLs then show up in Bing Webmaster Tools -> IndexNow as Source: Self — i.e.
+they DO reach Bing via the shared network. Bing's own direct endpoint still returns
+403 UserForbiddedToAccessSite for direct POSTs of this key (its direct-submit key
+check is stricter than its network ingestion), but that's cosmetic: the pings land.
+booked-job.com (apex) is verified in Bing Webmaster Tools.
 
   python3 scripts/indexnow.py --all          # submit every URL in the sitemap
   python3 scripts/indexnow.py URL [URL ...]  # submit specific URLs
