@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:10",
+  "updated": "2026-07-20T19:06",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 3,
+        "current": 4,
         "target": 800,
         "pct": 0,
         "on_track": false
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 1136,
+        "current": 1137,
         "target": 10000,
         "pct": 11,
         "on_track": false
@@ -197,7 +197,7 @@
   "content": {
     "posts_published": 31,
     "reactions": 2,
-    "comments": 1,
+    "comments": 2,
     "shares": 0,
     "reels_published": 27,
     "posts_remaining": 27,
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 1136,
+    "views": 1137,
     "likes": 0,
     "videos": 28,
     "shorts": 28
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 256
+    "media": 258
   },
   "email": {
     "subscribers": 7
@@ -484,7 +484,7 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 1136,
+      "views": 1137,
       "followers": 0,
       "likes": 0
     },
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 157,
+      "count": 158,
       "unit": "posts",
       "followers": 32,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 156,
+      "count": 157,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 157
+        "count": 158
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 34
+        "count": 35
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 156
+        "count": 157
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 18
+        "count": 19
       }
     ]
   },
@@ -851,22 +851,22 @@
     }
   ],
   "funnel": {
-    "reach": 41768,
-    "engagement": 3,
+    "reach": 41769,
+    "engagement": 4,
     "audience": 50,
     "cr_clicks": 34
   },
   "trends": {
     "audience": 20,
-    "engagement": -10,
+    "engagement": -9,
     "email": 0,
-    "reach": 4022
+    "reach": 4023
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 17840,
+        "value": 17841,
         "grade": "B"
       },
       {
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1467,
+        "value": 1469,
         "grade": "A"
       },
       {
@@ -891,11 +891,11 @@
       },
       {
         "label": "Engagement",
-        "value": 3,
+        "value": 4,
         "grade": "F"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1467 posts, 50 audience, 34 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1469 posts, 50 audience, 34 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

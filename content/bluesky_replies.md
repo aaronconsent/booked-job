@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
+  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
+
 - **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
   → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
 
@@ -171,17 +177,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 #boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
   → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=846637 
-
-#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
-  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
-
-- **@stylelib.org**: Renovar – Construction Company WordPress Theme
-
- https://stylelib.org/?p=639287 
-
-#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
-  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
