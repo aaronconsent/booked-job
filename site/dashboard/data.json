@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T07:42",
+  "updated": "2026-07-21T10:13",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 27,
+        "current": 28,
         "target": 30,
-        "pct": 90,
+        "pct": 93,
         "on_track": true
       },
       {
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 32,
+        "current": 33,
         "target": 60,
-        "pct": 53,
+        "pct": 55,
         "on_track": false
       },
       {
@@ -108,18 +108,11 @@
       "date": "2026-07-22",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Homeowner \u201csaved money\u201d doing it himself. Now I'm charging d",
-      "sub": "hack job"
-    },
-    {
-      "date": "2026-07-23",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Drop your best before/after. Any trade \u2014 roof, panel, re-pip",
       "sub": "before after"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-23",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Nobody claps when it's done right \u2014 the light just turns on,",
@@ -127,20 +120,20 @@
     },
     {
       "date": "2026-07-24",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "\"I watched a video, it looked easy\"",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "There is no \u201cjust quickly.\u201d Every trade knows it. What's the",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-24",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Three months chasing one invoice",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "It looked easy in the video. That's the whole business model",
@@ -148,27 +141,27 @@
     },
     {
       "date": "2026-07-28",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Three months chasing one invoice",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-28",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Milwaukee or DeWalt?",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
@@ -176,16 +169,23 @@
     },
     {
       "date": "2026-07-31",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
+      "sub": "trade humor"
+    },
+    {
+      "date": "2026-07-31",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Milwaukee or DeWalt?",
+      "title": "Reviews beat ads, every time",
       "sub": "Reel"
     },
     {
       "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
+      "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
       "sub": "trade humor"
     }
   ],
@@ -195,13 +195,13 @@
     "likes": 6
   },
   "content": {
-    "posts_published": 32,
+    "posts_published": 33,
     "reactions": 3,
     "comments": 2,
     "shares": 0,
-    "reels_published": 27,
-    "posts_remaining": 26,
-    "reels_remaining": 18
+    "reels_published": 28,
+    "posts_remaining": 25,
+    "reels_remaining": 17
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 261
+    "media": 264
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 70,
+      "count": 72,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 32,
+      "count": 33,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 1995,
+      "views": 2000,
       "followers": 1
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 162,
+      "count": 163,
       "unit": "posts",
       "followers": 32,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 161,
+      "count": 162,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 47,
+      "count": 48,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 31
+        "count": 32
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 27
+        "count": 28
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 27
+        "count": 28
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 35
+        "count": 36
       },
       {
         "type": "Photo carousels",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 54
+        "count": 55
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 162
+        "count": 163
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 36
+        "count": 37
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 161
+        "count": 162
       },
       {
         "type": "Video",
@@ -809,23 +809,23 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 20
+        "count": 21
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 41,
+      "remaining": 40,
       "per_day": 2,
-      "days": 20.5,
+      "days": 20.0,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 18,
+      "remaining": 17,
       "per_day": 1,
-      "days": 18.0,
+      "days": 17.0,
       "status": "green"
     },
     {
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 42273,
+    "reach": 42281,
     "engagement": 5,
     "audience": 50,
     "cr_clicks": 34
@@ -860,7 +860,7 @@
     "audience": 18,
     "engagement": -5,
     "email": 0,
-    "reach": 4175
+    "reach": 4183
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1484,
+        "value": 1490,
         "grade": "A"
       },
       {

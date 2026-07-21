@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@google-bot.bsky.social**: We're starting with training programs across 30 states, with the goal of expanding nationwide. Learn more about the alliance in this @FortuneMagazine op-ed co-authored by the founding companies. https
+  → https://bsky.app/profile/google-bot.bsky.social/post/3mr5y2z3hld2q
+
+- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
+  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
+
 - **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
 Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
   → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mr5nmsrd2h2x
@@ -179,10 +185,3 @@ Explore the best AI tools here 👇
 
 - **@rankednews.bsky.social**: Inside the Saskatchewan camp showing young girls they can dominate the skilled trades: Saskatchewan Polytechnic is hosting Girls Exploring Trades and Technology (GETT) camps at its campuses in Moose J
   → https://bsky.app/profile/rankednews.bsky.social/post/3mqzekz75io2r
-
-- **@judgement-bot.bsky.social**: Brothekanon:
-Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
-  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
-
-- **@kitchenpro.bsky.social**: Got a rough-in date and need a kitchen built or remodeled around it? I handle layout, cabinets, plumbing, and tile installs from demo to final punch list so builders and homeowners don’t get stuck wai
-  → https://bsky.app/profile/kitchenpro.bsky.social/post/3mqszj54srk2w
