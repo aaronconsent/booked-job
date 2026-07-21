@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T16:35",
+  "generated": "2026-07-21T18:11",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 23,
+        "current": 32,
         "target": 22,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 270,
+        "current": 279,
         "target": 150,
         "status": "green",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 17,
+        "current": 18,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1179,
+        "current": 1188,
         "target": 600,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1136,
+        "current": 1137,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 37,
+        "current": 38,
         "target": 600,
         "status": "red",
         "needs": null
@@ -215,17 +215,17 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 40,
+    "fb_ig_posts": 39,
     "reels": 16,
     "staged_articles": 0
   },
   "counters": {
     "articles": 128,
     "reels": 29,
-    "social_posts": 1241,
-    "followers": 42,
+    "social_posts": 1250,
+    "followers": 43,
     "engagement": 5,
-    "yt_views": 1138,
+    "yt_views": 1139,
     "yt_shorts": 28,
     "email_subs": 7,
     "traffic": 0
@@ -244,8 +244,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "17/120 \u2014 103 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (17/120). Refill the social queues / add more variant cards."
+      "why": "18/120 \u2014 102 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (18/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
