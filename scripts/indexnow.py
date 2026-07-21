@@ -22,7 +22,8 @@ def submit(urls):
                        "keyLocation": f"https://{HOST}/{KEY}.txt",
                        "urlList": urls[:10000]}).encode()
     req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, method="POST",
-                                 headers={"Content-Type": "application/json; charset=utf-8"})
+                                 headers={"Content-Type": "application/json; charset=utf-8",
+                                          "User-Agent": "curl/8.4.0"})  # api 403s default python-urllib UA
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.status
 
