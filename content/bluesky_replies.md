@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jimfarley.bsky.social**: The skilled trades workforce shortage is a national crisis but also a generational opportunity. Why this alliance? No one person or organization is going to solve the skilled trades shortage alone. So
+  → https://bsky.app/profile/jimfarley.bsky.social/post/3mraqq7azj22p
+
+- **@longboxreview.bsky.social**: How can you call your business In Stock Trades when those trades are, in fact, not in stock? 🤔
+  → https://bsky.app/profile/longboxreview.bsky.social/post/3mr3ryp7i222u
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
 - **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
   → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
 
@@ -177,12 +190,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@premiumtimes.bsky.social**: Weekly Review: Nigeria stock market gains N622bn amid decline in trades https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-tra
   → https://bsky.app/profile/premiumtimes.bsky.social/post/3mqy4jzdm672r
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mqpmiqnj5p26
-
-- **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224

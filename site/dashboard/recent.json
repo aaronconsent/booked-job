@@ -1,76 +1,46 @@
 {
-  "updated": "2026-07-22T09:25",
+  "updated": "2026-07-22T11:53",
   "posts": [
     {
-      "ts": "2026-07-22T09:22:02",
-      "channel": "youtube",
-      "item": "pod-ep02-system",
-      "url": "https://youtu.be/_pXiy_-yGks"
-    },
-    {
-      "ts": "2026-07-22T09:21:55",
-      "channel": "facebook",
+      "ts": "2026-07-22T11:51:23",
+      "channel": "mastodon",
       "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-07-22T09:21:17",
+      "ts": "2026-07-22T11:50:48",
       "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
+      "item": "flooring-marketing",
+      "url": "https://mastodon.social/@bookedjob/116964658265185703"
     },
     {
-      "ts": "2026-07-22T09:21:06",
-      "channel": "mastodon",
-      "item": "gutter-marketing",
-      "url": "https://mastodon.social/@bookedjob/116964069632178409"
-    },
-    {
-      "ts": "2026-07-22T09:21:03",
+      "ts": "2026-07-22T11:50:46",
       "channel": "telegraph",
-      "item": "gutter-marketing",
-      "url": "https://telegra.ph/Gutter-Marketing-How-to-Book-More-Gutter-Jobs-in-2026-07-22"
+      "item": "flooring-marketing",
+      "url": "https://telegra.ph/Flooring-Marketing-How-to-Get-More-Flooring-Jobs-in-2026-07-22"
     },
     {
-      "ts": "2026-07-22T09:21:03",
+      "ts": "2026-07-22T11:50:45",
       "channel": "tumblr",
-      "item": "gutter-marketing",
+      "item": "flooring-marketing",
       "url": null
     },
     {
-      "ts": "2026-07-22T09:21:01",
+      "ts": "2026-07-22T11:50:44",
       "channel": "tumblr",
-      "item": "bj-ftc",
+      "item": "bj-cpl",
       "url": null
     },
     {
-      "ts": "2026-07-22T09:21:00",
+      "ts": "2026-07-22T11:50:42",
       "channel": "bluesky",
-      "item": "bj-missedcall",
+      "item": "bj-stormchaser",
       "url": null
     },
     {
-      "ts": "2026-07-22T09:20:56",
-      "channel": "linkedin",
-      "item": "explainer-lesson-01",
-      "url": null
-    },
-    {
-      "ts": "2026-07-22T09:20:55",
+      "ts": "2026-07-22T11:50:38",
       "channel": "tiktok",
-      "item": "bj-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-07-22T09:20:54",
-      "channel": "ig",
-      "item": "bj-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-07-22T09:20:16",
-      "channel": "facebook",
-      "item": "bj-yelp",
+      "item": "bj-ai",
       "url": null
     }
   ]
