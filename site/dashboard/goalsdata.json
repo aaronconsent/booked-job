@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T11:53",
+  "generated": "2026-07-22T13:22",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 40,
+        "current": 46,
         "target": 22,
         "status": "green",
         "needs": null
@@ -33,7 +33,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 1,
+        "current": 2,
         "target": 1,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 297,
+        "current": 303,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 12,
+        "current": 13,
         "target": 7,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1237,
+        "current": 1243,
         "target": 600,
         "status": "green",
         "needs": null
@@ -157,7 +157,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 28,
+        "current": 29,
         "target": 30,
         "status": "green",
         "needs": null
@@ -216,13 +216,13 @@
   },
   "queues": {
     "fb_ig_posts": 38,
-    "reels": 15,
+    "reels": 14,
     "staged_articles": 0
   },
   "counters": {
     "articles": 128,
-    "reels": 30,
-    "social_posts": 1299,
+    "reels": 31,
+    "social_posts": 1305,
     "followers": 45,
     "engagement": 4,
     "yt_views": 1142,

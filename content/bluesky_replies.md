@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224
+
+- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
+  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
+
 - **@jimfarley.bsky.social**: The skilled trades workforce shortage is a national crisis but also a generational opportunity. Why this alliance? No one person or organization is going to solve the skilled trades shortage alone. So
   → https://bsky.app/profile/jimfarley.bsky.social/post/3mraqq7azj22p
 
@@ -180,13 +186,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
   → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@premiumtimes.bsky.social**: Weekly Review: Nigeria stock market gains N622bn amid decline in trades https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-tra
-  → https://bsky.app/profile/premiumtimes.bsky.social/post/3mqy4jzdm672r

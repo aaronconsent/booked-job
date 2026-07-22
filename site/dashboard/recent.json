@@ -1,46 +1,58 @@
 {
-  "updated": "2026-07-22T11:53",
+  "updated": "2026-07-22T13:22",
   "posts": [
     {
-      "ts": "2026-07-22T11:51:23",
+      "ts": "2026-07-22T13:20:45",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-07-22T11:50:48",
+      "ts": "2026-07-22T13:20:34",
       "channel": "mastodon",
-      "item": "flooring-marketing",
-      "url": "https://mastodon.social/@bookedjob/116964658265185703"
+      "item": "handyman-marketing",
+      "url": "https://mastodon.social/@bookedjob/116965011278525021"
     },
     {
-      "ts": "2026-07-22T11:50:46",
+      "ts": "2026-07-22T13:20:32",
       "channel": "telegraph",
-      "item": "flooring-marketing",
-      "url": "https://telegra.ph/Flooring-Marketing-How-to-Get-More-Flooring-Jobs-in-2026-07-22"
+      "item": "handyman-marketing",
+      "url": "https://telegra.ph/Handyman-Marketing-How-to-Stay-Booked-in-2026-07-22"
     },
     {
-      "ts": "2026-07-22T11:50:45",
+      "ts": "2026-07-22T13:20:32",
       "channel": "tumblr",
-      "item": "flooring-marketing",
+      "item": "handyman-marketing",
       "url": null
     },
     {
-      "ts": "2026-07-22T11:50:44",
+      "ts": "2026-07-22T13:20:30",
       "channel": "tumblr",
-      "item": "bj-cpl",
+      "item": "bj-favor",
       "url": null
     },
     {
-      "ts": "2026-07-22T11:50:42",
+      "ts": "2026-07-22T13:20:29",
       "channel": "bluesky",
-      "item": "bj-stormchaser",
+      "item": "bj-freecheck",
       "url": null
     },
     {
-      "ts": "2026-07-22T11:50:38",
+      "ts": "2026-07-22T13:20:26",
+      "channel": "linkedin",
+      "item": "rip-angi-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-07-22T13:20:25",
       "channel": "tiktok",
-      "item": "bj-ai",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-07-22T13:18:40",
+      "channel": "fb",
+      "item": "reviews-rank",
       "url": null
     }
   ]
