@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@premiumtimes.bsky.social**: Weekly Review: Nigeria stock market gains N622bn amid decline in trades https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-tra
+  → https://bsky.app/profile/premiumtimes.bsky.social/post/3mqy4jzdm672r
+
 - **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
   → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224
 
@@ -180,9 +190,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
