@@ -174,6 +174,13 @@
       "engagement": 4,
       "email": 7,
       "reach": 42345
+    },
+    {
+      "date": "2026-07-22",
+      "audience": 52,
+      "engagement": 4,
+      "email": 7,
+      "reach": 42347
     }
   ]
 }
