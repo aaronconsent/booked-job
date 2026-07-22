@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T04:38",
+  "generated": "2026-07-22T07:08",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 17,
+        "current": 26,
         "target": 22,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 274,
+        "current": 283,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 11,
+        "current": 12,
         "target": 7,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1214,
+        "current": 1223,
         "target": 600,
         "status": "green",
         "needs": null
@@ -157,7 +157,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 27,
+        "current": 28,
         "target": 30,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1138,
+        "current": 1137,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -215,17 +215,17 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 39,
-    "reels": 16,
+    "fb_ig_posts": 38,
+    "reels": 15,
     "staged_articles": 0
   },
   "counters": {
     "articles": 128,
-    "reels": 29,
-    "social_posts": 1276,
+    "reels": 30,
+    "social_posts": 1285,
     "followers": 45,
     "engagement": 4,
-    "yt_views": 1140,
+    "yt_views": 1139,
     "yt_shorts": 28,
     "email_subs": 7,
     "traffic": 0
