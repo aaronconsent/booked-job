@@ -6,19 +6,20 @@
       "card-reviews",
       "card-rev-plumb",
       "card-rev-roof",
-      "card-rev-elec"
+      "card-rev-elec",
+      "card-rev-paint"
     ],
-    "last_iso": "2026-07-22T19:23:25",
+    "last_iso": "2026-07-23T10:32:22",
     "day": {
-      "date": "2026-07-22",
-      "count": 6
+      "date": "2026-07-23",
+      "count": 1
     }
   },
   "ig": {
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "count": 0
     }
   },
@@ -26,12 +27,13 @@
     "posted": [
       "card-cpbj",
       "card-angi",
-      "card-reviews"
+      "card-reviews",
+      "card-rev-plumb"
     ],
-    "last_iso": "2026-07-22T17:16:09",
+    "last_iso": "2026-07-23T10:32:22",
     "day": {
-      "date": "2026-07-22",
-      "count": 2
+      "date": "2026-07-23",
+      "count": 1
     }
   }
 }
