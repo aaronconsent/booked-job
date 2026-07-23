@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@nashashmi.bsky.social**: 2500 years? Islam is only 1400 years old. Slave trades are as old as time, but are nowhere near the severe criminality of the American slave trade, the British slave trade, and the French slave trade.
+  → https://bsky.app/profile/nashashmi.bsky.social/post/3mrdv5fk42s2d
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
+
+- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
+  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
+
+- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
+  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -162,25 +188,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
   → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@premiumtimes.bsky.social**: Weekly Review: Nigeria stock market gains N622bn amid decline in trades https://www.premiumtimesng.com/business/business-news/896448-weekly-review-nigeria-stock-market-gains-n622bn-amid-decline-in-tra
-  → https://bsky.app/profile/premiumtimes.bsky.social/post/3mqy4jzdm672r
-
-- **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@jimfarley.bsky.social**: The skilled trades workforce shortage is a national crisis but also a generational opportunity. Why this alliance? No one person or organization is going to solve the skilled trades shortage alone. So
-  → https://bsky.app/profile/jimfarley.bsky.social/post/3mraqq7azj22p
-
-- **@longboxreview.bsky.social**: How can you call your business In Stock Trades when those trades are, in fact, not in stock? 🤔
-  → https://bsky.app/profile/longboxreview.bsky.social/post/3mr3ryp7i222u

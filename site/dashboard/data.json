@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:19",
+  "updated": "2026-07-23T18:07",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 2,
+        "current": 4,
         "target": 800,
         "pct": 0,
         "on_track": false
@@ -57,7 +57,7 @@
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 7,
+        "current": 8,
         "target": 400,
         "pct": 2,
         "on_track": false
@@ -89,9 +89,9 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 7,
+        "current": 8,
         "target": 300,
-        "pct": 2,
+        "pct": 3,
         "on_track": false
       }
     ]
@@ -191,12 +191,12 @@
   ],
   "page": {
     "name": "Booked Job",
-    "followers": 7,
-    "likes": 7
+    "followers": 8,
+    "likes": 8
   },
   "content": {
     "posts_published": 37,
-    "reactions": 1,
+    "reactions": 3,
     "comments": 1,
     "shares": 0,
     "reels_published": 33,
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 299
+    "media": 302
   },
   "email": {
     "subscribers": 7
@@ -464,8 +464,8 @@
       "grade": "B",
       "group": "social",
       "views": 5613,
-      "followers": 7,
-      "likes": 1
+      "followers": 8,
+      "likes": 3
     },
     {
       "name": "Instagram",
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 2293,
+      "views": 2300,
       "followers": 1
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "posts",
       "followers": 38,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 9,
+      "count": 10,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 152,
+      "count": 153,
       "unit": "posts (Buffer)",
       "stat": "850 reach \u00b7 6 reactions",
       "views": 10,
@@ -582,6 +582,9 @@
       "status": "live",
       "count": 54,
       "unit": "videos (Buffer)",
+      "stat": "3825 views \u00b7 17 reactions",
+      "views": 3825,
+      "likes": 17,
       "grade": "B",
       "group": "social"
     },
@@ -625,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -655,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -701,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 140
+        "count": 141
       },
       {
         "type": "Documents",
@@ -711,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 2
+        "count": 3
       },
       {
         "type": "Articles",
@@ -742,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 52
+        "count": 53
       }
     ],
     "Mastodon": [
@@ -769,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Video",
@@ -806,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 36
+        "count": 37
       }
     ]
   },
@@ -848,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 39538,
-    "engagement": 2,
-    "audience": 57,
+    "reach": 43379,
+    "engagement": 4,
+    "audience": 58,
     "cr_clicks": 39
   },
   "trends": {
-    "audience": 16,
-    "engagement": -3,
+    "audience": 17,
+    "engagement": -1,
     "email": 0,
-    "reach": 776
+    "reach": 4617
   },
   "mafia": {
     "metrics": [
@@ -873,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1290,
+        "value": 1293,
         "grade": "A"
       },
       {
@@ -883,16 +886,16 @@
       },
       {
         "label": "Audience Size",
-        "value": 57,
+        "value": 58,
         "grade": "C"
       },
       {
         "label": "Engagement",
-        "value": 2,
+        "value": 4,
         "grade": "F"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1290 posts, 57 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1293 posts, 58 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
