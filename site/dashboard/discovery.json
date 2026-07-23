@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T17:42:09Z",
+  "updated": "2026-07-23T19:40:29Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 8,
+        "uses": 9,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23040,
+        "followers": 23048,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9596,
+      "followers": 9597,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1786,
+      "followers": 1785,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },

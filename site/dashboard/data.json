@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T12:42",
+  "updated": "2026-07-23T14:40",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 36,
+        "current": 37,
         "target": 60,
-        "pct": 60,
+        "pct": 62,
         "on_track": false
       },
       {
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 4,
+        "current": 2,
         "target": 800,
         "pct": 0,
         "on_track": false
@@ -108,7 +108,7 @@
       "date": "2026-07-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "It looked easy in the video. That's the whole business model",
+      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
       "sub": "homeowner says"
     },
     {
@@ -122,15 +122,15 @@
       "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
+      "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
       "sub": "homeowner says"
     },
     {
       "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
-      "sub": "homeowner says"
+      "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
+      "sub": "trade humor"
     },
     {
       "date": "2026-07-28",
@@ -143,21 +143,21 @@
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
+      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
       "sub": "trade humor"
     },
     {
       "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
+      "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
       "sub": "trade humor"
     },
     {
       "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
+      "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
       "sub": "trade humor"
     },
     {
@@ -171,14 +171,14 @@
       "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
-      "sub": "trade humor"
+      "title": "Work-truck edition. Choose your fighter. This will not stay ",
+      "sub": "tool wars"
     },
     {
       "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Work-truck edition. Choose your fighter. This will not stay ",
+      "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
@@ -195,12 +195,12 @@
     "likes": 7
   },
   "content": {
-    "posts_published": 36,
-    "reactions": 3,
+    "posts_published": 37,
+    "reactions": 1,
     "comments": 1,
     "shares": 0,
     "reels_published": 32,
-    "posts_remaining": 22,
+    "posts_remaining": 21,
     "reels_remaining": 13
   },
   "ads": {
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 295
+    "media": 297
   },
   "email": {
     "subscribers": 7
@@ -459,13 +459,13 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 79,
+      "count": 80,
       "unit": "posts",
       "grade": "B",
       "group": "social",
       "views": 5613,
       "followers": 7,
-      "likes": 3
+      "likes": 1
     },
     {
       "name": "Instagram",
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 38,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 35
+        "count": 36
       },
       {
         "type": "Carousels",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 1
+        "count": 2
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 6
+        "count": 7
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 50
+        "count": 51
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
@@ -809,16 +809,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 34
+        "count": 35
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 37,
+      "remaining": 36,
       "per_day": 2,
-      "days": 18.5,
+      "days": 18.0,
       "status": "green"
     },
     {
@@ -852,13 +852,13 @@
   ],
   "funnel": {
     "reach": 43362,
-    "engagement": 4,
+    "engagement": 2,
     "audience": 57,
     "cr_clicks": 39
   },
   "trends": {
     "audience": 16,
-    "engagement": -1,
+    "engagement": -3,
     "email": 0,
     "reach": 4600
   },
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1280,
+        "value": 1283,
         "grade": "A"
       },
       {
@@ -891,11 +891,11 @@
       },
       {
         "label": "Engagement",
-        "value": 4,
+        "value": 2,
         "grade": "F"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1280 posts, 57 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1283 posts, 57 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
