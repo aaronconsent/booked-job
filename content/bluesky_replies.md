@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3mr6tyhxs7s2e
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
+
+ https://stylelib.org/?p=164679 
+
+#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
+  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
+
+- **@ferricoxide.blahaj.zone.ap.brid.gy**: The answer is self evident: "quit". The new boss clearly wants to act in any excuse possible to give the other person the position (is OP female, minority, etc.?).
+
+https://share.google/gHZOg73AiY3htV
+  → https://bsky.app/profile/ferricoxide.blahaj.zone.ap.brid.gy/post/3mr6oqwytgsh2
+
 - **@basicafbayblackguy.bsky.social**: Can I ask a question, what does paying dues get you in DSA? Like in the building trades dues pay for training facilities, some death benefits, legal representation, bargaining power, workers rights, p
   → https://bsky.app/profile/basicafbayblackguy.bsky.social/post/3mrdi67gvbc2p
 
@@ -161,26 +184,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@longboxreview.bsky.social**: How can you call your business In Stock Trades when those trades are, in fact, not in stock? 🤔
   → https://bsky.app/profile/longboxreview.bsky.social/post/3mr3ryp7i222u
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
-  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
-
-- **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
-
-- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
-
- https://stylelib.org/?p=877700 
-
-#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
-  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
-
-- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
-  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25

@@ -1,9 +1,10 @@
 {
   "done": [
-    "money-leaks-torque",
-    "missed-call",
-    "low-bid",
+    "last-guy",
     "is-angi-worth-it",
-    "last-guy"
+    "missed-call",
+    "money-leaks",
+    "low-bid",
+    "money-leaks-torque"
   ]
 }
