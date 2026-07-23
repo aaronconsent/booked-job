@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
+
 - **@stylelib.org**: Renovar – Construction Company WordPress Theme
 
  https://stylelib.org/?p=639287 
@@ -170,15 +187,3 @@ Searching for a general contractor with building services in Tucson? AZ Atlas Bu
 
 - **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
   → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mr5nmsrd2h2x
-
-- **@phrly.bsky.social**: Like, can you do really well in the trades? Sure. But it requires a ton of work and (one way or another) education. You both need to learn your trade, and if you want to make the big $, how to run a b
-  → https://bsky.app/profile/phrly.bsky.social/post/3mqyyv3twic2o
-
-- **@strainstars.bsky.social**: Locked Out? Austin's Trusted Locksmith Is Just a Call Away! 
-
-Whether you're locked out of your home, car, or business. Texas Premier Locksmith delivers fast, reliable, and  locksmith services across 
-  → https://bsky.app/profile/strainstars.bsky.social/post/3mr5bxxwsfk2c
