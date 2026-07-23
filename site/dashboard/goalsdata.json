@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T10:35",
+  "generated": "2026-07-23T12:57",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 11,
+        "current": 14,
         "target": 22,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 15,
+        "current": 16,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 931,
+        "current": 934,
         "target": 600,
         "status": "green",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 44,
+        "current": 45,
         "target": 600,
         "status": "red",
         "needs": null
@@ -215,15 +215,15 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 37,
+    "fb_ig_posts": 36,
     "reels": 13,
     "staged_articles": 0
   },
   "counters": {
     "articles": 128,
     "reels": 32,
-    "social_posts": 993,
-    "followers": 49,
+    "social_posts": 996,
+    "followers": 50,
     "engagement": 4,
     "yt_views": 1144,
     "yt_shorts": 29,
@@ -249,8 +249,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "15/120 \u2014 105 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (15/120). Refill the social queues / add more variant cards."
+      "why": "16/120 \u2014 104 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (16/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

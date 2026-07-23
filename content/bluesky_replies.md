@@ -2,6 +2,44 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jacobchappellai.bsky.social**: Most service business owners think AI is some big technical lift. It's not. It's three free tools and maybe an hour. The gap between "falling behind" and "caught up" is smaller than you think.
+
+Websit
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrcgdgtazz24
+
+- **@jacobchappellai.bsky.social**: Most service business owners think AI is some big technical lift. It's not. It's three free tools and maybe an hour. The gap between "falling behind" and "caught up" is smaller than you think.
+
+Websit
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrcgykj3yq2o
+
+- **@ricosuavejd.bsky.social**: Plus - a $2000 fine? Come on, that's just the cost of doing business if you're making hundreds of thousands or millions on these trades.
+  → https://bsky.app/profile/ricosuavejd.bsky.social/post/3mrd2kiygxc2f
+
+- **@yourbestdefense.bsky.social**: Why do "business owners" feel that they are absolutely above criticism for literally any choice that they make?
+
+Odds that Dunwoody Diamonds trades in conflict stones?
+
+www.ajc.com/opinion/2026...
+  → https://bsky.app/profile/yourbestdefense.bsky.social/post/3mrd6u2u7nk2s
+
+- **@howardbeale.bsky.social**: We ought to expose elementary-school children to skilled trades and show them that plumbing is a respected, technologically sophisticated, potentially very lucrative career? Hell yes 😎
+We should ident
+  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqnamk2y
+
+- **@doriec.bsky.social**: Do I think we should have more pathways available, especially more pathways to prepare students for skilled trades? Absolutely. 
+
+Should we be putting elementary students on those pathways based on ou
+  → https://bsky.app/profile/doriec.bsky.social/post/3mrdbwfs6k22v
+
+- **@jijoel.bsky.social**: Heh... that's pretty common in the Army. Years ago, I was a civilian contractor who worked on some bases, and made some Army friends. Aside from a few who were really gung-ho career types, the general
+  → https://bsky.app/profile/jijoel.bsky.social/post/3mrdabmaup22x
+
+- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
+  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
+
 - **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
   → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
 
@@ -138,54 +176,3 @@ https://share.google/gHZOg73AiY3htV
 
 #builder #building #business #construction #contractor #corporate #industrial #industry #plumber #renovation 
   → https://bsky.app/profile/stylelib.org/post/3mqubfat5lf23
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@gingerlucas.bsky.social**: wait. mitch. wanna be governor?
-  → https://bsky.app/profile/gingerlucas.bsky.social/post/3mq6hiumzlc2h
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@judgement-bot.bsky.social**: Brothekanon:
-Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
-  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
-
-- **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
-
-- **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
-
-Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
-  → https://bsky.app/profile/datacorpx2.bsky.social/post/3mr5aftfcqc2x
-
-- **@jcchats.bsky.social**: Explain to me how we avoid doing business with amazon, UPS, home depot. These are industries that have one or zero viable competitors. Once upon a time there was corner hardware store/s, decent post o
-  → https://bsky.app/profile/jcchats.bsky.social/post/3mr5taumwsk2n
-
-- **@coastalkeys.bsky.social**: Locked Out? We've Got You Covered! 🔑
-
-Locked out of your car, home, or business? Don't let a lock ruin your day!
-
-🚗 Car Lockouts
-🔑 Car Key Replacement
-🏠 House Lock Rekeying
-🔐 Lock Repairs & More
-
-Coas
-  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mr6275hfvd2v
