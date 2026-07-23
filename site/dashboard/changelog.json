@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-07-23T05:35",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools lost tape"
+    },
+    {
+      "ts": "2026-07-23T05:35",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing diagnostic fee"
+    },
+    {
+      "ts": "2026-07-23T05:35",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing once not twice"
+    },
+    {
       "ts": "2026-07-23T02:44",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-07-20T09:31",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Building a Personal AI Agent in a couple of Hours | Ivo Bernardo"
-    },
-    {
-      "ts": "2026-07-20T09:31",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio54818.mail.apollo.io: 4 ways to use Apollo you probably haven't tried"
-    },
-    {
-      "ts": "2026-07-20T09:30",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: labor good help"
     }
   ]
 }
