@@ -1,58 +1,52 @@
 {
-  "updated": "2026-07-22T17:17",
+  "updated": "2026-07-22T19:27",
   "posts": [
     {
-      "ts": "2026-07-22T17:16:55",
-      "channel": "facebook",
-      "item": "card-reviews",
+      "ts": "2026-07-22T19:23:32",
+      "channel": "mastodon",
+      "item": "card-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-07-22T17:16:11",
+      "ts": "2026-07-22T19:22:44",
       "channel": "mastodon",
-      "item": "card-rev-roof",
-      "url": null
+      "item": "window-cleaning-marketing",
+      "url": "https://mastodon.social/@bookedjob/116966435351223577"
     },
     {
-      "ts": "2026-07-22T17:15:58",
-      "channel": "mastodon",
-      "item": "junk-removal-marketing",
-      "url": "https://mastodon.social/@bookedjob/116965936899274895"
-    },
-    {
-      "ts": "2026-07-22T17:15:56",
+      "ts": "2026-07-22T19:22:29",
       "channel": "telegraph",
-      "item": "junk-removal-marketing",
-      "url": "https://telegra.ph/Junk-Removal-Marketing-How-to-Get-More-Hauling-Jobs-in-2026-07-22"
+      "item": "window-cleaning-marketing",
+      "url": "https://telegra.ph/Window-Cleaning-Marketing-Book-More-Recurring-Clients-in-2026-07-23"
     },
     {
-      "ts": "2026-07-22T17:15:56",
+      "ts": "2026-07-22T19:22:28",
       "channel": "tumblr",
-      "item": "junk-removal-marketing",
+      "item": "window-cleaning-marketing",
       "url": null
     },
     {
-      "ts": "2026-07-22T17:15:55",
+      "ts": "2026-07-22T19:22:27",
       "channel": "tumblr",
-      "item": "bj-ai",
+      "item": "bj-scam",
       "url": null
     },
     {
-      "ts": "2026-07-22T17:15:53",
+      "ts": "2026-07-22T19:22:26",
       "channel": "bluesky",
-      "item": "bj-agency12k",
+      "item": "bj-reviews50",
       "url": null
     },
     {
-      "ts": "2026-07-22T17:15:50",
+      "ts": "2026-07-22T19:22:22",
+      "channel": "linkedin",
+      "item": "rip-speed-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-07-22T19:22:21",
       "channel": "tiktok",
-      "item": "bj-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-07-22T17:15:49",
-      "channel": "ig",
-      "item": "bj-ai",
+      "item": "bj-rev-roof",
       "url": null
     }
   ]

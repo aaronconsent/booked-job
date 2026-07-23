@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T17:17",
+  "generated": "2026-07-22T19:27",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -75,9 +75,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 145,
+        "current": 0,
         "target": 150,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 1085,
+        "current": 917,
         "target": 600,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1141,
+        "current": 1142,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -215,17 +215,17 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 38,
+    "fb_ig_posts": 37,
     "reels": 14,
     "staged_articles": 0
   },
   "counters": {
     "articles": 128,
     "reels": 31,
-    "social_posts": 1147,
+    "social_posts": 979,
     "followers": 47,
     "engagement": 4,
-    "yt_views": 1143,
+    "yt_views": 1144,
     "yt_shorts": 29,
     "email_subs": 7,
     "traffic": 0
@@ -241,6 +241,11 @@
       "title": "\ud83c\udf10 Website traffic isn't tracked yet",
       "why": "No Cloudflare token connected, so traffic goals show no data.",
       "prompt": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page."
+    },
+    {
+      "title": "\ud83d\udce3 Social posts behind this week",
+      "why": "0/150 \u2014 150 short of pace.",
+      "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",

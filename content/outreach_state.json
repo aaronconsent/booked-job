@@ -12,8 +12,15 @@
     "campdigital.com": "no-contact",
     "reservio.com": "no-contact",
     "scorpion.co": "no-contact",
-    "watsonco.marketing": "2026-07-15"
+    "watsonco.marketing": "2026-07-15",
+    "advocacy.sba.gov": "2026-07-22",
+    "houstoncontractors.org": "2026-07-22",
+    "business.defense.gov": "no-contact",
+    "onr.navy.mil": "no-contact",
+    "dla.mil": "no-contact",
+    "carolinasmallbusiness.org": "2026-07-22",
+    "gsa.gov": "2026-07-22"
   },
-  "last_iso": "2026-07-15T18:14:30",
-  "qi": 2
+  "last_iso": "2026-07-22T19:27:22",
+  "qi": 3
 }

@@ -88,12 +88,13 @@
       "bj-ai",
       "bj-scam",
       "bj-rev-hvac",
-      "bj-rev-plumb"
+      "bj-rev-plumb",
+      "bj-rev-roof"
     ],
-    "last_iso": "2026-07-22T17:14:58",
+    "last_iso": "2026-07-22T19:22:20",
     "day": {
       "date": "2026-07-22",
-      "count": 5
+      "count": 6
     }
   },
   "linkedin": {
@@ -159,12 +160,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-07-22T15:35:44",
+    "last_iso": "2026-07-22T19:22:20",
     "day": {
       "date": "2026-07-22",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
@@ -288,12 +290,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-07-22T17:14:58",
+    "last_iso": "2026-07-22T19:22:20",
     "day": {
       "date": "2026-07-22",
-      "count": 5
+      "count": 6
     }
   },
   "telegram": {
@@ -343,12 +346,13 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-07-22T17:14:58",
+    "last_iso": "2026-07-22T19:22:20",
     "day": {
       "date": "2026-07-22",
-      "count": 5
+      "count": 6
     }
   }
 }
