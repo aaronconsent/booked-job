@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T06:51",
+  "updated": "2026-07-24T09:06",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -9,7 +9,7 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 33,
+        "current": 34,
         "target": 30,
         "pct": 100,
         "on_track": true
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 37,
+        "current": 38,
         "target": 60,
-        "pct": 62,
+        "pct": 63,
         "on_track": false
       },
       {
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 4,
+        "current": 5,
         "target": 800,
-        "pct": 0,
+        "pct": 1,
         "on_track": false
       },
       {
@@ -108,39 +108,32 @@
       "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
-      "sub": "homeowner says"
-    },
-    {
-      "date": "2026-07-28",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
       "sub": "homeowner says"
     },
     {
       "date": "2026-07-28",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Fast, cheap, or perfect \u2014 pick two",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
       "sub": "trade humor"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-28",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "98% leave your site without calling",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
       "sub": "trade humor"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
@@ -148,20 +141,20 @@
     },
     {
       "date": "2026-07-31",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "98% leave your site without calling",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-07-31",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Don't drop the price \u2014 add value",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Work-truck edition. Choose your fighter. This will not stay ",
@@ -169,24 +162,31 @@
     },
     {
       "date": "2026-08-04",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Don't drop the price \u2014 add value",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-04",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "How you answer a 1-star matters more",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
       "sub": "tool wars"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Every crew has the guy who guards the radio like it's a host",
+      "sub": "that guy"
     }
   ],
   "page": {
@@ -195,13 +195,13 @@
     "likes": 8
   },
   "content": {
-    "posts_published": 37,
-    "reactions": 3,
+    "posts_published": 38,
+    "reactions": 4,
     "comments": 1,
     "shares": 0,
-    "reels_published": 33,
-    "posts_remaining": 21,
-    "reels_remaining": 12
+    "reels_published": 34,
+    "posts_remaining": 20,
+    "reels_remaining": 11
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 305
+    "media": 308
   },
   "email": {
     "subscribers": 7
@@ -459,22 +459,22 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 81,
+      "count": 83,
       "unit": "posts",
       "grade": "B",
       "group": "social",
       "views": 5732,
       "followers": 8,
-      "likes": 3
+      "likes": 4
     },
     {
       "name": "Instagram",
       "status": "live",
-      "count": 38,
+      "count": 39,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 2317,
+      "views": 2323,
       "followers": 0
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "followers": 39,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 14,
+      "count": 15,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 54,
+      "count": 55,
       "unit": "videos (Buffer)",
       "stat": "3825 views \u00b7 17 reactions",
       "views": 3825,
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 36
+        "count": 37
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 33
+        "count": 34
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 33
+        "count": 34
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Photo carousels",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 13
+        "count": 14
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 54
+        "count": 55
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 14
+        "count": 15
       },
       {
         "type": "Video",
@@ -809,23 +809,23 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 38
+        "count": 39
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 36,
+      "remaining": 35,
       "per_day": 2,
-      "days": 18.0,
+      "days": 17.5,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 12,
+      "remaining": 11,
       "per_day": 1,
-      "days": 12.0,
+      "days": 11.0,
       "status": "green"
     },
     {
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 43518,
-    "engagement": 4,
+    "reach": 43529,
+    "engagement": 5,
     "audience": 58,
     "cr_clicks": 39
   },
   "trends": {
     "audience": 13,
-    "engagement": -2,
+    "engagement": -1,
     "email": 0,
-    "reach": 4183
+    "reach": 4194
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1161,
+        "value": 1167,
         "grade": "A"
       },
       {
@@ -891,11 +891,11 @@
       },
       {
         "label": "Engagement",
-        "value": 4,
-        "grade": "F"
+        "value": 5,
+        "grade": "D"
       }
     ],
-    "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1161 posts, 58 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "overall": "B",
+    "summary": "Strong. 58 audience and 39 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }
