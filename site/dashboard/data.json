@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-23T22:36",
+  "updated": "2026-07-24T01:36",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
-    "days_left": 7,
+    "days_left": 6,
     "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
     "items": [
       {
@@ -105,21 +105,14 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-24",
+      "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The magic words: \u201cmy neighbor's guy.\u201d Cool. Go call him. \ud83d\udc47",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-07-24",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Fast, cheap, or perfect \u2014 pick two",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cCan we do cash and skip the paperwork?\u201d The paperwork is wh",
@@ -127,27 +120,27 @@
     },
     {
       "date": "2026-07-28",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
-      "sub": "trade humor"
-    },
-    {
-      "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "98% leave your site without calling",
+      "title": "Fast, cheap, or perfect \u2014 pick two",
       "sub": "Reel"
     },
     {
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
+      "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
       "sub": "trade humor"
     },
     {
       "date": "2026-07-30",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
+      "sub": "trade humor"
+    },
+    {
+      "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
@@ -155,20 +148,20 @@
     },
     {
       "date": "2026-07-31",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "98% leave your site without calling",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
       "sub": "trade humor"
     },
     {
-      "date": "2026-07-31",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Don't drop the price \u2014 add value",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Work-truck edition. Choose your fighter. This will not stay ",
@@ -176,17 +169,24 @@
     },
     {
       "date": "2026-08-04",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Don't drop the price \u2014 add value",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-04",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "How you answer a 1-star matters more",
-      "sub": "Reel"
+      "date": "2026-08-06",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
+      "sub": "tool wars"
     }
   ],
   "page": {
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 303
+    "media": 304
   },
   "email": {
     "subscribers": 7
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 2309,
+      "views": 2312,
       "followers": 1
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 39,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Video",
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 43391,
+    "reach": 43394,
     "engagement": 4,
     "audience": 59,
     "cr_clicks": 39
   },
   "trends": {
-    "audience": 18,
-    "engagement": -1,
+    "audience": 14,
+    "engagement": -2,
     "email": 0,
-    "reach": 4629
+    "reach": 4059
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1296,
+        "value": 1298,
         "grade": "A"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1296 posts, 59 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1298 posts, 59 audience, 39 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
