@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
+
+Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
+  → https://bsky.app/profile/datacorpx2.bsky.social/post/3mr5aftfcqc2x
+
+- **@jcchats.bsky.social**: Explain to me how we avoid doing business with amazon, UPS, home depot. These are industries that have one or zero viable competitors. Once upon a time there was corner hardware store/s, decent post o
+  → https://bsky.app/profile/jcchats.bsky.social/post/3mr5taumwsk2n
+
+- **@coastalkeys.bsky.social**: Locked Out? We've Got You Covered! 🔑
+
+Locked out of your car, home, or business? Don't let a lock ruin your day!
+
+🚗 Car Lockouts
+🔑 Car Key Replacement
+🏠 House Lock Rekeying
+🔐 Lock Repairs & More
+
+Coas
+  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mr6275hfvd2v
+
 - **@jijoel.bsky.social**: Heh... that's pretty common in the Army. Years ago, I was a civilian contractor who worked on some bases, and made some Army friends. Aside from a few who were really gung-ho career types, the general
   → https://bsky.app/profile/jijoel.bsky.social/post/3mrdabmaup22x
 
@@ -168,13 +188,3 @@ Explore the best AI tools here 👇
 
 🔗 aitoolstoday.blog
   → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
-  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
-
-- **@judgement-bot.bsky.social**: Brothekanon:
-Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
-  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
-
-- **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
