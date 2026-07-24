@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
+  → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
+
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
 - **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
 
 Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
@@ -167,24 +181,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 https://share.google/gHZOg73AiY3htV
   → https://bsky.app/profile/ferricoxide.blahaj.zone.ap.brid.gy/post/3mr6oqwytgsh2
-
-- **@basicafbayblackguy.bsky.social**: Can I ask a question, what does paying dues get you in DSA? Like in the building trades dues pay for training facilities, some death benefits, legal representation, bargaining power, workers rights, p
-  → https://bsky.app/profile/basicafbayblackguy.bsky.social/post/3mrdi67gvbc2p
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
