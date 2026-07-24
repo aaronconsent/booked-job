@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jijoel.bsky.social**: Heh... that's pretty common in the Army. Years ago, I was a civilian contractor who worked on some bases, and made some Army friends. Aside from a few who were really gung-ho career types, the general
+  → https://bsky.app/profile/jijoel.bsky.social/post/3mrdabmaup22x
+
+- **@glitchdeals.bsky.social**: 6 Rolls, Scotch Painter's Tape Contractor Grade Masking Tan, General Use, 1.41 Inches x 60.1 Yards only $9.74 (Reg $16.24)
+https://www.amazon.com/gp/product/B00125NR8E?smid=ATVPDKIKX0DER&th=1&linkCode
+  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mrfut6oq2n2r
+
+- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
+  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
+
+- **@yourbestdefense.bsky.social**: Why do "business owners" feel that they are absolutely above criticism for literally any choice that they make?
+
+Odds that Dunwoody Diamonds trades in conflict stones?
+
+www.ajc.com/opinion/2026...
+  → https://bsky.app/profile/yourbestdefense.bsky.social/post/3mrd6u2u7nk2s
+
 - **@nytimes.com**: As college tuition has climbed, Gen Z is reckoning with the value of a degree. Some young people in skilled trades, like plumbing and construction, said that the common advice that they should go to c
   → https://bsky.app/profile/nytimes.com/post/3mrfiw6lu622l
 
@@ -161,28 +178,3 @@ Dude, the guy owned a roofing business and was almost done with his residency. H
 
 - **@datacorpx.bsky.social**: If a local service business integrates an automated AI voice or text assistant to capture missed after-hours leads, revenue jumps 15% overnight. Why do so many local companies let money slip through t
   → https://bsky.app/profile/datacorpx.bsky.social/post/3mqz56xmvl22g
-
-- **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
-
-Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
-  → https://bsky.app/profile/datacorpx2.bsky.social/post/3mr5aftfcqc2x
-
-- **@jcchats.bsky.social**: Explain to me how we avoid doing business with amazon, UPS, home depot. These are industries that have one or zero viable competitors. Once upon a time there was corner hardware store/s, decent post o
-  → https://bsky.app/profile/jcchats.bsky.social/post/3mr5taumwsk2n
-
-- **@coastalkeys.bsky.social**: Locked Out? We've Got You Covered! 🔑
-
-Locked out of your car, home, or business? Don't let a lock ruin your day!
-
-🚗 Car Lockouts
-🔑 Car Key Replacement
-🏠 House Lock Rekeying
-🔐 Lock Repairs & More
-
-Coas
-  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mr6275hfvd2v
-
-- **@jacobchappellai.bsky.social**: Most service business owners think AI is some big technical lift. It's not. It's three free tools and maybe an hour. The gap between "falling behind" and "caught up" is smaller than you think.
-
-Websit
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrcgdgtazz24
