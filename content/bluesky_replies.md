@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
+
+https://www.byteseu.com/2187905/
+
+Make better investment decisions with Simply Wall St’s easy, visual tools that giv
+  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
+
+- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
+  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
+
+- **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
+  → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224
+
+- **@castawayfarmtoo.bsky.social**: This is the rediculousness of doing business with companies today:
+Me: I was home all day but you say it was undeliverable.
+UPS: if undeliverable we drop off at nearest processing service (aka USPS)
+M
+  → https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26
+
 - **@nashashmi.bsky.social**: 2500 years? Islam is only 1400 years old. Slave trades are as old as time, but are nowhere near the severe criminality of the American slave trade, the British slave trade, and the French slave trade.
   → https://bsky.app/profile/nashashmi.bsky.social/post/3mrdv5fk42s2d
 
@@ -172,19 +191,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@stylelib.org**: Renovar – Construction Company WordPress Theme
-
- https://stylelib.org/?p=639287 
-
-#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
-  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
