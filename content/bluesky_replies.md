@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@basicafbayblackguy.bsky.social**: Can I ask a question, what does paying dues get you in DSA? Like in the building trades dues pay for training facilities, some death benefits, legal representation, bargaining power, workers rights, p
+  → https://bsky.app/profile/basicafbayblackguy.bsky.social/post/3mrdi67gvbc2p
+
+- **@sandythixx.bsky.social**: Am i about to really learn how to be a plumber and handle this bathroom by myself?
+At this point I might as well become a general contractor instead of making porn. 
+Hey maybe ill earn more money that
+  → https://bsky.app/profile/sandythixx.bsky.social/post/3mrgdiamyp225
+
+- **@riversdaughter.bsky.social**: *ahem*
+
+Your attention, please!
+
+Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
+
+Boston, North & South Shores, 
+  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
+
+- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
+
+AI can help your home service business save time, capture more leads, and improve customer service.
+
+Explore the best AI tools here 👇
+
+🔗 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
+
 - **@forapost.bsky.social**: A local roofing contractor fed their reviews into AI analysis and found a pattern: customers wanted transparent pricing and faster estimates. They adjusted their process. Repeat business went up 40%. 
   → https://bsky.app/profile/forapost.bsky.social/post/3mqdociarzv2h
 
@@ -161,23 +187,3 @@ M
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
-Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
-  → https://bsky.app/profile/rjgsr.bsky.social/post/3mr6tyhxs7s2e
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
-
- https://stylelib.org/?p=164679 
-
-#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
-  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
-
-- **@ferricoxide.blahaj.zone.ap.brid.gy**: The answer is self evident: "quit". The new boss clearly wants to act in any excuse possible to give the other person the position (is OP female, minority, etc.?).
-
-https://share.google/gHZOg73AiY3htV
-  → https://bsky.app/profile/ferricoxide.blahaj.zone.ap.brid.gy/post/3mr6oqwytgsh2
