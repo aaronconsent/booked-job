@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -182,6 +185,3 @@ Should we be putting elementary students on those pathways based on ou
 in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
 add in if you own your own business? easily pulling down $150-$200k
   → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
-
-- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
-  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
