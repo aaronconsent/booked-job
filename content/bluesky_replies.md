@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
 
@@ -177,11 +191,3 @@ Should we be putting elementary students on those pathways based on ou
 
 - **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
-
-- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
-  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
-
-- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
-in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
-add in if you own your own business? easily pulling down $150-$200k
-  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
