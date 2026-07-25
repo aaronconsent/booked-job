@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3mr6tyhxs7s2e
+
+- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
+
+ https://stylelib.org/?p=164679 
+
+#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
+  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@basicafbayblackguy.bsky.social**: Can I ask a question, what does paying dues get you in DSA? Like in the building trades dues pay for training facilities, some death benefits, legal representation, bargaining power, workers rights, p
   → https://bsky.app/profile/basicafbayblackguy.bsky.social/post/3mrdi67gvbc2p
 
@@ -178,12 +193,3 @@ M
 
 - **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
   → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
-
-- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
-  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
-
-- **@tx3dnews.bsky.social**: Sponsored Content: Looking to grow your local business? See how Maverick Digital helped Guardian Concrete Coatings generate a reported $91,000 in booked revenue through a targeted digital marketing st
-  → https://bsky.app/profile/tx3dnews.bsky.social/post/3mqoxtottyb2z
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
