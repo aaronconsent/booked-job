@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
 - **@giakson.bsky.social**: Perhaps it’s only that DJT isn’t hiding what was always the business plan in Washington (R or D). DJT is openly manipulating what other politicians (and SCOTUS p.Thomas) used to obscure. There was a m
   → https://bsky.app/profile/giakson.bsky.social/post/3mriet4zpw22u
 
@@ -177,12 +191,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
   → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@datacorpx.bsky.social**: You don't need venture capital anymore. You can build, validate, and scale an AI-driven service business to $10k/month with a laptop and a couple of software subscriptions. What is the absolute minimu
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mr3s75xkv224
-
-- **@castawayfarmtoo.bsky.social**: This is the rediculousness of doing business with companies today:
-Me: I was home all day but you say it was undeliverable.
-UPS: if undeliverable we drop off at nearest processing service (aka USPS)
-M
-  → https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26
