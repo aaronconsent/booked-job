@@ -108,12 +108,13 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-07-25T06:25:16",
+    "last_iso": "2026-07-25T09:09:03",
     "day": {
       "date": "2026-07-25",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -126,12 +127,13 @@
       "pod-ep03-lie",
       "pod-ep02-system",
       "pod-ep02-fake",
-      "pod-ep02-onetap"
+      "pod-ep02-onetap",
+      "pod-ep02-peak"
     ],
-    "last_iso": "2026-07-25T06:25:16",
+    "last_iso": "2026-07-25T09:09:03",
     "day": {
       "date": "2026-07-25",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -277,12 +279,13 @@
       "clip3-onestar",
       "is-angi-worth-it",
       "money-leaks-torque",
-      "money-leaks"
+      "money-leaks",
+      "explainer-lesson-01"
     ],
-    "last_iso": "2026-07-25T06:25:16",
+    "last_iso": "2026-07-25T09:09:03",
     "day": {
       "date": "2026-07-25",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -347,12 +350,13 @@
       "bj-missedcall",
       "bj-stormchaser",
       "bj-freecheck",
-      "bj-fakemaps"
+      "bj-fakemaps",
+      "bj-agency12k"
     ],
-    "last_iso": "2026-07-25T06:25:16",
+    "last_iso": "2026-07-25T09:09:03",
     "day": {
       "date": "2026-07-25",
-      "count": 1
+      "count": 2
     }
   }
 }
