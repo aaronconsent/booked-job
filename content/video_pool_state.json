@@ -49,12 +49,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-07-24T14:55:03",
+    "last_iso": "2026-07-25T06:25:16",
     "day": {
-      "date": "2026-07-24",
-      "count": 2
+      "date": "2026-07-25",
+      "count": 1
     }
   },
   "tiktok": {
@@ -106,12 +107,13 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-07-24T18:24:07",
+    "last_iso": "2026-07-25T06:25:16",
     "day": {
-      "date": "2026-07-24",
-      "count": 7
+      "date": "2026-07-25",
+      "count": 1
     }
   },
   "linkedin": {
@@ -123,12 +125,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-07-24T18:24:07",
+    "last_iso": "2026-07-25T06:25:16",
     "day": {
-      "date": "2026-07-24",
-      "count": 5
+      "date": "2026-07-25",
+      "count": 1
     }
   },
   "facebook": {
@@ -194,12 +197,13 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-07-24T18:24:07",
+    "last_iso": "2026-07-25T06:25:16",
     "day": {
-      "date": "2026-07-24",
-      "count": 3
+      "date": "2026-07-25",
+      "count": 1
     }
   },
   "pinterest": {
@@ -272,12 +276,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-07-24T18:24:07",
+    "last_iso": "2026-07-25T06:25:16",
     "day": {
-      "date": "2026-07-24",
-      "count": 7
+      "date": "2026-07-25",
+      "count": 1
     }
   },
   "telegram": {
@@ -341,12 +346,13 @@
       "bj-anon98",
       "bj-missedcall",
       "bj-stormchaser",
-      "bj-freecheck"
+      "bj-freecheck",
+      "bj-fakemaps"
     ],
-    "last_iso": "2026-07-24T18:24:07",
+    "last_iso": "2026-07-25T06:25:16",
     "day": {
-      "date": "2026-07-24",
-      "count": 7
+      "date": "2026-07-25",
+      "count": 1
     }
   }
 }
