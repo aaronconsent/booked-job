@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
+  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
+
 - **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
 Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
   → https://bsky.app/profile/rjgsr.bsky.social/post/3mr6tyhxs7s2e
@@ -190,6 +193,3 @@ M
 
 #electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
   → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
-
-- **@datacorpx.bsky.social**: The mid-market collapse is happening right now. Generic agencies and standard service providers are being priced to absolute zero by lean operators utilizing automated workflows. How defensible is you
-  → https://bsky.app/profile/datacorpx.bsky.social/post/3mqwjhekers2p
