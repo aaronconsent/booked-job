@@ -1,10 +1,11 @@
 {
   "linkedin": [
+    "pricing-once-not-twice",
     "pricing-insurance",
-    "pricing-low-bid",
-    "pricing-pick-two",
     "pricing-diagnostic-fee",
-    "pricing-once-not-twice"
+    "pricing-pick-two",
+    "pricing-callback",
+    "pricing-low-bid"
   ],
   "tiktok": [
     "money-leaks",
