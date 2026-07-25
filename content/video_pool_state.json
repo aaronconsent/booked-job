@@ -289,12 +289,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-07-25T14:26:46",
+    "last_iso": "2026-07-25T17:08:09",
     "day": {
       "date": "2026-07-25",
-      "count": 4
+      "count": 5
     }
   },
   "telegram": {
