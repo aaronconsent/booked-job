@@ -1,13 +1,14 @@
 {
   "linkedin": [
-    "pricing-friend-price",
-    "pricing-once-not-twice",
-    "pricing-callback",
+    "lastguy-rate",
     "pricing-pick-two",
+    "pricing-once-not-twice",
+    "pricing-friend-price",
     "pricing-low-bid",
+    "pricing-insurance",
+    "pricing-callback",
     "lastguy-worst",
-    "pricing-diagnostic-fee",
-    "pricing-insurance"
+    "pricing-diagnostic-fee"
   ],
   "tiktok": [
     "money-leaks",

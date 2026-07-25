@@ -109,12 +109,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-07-25T09:09:03",
+    "last_iso": "2026-07-25T10:17:41",
     "day": {
       "date": "2026-07-25",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -351,12 +352,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-07-25T09:09:03",
+    "last_iso": "2026-07-25T10:17:41",
     "day": {
       "date": "2026-07-25",
-      "count": 2
+      "count": 3
     }
   }
 }
