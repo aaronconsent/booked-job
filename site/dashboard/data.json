@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T10:14",
+  "updated": "2026-07-25T12:11",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 325
+    "media": 326
   },
   "email": {
     "subscribers": 7
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 26,
+      "count": 27,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 20,
+      "count": 21,
       "unit": "posts (Buffer)",
       "stat": "864 reach \u00b7 7 reactions",
       "views": 12,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Documents",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 26
+        "count": 27
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 47
+        "count": 48
       }
     ]
   },
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1204,
+        "value": 1206,
         "grade": "A"
       },
       {
