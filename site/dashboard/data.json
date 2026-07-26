@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T19:08",
+  "updated": "2026-07-25T23:35",
   "goals": {
     "label": "Month 1 \u2014 Aggressive scale",
     "end": "2026-07-30",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 39,
+        "current": 40,
         "target": 60,
-        "pct": 65,
+        "pct": 67,
         "on_track": false
       },
       {
@@ -41,7 +41,7 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 9,
+        "current": 10,
         "target": 800,
         "pct": 1,
         "on_track": false
@@ -108,14 +108,14 @@
       "date": "2026-07-27",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The \u201cquick 30-minute job\u201d has never once taken 30 minutes. N",
+      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
       "sub": "trade humor"
     },
     {
       "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "\u201cJust one more thing before you go.\u201d We all felt that in our",
+      "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
       "sub": "trade humor"
     },
     {
@@ -129,21 +129,21 @@
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Put on a clean shirt for ONE estimate and somehow ended up c",
+      "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
       "sub": "trade humor"
     },
     {
       "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
-      "sub": "trade humor"
+      "title": "Work-truck edition. Choose your fighter. This will not stay ",
+      "sub": "tool wars"
     },
     {
       "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Work-truck edition. Choose your fighter. This will not stay ",
+      "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
@@ -157,15 +157,15 @@
       "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "You lend tools on a jobsite: never / to a chosen few / to an",
+      "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
       "sub": "tool wars"
     },
     {
       "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
-      "sub": "tool wars"
+      "title": "Every crew has the guy who guards the radio like it's a host",
+      "sub": "that guy"
     },
     {
       "date": "2026-08-04",
@@ -178,15 +178,15 @@
       "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every crew has the guy who guards the radio like it's a host",
+      "title": "We all know him. Tag him (gently). \ud83d\udc47",
       "sub": "that guy"
     },
     {
       "date": "2026-08-06",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "We all know him. Tag him (gently). \ud83d\udc47",
-      "sub": "that guy"
+      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
+      "sub": "owner solidarity"
     }
   ],
   "page": {
@@ -195,12 +195,12 @@
     "likes": 9
   },
   "content": {
-    "posts_published": 39,
-    "reactions": 8,
+    "posts_published": 40,
+    "reactions": 9,
     "comments": 1,
     "shares": 0,
     "reels_published": 37,
-    "posts_remaining": 19,
+    "posts_remaining": 18,
     "reels_remaining": 8
   },
   "ads": {
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 334
+    "media": 335
   },
   "email": {
     "subscribers": 7
@@ -459,13 +459,13 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 87,
+      "count": 88,
       "unit": "posts",
       "grade": "B",
       "group": "social",
       "views": 5965,
       "followers": 9,
-      "likes": 8
+      "likes": 9
     },
     {
       "name": "Instagram",
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 28,
+      "count": 29,
       "unit": "posts",
       "followers": 47,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 31,
+      "count": 32,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 38
+        "count": 39
       },
       {
         "type": "Carousels",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 4
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 4
       },
       {
         "type": "Long video",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 28
+        "count": 29
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 66
+        "count": 67
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 31
+        "count": 32
       },
       {
         "type": "Video",
@@ -809,16 +809,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 51
+        "count": 52
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 34,
+      "remaining": 33,
       "per_day": 2,
-      "days": 17.0,
+      "days": 16.5,
       "status": "green"
     },
     {
@@ -852,13 +852,13 @@
   ],
   "funnel": {
     "reach": 44164,
-    "engagement": 9,
+    "engagement": 10,
     "audience": 67,
     "cr_clicks": 41
   },
   "trends": {
     "audience": 19,
-    "engagement": 3,
+    "engagement": 4,
     "email": 0,
     "reach": 3621
   },
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1218,
+        "value": 1221,
         "grade": "A"
       },
       {
@@ -891,7 +891,7 @@
       },
       {
         "label": "Engagement",
-        "value": 9,
+        "value": 10,
         "grade": "D"
       }
     ],
