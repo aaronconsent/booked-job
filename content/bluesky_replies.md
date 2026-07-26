@@ -2,6 +2,38 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@strainstars.bsky.social**: Locked Out? Austin's Trusted Locksmith Is Just a Call Away! 
+
+Whether you're locked out of your home, car, or business. Texas Premier Locksmith delivers fast, reliable, and  locksmith services across 
+  → https://bsky.app/profile/strainstars.bsky.social/post/3mr5bxxwsfk2c
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=7387 
+
+#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
+  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@stylelib.org**: Renovar – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=639287 
+
+#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
+  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
+
+- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
+  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
 - **@rankednews.bsky.social**: Gen Z rethinks education: The rise of skilled trades over traditional college in the US: In Jonesboro, Arkansas, 23-year-old LaDonna Glass recently finished her shift as an electrician apprentice, ins
   → https://bsky.app/profile/rankednews.bsky.social/post/3mrkdljmnip2p
 
@@ -168,23 +200,3 @@ www.ajc.com/opinion/2026...
 
 - **@nytimes.com**: As college tuition has climbed, Gen Z is reckoning with the value of a degree. Some young people in skilled trades, like plumbing and construction, said that the common advice that they should go to c
   → https://bsky.app/profile/nytimes.com/post/3mrfiw6lu622l
-
-- **@charlesmead.bsky.social**: If college isn’t for you, great. But I seriously doubt anyone is choosing between becoming an accountant or a plumber. But let’s quit framing this conversation in a way that’s demeaning to higher educ
-  → https://bsky.app/profile/charlesmead.bsky.social/post/3mrfjlt2ypc2x
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
-
-- **@scottwhitegloves.bsky.social**: We had TekSavvy for both home and business ISP for over a decade, then (gasp!) switch to Bell* because their offers were better and the service (speed especially) was untouchable by Tek, and it wasn't
-  → https://bsky.app/profile/scottwhitegloves.bsky.social/post/3mrfpqiuhf22k
-
-- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
-  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
-
-- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
-in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
-add in if you own your own business? easily pulling down $150-$200k
-  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
-
-- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
-  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q

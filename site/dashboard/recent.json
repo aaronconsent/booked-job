@@ -1,46 +1,40 @@
 {
-  "updated": "2026-07-26T07:18",
+  "updated": "2026-07-26T09:47",
   "posts": [
     {
-      "ts": "2026-07-26T07:15:15",
+      "ts": "2026-07-26T09:45:32",
+      "channel": "facebook",
+      "item": "card-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-07-26T09:44:46",
+      "channel": "mastodon",
+      "item": "card-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-07-26T09:44:36",
       "channel": "tumblr",
-      "item": "ad-summit",
-      "url": null
-    },
-    {
-      "ts": "2026-07-26T07:15:14",
-      "channel": "bluesky",
-      "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-26T07:15:13",
-      "channel": "linkedin",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-07-26T07:15:12",
-      "channel": "tiktok",
       "item": "clip-speed",
       "url": null
     },
     {
-      "ts": "2026-07-26T07:15:11",
-      "channel": "ig",
-      "item": "bj-cheapbid",
+      "ts": "2026-07-26T09:44:35",
+      "channel": "bluesky",
+      "item": "pod-ep03-track",
       "url": null
     },
     {
-      "ts": "2026-07-26T07:14:36",
-      "channel": "facebook",
-      "item": "rip-speed-rip",
+      "ts": "2026-07-26T09:44:34",
+      "channel": "linkedin",
+      "item": "pod-ep01-speed",
       "url": null
     },
     {
-      "ts": "2026-07-26T07:12:35",
-      "channel": "fb",
-      "item": "repeat-customer",
+      "ts": "2026-07-26T09:44:33",
+      "channel": "tiktok",
+      "item": "clip1-turd",
       "url": null
     }
   ]
