@@ -122,12 +122,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-07-26T15:29:16",
+    "last_iso": "2026-07-26T17:13:05",
     "day": {
       "date": "2026-07-26",
-      "count": 5
+      "count": 6
     }
   },
   "linkedin": {
@@ -245,12 +246,13 @@
       "pod-ep03-track",
       "pod-ep03-exclusive",
       "pod-ep03-channels",
-      "pod-ep03-trap"
+      "pod-ep03-trap",
+      "pod-ep03-lie"
     ],
-    "last_iso": "2026-07-26T15:29:16",
+    "last_iso": "2026-07-26T17:13:05",
     "day": {
       "date": "2026-07-26",
-      "count": 5
+      "count": 6
     }
   },
   "telegram": {
@@ -326,12 +328,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-07-26T15:29:16",
+    "last_iso": "2026-07-26T17:13:05",
     "day": {
       "date": "2026-07-26",
-      "count": 5
+      "count": 6
     }
   }
 }
