@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
 - **@jacobchappellai.bsky.social**: Connected my Google Drive to Claude, Gemini, and NotebookLM. Now AI actually pulls from my real business files instead of giving generic answers. 60 second setup each.
 
 Websites + AI systems that book
@@ -195,6 +198,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 #building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
   → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e

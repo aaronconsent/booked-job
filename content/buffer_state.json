@@ -1,18 +1,19 @@
 {
   "linkedin": [
-    "pricing-low-bid",
-    "pricing-diagnostic-fee",
-    "pricing-callback",
-    "pricing-insurance",
     "ugc-before-after",
-    "pricing-pick-two",
-    "lastguy-diy",
+    "pricing-callback",
     "lastguy-worst",
-    "pricing-once-not-twice",
+    "lastguy-diy",
     "lastguy-rate",
-    "pricing-friend-price",
     "lastguy-flextape",
-    "lastguy-panel"
+    "pricing-low-bid",
+    "ba-credit",
+    "pricing-insurance",
+    "pricing-diagnostic-fee",
+    "lastguy-panel",
+    "pricing-friend-price",
+    "pricing-pick-two",
+    "pricing-once-not-twice"
   ],
   "tiktok": [
     "money-leaks",
