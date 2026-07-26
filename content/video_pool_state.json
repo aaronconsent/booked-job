@@ -114,12 +114,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-07-25T16:17:48",
+    "last_iso": "2026-07-25T19:10:29",
     "day": {
       "date": "2026-07-25",
-      "count": 6
+      "count": 7
     }
   },
   "linkedin": {
@@ -134,12 +135,13 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-07-25T14:26:46",
+    "last_iso": "2026-07-25T19:10:29",
     "day": {
       "date": "2026-07-25",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
@@ -207,12 +209,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-07-25T12:23:12",
+    "last_iso": "2026-07-25T19:10:29",
     "day": {
       "date": "2026-07-25",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
@@ -290,12 +293,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-07-25T17:08:09",
+    "last_iso": "2026-07-25T19:10:29",
     "day": {
       "date": "2026-07-25",
-      "count": 5
+      "count": 6
     }
   },
   "telegram": {
@@ -365,12 +369,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-07-25T16:17:48",
+    "last_iso": "2026-07-25T19:10:29",
     "day": {
       "date": "2026-07-25",
-      "count": 6
+      "count": 7
     }
   }
 }
