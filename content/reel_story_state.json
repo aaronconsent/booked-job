@@ -1,10 +1,11 @@
 {
   "done": [
-    "low-bid",
-    "last-guy",
-    "missed-call",
     "money-leaks-torque",
+    "low-bid",
+    "missed-call",
+    "pod-ep03-verdict",
+    "money-leaks",
     "is-angi-worth-it",
-    "money-leaks"
+    "last-guy"
   ]
 }
