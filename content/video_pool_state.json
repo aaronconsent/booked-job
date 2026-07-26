@@ -119,12 +119,13 @@
       "clip-porno3",
       "clip-speed",
       "clip1-turd",
-      "clip2-game"
+      "clip2-game",
+      "clip3-onestar"
     ],
-    "last_iso": "2026-07-26T11:22:53",
+    "last_iso": "2026-07-26T13:10:58",
     "day": {
       "date": "2026-07-26",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -142,12 +143,13 @@
       "pod-ep02-howmany",
       "pod-ep02-invisible",
       "pod-ep01-verdict",
-      "pod-ep01-speed"
+      "pod-ep01-speed",
+      "pod-ep01-starter"
     ],
-    "last_iso": "2026-07-26T09:44:32",
+    "last_iso": "2026-07-26T13:10:58",
     "day": {
       "date": "2026-07-26",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -217,12 +219,13 @@
       "bj-gbp",
       "bj-track",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-07-26T07:14:08",
+    "last_iso": "2026-07-26T13:10:58",
     "day": {
       "date": "2026-07-26",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -237,12 +240,13 @@
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-07-26T11:22:53",
+    "last_iso": "2026-07-26T13:10:58",
     "day": {
       "date": "2026-07-26",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -316,12 +320,13 @@
       "ad-pauls",
       "ad-summit",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip2-game"
     ],
-    "last_iso": "2026-07-26T11:22:53",
+    "last_iso": "2026-07-26T13:10:58",
     "day": {
       "date": "2026-07-26",
-      "count": 3
+      "count": 4
     }
   }
 }
