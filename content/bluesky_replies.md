@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jacobchappellai.bsky.social**: Connected my Google Drive to Claude, Gemini, and NotebookLM. Now AI actually pulls from my real business files instead of giving generic answers. 60 second setup each.
+
+Websites + AI systems that book
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjst2dqu62j
+
+- **@jacobchappellai.bsky.social**: Google put AI in Gmail, Docs, and Drive. Toggle each on or off. Plus more Gemini and NotebookLM usage.
+
+If you run a service business, this is an easy win.
+
+Websites + AI systems that book jobs for th
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjtkzew6b2j
+
+- **@jacobchappellai.bsky.social**: NotebookLM trick for service business owners: upload your brand docs + website, then just ask it questions about YOUR business.
+
+"What's my style?" Instant answer. No re-explaining yourself to every A
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjubn7aix2y
+
 - **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
 
 https://www.byteseu.com/2187905/
@@ -181,12 +198,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
