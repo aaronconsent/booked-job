@@ -1,12 +1,13 @@
 {
   "done": [
-    "money-leaks",
-    "missed-call",
-    "low-bid",
-    "money-leaks-torque",
+    "slow-season",
     "last-guy",
+    "money-leaks-torque",
+    "money-leaks",
+    "pod-ep03-verdict",
+    "missed-call",
     "quick-favor",
-    "is-angi-worth-it",
-    "pod-ep03-verdict"
+    "low-bid",
+    "is-angi-worth-it"
   ]
 }
