@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T04:47:49Z",
+  "updated": "2026-07-27T08:41:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 26,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -122,9 +122,9 @@
         "link": "https://mastodon.social/tags/hvacengineer"
       },
       {
-        "tag": "#hvacousticfoldingpartition",
+        "tag": "#HVACTheft",
         "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticfoldingpartition"
+        "link": "https://mastodon.social/tags/HVACTheft"
       },
       {
         "tag": "#hvacousticpartition",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465500,
+        "followers": 465501,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -170,12 +170,12 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7163,
+        "followers": 7164,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2328,
+        "followers": 2329,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -285,7 +285,7 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 846,
+      "followers": 847,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     }

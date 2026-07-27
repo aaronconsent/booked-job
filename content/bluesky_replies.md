@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@sandythixx.bsky.social**: Am i about to really learn how to be a plumber and handle this bathroom by myself?
+At this point I might as well become a general contractor instead of making porn. 
+Hey maybe ill earn more money that
+  → https://bsky.app/profile/sandythixx.bsky.social/post/3mrgdiamyp225
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
 - **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
 
 AI can help your home service business save time, capture more leads, and improve customer service.
@@ -183,17 +197,3 @@ M
 - **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
 #Nassa
   → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
-  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
-
-- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
-Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
-  → https://bsky.app/profile/rjgsr.bsky.social/post/3mr6tyhxs7s2e
-
-- **@stylelib.org**: Home Fix – Maintenance, Handyman Services Theme
-
- https://stylelib.org/?p=164679 
-
-#cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
-  → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
