@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Contractor Marketing Budget Calculator — how much should you spend? | Booked Job</title>
+<meta name="description" content="Free marketing budget calculator for contractors. Not a flat percent of revenue — start from the revenue you want to add, the size of your average job, and what a booked job costs you. Get a monthly number you can defend." />
+<link rel="canonical" href="https://booked-job.com/tools/marketing-budget-calculator/" />
+<meta property="og:type" content="website" /><meta property="og:title" content="Contractor Marketing Budget Calculator" />
+<meta property="og:description" content="Revenue you want to add ÷ average job ÷ close math → the monthly marketing budget that actually books it." />
+<meta property="og:url" content="https://booked-job.com/tools/marketing-budget-calculator/" />
+<meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
+<meta name="theme-color" content="#15171A" />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Contractor Marketing Budget Calculator",
+"url":"https://booked-job.com/tools/marketing-budget-calculator/","applicationCategory":"BusinessApplication",
+"operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+"description":"Free calculator that turns the revenue a contractor wants to add, their average job value, and their cost per booked job into a defensible monthly marketing budget.",
+"publisher":{"@type":"Organization","name":"Booked Job","url":"https://booked-job.com/"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How much should a contractor spend on marketing?","acceptedAnswer":{"@type":"Answer","text":"Don't start from a percent of revenue. Start from the revenue you want to add, divide by your average job value to get the jobs you need, then multiply by what a booked job actually costs you — about $168 via Google Local Service Ads versus about $542 via Angi. That product is your budget."}},
+{"@type":"Question","name":"Is 5-10% of revenue the right marketing budget?","acceptedAnswer":{"@type":"Answer","text":"It's a reasonable ceiling, not an answer. A flat percent tells you nothing about whether a dollar books a job. Budget by cost per booked job, and cap what you'll pay at your average job value times your gross margin."}},
+{"@type":"Question","name":"What is the most a contractor should pay for a booked job?","acceptedAnswer":{"@type":"Answer","text":"Your ceiling is average job value times gross margin — above that, the job loses money before you turn a wrench. In practice most shops should be well under it: a booked job runs about $168 on Google Local Service Ads versus about $542 on Angi."}}]}
+</script>
+<style>
+.tool{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}
+.tool label{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}
+.tool .hint{font-weight:400;color:#8b9098;font-size:13px}
+.tool input{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}
+.tool input:focus{border-color:#FF6A00;outline:none}
+.res{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}
+.res .big{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}
+.res .lab{color:#A8A29E;margin-top:6px;font-size:15px}
+.bench{margin-top:14px;font-size:15px;color:#CFCAC4}.bench b{color:#FFD23F}
+.warn{margin-top:14px;font-size:15px;color:#FFD23F;font-weight:700}
+.linkbox{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}
+</style>
+</head><body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="/tools/">All free tools</a>
+</div></header><div class="tape"></div>
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › <a href="/tools/">Tools</a> › Marketing Budget Calculator</p>
+  <h1>How Much Should You <em>Spend on Marketing?</em></h1>
+  <div class="answer"><b>Why "5–10% of revenue" is the wrong starting point:</b> a percent tells you what you're allowed to spend, not what it takes to book the work. Start from the other end — the revenue you want to add, the size of your average job, and what a booked job actually costs you.</div>
+
+  <div class="tool">
+    <label for="add">Revenue you want to ADD this year ($)</label>
+    <input id="add" type="number" value="250000" min="0" step="10000" />
+    <label for="job">Your average job value ($)</label>
+    <input id="job" type="number" value="1800" min="1" step="100" />
+    <label for="cpbj">What a booked job costs you today ($) <span class="hint">(Google LSA ≈ $168 · Angi ≈ $542 — use yours if you know it)</span></label>
+    <input id="cpbj" type="number" value="168" min="1" step="10" />
+    <label for="margin">Your gross margin on a job (%) <span class="hint">(what's left after materials and labor)</span></label>
+    <input id="margin" type="number" value="35" min="1" max="95" step="1" />
+    <div class="res">
+      <div class="big" id="mo">$—</div>
+      <div class="lab">your monthly marketing budget</div>
+      <div class="bench" id="yr"></div>
+      <div class="bench" id="jobs"></div>
+      <div class="bench" id="pct"></div>
+      <div class="bench" id="ceil"></div>
+      <div class="warn" id="warn"></div>
+      <div class="bench">Spend it in order of return: profile and reviews first, then speed to lead, then your site, then paid — <a href="/blog/small-business-marketing-for-contractors/">here's the order</a>.</div>
+    </div>
+  </div>
+
+  <h2>How to read it</h2>
+  <p>The math is deliberately simple: <b>revenue you want ÷ average job value</b> gives the jobs you need, and <b>jobs × cost per booked job</b> gives the spend. Divide by twelve and you have a monthly number you can actually defend to yourself.</p>
+  <p>The line that matters most is the <b>ceiling</b>: average job value × gross margin. Pay more than that per booked job and the work loses money before you turn a wrench. Most contractors have never calculated it, which is how a channel at ~<b>$542</b> per booked job (Angi) survives next to one at ~<b>$168</b> (Google Local Service Ads). Run your own channel numbers in the <a href="/tools/cost-per-booked-job-calculator/">cost per booked job calculator</a>, and read the longer version in <a href="/blog/contractor-marketing-budget/">how much should a contractor spend on marketing</a>.</p>
+  <p>One caveat worth more than the calculator: your cheapest jobs aren't bought at all. A complete Google Business Profile and steady reviews cost nothing per lead — and <b>91%</b> of homeowners won't consider a shop under 4 stars (BrightLocal 2026). Max the free channels before this number means anything.</p>
+
+  <div class="capture">
+    <div class="cap-eyebrow">Free · For owners who'd rather be on the tools</div>
+    <h3>Get the honest math — straight to your inbox</h3>
+    <p>The real contractor-marketing numbers, one short email at a time: what leads actually cost, how many reviews it takes to rank, why answering the phone beats the ad budget. No fluff, no selling your info.</p>
+    <form class="capform" action="/api/subscribe" method="post">
+      <input type="email" name="email" placeholder="you@yourshop.com" required aria-label="Email address" />
+      <button type="submit">Send me the good stuff &rarr;</button>
+    </form>
+    <div class="capnote">Join contractors reading the numbers nobody else will show them. Unsubscribe anytime.</div>
+  </div>
+
+  <h2>Link to / embed this calculator</h2>
+  <div class="linkbox">&lt;iframe src="https://booked-job.com/tools/marketing-budget-calculator/" style="width:100%;height:980px;border:1px solid #ddd;border-radius:12px" loading="lazy" title="Contractor Marketing Budget Calculator"&gt;&lt;/iframe&gt;&lt;br&gt;&lt;a href="https://booked-job.com/tools/marketing-budget-calculator/"&gt;Marketing Budget Calculator by Booked Job&lt;/a&gt;</div>
+
+  <div class="answer"><b>Next step:</b> More free tools + the honest math at <a href="https://booked-job.com/tools/">booked-job.com/tools</a>.</div>
+</article>
+<footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script>
+function money(n){return '$'+Math.round(n).toLocaleString();}
+function calc(){
+  var add=+document.getElementById('add').value||0,
+      job=+document.getElementById('job').value||0,
+      cpbj=+document.getElementById('cpbj').value||0,
+      m=(+document.getElementById('margin').value||0)/100;
+  var jobs=job>0?add/job:0;
+  var year=jobs*cpbj;
+  var mo=year/12;
+  var ceiling=job*m;
+  document.getElementById('mo').textContent=mo>0?money(mo)+'/mo':'$—';
+  document.getElementById('yr').textContent=year>0?('That’s '+money(year)+' for the year.'):'';
+  document.getElementById('jobs').textContent=jobs>0?('You need about '+Math.ceil(jobs).toLocaleString()+' more booked jobs — roughly '+Math.ceil(jobs/12)+' a month.'):'';
+  document.getElementById('pct').textContent=(year>0&&add>0)?('That is '+(year/add*100).toFixed(1)+'% of the revenue you’re adding.'):'';
+  document.getElementById('ceil').innerHTML=ceiling>0?('Your ceiling per booked job: <b>'+money(ceiling)+'</b> (average job × gross margin). Pay more than that and the job loses money.'):'';
+  var w=document.getElementById('warn');
+  if(cpbj>0&&ceiling>0&&cpbj>=ceiling){ w.textContent='⚠ At '+money(cpbj)+' per booked job you are at or over your ceiling — this budget buys work that costs you money.'; }
+  else if(cpbj>=542){ w.textContent='⚠ That is Angi territory (~$542/booked job). Google LSA averages ~$168 — the same budget would book far more work.'; }
+  else { w.textContent=''; }
+}
+document.querySelectorAll('.tool input').forEach(function(i){i.addEventListener('input',calc)});
+calc();
+</script>
+<script src="/assets/capture.js" defer></script>
+</body></html>

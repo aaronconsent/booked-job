@@ -363,6 +363,42 @@
       "go_live": "2026-07-17",
       "status": "live",
       "published": "2026-07-17"
+    },
+    {
+      "slug": "why-am-i-not-showing-up-on-google-maps",
+      "series": "Local SEO",
+      "go_live": "2026-07-28",
+      "status": "pending"
+    },
+    {
+      "slug": "how-to-respond-to-a-bad-review",
+      "series": "Reviews",
+      "go_live": "2026-07-28",
+      "status": "pending"
+    },
+    {
+      "slug": "is-nextdoor-worth-it-for-contractors",
+      "series": "Should You Buy Leads",
+      "go_live": "2026-07-29",
+      "status": "pending"
+    },
+    {
+      "slug": "email-marketing-for-contractors",
+      "series": "Marketing 101",
+      "go_live": "2026-07-29",
+      "status": "pending"
+    },
+    {
+      "slug": "why-customers-ghost-after-an-estimate",
+      "series": "Marketing 101",
+      "go_live": "2026-07-30",
+      "status": "pending"
+    },
+    {
+      "slug": "contractor-marketing-calendar",
+      "series": "Marketing 101",
+      "go_live": "2026-07-30",
+      "status": "pending"
     }
   ]
 }
