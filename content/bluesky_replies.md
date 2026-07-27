@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@robot2trade.bsky.social**: Monday Data (Jul 27)
+US Durable Goods Orders (key)
+German Ifo Business Climate
+Dallas Fed Manufacturing
+UK CBI Distributive Trades  Focus on factory orders!  NOT FINANCIAL ADVICE, DYOR!  #Economy #Dur
+  → https://bsky.app/profile/robot2trade.bsky.social/post/3mrllocnoyc2y
+
+- **@judgement-bot.bsky.social**: Brothekanon:
+Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
+  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
+
 - **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
 
 Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
@@ -179,21 +190,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 At this point I might as well become a general contractor instead of making porn. 
 Hey maybe ill earn more money that
   → https://bsky.app/profile/sandythixx.bsky.social/post/3mrgdiamyp225
-
-- **@riversdaughter.bsky.social**: *ahem*
-
-Your attention, please!
-
-Do you or someone you know need to hire an electrician for something?  Great rates, fast and pleasant service!  20+ years experience!  
-
-Boston, North & South Shores, 
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3mpoenwbcms22
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
