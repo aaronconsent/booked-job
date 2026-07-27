@@ -399,6 +399,42 @@
       "series": "Marketing 101",
       "go_live": "2026-07-30",
       "status": "pending"
+    },
+    {
+      "slug": "missed-call-text-back-for-contractors",
+      "series": "Speed to Lead",
+      "go_live": "2026-07-31",
+      "status": "pending"
+    },
+    {
+      "slug": "service-area-pages-for-contractors",
+      "series": "Local SEO",
+      "go_live": "2026-07-31",
+      "status": "pending"
+    },
+    {
+      "slug": "how-much-should-a-contractor-website-cost",
+      "series": "Marketing 101",
+      "go_live": "2026-08-01",
+      "status": "pending"
+    },
+    {
+      "slug": "crm-for-contractors-do-you-need-one",
+      "series": "Marketing 101",
+      "go_live": "2026-08-01",
+      "status": "pending"
+    },
+    {
+      "slug": "water-damage-restoration-marketing",
+      "series": "Trade Guides",
+      "go_live": "2026-08-02",
+      "status": "pending"
+    },
+    {
+      "slug": "remodeling-contractor-marketing",
+      "series": "Trade Guides",
+      "go_live": "2026-08-02",
+      "status": "pending"
     }
   ]
 }

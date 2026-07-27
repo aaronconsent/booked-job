@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Missed Call Revenue Calculator — what unanswered calls cost you | Booked Job</title>
+<meta name="description" content="Free missed call calculator for contractors. Your call volume, your average job, your close rate — and the 14% of calls the average shop misses (CallRail 2026) — turned into the revenue walking out the door every year." />
+<link rel="canonical" href="https://booked-job.com/tools/missed-call-calculator/" />
+<meta property="og:type" content="website" /><meta property="og:title" content="Missed Call Revenue Calculator for Contractors" />
+<meta property="og:description" content="The average shop misses 14% of its calls. Here's what yours are worth in lost revenue every year." />
+<meta property="og:url" content="https://booked-job.com/tools/missed-call-calculator/" />
+<meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
+<meta name="theme-color" content="#15171A" />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/article.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Missed Call Revenue Calculator",
+"url":"https://booked-job.com/tools/missed-call-calculator/","applicationCategory":"BusinessApplication",
+"operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+"description":"Free calculator that turns a contractor's monthly call volume, average job value, close rate, and missed-call rate into the annual revenue lost to unanswered calls.",
+"publisher":{"@type":"Organization","name":"Booked Job","url":"https://booked-job.com/"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How much do missed calls cost a contractor?","acceptedAnswer":{"@type":"Answer","text":"Multiply the calls you miss by your close rate and your average job value. The average business misses 14% of its calls (CallRail 2026), so a shop taking 200 calls a month at a 40% close rate and a $1,800 average job is losing roughly $242,000 a year in booked work it already paid to generate."}},
+{"@type":"Question","name":"What percentage of calls does the average business miss?","acceptedAnswer":{"@type":"Answer","text":"About 14% (CallRail 2026). For contractors the real figure is often higher, because calls arrive while crews are on a roof, under a house, or driving between jobs."}},
+{"@type":"Question","name":"Do people leave a voicemail if a contractor doesn't answer?","acceptedAnswer":{"@type":"Answer","text":"Usually not. A homeowner with an urgent problem calls the next contractor on the list — 78% of homeowners hire whoever responds first (Lead Connect 2026). An automatic text sent the instant you miss a call is the cheapest way to stay in the conversation."}}]}
+</script>
+<style>
+.tool{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}
+.tool label{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}
+.tool .hint{font-weight:400;color:#8b9098;font-size:13px}
+.tool input{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}
+.tool input:focus{border-color:#FF6A00;outline:none}
+.res{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}
+.res .big{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}
+.res .lab{color:#A8A29E;margin-top:6px;font-size:15px}
+.bench{margin-top:14px;font-size:15px;color:#CFCAC4}.bench b{color:#FFD23F}
+.warn{margin-top:14px;font-size:15px;color:#FFD23F;font-weight:700}
+.linkbox{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}
+</style>
+</head><body>
+<header><div class="nav">
+  <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
+  <a class="cta" href="/tools/">All free tools</a>
+</div></header><div class="tape"></div>
+<article class="wrap">
+  <p class="crumb"><a href="/">Home</a> › <a href="/tools/">Tools</a> › Missed Call Calculator</p>
+  <h1>What Are Your <em>Missed Calls</em> Costing You?</h1>
+  <div class="answer"><b>The most expensive number in your shop is the one nobody tracks.</b> The average business misses <b>14%</b> of its calls (CallRail 2026) — and every one of those already cost you money to create. Put your numbers in and see the year's damage.</div>
+
+  <div class="tool">
+    <label for="calls">Calls you get in a month</label>
+    <input id="calls" type="number" value="200" min="0" step="10" />
+    <label for="miss">Share of calls you miss (%) <span class="hint">(average business ≈ 14% — CallRail 2026)</span></label>
+    <input id="miss" type="number" value="14" min="0" max="100" step="1" />
+    <label for="close">Your close rate on calls you DO answer (%)</label>
+    <input id="close" type="number" value="40" min="1" max="100" step="1" />
+    <label for="job">Your average job value ($)</label>
+    <input id="job" type="number" value="1800" min="1" step="100" />
+    <div class="res">
+      <div class="big" id="year">$—</div>
+      <div class="lab">walking out the door every year</div>
+      <div class="bench" id="mo"></div>
+      <div class="bench" id="jobs"></div>
+      <div class="bench" id="buy"></div>
+      <div class="bench" id="rec"></div>
+      <div class="warn" id="warn"></div>
+      <div class="bench">The fix is response time, not budget — <a href="/blog/respond-fast-land-more-jobs/">respond fast, land more jobs</a>.</div>
+    </div>
+  </div>
+
+  <h2>How to read it</h2>
+  <p>The math is deliberately blunt: <b>missed calls × your close rate × your average job</b>. It assumes a missed caller would have closed at the same rate as an answered one, which is conservative — in practice an urgent caller who reaches a live person often closes <em>better</em>, because they've stopped shopping.</p>
+  <p>The line that stings is the comparison. You're paying to buy new leads at roughly <b>$168</b> per booked job through Google Local Service Ads — or ~<b>$542</b> through Angi — while the jobs above are already dialing your number and getting nothing. Buying more leads before you answer the phone is the most expensive order of operations in contractor marketing. Check your channel costs in the <a href="/tools/cost-per-booked-job-calculator/">cost per booked job calculator</a>.</p>
+  <p>Two facts make the recovery real: <b>78%</b> of homeowners hire whoever responds first (Lead Connect 2026), and replying in 5 minutes rather than 30 makes you up to <b>100x</b> more likely to connect (MIT Sloan 2026). That's why an automatic text fired the instant a call is missed recovers work a voicemail box never will — the full argument is in <a href="/blog/speed-to-lead-why-5-minutes-matters/">why five minutes matters</a>, and the size of the leak is in <a href="/blog/missed-calls-cost-contractors-invoices/">what missed calls cost in invoices</a>.</p>
+
+  <div class="capture">
+    <div class="cap-eyebrow">Free · For owners who'd rather be on the tools</div>
+    <h3>Get the honest math — straight to your inbox</h3>
+    <p>The real contractor-marketing numbers, one short email at a time: what leads actually cost, how many reviews it takes to rank, why answering the phone beats the ad budget. No fluff, no selling your info.</p>
+    <form class="capform" action="/api/subscribe" method="post">
+      <input type="email" name="email" placeholder="you@yourshop.com" required aria-label="Email address" />
+      <button type="submit">Send me the good stuff &rarr;</button>
+    </form>
+    <div class="capnote">Join contractors reading the numbers nobody else will show them. Unsubscribe anytime.</div>
+  </div>
+
+  <h2>Link to / embed this calculator</h2>
+  <div class="linkbox">&lt;iframe src="https://booked-job.com/tools/missed-call-calculator/" style="width:100%;height:980px;border:1px solid #ddd;border-radius:12px" loading="lazy" title="Missed Call Revenue Calculator"&gt;&lt;/iframe&gt;&lt;br&gt;&lt;a href="https://booked-job.com/tools/missed-call-calculator/"&gt;Missed Call Revenue Calculator by Booked Job&lt;/a&gt;</div>
+
+  <div class="answer"><b>Next step:</b> More free tools + the honest math at <a href="https://booked-job.com/tools/">booked-job.com/tools</a>.</div>
+</article>
+<footer style="text-align:center;padding:40px;color:#888;font-size:14px">© Booked Job · Honest marketing for the trades · <a href="https://booked-job.com/">booked-job.com</a></footer>
+<script>
+function money(n){return '$'+Math.round(n).toLocaleString();}
+function calc(){
+  var calls=+document.getElementById('calls').value||0,
+      miss=(+document.getElementById('miss').value||0)/100,
+      close=(+document.getElementById('close').value||0)/100,
+      job=+document.getElementById('job').value||0;
+  var missedMo=calls*miss;
+  var lostJobsMo=missedMo*close;
+  var lostMo=lostJobsMo*job;
+  var lostYr=lostMo*12;
+  var lostJobsYr=lostJobsMo*12;
+  document.getElementById('year').textContent=lostYr>0?money(lostYr):'$—';
+  document.getElementById('mo').textContent=lostMo>0?('That’s '+money(lostMo)+' a month — about '+Math.round(missedMo)+' missed calls.'):'';
+  document.getElementById('jobs').textContent=lostJobsYr>0?('Roughly '+Math.round(lostJobsYr).toLocaleString()+' booked jobs a year you never got to bid.'):'';
+  document.getElementById('buy').innerHTML=lostJobsYr>0?('Buying those same jobs would run about <b>'+money(lostJobsYr*168)+'</b> on Google LSA (~$168 each) or <b>'+money(lostJobsYr*542)+'</b> through Angi (~$542 each).'):'';
+  document.getElementById('rec').innerHTML=lostYr>0?('Recover even half of it and that’s <b>'+money(lostYr/2)+'</b> a year — from answering a phone you already own.'):'';
+  var w=document.getElementById('warn');
+  if(miss>=0.20){ w.textContent='⚠ You’re missing more than 1 in 5 calls — well above the 14% average (CallRail 2026). This is the highest-return fix in your business, ahead of any ad budget.'; }
+  else if(miss>0&&miss<0.05){ w.textContent='✔ Under 5% missed is genuinely good. Make sure the ones you do miss get an instant auto-text — that’s the last few jobs.'; }
+  else { w.textContent=''; }
+}
+document.querySelectorAll('.tool input').forEach(function(i){i.addEventListener('input',calc)});
+calc();
+</script>
+<script src="/assets/capture.js" defer></script>
+</body></html>

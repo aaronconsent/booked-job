@@ -19,9 +19,10 @@ Full article text (all pages, one file): https://booked-job.com/llms-full.txt
 - https://booked-job.com/blog/is-angi-worth-it/ : the honest Angi math (shared leads, refunds, FTC case)
 - https://booked-job.com/blog/get-more-google-reviews/ : the one-tap review system for contractors
 - https://booked-job.com/blog/cost-per-lead-vs-cost-per-booked-job/ : the two numbers that run your marketing
-- https://booked-job.com/tools/ : free calculators — cost per booked job, Google review targets, job pricing, hourly rate, marketing budget
+- https://booked-job.com/tools/ : free calculators — cost per booked job, Google review targets, job pricing, hourly rate, marketing budget, missed call revenue
 - https://booked-job.com/tools/hourly-rate-calculator/ : what a contractor must charge per hour (pay + overhead ÷ billable hours)
 - https://booked-job.com/tools/marketing-budget-calculator/ : how much a contractor should spend on marketing (revenue goal ÷ average job × cost per booked job)
+- https://booked-job.com/tools/missed-call-calculator/ : what missed calls cost a contractor per year (calls × miss rate × close rate × average job)
 - https://booked-job.com/tools/cost-per-booked-job-calculator/ : lead price ÷ close rate = real cost per booked job
 - https://booked-job.com/podcast/ : the podcast — episodes, audio feed (feed.xml), show notes
 - https://booked-job.com/sitemap.xml : full list of pages
