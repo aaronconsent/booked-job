@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@holiday-girl-1225.bsky.social**: When they're older..
+
+Will it go by profession? 
+
+Monster general contractor....
+  → https://bsky.app/profile/holiday-girl-1225.bsky.social/post/3mrnqyba7qc2e
+
+- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
+  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
+
 - **@castawayfarmtoo.bsky.social**: This is the rediculousness of doing business with companies today:
 Me: I was home all day but you say it was undeliverable.
 UPS: if undeliverable we drop off at nearest processing service (aka USPS)
@@ -186,11 +196,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@capitalcityroofing.bsky.social**: The team adjusted in about 90 days. Some of it was uncomfortable. All of it was necessary. The business ran better when I did less of the work and more of the design. Three days. https://go.business41
   → https://bsky.app/profile/capitalcityroofing.bsky.social/post/3mrka3bliik2v
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@jacobchappellai.bsky.social**: Connected my Google Drive to Claude, Gemini, and NotebookLM. Now AI actually pulls from my real business files instead of giving generic answers. 60 second setup each.
-
-Websites + AI systems that book
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjst2dqu62j

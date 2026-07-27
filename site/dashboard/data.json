@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T14:48",
+  "updated": "2026-07-27T16:21",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 40,
+        "current": 41,
         "target": 70,
-        "pct": 57,
+        "pct": 59,
         "on_track": true
       },
       {
@@ -115,7 +115,7 @@
       "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Offer a payment plan, close more jobs",
+      "title": "Stop giving free estimates to tire-kickers",
       "sub": "Reel"
     },
     {
@@ -143,7 +143,7 @@
       "date": "2026-07-31",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Stop giving free estimates to tire-kickers",
+      "title": "Windshield time is still time",
       "sub": "Reel"
     },
     {
@@ -164,7 +164,7 @@
       "date": "2026-08-04",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Windshield time is still time",
+      "title": "The 10mm socket conspiracy",
       "sub": "Reel"
     },
     {
@@ -199,9 +199,9 @@
     "reactions": 8,
     "comments": 0,
     "shares": 0,
-    "reels_published": 40,
+    "reels_published": 41,
     "posts_remaining": 15,
-    "reels_remaining": 11
+    "reels_remaining": 10
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 358
+    "media": 362
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 94,
+      "count": 95,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 45,
+      "count": 47,
       "unit": "posts",
       "grade": "C",
       "group": "social",
-      "views": 2631,
+      "views": 2651,
       "followers": 0
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 44,
+      "count": 45,
       "unit": "posts",
       "followers": 50,
       "grade": "B",
@@ -527,13 +527,15 @@
       "status": "live",
       "count": 132,
       "unit": "posts",
-      "grade": "B",
-      "group": "social"
+      "followers": 0,
+      "grade": "F",
+      "group": "social",
+      "likes": 0
     },
     {
       "name": "Threads",
       "status": "live",
-      "count": 47,
+      "count": 48,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -578,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 61,
+      "count": 62,
       "unit": "videos (Buffer)",
       "stat": "3827 views \u00b7 17 reactions",
       "views": 3827,
@@ -621,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 40
+        "count": 41
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -646,17 +648,17 @@
       {
         "type": "Carousels",
         "status": "live",
-        "count": 4
+        "count": 5
       },
       {
         "type": "Reels",
         "status": "live",
-        "count": 40
+        "count": 41
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -682,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 49
+        "count": 50
       },
       {
         "type": "Photo carousels",
@@ -712,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Articles",
@@ -743,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 44
+        "count": 45
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 10
+        "count": 11
       }
     ],
     "Mastodon": [
@@ -770,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 47
+        "count": 48
       },
       {
         "type": "Video",
@@ -807,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 62
+        "count": 63
       }
     ]
   },
@@ -821,9 +823,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 11,
+      "remaining": 10,
       "per_day": 1,
-      "days": 11.0,
+      "days": 10.0,
       "status": "green"
     },
     {
@@ -849,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 44917,
+    "reach": 44957,
     "engagement": 8,
     "audience": 71,
     "cr_clicks": 42
@@ -858,7 +860,7 @@
     "audience": 21,
     "engagement": 3,
     "email": 0,
-    "reach": 3139
+    "reach": 3179
   },
   "mafia": {
     "metrics": [
@@ -874,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1280,
+        "value": 1286,
         "grade": "A"
       },
       {
