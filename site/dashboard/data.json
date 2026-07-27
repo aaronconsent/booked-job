@@ -1,139 +1,132 @@
 {
-  "updated": "2026-07-27T07:35",
+  "updated": "2026-07-27T08:22",
   "goals": {
-    "label": "Month 1 \u2014 Aggressive scale",
-    "end": "2026-07-30",
-    "days_left": 3,
-    "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic \u2014 tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k\u219245k after week-1 pace blew past it; posts-shipped right-sized 90\u219260 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
+    "label": "Month 2 \u2014 Convert the audience we built",
+    "end": "2026-08-27",
+    "days_left": 31,
+    "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 39,
-        "target": 30,
-        "pct": 100,
+        "current": 40,
+        "target": 70,
+        "pct": 57,
         "on_track": true
       },
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
         "current": 29,
-        "target": 30,
-        "pct": 97,
+        "target": 45,
+        "pct": 64,
         "on_track": true
       },
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 42,
-        "target": 60,
-        "pct": 70,
-        "on_track": false
+        "current": 43,
+        "target": 100,
+        "pct": 43,
+        "on_track": true
       },
       {
         "label": "Ad video views",
         "icon": "\ud83d\udc40",
         "current": 16704,
-        "target": 45000,
-        "pct": 37,
-        "on_track": false
+        "target": 17000,
+        "pct": 98,
+        "on_track": true
       },
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
         "current": 8,
-        "target": 800,
-        "pct": 1,
-        "on_track": false
+        "target": 60,
+        "pct": 13,
+        "on_track": true
       },
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
         "current": 1145,
-        "target": 10000,
-        "pct": 11,
-        "on_track": false
+        "target": 1400,
+        "pct": 82,
+        "on_track": true
       },
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
         "current": 9,
-        "target": 400,
-        "pct": 2,
-        "on_track": false
+        "target": 25,
+        "pct": 36,
+        "on_track": true
       },
       {
         "label": "YouTube subs",
         "icon": "\ud83d\udd14",
         "current": 0,
-        "target": 200,
+        "target": 10,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "Instagram followers",
         "icon": "\ud83d\udcf8",
         "current": 0,
-        "target": 250,
+        "target": 25,
         "pct": 0,
-        "on_track": false
+        "on_track": true
       },
       {
         "label": "Email subscribers",
         "icon": "\ud83d\udce7",
         "current": 7,
-        "target": 100,
-        "pct": 7,
-        "on_track": false
+        "target": 25,
+        "pct": 28,
+        "on_track": true
       },
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
         "current": 9,
-        "target": 300,
-        "pct": 3,
-        "on_track": false
+        "target": 25,
+        "pct": 36,
+        "on_track": true
       }
     ]
   },
   "strategist": {
-    "updated": "2026-07-08",
-    "headline": "The pipeline you rent is shrinking. Ours \u2014 the one we own \u2014 is compounding.",
-    "read": "Two reads collide this week. Externally, the money cluster's central villain is visibly cracking: Angi's fiscal 2025 revenue fell 13% to $1.03B, its shared-lead 'network' engine collapsed 79% after the January-2025 homeowner-choice change, and it cut ~350 jobs \u2014 yet it got MORE profitable (adjusted EBITDA +25%), which means it's squeezing the pros still on it harder. That's a gift for our positioning and I turned it into a new post today. Internally, the picture is unchanged from Monday: the paid engine works (~13.5k video views, 9.4k reach, $68 spend), organic is still cold (3 FB followers, 17 engagement), and the gap is conversion, not production \u2014 95 items in the syndication queue, 108 FB posts and 8 reels still loaded. We are not thin on content; we're thin on asks-to-follow against a warm-viewer pool that's just sitting there.",
-    "next_move": "Convert and compound. (1) Highest leverage: stand up the retarget\u2192Page-Like/Follow ad against the 25/50/95% video-watchers we've already paid to build \u2014 that pool is idle and it's the single cheapest follower we'll ever buy. (2) Reels format pivot: 2026 short-form data says problem/fix walkthroughs, before/afters, and founder-visibility 30-60s clips with BURNED-IN word-level captions are what's landing \u2014 reweight the reel queue toward that and away from pure gag reels; confirm captions are burned in, not auto. (3) Keep the money cluster compounding \u2014 next posts: the Jan-2025 'homeowner choice' change and what it did to lead quality, and the Thumbtack BBB/chargeback-deactivation scam-cluster piece (flagged twice, still unwritten). (4) Still zero real named contractor quotes in the inbox (only IG spam) \u2014 keep /share-your-story/ + FB prompts running for phase-2 EEAT. Posts-shipped target right-sized 90\u219260 to match the real FB cadence.",
-    "next_review": "2026-07-13"
+    "updated": "2026-07-27",
+    "headline": "We built a printing press and forgot to put an address on the envelopes.",
+    "read": "Month 1 is over and the verdict is clean: production works, conversion doesn't. The machine shipped 39 reels, 29 Shorts, 128 articles and ~1,250 social posts into 44,890 reach \u2014 and came back with 9 Facebook followers, 8 lifetime engagement actions, 0 YouTube subs, 0 Instagram followers, and 7 email subs that haven't moved since July 13th. The one number that IS growing is total audience: 32 \u2192 69 in two weeks, all of it on the small channels (Bluesky, Mastodon, Telegram, Threads) where we actually reply to people. That's the tell. Reach isn't the constraint. Being asked for something is. Two hard findings this week. First, the $7/day ad campaign is PAUSED \u2014 16,704 video views and a warm retarget pool sitting idle, exactly the pool the last two reviews said to convert. Second, and worse: /share-your-story/ has been POSTing into a 404 since launch. Every contractor who filled out that form was silently dropped, which is why the phase-2 EEAT plan has produced zero real quotes for a month \u2014 it wasn't apathy, it was a missing endpoint. Fixed today.",
+    "next_move": "Stop adding volume; add asks. (1) The retarget\u2192Page-Like campaign against the 25/50/95% video-watchers is still the cheapest follower we will ever buy, and it's been recommended and unbuilt for three weeks \u2014 it needs Aaron to resume spend (stays at $7/day, guardrail is $10). Until then, ad video views are frozen and that goal is capped. (2) The email list is the only owned asset and it's flat at 7: the capture block sits at the BOTTOM of every article, after the FAQ. Move it mid-article and give it a real deliverable (the refund-filing checklist from today's post is the obvious first magnet). (3) FB's 2026 rules now weight creator-origin verification and a viewer 'true interest' rating \u2014 synthetic TTS reels are exactly what that demotes. Reel queue was reweighted today toward money/pricing/proof scripts (the only archetypes that scored in July; pure gag reels scored 0), but the real unlock is a phone camera on a real jobsite. (4) AEO research says fact density lifts low-ranked pages up to 40% in AI answers \u2014 our template already does this, so the next SEO move is retrofitting the older thin posts rather than writing more of them. (5) Website traffic has read 0 every single day since launch: CF analytics was never wired, so we are flying blind on whether 128 articles do anything. Wire it before Month 2 is judged. Goals recalibrated off real 14-day pace \u2014 the dashboard now tells the truth instead of showing 1%.",
+    "next_review": "2026-08-03"
   },
   "upcoming": [
     {
       "date": "2026-07-28",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Friday, 3pm, phone rings \u2014 emergency call. You taking it or ",
-      "sub": "trade humor"
+      "title": "Work-truck edition. Choose your fighter. This will not stay ",
+      "sub": "tool wars"
     },
     {
       "date": "2026-07-28",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Your Google profile is a billboard you're ignoring",
+      "title": "Offer a payment plan, close more jobs",
       "sub": "Reel"
     },
     {
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Work-truck edition. Choose your fighter. This will not stay ",
-      "sub": "tool wars"
-    },
-    {
-      "date": "2026-07-30",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
@@ -141,20 +134,20 @@
     },
     {
       "date": "2026-07-31",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Offer a payment plan, close more jobs",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who guards the radio like it's a host",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-07-31",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Stop giving free estimates to tire-kickers",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "We all know him. Tag him (gently). \ud83d\udc47",
@@ -162,31 +155,38 @@
     },
     {
       "date": "2026-08-04",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Stop giving free estimates to tire-kickers",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Posted for a helper. Three no-shows and one guy who quit bec",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-04",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Windshield time is still time",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Hardest part of running a shop this year: finding work / fin",
       "sub": "owner solidarity"
+    },
+    {
+      "date": "2026-08-07",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
     }
   ],
   "page": {
@@ -195,13 +195,13 @@
     "likes": 9
   },
   "content": {
-    "posts_published": 42,
+    "posts_published": 43,
     "reactions": 8,
     "comments": 0,
     "shares": 0,
-    "reels_published": 39,
-    "posts_remaining": 16,
-    "reels_remaining": 6
+    "reels_published": 40,
+    "posts_remaining": 15,
+    "reels_remaining": 11
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 353
+    "media": 356
   },
   "email": {
     "subscribers": 7
@@ -443,7 +443,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 131,
+      "count": 132,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 92,
+      "count": 94,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,7 +470,7 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 44,
+      "count": 45,
       "unit": "posts",
       "grade": "C",
       "group": "social",
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 41,
+      "count": 42,
       "unit": "posts",
       "followers": 49,
       "grade": "C",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 44,
+      "count": 45,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 31,
+      "count": 32,
       "unit": "posts (Buffer)",
       "stat": "1276 reach \u00b7 7 reactions",
       "views": 12,
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 60,
+      "count": 61,
       "unit": "videos (Buffer)",
       "stat": "3827 views \u00b7 17 reactions",
       "views": 3827,
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 39
+        "count": 40
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 9
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 39
+        "count": 40
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 9
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 48
+        "count": 49
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Documents",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 17
+        "count": 18
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 7
+        "count": 8
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 44
+        "count": 45
       },
       {
         "type": "Video",
@@ -809,24 +809,24 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 59
+        "count": 60
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 31,
+      "remaining": 30,
       "per_day": 2,
-      "days": 15.5,
+      "days": 15.0,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 6,
+      "remaining": 11,
       "per_day": 1,
-      "days": 6.0,
-      "status": "amber"
+      "days": 11.0,
+      "status": "green"
     },
     {
       "label": "YouTube/IG shorts",
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1261,
+        "value": 1269,
         "grade": "A"
       },
       {

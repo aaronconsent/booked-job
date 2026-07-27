@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-07-27T08:21",
+      "kind": "strategy",
+      "icon": "🧭",
+      "text": "Weekly review 2026-07-27: Month 1 closed. Production hit target (39 reels/29 shorts/128 articles), conversion did not (9 FB followers, 8 engagement, 7 email subs flat 2wks). Opened Month 2 (7/28-8/27) with targets rebuilt off real 14-day pace."
+    },
+    {
+      "ts": "2026-07-27T08:21",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published /blog/thumbtack-refunds-chargebacks-deactivation/ — the money-cluster gap flagged 3 weeks running. Refund categories + 45-day window + the bank-chargeback trap that gets pro accounts held. Sources: BBB (931 complaints/3yr, 251/12mo, verbatim pro complaint), Thumbtack help docs. Info gain: our math that filing every eligible refund is worth ~$62/booked job."
+    },
+    {
+      "ts": "2026-07-27T08:21",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Added 6 reels weighted to what actually scored in July — pricing/getting-paid drama and stat-led proof (chargeback-trap, refund-monday, first-to-answer, 519-reviews, eight-automations, rented-pipeline). Pure gag reels scored 0 reactions; runway back to 12 days."
+    },
+    {
+      "ts": "2026-07-27T08:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Fixed /share-your-story/: the form POSTed to /api/story, which returned 404 since launch — every contractor submission was silently dropped. Added the endpoint (stores to CR_KV) + gated /ops/stories reader. This is why phase-2 EEAT has zero real quotes. Deploys on the next hourly CI run."
+    },
+    {
       "ts": "2026-07-27T07:39",
       "kind": "engage",
       "icon": "💬",
@@ -1175,30 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from postmaster@cio51677.buffer.com: One of your updates failed to post"
-    },
-    {
-      "ts": "2026-07-23T02:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools loyalty"
-    },
-    {
-      "ts": "2026-07-23T02:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor monday"
-    },
-    {
-      "ts": "2026-07-23T02:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: pricing once not twice"
-    },
-    {
-      "ts": "2026-07-23T02:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing low bid"
     }
   ]
 }
