@@ -1,87 +1,87 @@
 {
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-30",
-    "label": "Month 1 — Aggressive scale"
+    "start": "2026-07-28",
+    "end": "2026-08-27",
+    "label": "Month 2 — Convert the audience we built"
   },
-  "rationale": "Lofty, leading-indicator-weighted goals across content, social, reels, video, and website traffic — tracked daily, weekly, and monthly. The nightly review measures actuals against these, fires gap triggers, and writes copy-paste prompts so Aaron can bring them back to Claude and act. Recalibrated 2026-07-08 (weekly strategist): ad video-views raised 6k→45k after week-1 pace blew past it; posts-shipped right-sized 90→60 to match the FB-only counter at 2/day (IG counted separately); audience/follower targets held (back-loaded, still warming). Safe-aggressive-max cadence (FB 2/day, IG daily, reels+shorts daily).",
+  "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition — every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
   "targets": [
     {
       "key": "reels_published",
       "label": "Reels shipped",
       "icon": "🎬",
-      "target": 30,
-      "note": "~1/day across FB+IG+TikTok."
+      "target": 70,
+      "note": "39 done. ~1/day is the real sustained rate — fresh-render queue needs refilling monthly."
     },
     {
       "key": "yt_shorts",
       "label": "YouTube Shorts",
       "icon": "📺",
-      "target": 30,
-      "note": "Strongest AI-citation signal."
+      "target": 45,
+      "note": "29 done. Slipped to ~0.3/day in July; 45 is a realistic push, not the old 1/day fiction."
     },
     {
       "key": "posts_published",
       "label": "Posts shipped",
       "icon": "📝",
-      "target": 60,
-      "note": "Right-sized 90→60 (2026-07-08): the counter tracks FB posts only, which run 2/day ≈ 60/mo. IG is counted separately."
+      "target": 100,
+      "note": "42 done, publisher runs 2/day reliably. This one is on rails."
     },
     {
       "key": "video_views",
       "label": "Ad video views",
       "icon": "👀",
-      "target": 45000,
-      "note": "Blew past 6k in week 1 (7.5k); raised to 45k. $7/day at ~$0.01 CPV builds the retarget pool fast — next lever is converting watchers to follows."
+      "target": 17000,
+      "note": "16,704 lifetime at $0.006/view — but the $7/day campaign is PAUSED, so this is frozen. Resuming for 30 days would add ~35k. AARON'S CALL: budget stays at/below $10/day per guardrail."
     },
     {
       "key": "engagement",
       "label": "FB engagement",
       "icon": "🔥",
-      "target": 800,
-      "note": "Comments weighted — they drive reach."
+      "target": 60,
+      "note": "8 lifetime. Cut 800→60. Reach isn't the problem (44.9k); nobody is being ASKED anything. Reply-first + real questions is the lever."
     },
     {
       "key": "yt_views",
       "label": "YouTube views",
       "icon": "▶️",
-      "target": 10000,
-      "note": "Shorts + search; compounds."
+      "target": 1400,
+      "note": "1,145 and growing ~3/day. Cut 10,000→1,400 — the honest number until Shorts get titles/hooks built for search."
     },
     {
       "key": "followers",
       "label": "FB followers",
       "icon": "👥",
-      "target": 400,
-      "note": "Lagging; back-loaded."
+      "target": 25,
+      "note": "9 FB followers, ~2/week organic. 25 assumes the paused retarget→follow campaign gets switched on; without it, ~17."
     },
     {
       "key": "yt_subscribers",
       "label": "YouTube subs",
       "icon": "🔔",
-      "target": 200,
-      "note": "Lagging."
+      "target": 10,
+      "note": "0 subs off 29 shorts. Nobody asks. 10 = proof the ask works, not a growth target."
     },
     {
       "key": "ig_followers",
       "label": "Instagram followers",
       "icon": "📸",
-      "target": 250,
-      "note": "Reels fan out here too."
+      "target": 25,
+      "note": "0 followers off 356 media items — IG is publishing into a void. 25 = proof the account is actually discoverable."
     },
     {
       "key": "email_subscribers",
       "label": "Email subscribers",
       "icon": "📧",
-      "target": 100,
-      "note": "Owned audience — no algorithm."
+      "target": 25,
+      "note": "7, flat since 2026-07-13. The capture block is on every article; the funnel is the failure, not the traffic."
     },
     {
       "key": "likes",
       "label": "FB page likes",
       "icon": "👍",
-      "target": 300,
-      "note": "From the retarget→follow campaign."
+      "target": 25,
+      "note": "Tracks followers. Comes from the retarget campaign, if it's resumed."
     }
   ],
   "cadences": {

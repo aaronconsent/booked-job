@@ -74,6 +74,44 @@ export default {
         return Response.json({ ok: false }, { status: 500 });
       }
     }
+    // /share-your-story/ submissions — the phase-2 EEAT engine (real, named contractor
+    // quotes). Was posting into a 404 since launch, so every submission was dropped.
+    // Stores newest-first in CR_KV "stories" (capped); read back via /ops/stories.
+    if (url.pathname === "/api/story" && request.method === "POST") {
+      try {
+        const b = await request.json();
+        const s = (v, n) => (v == null ? "" : String(v)).slice(0, n);
+        const story = s(b.story, 4000).trim();
+        if (!story) return Response.json({ ok: false, error: "empty story" }, { status: 400 });
+        const item = {
+          ts: new Date().toISOString(),
+          name: s(b.name, 120), trade: s(b.trade, 60), location: s(b.location, 120),
+          email: s(b.email, 200), story,
+          ok_feature: b.ok_feature === true || b.ok_feature === "on" || b.ok_feature === "true",
+        };
+        if (env.CR_KV) {
+          const cur = JSON.parse((await env.CR_KV.get("stories")) || "[]");
+          cur.unshift(item);
+          await env.CR_KV.put("stories", JSON.stringify(cur.slice(0, 500)));
+        }
+        return Response.json({ ok: true });
+      } catch (e) {
+        return Response.json({ ok: false }, { status: 500 });
+      }
+    }
+
+    // Story reader for the weekly strategist (gated, same key as /ops/inbox).
+    if (url.pathname === "/ops/stories") {
+      if (!env.INBOX_KEY || url.searchParams.get("key") !== env.INBOX_KEY) {
+        return Response.json({ error: "forbidden" }, { status: 403 });
+      }
+      let items = [];
+      if (env.CR_KV) { try { items = JSON.parse((await env.CR_KV.get("stories")) || "[]"); } catch (e) {} }
+      const since = url.searchParams.get("since");
+      if (since) items = items.filter((m) => m.ts > since);
+      return Response.json({ stories: items, count: items.length });
+    }
+
     // signup metrics for the dashboard (which pages convert)
     if (url.pathname === "/ops/signups") {
       let total = 0, src = {};

@@ -218,6 +218,42 @@
       "video": "site/reels/warranty-expectations.mp4"
     },
     {
+      "id": "chargeback-trap",
+      "hook": "Never call your bank over a lead",
+      "script": "If you buy leads, this one can cost you your whole account. You get charged for a junk lead, you're mad, so you call your bank and dispute it. Here's what happens. The platform puts a hold on your pro account. Sometimes they close it. And every review you spent three years earning goes with it. Fight it their way. File the refund inside the window, keep the screenshots, and if they keep denying you, just turn the budget off. Turning off spend costs you nothing. A chargeback can cost you the account. Follow Booked Job.",
+      "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
+    },
+    {
+      "id": "refund-monday",
+      "hook": "20 minutes on Monday buys back real money",
+      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
+      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
+    },
+    {
+      "id": "first-to-answer",
+      "hook": "78% hire whoever answers first",
+      "script": "Here's a number that should scare you. Seventy eight percent of homeowners hire whoever gets back to them first. Not the best price. Not the best reviews. First. That means the shop beating you might just be faster than you. And if you're buying shared leads, four other trucks got that same name and number at the same second you did. You're not in a bidding war, you're in a footrace. Answer first, and you win jobs you didn't earn on price. Follow Booked Job.",
+      "description": "78% hire whoever responds first. How fast do you actually get back? 👇 #speedtolead #contractor #trades"
+    },
+    {
+      "id": "519-reviews",
+      "hook": "The shop beating you has 519 reviews",
+      "script": "You ever wonder why you can't crack the map pack? Here's the bar. The median HVAC shop sitting at the top of local search has around five hundred nineteen Google reviews. Plumbers, about three thirty seven. If you've got twenty two, you're not losing. You're not competing yet. That's not bad news, it's a target. Ten reviews a month, every month, and in two years nobody catches you. Ask every single happy customer, the day you finish. Follow Booked Job.",
+      "description": "519 reviews is the median for HVAC shops in the map pack. Where are you at? 👇 #googlereviews #localseo #hvac"
+    },
+    {
+      "id": "eight-automations",
+      "hook": "8 automations, zero leads",
+      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
+      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
+    },
+    {
+      "id": "rented-pipeline",
+      "hook": "You're renting the phone",
+      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
+      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
+    },
+    {
       "id": "course-angi-short",
       "hook": "Is Angi actually worth it?",
       "description": "Angi sells your \"lead\" to a dozen guys, then you race to the bottom on price. Here's the real cost per booked job — full breakdown + a free calculator. #contractor #trades #plumbing #hvac",
