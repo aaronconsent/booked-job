@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T19:22",
+  "generated": "2026-07-26T23:50",
   "period": {
     "start": "2026-06-30",
     "end": "2026-07-30",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 25,
+        "current": 28,
         "target": 22,
         "status": "green",
         "needs": null
@@ -95,7 +95,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 3,
+        "current": 2,
         "target": 7,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 883,
+        "current": 886,
         "target": 600,
         "status": "green",
         "needs": null
@@ -167,7 +167,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 18,
+        "current": 17,
         "target": 30,
         "status": "yellow",
         "needs": null
@@ -222,11 +222,11 @@
   "counters": {
     "articles": 128,
     "reels": 39,
-    "social_posts": 945,
+    "social_posts": 948,
     "followers": 62,
     "engagement": 8,
     "yt_views": 1145,
-    "yt_shorts": 30,
+    "yt_shorts": 29,
     "email_subs": 7,
     "traffic": 0
   },
@@ -249,8 +249,8 @@
     },
     {
       "title": "\ud83d\udcfa YouTube Shorts/videos behind this week",
-      "why": "3/7 \u2014 4 short of pace.",
-      "prompt": "We're behind on youtube shorts/videos this week (3/7). Produce more youtube shorts from the course/podcast."
+      "why": "2/7 \u2014 5 short of pace.",
+      "prompt": "We're behind on youtube shorts/videos this week (2/7). Produce more youtube shorts from the course/podcast."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",

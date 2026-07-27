@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
+
+AI can help your home service business save time, capture more leads, and improve customer service.
+
+Explore the best AI tools here 👇
+
+🔗 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
+
+- **@jacobchappellai.bsky.social**: Most 'AI for small business' content is enterprise playbooks with the budget column removed. A 5-truck HVAC company and a SaaS startup share almost nothing. The advice shouldn't look the same.
+
+Websit
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrlopetkwd2g
+
+- **@jacobchappellai.bsky.social**: Simple litmus test for AI in a small business: did it give you hours back this week? Not engagement metrics, not content output. Actual time recovered. Everything else is vanity.
+
+Websites + AI system
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrlophq4oc2d
+
 - **@robot2trade.bsky.social**: Monday Data (Jul 27)
 US Durable Goods Orders (key)
 German Ifo Business Climate
@@ -178,15 +197,3 @@ Stay your way with master by Leonardo Hotels: spacious serviced apartments with 
 
 #cleaning #designthemes #electrician #handyman #painter #renovation #roofing #services #themeforest #wordpress #plumb
   → https://bsky.app/profile/stylelib.org/post/3mqvskqwbke2e
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@basicafbayblackguy.bsky.social**: Can I ask a question, what does paying dues get you in DSA? Like in the building trades dues pay for training facilities, some death benefits, legal representation, bargaining power, workers rights, p
-  → https://bsky.app/profile/basicafbayblackguy.bsky.social/post/3mrdi67gvbc2p
-
-- **@sandythixx.bsky.social**: Am i about to really learn how to be a plumber and handle this bathroom by myself?
-At this point I might as well become a general contractor instead of making porn. 
-Hey maybe ill earn more money that
-  → https://bsky.app/profile/sandythixx.bsky.social/post/3mrgdiamyp225
