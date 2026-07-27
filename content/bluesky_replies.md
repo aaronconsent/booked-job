@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
   → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
 
@@ -187,13 +194,3 @@ M
 
 #electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
   → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
-
- https://stylelib.org/?p=877700 
-
-#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
-  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
-
-- **@giakson.bsky.social**: Perhaps it’s only that DJT isn’t hiding what was always the business plan in Washington (R or D). DJT is openly manipulating what other politicians (and SCOTUS p.Thomas) used to obscure. There was a m
-  → https://bsky.app/profile/giakson.bsky.social/post/3mriet4zpw22u

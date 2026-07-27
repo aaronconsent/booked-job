@@ -14,19 +14,20 @@
       "card-ai",
       "card-anon98",
       "card-missedcall",
-      "card-trade"
+      "card-trade",
+      "carousel-leadsites"
     ],
-    "last_iso": "2026-07-26T19:21:42",
+    "last_iso": "2026-07-27T11:02:00",
     "day": {
-      "date": "2026-07-26",
-      "count": 6
+      "date": "2026-07-27",
+      "count": 1
     }
   },
   "ig": {
     "posted": [],
     "last_iso": null,
     "day": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "count": 0
     }
   },
@@ -42,12 +43,13 @@
       "card-speed",
       "card-ftc",
       "card-stars",
-      "card-ai"
+      "card-ai",
+      "card-anon98"
     ],
-    "last_iso": "2026-07-26T17:13:22",
+    "last_iso": "2026-07-27T11:02:00",
     "day": {
-      "date": "2026-07-26",
-      "count": 2
+      "date": "2026-07-27",
+      "count": 1
     }
   }
 }
