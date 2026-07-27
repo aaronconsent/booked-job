@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@crucialwax.com**: I asked because you responded to a post where someone where someone said 
+
+“I don't feel comfy with *only* skilled trades pushed.” 
+
+with a comment about needing trades for x,y,z.
+
+Anyway, now you’re 
+  → https://bsky.app/profile/crucialwax.com/post/3mrn7s4k4mc2z
+
+- **@dartmouthcommon.bsky.social**: What if we trained and hired skilled trades to build renewables like wind, solar & batteries. Not enough profit for your private sector buddies?
+  → https://bsky.app/profile/dartmouthcommon.bsky.social/post/3mrnfassmas2s
+
 - **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
 #Nassa
   → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
@@ -181,16 +193,3 @@ Make better investment decisions with Simply Wall St’s easy, visual tools that
 
 - **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
   → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@castawayfarmtoo.bsky.social**: This is the rediculousness of doing business with companies today:
-Me: I was home all day but you say it was undeliverable.
-UPS: if undeliverable we drop off at nearest processing service (aka USPS)
-M
-  → https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x

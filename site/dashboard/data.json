@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T10:49",
+  "updated": "2026-07-27T12:51",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -17,9 +17,9 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 29,
+        "current": 31,
         "target": 45,
-        "pct": 64,
+        "pct": 69,
         "on_track": true
       },
       {
@@ -57,9 +57,9 @@
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 9,
+        "current": 10,
         "target": 25,
-        "pct": 36,
+        "pct": 40,
         "on_track": true
       },
       {
@@ -89,9 +89,9 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 9,
+        "current": 10,
         "target": 25,
-        "pct": 36,
+        "pct": 40,
         "on_track": true
       }
     ]
@@ -191,8 +191,8 @@
   ],
   "page": {
     "name": "Booked Job",
-    "followers": 9,
-    "likes": 9
+    "followers": 10,
+    "likes": 10
   },
   "content": {
     "posts_published": 43,
@@ -216,13 +216,13 @@
     "subscribers": 0,
     "views": 1145,
     "likes": 0,
-    "videos": 29,
-    "shorts": 29
+    "videos": 31,
+    "shorts": 31
   },
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 356
+    "media": 358
   },
   "email": {
     "subscribers": 7
@@ -464,7 +464,7 @@
       "grade": "B",
       "group": "social",
       "views": 6515,
-      "followers": 9,
+      "followers": 10,
       "likes": 8
     },
     {
@@ -480,7 +480,7 @@
     {
       "name": "YouTube",
       "status": "live",
-      "count": 12,
+      "count": 13,
       "unit": "shorts",
       "grade": "C",
       "group": "social",
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 131,
+      "count": 132,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 131,
+      "count": 132,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 131,
+      "count": 132,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
       "followers": 49,
       "grade": "C",
@@ -525,7 +525,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 131,
+      "count": 132,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 45,
+      "count": 46,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -669,7 +669,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 12
+        "count": 13
       },
       {
         "type": "Community posts",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 18
+        "count": 19
       },
       {
         "type": "Articles",
@@ -745,19 +745,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 8
+        "count": 9
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 131
+        "count": 132
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 45
+        "count": 46
       },
       {
         "type": "Video",
@@ -804,12 +804,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 131
+        "count": 132
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 60
+        "count": 61
       }
     ]
   },
@@ -830,9 +830,9 @@
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 52,
+      "remaining": 51,
       "per_day": 2,
-      "days": 26.0,
+      "days": 25.5,
       "status": "green"
     },
     {
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 44894,
+    "reach": 44897,
     "engagement": 8,
-    "audience": 69,
+    "audience": 70,
     "cr_clicks": 42
   },
   "trends": {
-    "audience": 19,
+    "audience": 20,
     "engagement": 3,
     "email": 0,
-    "reach": 3116
+    "reach": 3119
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1269,
+        "value": 1276,
         "grade": "A"
       },
       {
@@ -886,7 +886,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 69,
+        "value": 70,
         "grade": "C"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 69 audience and 42 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 70 audience and 42 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }
