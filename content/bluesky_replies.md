@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@castawayfarmtoo.bsky.social**: This is the rediculousness of doing business with companies today:
+Me: I was home all day but you say it was undeliverable.
+UPS: if undeliverable we drop off at nearest processing service (aka USPS)
+M
+  → https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f
+
+- **@stylelib.org**: Blue Collar – Handyman HTML Template
+
+ https://stylelib.org/?p=285473 
+
+#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
+  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
+
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
 - **@crucialwax.com**: I asked because you responded to a post where someone where someone said 
 
 “I don't feel comfy with *only* skilled trades pushed.” 
@@ -171,25 +194,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 Websites + AI systems that book
   → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjst2dqu62j
-
-- **@jacobchappellai.bsky.social**: Google put AI in Gmail, Docs, and Drive. Toggle each on or off. Plus more Gemini and NotebookLM usage.
-
-If you run a service business, this is an easy win.
-
-Websites + AI systems that book jobs for th
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjtkzew6b2j
-
-- **@jacobchappellai.bsky.social**: NotebookLM trick for service business owners: upload your brand docs + website, then just ask it questions about YOUR business.
-
-"What's my style?" Instant answer. No re-explaining yourself to every A
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrjubn7aix2y
-
-- **@byteseu.bsky.social**: ServiceTitan (TTAN) Wins TrussPoint Business, Is The Stock Still Below Fair Value?
-
-https://www.byteseu.com/2187905/
-
-Make better investment decisions with Simply Wall St’s easy, visual tools that giv
-  → https://bsky.app/profile/byteseu.bsky.social/post/3mqgdk2atgr2x
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
