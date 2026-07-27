@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@justsumdood.bsky.social**: Like Trump, this moron has no business being in government and truly does not know how the government he works for actually works. What are his qualifications again? Oh right, he was a plumber. Totall
+  → https://bsky.app/profile/justsumdood.bsky.social/post/3mqw55sekfk25
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3mr6tyhxs7s2e
+
 - **@sandythixx.bsky.social**: Am i about to really learn how to be a plumber and handle this bathroom by myself?
 At this point I might as well become a general contractor instead of making porn. 
 Hey maybe ill earn more money that
@@ -190,10 +197,3 @@ M
 
 - **@giakson.bsky.social**: Perhaps it’s only that DJT isn’t hiding what was always the business plan in Washington (R or D). DJT is openly manipulating what other politicians (and SCOTUS p.Thomas) used to obscure. There was a m
   → https://bsky.app/profile/giakson.bsky.social/post/3mriet4zpw22u
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
