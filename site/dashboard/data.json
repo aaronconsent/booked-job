@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T10:28",
+  "updated": "2026-07-28T12:44",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 370
+    "media": 372
   },
   "email": {
     "subscribers": 7
@@ -470,7 +470,7 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 54,
+      "count": 55,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "posts",
       "followers": 52,
       "grade": "B",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 54,
+      "count": 55,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -592,7 +592,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 133,
+      "count": 134,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Carousels",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Reels",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Long video",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Articles",
@@ -733,7 +733,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 133
+        "count": 134
       },
       {
         "type": "Video pins",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 13
+        "count": 14
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 54
+        "count": 55
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 65
+        "count": 1
       }
     ]
   },
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1326,
+        "value": 1330,
         "grade": "A"
       },
       {

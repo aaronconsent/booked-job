@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mrpavan7o32z
+
+- **@fritzbischoff.bsky.social**: We need genuinely rewarding career paths, decent pay, and the social respect that should come with skilled trades.
+
+In the UK, almost anyone w/o two left hands can set themselves up as an electrician 
+  → https://bsky.app/profile/fritzbischoff.bsky.social/post/3mrpudru5b22b
+
 - **@apprenticesearch.bsky.social**: Curious about a career in the skilled trades?
 
 Come with questions, make new connections, and discover where a career in the #SkilledTrades could take you.
@@ -195,14 +211,3 @@ https://www.amazon.com/gp/product/B00125NR8E?smid=ATVPDKIKX0DER&th=1&linkCode
 
 - **@scottwhitegloves.bsky.social**: We had TekSavvy for both home and business ISP for over a decade, then (gasp!) switch to Bell* because their offers were better and the service (speed especially) was untouchable by Tek, and it wasn't
   → https://bsky.app/profile/scottwhitegloves.bsky.social/post/3mrfpqiuhf22k
-
-- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
-  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
-
-- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
-in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
-add in if you own your own business? easily pulling down $150-$200k
-  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
-
-- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
-  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q

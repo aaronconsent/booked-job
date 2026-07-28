@@ -67,12 +67,13 @@
   "tiktok": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-07-28T10:40:17",
+    "last_iso": "2026-07-28T12:55:50",
     "day": {
       "date": "2026-07-28",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -98,12 +99,13 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-07-28T10:40:17",
+    "last_iso": "2026-07-28T12:55:50",
     "day": {
       "date": "2026-07-28",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -111,12 +113,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-07-28T07:09:08",
+    "last_iso": "2026-07-28T12:55:50",
     "day": {
       "date": "2026-07-28",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -142,12 +145,13 @@
       "pod-ep02-howmany",
       "pod-ep02-invisible",
       "pod-ep01-verdict",
-      "pod-ep01-speed"
+      "pod-ep01-speed",
+      "pod-ep01-starter"
     ],
-    "last_iso": "2026-07-28T10:40:17",
+    "last_iso": "2026-07-28T12:55:50",
     "day": {
       "date": "2026-07-28",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -167,12 +171,13 @@
   },
   "tumblr": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-07-28T10:40:17",
+    "last_iso": "2026-07-28T12:55:50",
     "day": {
       "date": "2026-07-28",
-      "count": 2
+      "count": 3
     }
   }
 }
