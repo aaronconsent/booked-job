@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T07:06",
+  "updated": "2026-07-28T10:28",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 41,
+        "current": 42,
         "target": 70,
-        "pct": 59,
+        "pct": 60,
         "on_track": true
       },
       {
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 43,
+        "current": 44,
         "target": 100,
-        "pct": 43,
+        "pct": 44,
         "on_track": true
       },
       {
@@ -108,18 +108,11 @@
       "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Work-truck edition. Choose your fighter. This will not stay ",
-      "sub": "tool wars"
-    },
-    {
-      "date": "2026-07-30",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
@@ -127,20 +120,20 @@
     },
     {
       "date": "2026-07-31",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Stop giving free estimates to tire-kickers",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who guards the radio like it's a host",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-07-31",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Windshield time is still time",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "We all know him. Tag him (gently). \ud83d\udc47",
@@ -148,27 +141,27 @@
     },
     {
       "date": "2026-08-04",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Windshield time is still time",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Posted for a helper. Three no-shows and one guy who quit bec",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-04",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The 10mm socket conspiracy",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Hardest part of running a shop this year: finding work / fin",
@@ -176,16 +169,23 @@
     },
     {
       "date": "2026-08-07",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
+    },
+    {
+      "date": "2026-08-07",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The 10mm socket conspiracy",
+      "title": "Set the warranty before there's a problem",
       "sub": "Reel"
     },
     {
       "date": "2026-08-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
+      "title": "Three ways shops bleed money they never see:",
       "sub": "business"
     }
   ],
@@ -195,13 +195,13 @@
     "likes": 10
   },
   "content": {
-    "posts_published": 43,
+    "posts_published": 44,
     "reactions": 8,
     "comments": 0,
     "shares": 0,
-    "reels_published": 41,
-    "posts_remaining": 15,
-    "reels_remaining": 10
+    "reels_published": 42,
+    "posts_remaining": 14,
+    "reels_remaining": 9
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 367
+    "media": 370
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 95,
+      "count": 97,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 52,
+      "count": 54,
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2688,
+      "views": 2758,
       "followers": 0
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 133,
+      "count": 134,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -499,7 +499,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 133,
+      "count": 134,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -507,7 +507,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 133,
+      "count": 134,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -515,9 +515,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 50,
+      "count": 51,
       "unit": "posts",
-      "followers": 51,
+      "followers": 52,
       "grade": "B",
       "group": "social",
       "likes": 3
@@ -525,7 +525,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 133,
+      "count": 134,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 53,
+      "count": 54,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -571,19 +571,19 @@
       "status": "live",
       "count": 40,
       "unit": "posts (Buffer)",
-      "stat": "1241 reach \u00b7 6 reactions",
-      "views": 12,
-      "likes": 6,
+      "stat": "1790 reach \u00b7 8 reactions",
+      "views": 17,
+      "likes": 8,
       "grade": "C",
       "group": "social"
     },
     {
       "name": "TikTok",
       "status": "live",
-      "count": 62,
+      "count": 63,
       "unit": "videos (Buffer)",
-      "stat": "3634 views \u00b7 17 reactions",
-      "views": 3634,
+      "stat": "3379 views \u00b7 17 reactions",
+      "views": 3379,
       "likes": 17,
       "grade": "B",
       "group": "social"
@@ -592,7 +592,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 132,
+      "count": 133,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Carousels",
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 6
       },
       {
         "type": "Polls",
@@ -648,17 +648,17 @@
       {
         "type": "Carousels",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Reels",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 6
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Photo carousels",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 20
+        "count": 21
       },
       {
         "type": "Articles",
@@ -733,7 +733,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 132
+        "count": 133
       },
       {
         "type": "Video pins",
@@ -745,19 +745,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 12
+        "count": 13
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 133
+        "count": 134
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Video",
@@ -804,28 +804,28 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 133
+        "count": 134
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 64
+        "count": 65
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 30,
+      "remaining": 29,
       "per_day": 2,
-      "days": 15.0,
+      "days": 14.5,
       "status": "green"
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 10,
+      "remaining": 9,
       "per_day": 1,
-      "days": 10.0,
+      "days": 9.0,
       "status": "green"
     },
     {
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 45021,
+    "reach": 44892,
     "engagement": 8,
-    "audience": 72,
+    "audience": 73,
     "cr_clicks": 42
   },
   "trends": {
-    "audience": 20,
+    "audience": 21,
     "engagement": 4,
     "email": 0,
-    "reach": 2676
+    "reach": 2547
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1314,
+        "value": 1326,
         "grade": "A"
       },
       {
@@ -886,7 +886,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 72,
+        "value": 73,
         "grade": "C"
       },
       {
@@ -896,6 +896,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 72 audience and 42 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 73 audience and 42 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

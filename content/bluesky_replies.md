@@ -2,6 +2,35 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@apprenticesearch.bsky.social**: Curious about a career in the skilled trades?
+
+Come with questions, make new connections, and discover where a career in the #SkilledTrades could take you.
+
+📅 Aug. 19 | 10 AM–2 PM
+📍 Burlington
+🎟️ FREE
+  → https://bsky.app/profile/apprenticesearch.bsky.social/post/3mrpnqe2eos2t
+
+- **@stylelib.org**: Renovar – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=639287 
+
+#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
+  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
+
+- **@coloradolocksmith.bsky.social**: Need a dependable Full Service Locksmith in Colorado Springs?
+
+🔐 Home Locks
+🚗 Car Keys
+🏢 Business Security
+⚡ Emergency Lockouts
+
+Fast response. Professional service. Local experts.
+
+📞 719-344-9797
+🌐 c
+  → https://bsky.app/profile/coloradolocksmith.bsky.social/post/3mrpery2h3s26
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -177,22 +206,3 @@ add in if you own your own business? easily pulling down $150-$200k
 
 - **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
   → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
-
-- **@strainstars.bsky.social**: Locked Out? Austin's Trusted Locksmith Is Just a Call Away! 
-
-Whether you're locked out of your home, car, or business. Texas Premier Locksmith delivers fast, reliable, and  locksmith services across 
-  → https://bsky.app/profile/strainstars.bsky.social/post/3mr5bxxwsfk2c
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=7387 
-
-#boldthemes #business #contractor #corporate #electrician #handyman #maintenance #plumber #repair #themeforest #word
-  → https://bsky.app/profile/stylelib.org/post/3mptvf4hjgs2f
-
-- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=846637 
-
-#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
-  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a

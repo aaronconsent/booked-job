@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T07:14",
+  "generated": "2026-07-28T10:45",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 20,
+        "current": 23,
         "target": 22,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 20,
+        "current": 21,
         "target": 120,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 131,
     "reels": 42,
-    "social_posts": 997,
-    "followers": 65,
+    "social_posts": 1000,
+    "followers": 66,
     "engagement": 8,
     "yt_views": 1148,
     "yt_shorts": 31,
@@ -241,11 +241,6 @@
       "title": "\ud83d\udce3 Social posts behind this week",
       "why": "0/150 \u2014 150 short of pace.",
       "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
-    },
-    {
-      "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "20/120 \u2014 100 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (20/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
