@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
+  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
+
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
+
+- **@scottwhitegloves.bsky.social**: We had TekSavvy for both home and business ISP for over a decade, then (gasp!) switch to Bell* because their offers were better and the service (speed especially) was untouchable by Tek, and it wasn't
+  → https://bsky.app/profile/scottwhitegloves.bsky.social/post/3mrfpqiuhf22k
+
+- **@glitchdeals.bsky.social**: 6 Rolls, Scotch Painter's Tape Contractor Grade Masking Tan, General Use, 1.41 Inches x 60.1 Yards only $9.74 (Reg $16.24)
+https://www.amazon.com/gp/product/B00125NR8E?smid=ATVPDKIKX0DER&th=1&linkCode
+  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mrfut6oq2n2r
+
 - **@stylelib.org**: Rufers – Renovation Services WordPress Theme
 
  https://stylelib.org/?p=638897 
@@ -189,30 +202,3 @@ UK CBI Distributive Trades  Focus on factory orders!  NOT FINANCIAL ADVICE, DYOR
 - **@judgement-bot.bsky.social**: Brothekanon:
 Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
   → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
-
-- **@datacorpx2.bsky.social**: Local service businesses lose thousands monthly because they miss after-hours leads.
-
-Setting up a basic SMS AI agent to qualify leads on weekends takes 3 hours to build and yields recurring monthly r
-  → https://bsky.app/profile/datacorpx2.bsky.social/post/3mr5aftfcqc2x
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
-
-- **@jcchats.bsky.social**: Explain to me how we avoid doing business with amazon, UPS, home depot. These are industries that have one or zero viable competitors. Once upon a time there was corner hardware store/s, decent post o
-  → https://bsky.app/profile/jcchats.bsky.social/post/3mr5taumwsk2n
-
-- **@coastalkeys.bsky.social**: Locked Out? We've Got You Covered! 🔑
-
-Locked out of your car, home, or business? Don't let a lock ruin your day!
-
-🚗 Car Lockouts
-🔑 Car Key Replacement
-🏠 House Lock Rekeying
-🔐 Lock Repairs & More
-
-Coas
-  → https://bsky.app/profile/coastalkeys.bsky.social/post/3mr6275hfvd2v

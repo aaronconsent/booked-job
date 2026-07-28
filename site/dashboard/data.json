@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T14:47",
+  "updated": "2026-07-28T16:17",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 42,
+        "current": 43,
         "target": 70,
-        "pct": 60,
+        "pct": 61,
         "on_track": true
       },
       {
@@ -129,7 +129,7 @@
       "date": "2026-07-31",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Windshield time is still time",
+      "title": "The 10mm socket conspiracy",
       "sub": "Reel"
     },
     {
@@ -150,7 +150,7 @@
       "date": "2026-08-04",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The 10mm socket conspiracy",
+      "title": "Set the warranty before there's a problem",
       "sub": "Reel"
     },
     {
@@ -178,7 +178,7 @@
       "date": "2026-08-07",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "Set the warranty before there's a problem",
+      "title": "Never call your bank over a lead",
       "sub": "Reel"
     },
     {
@@ -199,9 +199,9 @@
     "reactions": 8,
     "comments": 0,
     "shares": 0,
-    "reels_published": 42,
+    "reels_published": 43,
     "posts_remaining": 14,
-    "reels_remaining": 9
+    "reels_remaining": 8
   },
   "ads": {
     "status": "PAUSED",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 372
+    "media": 374
   },
   "email": {
     "subscribers": 7
@@ -459,7 +459,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 97,
+      "count": 98,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 55,
+      "count": 56,
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2760,
+      "views": 2770,
       "followers": 0
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 53,
+      "count": 54,
       "unit": "posts",
       "followers": 52,
       "grade": "B",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 56,
+      "count": 57,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -580,7 +580,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 63,
+      "count": 64,
       "unit": "videos (Buffer)",
       "stat": "3379 views \u00b7 17 reactions",
       "views": 3379,
@@ -623,12 +623,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Polls",
@@ -653,12 +653,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Photo carousels",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 15
+        "count": 16
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 56
+        "count": 57
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -823,9 +823,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 9,
+      "remaining": 8,
       "per_day": 1,
-      "days": 9.0,
+      "days": 8.0,
       "status": "green"
     },
     {
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 44897,
+    "reach": 44914,
     "engagement": 8,
     "audience": 73,
     "cr_clicks": 42
@@ -860,7 +860,7 @@
     "audience": 21,
     "engagement": 4,
     "email": 0,
-    "reach": 2552
+    "reach": 2569
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1332,
+        "value": 1337,
         "grade": "A"
       },
       {
