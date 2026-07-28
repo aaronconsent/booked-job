@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@capitalcityroofing.bsky.social**: The team adjusted in about 90 days. Some of it was uncomfortable. All of it was necessary. The business ran better when I did less of the work and more of the design. Three days. https://go.business41
+  → https://bsky.app/profile/capitalcityroofing.bsky.social/post/3mrka3bliik2v
+
+- **@clovermore.bsky.social**: Are they..insulting skilled trades?
+
+I know people from almost every trade... And they're all intelligent. And skilled trades make good money.
+
+But also, that should be something the children should w
+  → https://bsky.app/profile/clovermore.bsky.social/post/3mroagxgnpk2c
+
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
 
@@ -190,9 +200,3 @@ Whether you're locked out of your home, car, or business. Texas Premier Locksmit
 
 - **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
   → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@rankednews.bsky.social**: Gen Z rethinks education: The rise of skilled trades over traditional college in the US: In Jonesboro, Arkansas, 23-year-old LaDonna Glass recently finished her shift as an electrician apprentice, ins
-  → https://bsky.app/profile/rankednews.bsky.social/post/3mrkdljmnip2p
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
