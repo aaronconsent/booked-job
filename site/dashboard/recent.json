@@ -1,22 +1,64 @@
 {
-  "updated": "2026-07-28T04:47",
+  "updated": "2026-07-28T07:14",
   "posts": [
     {
-      "ts": "2026-07-28T04:43:56",
+      "ts": "2026-07-28T07:10:57",
       "channel": "mastodon",
-      "item": "why-am-i-not-showing-up-on-google-maps",
-      "url": "https://mastodon.social/@bookedjob/116996953622438012"
+      "item": "how-to-respond-to-a-bad-review",
+      "url": "https://mastodon.social/@bookedjob/116997531689322778"
     },
     {
-      "ts": "2026-07-28T04:43:54",
+      "ts": "2026-07-28T07:10:54",
       "channel": "telegraph",
-      "item": "why-am-i-not-showing-up-on-google-maps",
-      "url": "https://telegra.ph/Why-Am-I-Not-Showing-Up-on-Google-Maps-Contractor-Fix-List-07-28"
+      "item": "how-to-respond-to-a-bad-review",
+      "url": "https://telegra.ph/How-to-Respond-to-a-Bad-Review-Contractor-Templates-That-Work-07-28"
     },
     {
-      "ts": "2026-07-28T04:43:53",
+      "ts": "2026-07-28T07:10:53",
       "channel": "tumblr",
-      "item": "why-am-i-not-showing-up-on-google-maps",
+      "item": "how-to-respond-to-a-bad-review",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:10:51",
+      "channel": "tumblr",
+      "item": "stop-renting-leads",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:10:49",
+      "channel": "bluesky",
+      "item": "pod-ep01-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:10:47",
+      "channel": "linkedin",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:10:45",
+      "channel": "tiktok",
+      "item": "pod-ep03-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:10:44",
+      "channel": "ig",
+      "item": "bj-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:09:31",
+      "channel": "facebook",
+      "item": "pod-ep03-channels",
+      "url": null
+    },
+    {
+      "ts": "2026-07-28T07:07:07",
+      "channel": "fb",
+      "item": "estimate-noshow",
       "url": null
     }
   ]
