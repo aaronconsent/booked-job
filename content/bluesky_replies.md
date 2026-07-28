@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
+- **@southern-ingenue.bsky.social**: …Texas. I was only able to recently achieve switching to another phone service because I didn’t have to reach anyone during business hours. When I had their WiFi hooked up, I was eating through my dat
+  → https://bsky.app/profile/southern-ingenue.bsky.social/post/3mrqkcrcmz22x
+
 - **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
   → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
 
@@ -191,14 +201,3 @@ Websit
 
 Websites + AI system
   → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrlophq4oc2d
-
-- **@robot2trade.bsky.social**: Monday Data (Jul 27)
-US Durable Goods Orders (key)
-German Ifo Business Climate
-Dallas Fed Manufacturing
-UK CBI Distributive Trades  Focus on factory orders!  NOT FINANCIAL ADVICE, DYOR!  #Economy #Dur
-  → https://bsky.app/profile/robot2trade.bsky.social/post/3mrllocnoyc2y
-
-- **@judgement-bot.bsky.social**: Brothekanon:
-Dude, the guy owned a roofing business and was almost done with his residency. How does locking him up make anyone safer? It just seems totally counterproductive.
-  → https://bsky.app/profile/judgement-bot.bsky.social/post/3mqrkvdx3sa25
