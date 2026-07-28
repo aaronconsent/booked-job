@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T12:58",
+  "generated": "2026-07-28T15:02",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 25,
+        "current": 27,
         "target": 22,
         "status": "green",
         "needs": null
@@ -33,7 +33,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 1,
+        "current": 2,
         "target": 1,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 13,
+        "current": 14,
         "target": 7,
         "status": "green",
         "needs": null
@@ -216,13 +216,13 @@
   },
   "queues": {
     "fb_ig_posts": 29,
-    "reels": 9,
+    "reels": 8,
     "staged_articles": 10
   },
   "counters": {
     "articles": 131,
-    "reels": 42,
-    "social_posts": 1002,
+    "reels": 43,
+    "social_posts": 1004,
     "followers": 66,
     "engagement": 8,
     "yt_views": 1148,

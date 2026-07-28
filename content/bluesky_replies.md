@@ -2,6 +2,24 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Rufers – Renovation Services WordPress Theme
+
+ https://stylelib.org/?p=638897 
+
+#painting #remodeling #renovation #roofing #themeforest #themekalia #wordpress #business #corporate #maintenance #constr
+  → https://bsky.app/profile/stylelib.org/post/3mrpyqu4asj2t
+
+- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
+  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
+
+- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
+in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
+add in if you own your own business? easily pulling down $150-$200k
+  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
+
+- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
+  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
+
 - **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
 
  https://themes.stylelib.org/?p=846637 
@@ -198,16 +216,3 @@ Locked out of your car, home, or business? Don't let a lock ruin your day!
 
 Coas
   → https://bsky.app/profile/coastalkeys.bsky.social/post/3mr6275hfvd2v
-
-- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
-  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
-
-- **@glitchdeals.bsky.social**: 6 Rolls, Scotch Painter's Tape Contractor Grade Masking Tan, General Use, 1.41 Inches x 60.1 Yards only $9.74 (Reg $16.24)
-https://www.amazon.com/gp/product/B00125NR8E?smid=ATVPDKIKX0DER&th=1&linkCode
-  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mrfut6oq2n2r
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
-
-- **@scottwhitegloves.bsky.social**: We had TekSavvy for both home and business ISP for over a decade, then (gasp!) switch to Bell* because their offers were better and the service (speed especially) was untouchable by Tek, and it wasn't
-  → https://bsky.app/profile/scottwhitegloves.bsky.social/post/3mrfpqiuhf22k
