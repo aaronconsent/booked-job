@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "daily": [
     {
       "id": "fb-share",
@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @capitalcityroofing.bsky.social: “The team adjusted in about 90 days. Some of it was uncomfortable. All of it was necessary.…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/capitalcityroofing.bsky.social/post/3mrka3bliik2v",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @clovermore.bsky.social: “Are they..insulting skilled trades?  I know people from almost every trade... And they're …”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/clovermore.bsky.social/post/3mroagxgnpk2c",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @ghunkinking.bsky.social: “Who cares about scholarships? Her college is paid for no matter what school she chooses. S…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @holiday-girl-1225.bsky.social: “When they're older..  Will it go by profession?   Monster general contractor....…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @proofsignal.bsky.social: “Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @castawayfarmtoo.bsky.social: “This is the rediculousness of doing business with companies today: Me: I was home all day …”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @incredibletownswnc.bsky.social: “Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offe…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f",
       "est": "2 min"
     },
     {

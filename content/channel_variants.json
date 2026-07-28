@@ -3443,5 +3443,65 @@
   },
   "telegram": "💰 Monday money check: pull last week's Thumbtack charges and file every refund you're owed — <b>wrong location, wrong job type, bad contact info, duplicates</b>, inside <b>45 days</b>. Worth about <b>$62 per booked job</b> by our math. And whatever you do, don't dispute with your bank: that puts a hold on your pro account.\n\nhttps://booked-job.com/blog/thumbtack-refunds-chargebacks-deactivation/",
   "linkedin": "The most expensive mistake a contractor makes on a lead platform isn't buying a bad lead. It's disputing one with their bank.\n\nThumbtack's own help documentation is explicit: a disputed charge places a hold on the pro account, and the balance has to be resolved with the bank before it lifts. Their terms permit termination. Pros describe losing years of accumulated reviews over a $57 argument.\n\nThe unglamorous alternative is a 20-minute weekly routine. Four categories qualify for a refund — wrong location, wrong job type, bad contact info, duplicates — within 45 days of the charge.\n\nWe ran the margin math on what that routine is worth: filing every eligible refund moves Thumbtack from roughly $250 to roughly $188 per booked job, against about $168 for an exclusive Google LSA lead. Roughly $62 a job, for twenty minutes of admin a week.\n\nFull breakdown: https://booked-job.com/blog/thumbtack-refunds-chargebacks-deactivation/"
+ },
+ "why-am-i-not-showing-up-on-google-maps": {
+  "threads": {
+   "text": "Not showing up on Google Maps? It's almost never bad luck. Incomplete profile, too few reviews (median ~519 for HVAC), service area set too wide, mismatched name/address/phone, or a quiet suspension. The fix list, in order.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/why-am-i-not-showing-up-on-google-maps/"
+   ]
+  },
+  "bluesky": {
+   "text": "Not showing up on Google Maps? It's almost never bad luck. Incomplete profile, too few reviews (median ~519 for HVAC), service area set too wide, mismatched name/address/phone, or a quiet suspension. The fix list, in order.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/why-am-i-not-showing-up-on-google-maps/"
+   ]
+  },
+  "mastodon": {
+   "text": "Not showing up on Google Maps? It's almost never bad luck. Incomplete profile, too few reviews (median ~519 for HVAC), service area set too wide, mismatched name/address/phone, or a quiet suspension. The fix list, in order.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/why-am-i-not-showing-up-on-google-maps/"
+   ]
+  },
+  "tumblr": {
+   "text": "Not showing up on Google Maps? It's almost never bad luck. Incomplete profile, too few reviews (median ~519 for HVAC), service area set too wide, mismatched name/address/phone, or a quiet suspension. The fix list, in order.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/why-am-i-not-showing-up-on-google-maps/"
+   ]
+  },
+  "linkedin": {
+   "text": "If you're invisible in the map pack, it's almost never bad luck. It's one of five fixable things: an incomplete profile, not enough reviews, the wrong service area, a name/address/phone mismatch, or a suspension you were never told about. Work the list in order.\n\nhttps://booked-job.com/blog/why-am-i-not-showing-up-on-google-maps/",
+   "chain": []
+  }
+ },
+ "how-to-respond-to-a-bad-review": {
+  "threads": {
+   "text": "How to respond to a bad review: acknowledge in one line, correct the record with one fact, take it offline. Three sentences. You're not writing to the angry customer — you're writing to the next 100 homeowners reading it.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/how-to-respond-to-a-bad-review/"
+   ]
+  },
+  "bluesky": {
+   "text": "How to respond to a bad review: acknowledge in one line, correct the record with one fact, take it offline. Three sentences. You're not writing to the angry customer — you're writing to the next 100 homeowners reading it.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/how-to-respond-to-a-bad-review/"
+   ]
+  },
+  "mastodon": {
+   "text": "How to respond to a bad review: acknowledge in one line, correct the record with one fact, take it offline. Three sentences. You're not writing to the angry customer — you're writing to the next 100 homeowners reading it.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/how-to-respond-to-a-bad-review/"
+   ]
+  },
+  "tumblr": {
+   "text": "How to respond to a bad review: acknowledge in one line, correct the record with one fact, take it offline. Three sentences. You're not writing to the angry customer — you're writing to the next 100 homeowners reading it.",
+   "chain": [
+    "Full guide: https://booked-job.com/blog/how-to-respond-to-a-bad-review/"
+   ]
+  },
+  "linkedin": {
+   "text": "The reply isn't for the person who left the review. It's for the hundred homeowners who'll read it while deciding whether to call you. Short, calm, specific, and offline — that's the whole formula, and it turns a 1-star into proof you're a pro.\n\nhttps://booked-job.com/blog/how-to-respond-to-a-bad-review/",
+   "chain": []
+  }
  }
 }

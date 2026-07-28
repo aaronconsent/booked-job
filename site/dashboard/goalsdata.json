@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T22:32",
+  "generated": "2026-07-28T01:41",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -13,9 +13,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 1,
+        "current": 2,
         "target": 2,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -23,9 +23,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 29,
+        "current": 4,
         "target": 22,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -65,9 +65,9 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 13,
+        "current": 3,
         "target": 14,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 14,
+        "current": 12,
         "target": 7,
         "status": "green",
         "needs": null
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 21,
+        "current": 19,
         "target": 120,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -115,7 +115,7 @@
         "cat": "Social",
         "icon": "\ud83d\udd25",
         "label": "Engagement actions",
-        "current": 3,
+        "current": 4,
         "target": 250,
         "status": "red",
         "needs": null
@@ -217,12 +217,12 @@
   "queues": {
     "fb_ig_posts": 30,
     "reels": 10,
-    "staged_articles": 12
+    "staged_articles": 10
   },
   "counters": {
-    "articles": 129,
+    "articles": 131,
     "reels": 41,
-    "social_posts": 977,
+    "social_posts": 981,
     "followers": 64,
     "engagement": 8,
     "yt_views": 1147,
@@ -243,9 +243,14 @@
       "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
     },
     {
+      "title": "\ud83d\udc65 New followers (all) behind this week",
+      "why": "19/120 \u2014 101 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (19/120). Refill the social queues / add more variant cards."
+    },
+    {
       "title": "\ud83d\udd25 Engagement actions behind this week",
-      "why": "3/250 \u2014 247 short of pace.",
-      "prompt": "We're behind on engagement actions this week (3/250). Refill the social queues / add more variant cards."
+      "why": "4/250 \u2014 246 short of pace.",
+      "prompt": "We're behind on engagement actions this week (4/250). Refill the social queues / add more variant cards."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-27T22:28",
+  "updated": "2026-07-28T01:36",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
-    "days_left": 31,
+    "days_left": 30,
     "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
@@ -105,28 +105,21 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Work-truck edition. Choose your fighter. This will not stay ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-07-28",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Stop giving free estimates to tire-kickers",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
@@ -134,20 +127,20 @@
     },
     {
       "date": "2026-07-31",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "Stop giving free estimates to tire-kickers",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who guards the radio like it's a host",
       "sub": "that guy"
     },
     {
-      "date": "2026-07-31",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "Windshield time is still time",
-      "sub": "Reel"
-    },
-    {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "We all know him. Tag him (gently). \ud83d\udc47",
@@ -155,27 +148,27 @@
     },
     {
       "date": "2026-08-04",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
-      "sub": "owner solidarity"
-    },
-    {
-      "date": "2026-08-04",
       "type": "reel",
       "icon": "\ud83c\udfac",
-      "title": "The 10mm socket conspiracy",
+      "title": "Windshield time is still time",
       "sub": "Reel"
     },
     {
       "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
+      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
       "sub": "owner solidarity"
     },
     {
       "date": "2026-08-06",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
+      "sub": "owner solidarity"
+    },
+    {
+      "date": "2026-08-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Hardest part of running a shop this year: finding work / fin",
@@ -183,6 +176,13 @@
     },
     {
       "date": "2026-08-07",
+      "type": "reel",
+      "icon": "\ud83c\udfac",
+      "title": "The 10mm socket conspiracy",
+      "sub": "Reel"
+    },
+    {
+      "date": "2026-08-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Slow-season survival rule #1: the time to market is when you",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 0,
-    "media": 364
+    "media": 365
   },
   "email": {
     "subscribers": 7
@@ -470,11 +470,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 49,
+      "count": 50,
       "unit": "posts",
-      "grade": "C",
+      "grade": "B",
       "group": "social",
-      "views": 2665,
+      "views": 2682,
       "followers": 0
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 47,
+      "count": 48,
       "unit": "posts",
       "followers": 50,
       "grade": "B",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 50,
+      "count": 51,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 35,
+      "count": 36,
       "unit": "posts (Buffer)",
       "stat": "1260 reach \u00b7 7 reactions",
       "views": 12,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Polls",
@@ -648,7 +648,7 @@
       {
         "type": "Carousels",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Reels",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Documents",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 47
+        "count": 48
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Video",
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 44793,
+    "reach": 44830,
     "engagement": 8,
     "audience": 71,
     "cr_clicks": 42
   },
   "trends": {
-    "audience": 21,
-    "engagement": 3,
+    "audience": 19,
+    "engagement": 4,
     "email": 0,
-    "reach": 3015
+    "reach": 2485
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1294,
+        "value": 1298,
         "grade": "A"
       },
       {

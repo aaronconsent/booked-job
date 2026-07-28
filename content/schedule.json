@@ -368,13 +368,15 @@
       "slug": "why-am-i-not-showing-up-on-google-maps",
       "series": "Local SEO",
       "go_live": "2026-07-28",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-28"
     },
     {
       "slug": "how-to-respond-to-a-bad-review",
       "series": "Reviews",
       "go_live": "2026-07-28",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-28"
     },
     {
       "slug": "is-nextdoor-worth-it-for-contractors",
