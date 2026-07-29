@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T12:25",
+  "updated": "2026-07-29T14:38",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 52,
       "grade": "B",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "posts (Buffer)",
       "stat": "1790 reach \u00b7 8 reactions",
       "views": 17,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 34
+        "count": 35
       },
       {
         "type": "Documents",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 4
+        "count": 5
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 20
+        "count": 21
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 7
+        "count": 8
       }
     ]
   },
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1260,
+        "value": 1263,
         "grade": "A"
       },
       {
