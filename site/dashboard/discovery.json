@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T12:11:24Z",
+  "updated": "2026-07-29T15:17:46Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 28,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,8 +93,13 @@
       },
       {
         "tag": "#contractor",
-        "uses": 2,
+        "uses": 3,
         "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#Electricians",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/Electricians"
       },
       {
         "tag": "#HVACUAE",
@@ -110,11 +115,6 @@
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#Electricians",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/Electricians"
       },
       {
         "tag": "#contractors",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465554,
+        "followers": 465555,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35636,
+        "followers": 35637,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2329,
+        "followers": 2330,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9650,
+      "followers": 9651,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3960,
+      "followers": 3961,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3556,
+      "followers": 3555,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
@@ -250,7 +250,7 @@
     {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
-      "followers": 1472,
+      "followers": 1473,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
     },
