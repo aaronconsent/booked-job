@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bookish-notes.bsky.social**: one last piece of drama for the road lmao that’s a whole mess. 
+
+they’d rather manually remove over 30k members in a fb group than set it to read only or give it to a new admin team to take over the g
+  → https://bsky.app/profile/bookish-notes.bsky.social/post/3mrqmc2tcsc2t
+
 - **@stylelib.org**: Electrician – Electricity Services WordPress Theme
 
  https://stylelib.org/?p=134524 
@@ -196,8 +201,3 @@ Explore the best AI tools here 👇
 
 Websit
   → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrlopetkwd2g
-
-- **@jacobchappellai.bsky.social**: Simple litmus test for AI in a small business: did it give you hours back this week? Not engagement metrics, not content output. Actual time recovered. Everything else is vanity.
-
-Websites + AI system
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrlophq4oc2d
