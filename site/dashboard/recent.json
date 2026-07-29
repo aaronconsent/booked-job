@@ -1,22 +1,64 @@
 {
-  "updated": "2026-07-29T04:51",
+  "updated": "2026-07-29T07:17",
   "posts": [
     {
-      "ts": "2026-07-29T04:48:26",
+      "ts": "2026-07-29T07:15:22",
       "channel": "mastodon",
-      "item": "is-nextdoor-worth-it-for-contractors",
-      "url": "https://mastodon.social/@bookedjob/117002633640262368"
+      "item": "email-marketing-for-contractors",
+      "url": "https://mastodon.social/@bookedjob/117003211348317732"
     },
     {
-      "ts": "2026-07-29T04:48:24",
+      "ts": "2026-07-29T07:15:17",
       "channel": "telegraph",
-      "item": "is-nextdoor-worth-it-for-contractors",
-      "url": "https://telegra.ph/Is-Nextdoor-Worth-It-for-Contractors-The-Honest-Answer-07-29"
+      "item": "email-marketing-for-contractors",
+      "url": "https://telegra.ph/Email-Marketing-for-Contractors-The-Cheapest-Repeat-Work-You-Own-07-29"
     },
     {
-      "ts": "2026-07-29T04:48:23",
+      "ts": "2026-07-29T07:15:17",
       "channel": "tumblr",
-      "item": "is-nextdoor-worth-it-for-contractors",
+      "item": "email-marketing-for-contractors",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:15:16",
+      "channel": "tumblr",
+      "item": "pod-ep03-lie",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:15:15",
+      "channel": "bluesky",
+      "item": "pod-ep01-wrongnum",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:15:13",
+      "channel": "linkedin",
+      "item": "bj-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:15:12",
+      "channel": "tiktok",
+      "item": "pod-ep02-system",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:15:11",
+      "channel": "ig",
+      "item": "bj-stormchaser",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:14:05",
+      "channel": "facebook",
+      "item": "pod-ep02-system",
+      "url": null
+    },
+    {
+      "ts": "2026-07-29T07:12:06",
+      "channel": "fb",
+      "item": "ten-mm",
       "url": null
     }
   ]
