@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T01:46",
+  "generated": "2026-07-29T04:51",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -95,9 +95,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 1,
+        "current": 2,
         "target": 7,
-        "status": "red",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -222,11 +222,11 @@
   "counters": {
     "articles": 133,
     "reels": 43,
-    "social_posts": 902,
+    "social_posts": 910,
     "followers": 66,
     "engagement": 8,
     "yt_views": 1148,
-    "yt_shorts": 30,
+    "yt_shorts": 31,
     "email_subs": 7,
     "traffic": 0
   },
@@ -241,11 +241,6 @@
       "title": "\ud83d\udce3 Social posts behind this week",
       "why": "0/150 \u2014 150 short of pace.",
       "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
-    },
-    {
-      "title": "\ud83d\udcfa YouTube Shorts/videos behind this week",
-      "why": "1/7 \u2014 6 short of pace.",
-      "prompt": "We're behind on youtube shorts/videos this week (1/7). Produce more youtube shorts from the course/podcast."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",

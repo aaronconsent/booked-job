@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T06:41:21Z",
+  "updated": "2026-07-29T09:47:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,11 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#HVACUAE",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVACUAE"
+      },
+      {
         "tag": "#PlumbingProverbs",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingProverbs"
@@ -130,11 +135,6 @@
         "tag": "#hvacengineer",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacengineer"
-      },
-      {
-        "tag": "#hvactraining",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvactraining"
       }
     ],
     "accounts": [
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3554,
+      "followers": 3555,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1542,
+      "followers": 1543,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
