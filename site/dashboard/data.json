@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-28T22:30",
+  "updated": "2026-07-29T01:41",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
-    "days_left": 30,
+    "days_left": 29,
     "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
@@ -17,9 +17,9 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 31,
+        "current": 30,
         "target": 45,
-        "pct": 69,
+        "pct": 67,
         "on_track": true
       },
       {
@@ -68,7 +68,7 @@
         "current": 0,
         "target": 10,
         "pct": 0,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "Instagram followers",
@@ -76,7 +76,7 @@
         "current": 0,
         "target": 25,
         "pct": 0,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "Email subscribers",
@@ -105,25 +105,18 @@
   },
   "upcoming": [
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You lend tools on a jobsite: never / to a chosen few / to an",
       "sub": "tool wars"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
       "sub": "tool wars"
-    },
-    {
-      "date": "2026-07-31",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "Every crew has the guy who guards the radio like it's a host",
-      "sub": "that guy"
     },
     {
       "date": "2026-07-31",
@@ -136,15 +129,15 @@
       "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "We all know him. Tag him (gently). \ud83d\udc47",
+      "title": "Every crew has the guy who guards the radio like it's a host",
       "sub": "that guy"
     },
     {
       "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
-      "sub": "owner solidarity"
+      "title": "We all know him. Tag him (gently). \ud83d\udc47",
+      "sub": "that guy"
     },
     {
       "date": "2026-08-04",
@@ -157,22 +150,22 @@
       "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
+      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
       "sub": "owner solidarity"
     },
     {
       "date": "2026-08-06",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Hardest part of running a shop this year: finding work / fin",
+      "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
       "sub": "owner solidarity"
     },
     {
       "date": "2026-08-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
-      "sub": "business"
+      "title": "Hardest part of running a shop this year: finding work / fin",
+      "sub": "owner solidarity"
     },
     {
       "date": "2026-08-07",
@@ -183,6 +176,13 @@
     },
     {
       "date": "2026-08-10",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
+    },
+    {
+      "date": "2026-08-11",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Three ways shops bleed money they never see:",
@@ -216,8 +216,8 @@
     "subscribers": 0,
     "views": 1148,
     "likes": 0,
-    "videos": 31,
-    "shorts": 31
+    "videos": 30,
+    "shorts": 30
   },
   "instagram": {
     "connected": true,
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 56,
+      "count": 57,
       "unit": "posts",
       "followers": 52,
       "grade": "B",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 2,
+      "count": 3,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 41,
+      "count": 43,
       "unit": "posts (Buffer)",
       "stat": "1790 reach \u00b7 8 reactions",
       "views": 17,
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 29
+        "count": 31
       },
       {
         "type": "Documents",
@@ -745,7 +745,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 56
+        "count": 57
       },
       {
         "type": "Video",
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 2
+        "count": 3
       },
       {
         "type": "Video",
@@ -857,10 +857,10 @@
     "cr_clicks": 42
   },
   "trends": {
-    "audience": 21,
+    "audience": 19,
     "engagement": 4,
     "email": 0,
-    "reach": 2610
+    "reach": 2094
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1285,
+        "value": 1289,
         "grade": "A"
       },
       {

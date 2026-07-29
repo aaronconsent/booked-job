@@ -382,13 +382,15 @@
       "slug": "is-nextdoor-worth-it-for-contractors",
       "series": "Should You Buy Leads",
       "go_live": "2026-07-29",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-29"
     },
     {
       "slug": "email-marketing-for-contractors",
       "series": "Marketing 101",
       "go_live": "2026-07-29",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-29"
     },
     {
       "slug": "why-customers-ghost-after-an-estimate",

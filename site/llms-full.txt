@@ -1881,3 +1881,75 @@ A: Only if it violates Google's policies (spam, off-topic, personal attacks, a c
 A: It depends entirely on volume. 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026), so one 1-star against a handful of reviews is serious — against a few hundred it barely moves your rating.
 
 ---
+## Is Nextdoor Worth It for Contractors? The Honest Answer
+URL: https://booked-job.com/blog/is-nextdoor-worth-it-for-contractors/
+
+**Short answer:** Nextdoor's free side — neighbors recommending you by name — is one of the better lead sources a local shop can have, and it costs nothing. The paid side is a different product entirely. Judge it the same way you judge everything else: cost per booked job.
+
+### The free side is the good side
+*Neighbor recommendations are warm, exclusive, and free.*
+When a neighbor asks "who do you use for plumbing?" and three people type your name, that's the warmest lead in local marketing: exclusive, pre-vouched, and zero cost per lead. Claim your business page, keep it accurate, and ask happy customers to recommend you there the same way you ask for a Google review.
+
+### The paid side has to earn its place
+*Judge it on cost per booked job, not impressions.*
+Every channel gets the same test in this shop: what does a booked job cost? A booked job runs ~$542 via Angi versus ~$168 via Google Local Service Ads once close rates are counted. If Nextdoor ads land under your Google LSA number, keep spending. If they don't, that money belongs in LSA or reviews. That's the whole decision. Do the math: cost per booked job calculator.
+
+### It won't replace Google — it stacks on it
+*Nextdoor is a referral amplifier, not a search engine.*
+People go to Nextdoor to ask their neighbors and to Google to find a pro right now. You need the second one working regardless: 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026), and the map pack is still where the urgent, ready-to-book calls come from. Treat Nextdoor as extra referral surface, not a substitute.
+
+### Answer Nextdoor leads like they're on fire
+*Speed decides who gets the recommendation thread.*
+Recommendation threads move in hours. 78% of homeowners hire whoever responds first (Lead Connect 2026), and replying in 5 minutes instead of 30 makes you up to 100x more likely to connect (MIT Sloan 2026). A neighborhood thread you answer on Thursday for a Tuesday post is a thread someone else already won.
+
+### How to test it in 60 days
+*Small budget, tracked number, one honest decision.*
+Run a small monthly budget, use a distinct tracking number or a "how'd you hear about us?" field, and count booked jobs, not leads. At 60 days, divide spend by jobs. Under your LSA cost — scale it. Over — kill it without sentiment. That's the same test that saves contractors from every shiny channel: evaluate any marketing with simple math.
+
+### FAQ
+**Q: Is Nextdoor worth it for contractors?**
+A: The free business page and neighbor recommendations are worth the setup time for almost every local shop — exclusive, warm, no per-lead cost. Paid Nextdoor ads are only worth it if they book jobs for less than your best channel, which for most contractors is Google LSA at ~$168 per booked job vs ~$542 via Angi.
+
+**Q: Are Nextdoor leads better than Angi leads?**
+A: A neighbor recommendation is usually far better than a shared platform lead, because it's exclusive and comes with a vouch. Shared leads get sold to as many as 12 pros, which is why a booked job through Angi averages ~$542 vs ~$168 on Google LSA.
+
+**Q: How do I get recommended on Nextdoor?**
+A: Claim your page, keep hours and services accurate, and ask satisfied customers to recommend you there — the same habit that builds Google reviews. Then answer every thread fast; 78% of homeowners hire whoever responds first (Lead Connect 2026).
+
+---
+## Email Marketing for Contractors: The Cheapest Repeat Work You Own
+URL: https://booked-job.com/blog/email-marketing-for-contractors/
+
+**Short answer:** Every customer you've ever invoiced is a lead you already paid for. Email is the only channel where the list is yours, the cost is near zero, and nobody sells the same contact to eleven competitors. Four emails, sent on a schedule, out-earn most ad budgets.
+
+### You already paid for this list
+*Past customers are the cheapest jobs you'll ever book.*
+You spent real money acquiring every name in your invoicing software — up to ~$542 per booked job on Angi, ~$168 on Google LSA. Emailing those people again costs effectively nothing. Most shops never do it, then buy new leads instead. That's paying full price twice.
+
+### Own the list — don't rent the audience
+*Social followers are borrowed. An email list is yours.*
+An algorithm decides who sees your Facebook post. Nobody decides who sees your email but you. Build the list from every job: ask for the email on the invoice, on the estimate, at the door. Same logic as the profile and reviews you own — see referrals and repeat customers.
+
+### The four emails that book jobs
+*Seasonal reminder, maintenance due, review ask, and a last-year follow-up.*
+1. Seasonal reminder — "It's April; let's check the system before the first 95° day." 2. Maintenance due — triggered off the last service date, the highest-booking email most shops never send. 3. Review ask — a few days after the job, one link, one sentence; that's how you close the gap on the ~519 reviews (HVAC) and ~337 (plumbers) the map-pack shops carry. 4. Last-year follow-up — "We were out a year ago for the water heater; anything need looking at?"
+
+### How often, and what tone
+*Monthly, useful, and written like a person.*
+Once a month is plenty. Lead with something useful — what to check before the season turns, what a fair price looks like — and keep the sell to one line at the bottom. Homeowners forgive a plain email from a real contractor; they delete a newsletter that reads like a brochure.
+
+### Answer the replies fast
+*An email reply is a hot lead with a clock on it.*
+When someone replies "yes, can you come look at it?", that's a booked job waiting on your response time. 78% of homeowners hire whoever responds first (Lead Connect 2026), and 5 minutes versus 30 is up to 100x more likely to connect (MIT Sloan 2026). Route the inbox to a phone somebody actually watches.
+
+### FAQ
+**Q: Does email marketing work for contractors?**
+A: Yes, and it's the cheapest channel you own, because the list is made of customers you already paid to acquire — up to ~$542 per booked job via Angi, ~$168 via Google LSA. Re-reaching them costs nothing per send.
+
+**Q: How often should a contractor email past customers?**
+A: About once a month, plus triggered emails (maintenance due, seasonal reminder, post-job review ask). Useful first, one line of selling at the bottom.
+
+**Q: What should I send in a contractor newsletter?**
+A: Four repeatable emails cover most of the value: a seasonal reminder, a maintenance-due notice off the last service date, a post-job review ask, and a one-year follow-up. Plain text from the owner beats a designed brochure.
+
+---

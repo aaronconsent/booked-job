@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T03:30:50Z",
+  "updated": "2026-07-29T06:41:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 27,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -112,6 +112,11 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
+        "tag": "#contractors",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#HVACsystem",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACsystem"
@@ -130,11 +135,6 @@
         "tag": "#hvactraining",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvactraining"
-      },
-      {
-        "tag": "#PlumbingPathways",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingPathways"
       }
     ],
     "accounts": [
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@home_garden_and_diy@threads.net",
-        "followers": 96225,
+        "followers": 96226,
         "link": "https://threads.net/@home_garden_and_diy/"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3957,
+      "followers": 3959,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
