@@ -2,6 +2,24 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@carpenter22.bsky.social**: A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands. See "The Trades Are Hiring, Are You Ready?" www.amazon.com/dp/B0HBZD941N www.nytimes.com/2026/07/29/b...
+  → https://bsky.app/profile/carpenter22.bsky.social/post/3mrs2yzmoms2b
+
+- **@mattbegins.bsky.social**: “What?  I hired Little Debbie as my general contractor.  You got a problem with that?”
+  → https://bsky.app/profile/mattbegins.bsky.social/post/3mrs7wwfwc22x
+
+- **@btisinc.bsky.social**: Brivado makes it easy to quote contractor GL risks just outside standard appetite.
+
+- Up to $15M gross receipts and $3M payroll  
+- Quote in the General Liability Marketplace
+- Hardest class to place 
+  → https://bsky.app/profile/btisinc.bsky.social/post/3mrsfsdaqwh23
+
+- **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
+
+Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
+  → https://bsky.app/profile/platinumzombie.bsky.social/post/3mrr4jbgobc23
+
 - **@bookish-notes.bsky.social**: one last piece of drama for the road lmao that’s a whole mess. 
 
 they’d rather manually remove over 30k members in a fb group than set it to read only or give it to a new admin team to take over the g
@@ -178,26 +196,3 @@ Stay your way with master by Leonardo Hotels: spacious serviced apartments with 
 At this point I might as well become a general contractor instead of making porn. 
 Hey maybe ill earn more money that
   → https://bsky.app/profile/sandythixx.bsky.social/post/3mrgdiamyp225
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
-
-Websites + AI systems that book 
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@jacobchappellai.bsky.social**: Most 'AI for small business' content is enterprise playbooks with the budget column removed. A 5-truck HVAC company and a SaaS startup share almost nothing. The advice shouldn't look the same.
-
-Websit
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrlopetkwd2g
