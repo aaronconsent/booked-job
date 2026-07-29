@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T16:22",
+  "generated": "2026-07-29T18:21",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 12,
+        "current": 14,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -215,17 +215,17 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 28,
+    "fb_ig_posts": 27,
     "reels": 6,
     "staged_articles": 8
   },
   "counters": {
     "articles": 133,
     "reels": 45,
-    "social_posts": 929,
+    "social_posts": 934,
     "followers": 66,
     "engagement": 8,
-    "yt_views": 1160,
+    "yt_views": 1162,
     "yt_shorts": 32,
     "email_subs": 7,
     "traffic": 0

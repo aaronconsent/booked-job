@@ -2,6 +2,10 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -199,6 +203,3 @@ with a comment about needing trades for x,y,z.
 
 Anyway, now you’re 
   → https://bsky.app/profile/crucialwax.com/post/3mrn7s4k4mc2z
-
-- **@dartmouthcommon.bsky.social**: What if we trained and hired skilled trades to build renewables like wind, solar & batteries. Not enough profit for your private sector buddies?
-  → https://bsky.app/profile/dartmouthcommon.bsky.social/post/3mrnfassmas2s
