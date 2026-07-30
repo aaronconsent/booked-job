@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
+
+https://www.barnardhq.com/blog/content-marketing-for-skill
+  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
+
 - **@christofear.bsky.social**: Highly recommend having a roommate who’s a general contractor. Helped me get my drill unstuck when the chuck locked up. She’s the best.
   → https://bsky.app/profile/christofear.bsky.social/post/3mrtembsmhs2p
 
@@ -190,10 +195,3 @@ M
 
 #electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
   → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
-
-- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
-
- https://stylelib.org/?p=877700 
-
-#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
-  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
