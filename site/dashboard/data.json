@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T15:22",
+  "updated": "2026-07-30T17:15",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 381
+    "media": 382
   },
   "email": {
     "subscribers": 7
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3107,
+      "views": 3108,
       "followers": 1
     },
     {
@@ -515,7 +515,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "followers": 54,
       "grade": "B",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 18,
+      "count": 19,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +569,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 54,
+      "count": 56,
       "unit": "posts (Buffer)",
       "stat": "1953 reach \u00b7 9 reactions",
       "views": 23,
@@ -580,11 +580,11 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 69,
+      "count": 70,
       "unit": "videos (Buffer)",
-      "stat": "3381 views \u00b7 17 reactions",
-      "views": 3381,
-      "likes": 17,
+      "stat": "3263 views \u00b7 16 reactions",
+      "views": 3263,
+      "likes": 16,
       "grade": "B",
       "group": "social"
     },
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 11
       },
       {
         "type": "Long video",
@@ -684,7 +684,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 57
+        "count": 58
       },
       {
         "type": "Photo carousels",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 44
       },
       {
         "type": "Documents",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 15
+        "count": 16
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 28
+        "count": 29
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 18
+        "count": 19
       },
       {
         "type": "Video",
@@ -809,7 +809,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 15
+        "count": 16
       }
     ]
   },
@@ -851,7 +851,7 @@
     }
   ],
   "funnel": {
-    "reach": 46133,
+    "reach": 46016,
     "engagement": 5,
     "audience": 76,
     "cr_clicks": 45
@@ -860,7 +860,7 @@
     "audience": 17,
     "engagement": 1,
     "email": 0,
-    "reach": 2742
+    "reach": 2625
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1314,
+        "value": 1319,
         "grade": "A"
       },
       {
