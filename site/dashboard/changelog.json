@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-07-29T22:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: lastguy diy"
+    },
+    {
+      "ts": "2026-07-29T22:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy rate"
+    },
+    {
       "ts": "2026-07-29T18:20",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: biz review timing"
-    },
-    {
-      "ts": "2026-07-26T15:30",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz money leaks"
-    },
-    {
-      "ts": "2026-07-26T15:27",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: \"My neighbor's guy does it for half\""
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T18:08",
+  "updated": "2026-07-29T22:18",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 45,
+        "current": 46,
         "target": 100,
-        "pct": 45,
+        "pct": 46,
         "on_track": true
       },
       {
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 8,
+        "current": 7,
         "target": 60,
-        "pct": 13,
+        "pct": 12,
         "on_track": true
       },
       {
@@ -108,14 +108,14 @@
       "date": "2026-07-30",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "One tool you'd run back into a burning truck for. Go. \ud83d\udc47",
-      "sub": "tool wars"
+      "title": "Every crew has the guy who guards the radio like it's a host",
+      "sub": "that guy"
     },
     {
       "date": "2026-07-31",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Every crew has the guy who guards the radio like it's a host",
+      "title": "We all know him. Tag him (gently). \ud83d\udc47",
       "sub": "that guy"
     },
     {
@@ -129,14 +129,14 @@
       "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "We all know him. Tag him (gently). \ud83d\udc47",
-      "sub": "that guy"
+      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
+      "sub": "owner solidarity"
     },
     {
       "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Posted for a helper. Three no-shows and one guy who quit bec",
+      "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
       "sub": "owner solidarity"
     },
     {
@@ -150,21 +150,21 @@
       "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Guy accepted the job, said \u201csee you Monday,\u201d vanished. It's ",
+      "title": "Hardest part of running a shop this year: finding work / fin",
       "sub": "owner solidarity"
     },
     {
       "date": "2026-08-06",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Hardest part of running a shop this year: finding work / fin",
-      "sub": "owner solidarity"
+      "title": "Slow-season survival rule #1: the time to market is when you",
+      "sub": "business"
     },
     {
       "date": "2026-08-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
+      "title": "Three ways shops bleed money they never see:",
       "sub": "business"
     },
     {
@@ -178,14 +178,14 @@
       "date": "2026-08-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Three ways shops bleed money they never see:",
+      "title": "Third month chasing a customer for a $4k invoice. At what po",
       "sub": "business"
     },
     {
       "date": "2026-08-11",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Third month chasing a customer for a $4k invoice. At what po",
+      "title": "No deposit, no material order. I learned that with $6k of cu",
       "sub": "business"
     }
   ],
@@ -195,12 +195,12 @@
     "likes": 10
   },
   "content": {
-    "posts_published": 45,
-    "reactions": 8,
+    "posts_published": 46,
+    "reactions": 7,
     "comments": 0,
     "shares": 0,
     "reels_published": 45,
-    "posts_remaining": 13,
+    "posts_remaining": 12,
     "reels_remaining": 6
   },
   "ads": {
@@ -459,13 +459,13 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 101,
+      "count": 102,
       "unit": "posts",
       "grade": "B",
       "group": "social",
       "views": 6921,
       "followers": 10,
-      "likes": 8
+      "likes": 7
     },
     {
       "name": "Instagram",
@@ -474,7 +474,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2820,
+      "views": 2825,
       "followers": 0
     },
     {
@@ -515,12 +515,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
-      "followers": 52,
+      "followers": 51,
       "grade": "B",
       "group": "social",
-      "likes": 3
+      "likes": 2
     },
     {
       "name": "Mastodon",
@@ -535,7 +535,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,12 +569,12 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 48,
+      "count": 50,
       "unit": "posts (Buffer)",
-      "stat": "1790 reach \u00b7 8 reactions",
-      "views": 17,
-      "likes": 8,
-      "grade": "C",
+      "stat": "1953 reach \u00b7 9 reactions",
+      "views": 23,
+      "likes": 9,
+      "grade": "B",
       "group": "social"
     },
     {
@@ -613,7 +613,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 44
+        "count": 45
       },
       {
         "type": "Carousels",
@@ -628,7 +628,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 4
       },
       {
         "type": "Polls",
@@ -658,7 +658,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 4
       },
       {
         "type": "Long video",
@@ -704,7 +704,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 36
+        "count": 38
       },
       {
         "type": "Documents",
@@ -714,7 +714,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 28
+        "count": 29
       },
       {
         "type": "Articles",
@@ -745,12 +745,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 23
+        "count": 24
       }
     ],
     "Mastodon": [
@@ -772,7 +772,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
@@ -809,16 +809,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 10
+        "count": 11
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 28,
+      "remaining": 27,
       "per_day": 2,
-      "days": 14.0,
+      "days": 13.5,
       "status": "green"
     },
     {
@@ -851,16 +851,16 @@
     }
   ],
   "funnel": {
-    "reach": 45263,
-    "engagement": 8,
-    "audience": 73,
+    "reach": 45285,
+    "engagement": 7,
+    "audience": 72,
     "cr_clicks": 42
   },
   "trends": {
-    "audience": 19,
-    "engagement": 4,
+    "audience": 18,
+    "engagement": 3,
     "email": 0,
-    "reach": 2402
+    "reach": 2424
   },
   "mafia": {
     "metrics": [
@@ -876,7 +876,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1271,
+        "value": 1276,
         "grade": "A"
       },
       {
@@ -886,16 +886,16 @@
       },
       {
         "label": "Audience Size",
-        "value": 73,
+        "value": 72,
         "grade": "C"
       },
       {
         "label": "Engagement",
-        "value": 8,
+        "value": 7,
         "grade": "D"
       }
     ],
     "overall": "B",
-    "summary": "Strong. 73 audience and 42 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 72 audience and 42 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@christofear.bsky.social**: Highly recommend having a roommate who’s a general contractor. Helped me get my drill unstuck when the chuck locked up. She’s the best.
+  → https://bsky.app/profile/christofear.bsky.social/post/3mrtembsmhs2p
+
 - **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
 #Nassa
   → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
@@ -194,12 +197,3 @@ M
 
 #electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
   → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
-
-- **@crucialwax.com**: I asked because you responded to a post where someone where someone said 
-
-“I don't feel comfy with *only* skilled trades pushed.” 
-
-with a comment about needing trades for x,y,z.
-
-Anyway, now you’re 
-  → https://bsky.app/profile/crucialwax.com/post/3mrn7s4k4mc2z
