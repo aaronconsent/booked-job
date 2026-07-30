@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f
+
 - **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
 
  https://stylelib.org/?p=877700 
@@ -189,9 +192,3 @@ Monster general contractor....
 
 - **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
   → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
-
-- **@castawayfarmtoo.bsky.social**: This is the rediculousness of doing business with companies today:
-Me: I was home all day but you say it was undeliverable.
-UPS: if undeliverable we drop off at nearest processing service (aka USPS)
-M
-  → https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26

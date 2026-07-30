@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T11:57",
+  "generated": "2026-07-30T13:40",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 25,
+        "current": 28,
         "target": 22,
         "status": "green",
         "needs": null
@@ -33,7 +33,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 1,
+        "current": 2,
         "target": 1,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 13,
+        "current": 14,
         "target": 7,
         "status": "green",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 16,
+        "current": 17,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 5,
+        "current": 8,
         "target": 600,
         "status": "red",
         "needs": null
@@ -157,7 +157,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 3,
+        "current": 4,
         "target": 30,
         "status": "green",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 2,
+        "current": 3,
         "target": 600,
         "status": "red",
         "needs": null
@@ -216,22 +216,27 @@
   },
   "queues": {
     "fb_ig_posts": 26,
-    "reels": 5,
+    "reels": 4,
     "staged_articles": 6
   },
   "counters": {
     "articles": 135,
-    "reels": 46,
-    "social_posts": 961,
-    "followers": 68,
+    "reels": 47,
+    "social_posts": 964,
+    "followers": 69,
     "engagement": 6,
     "yt_views": 1162,
     "yt_shorts": 32,
     "email_subs": 7,
     "traffic": 0
   },
-  "top_move": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page.",
+  "top_move": "Cut more vertical clips from the podcast and course and add them to the reels queue.",
   "prompts": [
+    {
+      "title": "\ud83c\udfac Reels queue low",
+      "why": "Only 4 reels queued (need ~7/week).",
+      "prompt": "Cut more vertical clips from the podcast and course and add them to the reels queue."
+    },
     {
       "title": "\ud83c\udf10 Website traffic isn't tracked yet",
       "why": "No Cloudflare token connected, so traffic goals show no data.",
@@ -244,8 +249,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "16/120 \u2014 104 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (16/120). Refill the social queues / add more variant cards."
+      "why": "17/120 \u2014 103 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (17/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

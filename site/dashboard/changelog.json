@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-07-30T13:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy caulk"
+    },
+    {
+      "ts": "2026-07-30T13:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: homeowner youtube"
+    },
+    {
+      "ts": "2026-07-30T13:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner lie"
+    },
+    {
+      "ts": "2026-07-30T13:37",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published Reel: 20 minutes on Monday buys back real money"
+    },
+    {
       "ts": "2026-07-30T11:56",
       "kind": "engage",
       "icon": "💬",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: lastguy extension cord"
-    },
-    {
-      "ts": "2026-07-27T11:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Thumbtack Refunds and Chargebacks: What Happens When You Fight a Bad Lead"
-    },
-    {
-      "ts": "2026-07-27T11:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Tumblr (backlink): Thumbtack Refunds and Chargebacks: What Happens When You Fight a Bad Lead"
-    },
-    {
-      "ts": "2026-07-27T11:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Thumbtack Refunds and Chargebacks: What Happens When You Fight a Bad Lead"
-    },
-    {
-      "ts": "2026-07-27T08:21",
-      "kind": "strategy",
-      "icon": "🧭",
-      "text": "Weekly review 2026-07-27: Month 1 closed. Production hit target (39 reels/29 shorts/128 articles), conversion did not (9 FB followers, 8 engagement, 7 email subs flat 2wks). Opened Month 2 (7/28-8/27) with targets rebuilt off real 14-day pace."
     }
   ]
 }
