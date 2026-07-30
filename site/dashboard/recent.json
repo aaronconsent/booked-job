@@ -1,4 +1,23 @@
 {
-  "updated": "2026-07-30T01:41",
-  "posts": []
+  "updated": "2026-07-30T04:41",
+  "posts": [
+    {
+      "ts": "2026-07-30T04:38:41",
+      "channel": "mastodon",
+      "item": "why-customers-ghost-after-an-estimate",
+      "url": "https://mastodon.social/@bookedjob/117008257607618832"
+    },
+    {
+      "ts": "2026-07-30T04:38:39",
+      "channel": "telegraph",
+      "item": "why-customers-ghost-after-an-estimate",
+      "url": "https://telegra.ph/Why-Customers-Ghost-After-an-Estimate-And-How-to-Get-Them-Back-07-30"
+    },
+    {
+      "ts": "2026-07-30T04:38:38",
+      "channel": "tumblr",
+      "item": "why-customers-ghost-after-an-estimate",
+      "url": null
+    }
+  ]
 }

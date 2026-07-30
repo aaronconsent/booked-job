@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T06:37:54Z",
+  "updated": "2026-07-30T09:37:26Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465556,
+        "followers": 465587,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -243,7 +243,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1543,
+      "followers": 1544,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
