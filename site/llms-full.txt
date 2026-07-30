@@ -1953,3 +1953,79 @@ A: About once a month, plus triggered emails (maintenance due, seasonal reminder
 A: Four repeatable emails cover most of the value: a seasonal reminder, a maintenance-due notice off the last service date, a post-job review ask, and a one-year follow-up. Plain text from the owner beats a designed brochure.
 
 ---
+## Why Customers Ghost After an Estimate (And How to Get Them Back)
+URL: https://booked-job.com/blog/why-customers-ghost-after-an-estimate/
+
+**Short answer:** You quoted it, they said "let me think about it," and then nothing. It's usually not the price — it's that someone else got there first, the quote was hard to say yes to, or nobody followed up. All three are fixable this week.
+
+### Someone beat you to it
+*Most ghosting happened before you ever quoted.*
+78% of homeowners hire whoever responds first (Lead Connect 2026). If you got there third, you weren't in a price competition — you were the backup quote they collected to feel responsible. Replying in 5 minutes instead of 30 makes you up to 100x more likely to connect (MIT Sloan 2026). More: why 5 minutes matters.
+
+### The quote was hard to say yes to
+*One number and no next step invites delay.*
+A bare total makes a homeowner do the work of deciding. Give them scope in plain language, what's included and excluded, two options where you can (good / better), and an explicit next step with a date: "Reply yes and I'll hold Thursday the 12th." Saying yes should take one sentence.
+
+### They never trusted you enough to spend that much
+*Proof closes the gap price can't.*
+Big-ticket work needs proof attached to it: recent reviews, photos of the same job, license and insurance. 91% of homeowners won't even consider a shop under 4 stars (BrightLocal 2026) — that filtering doesn't stop once they've met you. Put the proof in the estimate, not just on the website.
+
+### Nobody followed up
+*Two touches recover jobs you already earned.*
+Most shops quote and wait. Send a short message at 48 hours ("any questions on the scope?") and one at day 10 ("holding a slot next week if you still want it"). No pressure, no discount — just presence. This is free money: you already paid to get the lead and did the site visit.
+
+### And check that you didn't miss the callback
+*The average shop misses 14% of its calls.*
+Sometimes they didn't ghost you — they called back and got voicemail. The average shop misses 14% of calls (CallRail 2026). Before you blame the price, look at the call log: missed calls cost invoices.
+
+### FAQ
+**Q: Why do customers ghost after getting an estimate?**
+A: Usually not price. Most often someone responded faster (78% hire the first responder — Lead Connect 2026), the quote had no clear next step, there wasn't enough proof to trust a big spend, or nobody followed up. Missed callbacks account for more than owners think — the average shop misses 14% of calls (CallRail 2026).
+
+**Q: How many times should I follow up on a quote?**
+A: Twice is the sweet spot: a short check-in at about 48 hours and one at around day 10 offering a specific slot. No discounting, no pressure — just a clear, easy yes.
+
+**Q: Should I lower my price if they go quiet?**
+A: No. Discounting to chase silence trains customers to wait you out and eats the margin on the job. Fix speed, clarity, and proof first — those recover more quotes than a price cut.
+
+---
+## The Contractor Marketing Calendar: What to Do Every Month
+URL: https://booked-job.com/blog/contractor-marketing-calendar/
+
+**Short answer:** Marketing fails for contractors because it's done in panic bursts when the schedule goes quiet. This is the boring version that works: a weekly habit, a monthly habit, and one seasonal push — all of it under three hours a month.
+
+### The weekly 20 minutes
+*Reviews, photos, and every unanswered lead.*
+Ask this week's customers for a review, post two job photos to your Google Business Profile, and clear every unreturned call and message. That's it. Reviews are the compounding asset — the shops in the map pack carry about 519 (HVAC) and 337 (plumbers) — and 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026).
+
+### The monthly hour
+*Check the numbers, email the list, fix one page.*
+Add up spend and jobs booked per channel and kill whatever costs more than your best channel (Google LSA runs ~$168 per booked job vs ~$542 on Angi). Send one email to past customers. Fix one thing on your site — around 98% of contractor-website visitors leave without contacting anyone (WebFX 2026), and it's usually the phone number, the load time, or the missing proof.
+
+### Spring: capacity season
+*Demand comes to you — protect the phone.*
+March through June you don't need more leads, you need to not lose the ones arriving. The average shop misses 14% of calls (CallRail 2026) and 78% of homeowners hire whoever responds first (Lead Connect 2026). Staff the phone, shorten quote turnaround, and bank reviews while volume is high — you'll live off them in January.
+
+### Summer and fall: harvest and pre-book
+*Turn peak volume into next season's schedule.*
+Peak season is when your review count should climb fastest — every completed job is an ask. Fall is for pre-booking: email past customers about seasonal service before the first cold snap, and get maintenance work on the calendar while they're thinking about it.
+
+### Winter: the slow-month plan
+*Work the list you already own.*
+Slow months are for the free channels: past-customer emails, referral asks, finishing the Google profile, and building the pages you never had time to write. Don't panic-buy shared leads in January — that's exactly when the ~$542-per-booked-job math hurts most. See surviving the slow season.
+
+### Do this before you add anything
+*The order matters more than the effort.*
+Owned channels first (profile, reviews, past customers), then speed to lead, then your website, then paid. Adding an ad budget on top of a broken phone process is how contractors conclude "marketing doesn't work." The full order of operations: start here.
+
+### FAQ
+**Q: How much time should a contractor spend on marketing each month?**
+A: About three hours, spent on the same things every month: 20 minutes weekly on reviews, job photos, and unanswered leads, plus one monthly hour to check cost per booked job, email past customers, and fix one thing on your website.
+
+**Q: What should contractors do in the slow season?**
+A: Work the channels you already own — past-customer emails, referral asks, completing your Google Business Profile, and writing the pages you never had time for. Panic-buying shared leads in a slow month is where the ~$542-per-booked-job math hurts most vs ~$168 on Google LSA.
+
+**Q: When should I ask for reviews?**
+A: Every week, at the end of every completed job, while it's fresh. Volume is the whole game — map-pack shops carry roughly 519 reviews (HVAC) and 337 (plumbers), and 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026).
+
+---

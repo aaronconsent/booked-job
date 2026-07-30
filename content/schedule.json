@@ -396,13 +396,15 @@
       "slug": "why-customers-ghost-after-an-estimate",
       "series": "Marketing 101",
       "go_live": "2026-07-30",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-30"
     },
     {
       "slug": "contractor-marketing-calendar",
       "series": "Marketing 101",
       "go_live": "2026-07-30",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-30"
     },
     {
       "slug": "missed-call-text-back-for-contractors",

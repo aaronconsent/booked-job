@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "daily": [
     {
       "id": "fb-share",
@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @christofear.bsky.social: “Highly recommend having a roommate who’s a general contractor. Helped me get my drill unst…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/christofear.bsky.social/post/3mrtembsmhs2p",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @seoontop.bsky.social: “Need a trusted Nassau County electrician? Discover why professional electrical services ar…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @refigman.bsky.social: “As a small business owner, white male, a college education, skilled in the trades, more th…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @lordboise.bsky.social: “Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualifie…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @jacobchappellai.bsky.social: “contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a w…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @tboyblues.bsky.social: “1) AI summaries are not legitimate sources  2) general dynamics is an american defence con…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/tboyblues.bsky.social/post/3mrsnnmfet22k",
       "est": "2 min"
     },
     {
