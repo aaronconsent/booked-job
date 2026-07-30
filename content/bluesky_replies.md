@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
+
+ https://stylelib.org/?p=877700 
+
+#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
+  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
 
 https://www.barnardhq.com/blog/content-marketing-for-skill
@@ -185,13 +195,3 @@ Me: I was home all day but you say it was undeliverable.
 UPS: if undeliverable we drop off at nearest processing service (aka USPS)
 M
   → https://bsky.app/profile/castawayfarmtoo.bsky.social/post/3mre4a65frs26
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f
-
-- **@stylelib.org**: Blue Collar – Handyman HTML Template
-
- https://stylelib.org/?p=285473 
-
-#electrician #handyman #mechanic #painter #renovation #sitetemplates #themeforest #business #plumber #corporate #contractor #con
-  → https://bsky.app/profile/stylelib.org/post/3mq5w4zwsle2x
