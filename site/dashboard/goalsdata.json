@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T12:07",
+  "generated": "2026-07-31T13:56",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 23,
+        "current": 25,
         "target": 22,
         "status": "green",
         "needs": null
@@ -33,7 +33,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 1,
+        "current": 2,
         "target": 1,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 109,
+        "current": 111,
         "target": 150,
         "status": "green",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 13,
+        "current": 14,
         "target": 7,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 44,
+        "current": 46,
         "target": 600,
         "status": "red",
         "needs": null
@@ -157,7 +157,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 5,
+        "current": 6,
         "target": 30,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 14,
+        "current": 16,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -216,16 +216,16 @@
   },
   "queues": {
     "fb_ig_posts": 24,
-    "reels": 3,
+    "reels": 2,
     "staged_articles": 4
   },
   "counters": {
     "articles": 137,
-    "reels": 48,
-    "social_posts": 1000,
+    "reels": 49,
+    "social_posts": 1002,
     "followers": 69,
     "engagement": 2,
-    "yt_views": 1162,
+    "yt_views": 1164,
     "yt_shorts": 33,
     "email_subs": 7,
     "traffic": 0
@@ -234,7 +234,7 @@
   "prompts": [
     {
       "title": "\ud83c\udfac Reels queue low",
-      "why": "Only 3 reels queued (need ~7/week).",
+      "why": "Only 2 reels queued (need ~7/week).",
       "prompt": "Cut more vertical clips from the podcast and course and add them to the reels queue."
     },
     {

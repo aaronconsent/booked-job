@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@queenofthesouth.bsky.social**: There were also a lot of employees working in the trades. Do you think universities that house and employ thousands don’t require plumbers? I wish this skilled trade vs academia debate would end immed
+  → https://bsky.app/profile/queenofthesouth.bsky.social/post/3mrxhryia3s24
+
+- **@ben.tootblan.com**: is there a roster moves account but only for noteworthy trades so I can go about my business and turn notifications on?
+  → https://bsky.app/profile/ben.tootblan.com/post/3mrxkzce7w22y
+
+- **@holiday-girl-1225.bsky.social**: When they're older..
+
+Will it go by profession? 
+
+Monster general contractor....
+  → https://bsky.app/profile/holiday-girl-1225.bsky.social/post/3mrnqyba7qc2e
+
+- **@capitalcityroofing.bsky.social**: The team adjusted in about 90 days. Some of it was uncomfortable. All of it was necessary. The business ran better when I did less of the work and more of the design. Three days. https://go.business41
+  → https://bsky.app/profile/capitalcityroofing.bsky.social/post/3mrka3bliik2v
+
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
 
@@ -168,25 +184,3 @@ Come with questions, make new connections, and discover where a career in the #S
 
 #builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
   → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
-
-- **@coloradolocksmith.bsky.social**: Need a dependable Full Service Locksmith in Colorado Springs?
-
-🔐 Home Locks
-🚗 Car Keys
-🏢 Business Security
-⚡ Emergency Lockouts
-
-Fast response. Professional service. Local experts.
-
-📞 719-344-9797
-🌐 c
-  → https://bsky.app/profile/coloradolocksmith.bsky.social/post/3mrpery2h3s26
-
-- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
-  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
