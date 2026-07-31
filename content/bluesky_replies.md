@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Renovar – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=639287 
+
+#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
+  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -174,10 +181,3 @@ add in if you own your own business? easily pulling down $150-$200k
 
 - **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
   → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
-
-- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=846637 
-
-#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
-  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
