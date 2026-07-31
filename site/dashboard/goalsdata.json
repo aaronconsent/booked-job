@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T03:13",
+  "generated": "2026-07-31T06:41",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 4,
+        "current": 12,
         "target": 22,
         "status": "red",
         "needs": null
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       },
       {
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 90,
+        "current": 98,
         "target": 150,
         "status": "yellow",
         "needs": null
@@ -85,7 +85,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 12,
+        "current": 13,
         "target": 7,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 25,
+        "current": 33,
         "target": 600,
         "status": "red",
         "needs": null
@@ -157,7 +157,7 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 4,
+        "current": 5,
         "target": 30,
         "status": "green",
         "needs": null
@@ -215,14 +215,14 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 25,
-    "reels": 4,
+    "fb_ig_posts": 24,
+    "reels": 3,
     "staged_articles": 4
   },
   "counters": {
     "articles": 137,
-    "reels": 47,
-    "social_posts": 981,
+    "reels": 48,
+    "social_posts": 989,
     "followers": 69,
     "engagement": 4,
     "yt_views": 1162,
@@ -234,7 +234,7 @@
   "prompts": [
     {
       "title": "\ud83c\udfac Reels queue low",
-      "why": "Only 4 reels queued (need ~7/week).",
+      "why": "Only 3 reels queued (need ~7/week).",
       "prompt": "Cut more vertical clips from the podcast and course and add them to the reels queue."
     },
     {

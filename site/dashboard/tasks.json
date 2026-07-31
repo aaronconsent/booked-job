@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @writergeek.bsky.social: “It'll be lower level hospitality, care work, driving jobs. Maybe plumbing and electrics, b…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/writergeek.bsky.social/post/3mrwc4iqeml24",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @camasonian.bsky.social: “I believe the farm is being rented to an Amish family since the other cousins didn't want …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/camasonian.bsky.social/post/3mrw23fql7k2d",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @sdenaro.mastodon.social.ap.brid.gy: “The datacenter boom is boosting the wages in the trades as well.  https://www.nytimes.com/…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @incredibletownswnc.bsky.social: “Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offe…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Drill – Handyman  Plumber Services WordPress Theme   https://stylelib.org/?p=877700   #ele…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @collinwoodard.bsky.social: “oh so being a moderately successful car blogger isn't \"typical\"???…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n",
       "est": "2 min"
     },
     {
