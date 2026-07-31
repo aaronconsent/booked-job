@@ -6,12 +6,13 @@
       "card-reviews",
       "card-rev-plumb",
       "card-rev-roof",
-      "card-rev-elec"
+      "card-rev-elec",
+      "card-rev-paint"
     ],
-    "last_iso": "2026-07-31T09:41:43",
+    "last_iso": "2026-07-31T12:04:20",
     "day": {
       "date": "2026-07-31",
-      "count": 1
+      "count": 2
     }
   },
   "ig": {
