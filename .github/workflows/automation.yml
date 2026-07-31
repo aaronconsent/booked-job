@@ -31,7 +31,7 @@ jobs:
 
       - name: Install deps + fonts (map macOS font paths -> free Linux fonts)
         run: |
-          pip install --quiet Pillow
+          pip install --quiet Pillow cryptography   # cryptography: GSC service-account JWT (gsc_stats.py)
           sudo apt-get update -qq && sudo apt-get install -y -qq fonts-liberation fonts-dejavu ffmpeg
           sudo mkdir -p "/System/Library/Fonts/Supplemental"
           sudo curl -fsSL -o "/System/Library/Fonts/Supplemental/Impact.ttf" \
@@ -48,8 +48,10 @@ jobs:
       - name: Recreate secret env files
         env:
           ENV_APIFY: ${{ secrets.ENV_APIFY }}
+          ENV_BING: ${{ secrets.ENV_BING }}
           ENV_BLOGGER: ${{ secrets.ENV_BLOGGER }}
           ENV_BLUESKY: ${{ secrets.ENV_BLUESKY }}
+          ENV_GSC_JSON: ${{ secrets.ENV_GSC_JSON }}
           ENV_BUFFER: ${{ secrets.ENV_BUFFER }}
           ENV_CLOUDFLARE: ${{ secrets.ENV_CLOUDFLARE }}
           ENV_ELEVENLABS: ${{ secrets.ENV_ELEVENLABS }}
@@ -72,6 +74,9 @@ jobs:
           mkdir -p secrets
           write() { printf '%s\n' "$2" > "secrets/$1.env"; }
           write apify "$ENV_APIFY";       write blogger "$ENV_BLOGGER";   write bluesky "$ENV_BLUESKY"
+          write bing "$ENV_BING"
+          # GSC is a JSON key, not a .env — write it verbatim only if provided
+          if [ -n "$ENV_GSC_JSON" ]; then printf '%s' "$ENV_GSC_JSON" > secrets/gsc.json; fi
           write buffer "$ENV_BUFFER";     write cloudflare "$ENV_CLOUDFLARE"; write elevenlabs "$ENV_ELEVENLABS"
           write fal "$ENV_FAL";           write fb "$ENV_FB";             write github "$ENV_GITHUB"
           write heygen "$ENV_HEYGEN";     write mastodon "$ENV_MASTODON"; write openai "$ENV_OPENAI"

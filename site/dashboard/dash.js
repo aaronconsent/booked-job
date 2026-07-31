@@ -119,6 +119,25 @@ function renderSignups(d){
     <div style="height:10px;background:#23262b;border-radius:6px;overflow:hidden;margin:8px 0 16px"><div style="height:100%;width:${pct}%;background:linear-gradient(90deg,#FF6A00,#FFD23F)"></div></div>
     <div class="eyebrow" style="font-size:11px;margin-bottom:6px">Top converting pages</div>${top}</div>`;
 }
+function renderSearch(d){
+  const el=$('searchSeo'); if(!el) return;
+  const s=d.search||{};
+  if(!s.configured){
+    el.innerHTML=`<div class="panel"><div class="eyebrow">🔎 Organic search (SEO)</div>
+      <div style="color:#8b9098;font-size:13px;margin-top:6px">Connect Google Search Console + Bing to see real organic clicks, impressions and top queries here. (Creds pending.)</div></div>`;
+    return;
+  }
+  const eng=(name,g)=>{ if(!g||g.error) return `<div class="adrow"><span class="k">${name}</span><span>${g&&g.error?'⚠️ '+g.error:'—'}</span></div>`;
+    return `<div class="adrow"><span class="k">${name}</span><span>${g.clicks||0} clicks · ${g.impressions||0} impr · ${g.ctr||0}% CTR${g.position?' · pos '+g.position:''}</span></div>`; };
+  const allq=[...(((s.google||{}).top_queries)||[]),...(((s.bing||{}).top_queries)||[])]
+    .sort((a,b)=>(b.clicks||0)-(a.clicks||0)).slice(0,8);
+  const q=allq.length?allq.map(x=>`<div class="adrow"><span class="k">${x.query}</span><span>${x.clicks||0} clk · ${x.impressions||0} imp${x.position?' · #'+x.position:''}</span></div>`).join('')
+    :'<div class="adrow"><span class="k">No query data yet (new domain — impressions land first)</span><span>—</span></div>';
+  el.innerHTML=`<div class="panel"><div class="eyebrow">🔎 Organic search (SEO) — last 28 days</div>
+    <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:Anton,sans-serif;font-size:42px;color:#FF6A00">${s.total_clicks||0}</div><div style="color:#8b9098">clicks · ${s.total_impressions||0} impressions</div></div>
+    ${eng('Google',s.google)}${eng('Bing',s.bing)}
+    <div class="eyebrow" style="font-size:11px;margin:12px 0 6px">Top queries</div>${q}</div>`;
+}
 function renderAds(d){
   const a=(d&&d.ads)||null;
   // prominent header badge: ad on/off + total spend, visible on every load
@@ -199,7 +218,7 @@ async function load(){
   try{ rec=await (await fetch('recent.json?'+Date.now())).json(); }catch(e){ rec={posts:[]}; }
   if($('updated')) $('updated').textContent=new Date(d.updated).toLocaleString([],{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
   renderScoreboard(d); renderRunway(d); renderCoverage(d); renderMafia(d); renderFunnel(d); renderGoals(d); renderStrategist(d);
-  renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderSignups(d); renderAgenda(d); renderActivity(cl); renderRecent(rec);
+  renderAgents(d); renderChannels(d); renderQueue(d); renderAds(d); renderSignups(d); renderSearch(d); renderAgenda(d); renderActivity(cl); renderRecent(rec);
 }
 
 function renderRunway(d){

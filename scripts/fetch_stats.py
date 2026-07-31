@@ -35,6 +35,25 @@ def _signup_stats():
         return {"total": 0, "goal": GOAL_SIGNUPS, "pct": 0, "top_sources": []}
 
 
+def _search_stats():
+    """Real organic search traffic for the dashboard: Google (GSC) + Bing (Webmaster).
+    Each returns None when its creds aren't set, so the panel degrades gracefully."""
+    out = {}
+    for name, mod in (("google", "gsc_stats"), ("bing", "bing_search_stats")):
+        try:
+            sys.path.insert(0, HERE); m = __import__(mod)
+            s = m.stats()
+            if s is not None:
+                out[name] = s
+        except Exception as e:
+            out[name] = {"error": str(e)[:120]}
+    tot_c = sum(v.get("clicks", 0) for v in out.values() if isinstance(v, dict) and "clicks" in v)
+    tot_i = sum(v.get("impressions", 0) for v in out.values() if isinstance(v, dict) and "impressions" in v)
+    out["total_clicks"] = tot_c; out["total_impressions"] = tot_i
+    out["configured"] = any(k in out for k in ("google", "bing"))
+    return out
+
+
 def get(path, params, tok):
     params["access_token"] = tok
     try:
@@ -653,6 +672,7 @@ def main():
         "instagram": ig,
         "email": {"subscribers": email_subs},
         "signups": {**_signup_stats(), "total": email_subs, "pct": round(100 * email_subs / GOAL_SIGNUPS, 1)},
+        "search": _search_stats(),
         "agents": enumerate_agents(),
         "channels": chs,
         "coverage": coverage(),
