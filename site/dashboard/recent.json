@@ -1,64 +1,70 @@
 {
-  "updated": "2026-07-31T06:41",
+  "updated": "2026-07-31T09:45",
   "posts": [
     {
-      "ts": "2026-07-31T06:38:36",
+      "ts": "2026-07-31T09:42:33",
+      "channel": "youtube",
+      "item": "pod-ep02-howmany",
+      "url": "https://youtu.be/jreBenNtgdM"
+    },
+    {
+      "ts": "2026-07-31T09:42:26",
+      "channel": "facebook",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-07-31T09:42:22",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-07-31T09:41:47",
       "channel": "mastodon",
-      "item": "missed-call-text-back-for-contractors",
-      "url": "https://mastodon.social/@bookedjob/117014391426852363"
+      "item": "card-rev-elec",
+      "url": null
     },
     {
-      "ts": "2026-07-31T06:38:33",
+      "ts": "2026-07-31T09:41:34",
+      "channel": "mastodon",
+      "item": "service-area-pages-for-contractors",
+      "url": "https://mastodon.social/@bookedjob/117015110911433268"
+    },
+    {
+      "ts": "2026-07-31T09:41:32",
       "channel": "telegraph",
-      "item": "missed-call-text-back-for-contractors",
-      "url": "https://telegra.ph/Missed-Call-Text-Back-The-Cheapest-Fix-in-Contractor-Marketing-07-31"
+      "item": "service-area-pages-for-contractors",
+      "url": "https://telegra.ph/Service-Area-Pages-How-to-Rank-in-the-Towns-You-Drive-To-07-31"
     },
     {
-      "ts": "2026-07-31T06:38:33",
+      "ts": "2026-07-31T09:41:31",
       "channel": "tumblr",
-      "item": "missed-call-text-back-for-contractors",
+      "item": "service-area-pages-for-contractors",
       "url": null
     },
     {
-      "ts": "2026-07-31T06:38:30",
+      "ts": "2026-07-31T09:41:29",
       "channel": "tumblr",
-      "item": "pod-ep01-wrongnum",
-      "url": null
-    },
-    {
-      "ts": "2026-07-31T06:38:28",
-      "channel": "bluesky",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-07-31T06:38:25",
-      "channel": "linkedin",
-      "item": "bj-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-07-31T06:38:24",
-      "channel": "tiktok",
       "item": "pod-ep01-shared",
       "url": null
     },
     {
-      "ts": "2026-07-31T06:38:23",
-      "channel": "ig",
-      "item": "bj-reviews50",
+      "ts": "2026-07-31T09:41:28",
+      "channel": "bluesky",
+      "item": "bj-rev-hvac",
       "url": null
     },
     {
-      "ts": "2026-07-31T06:37:33",
-      "channel": "facebook",
-      "item": "pod-ep01-verdict",
+      "ts": "2026-07-31T09:41:26",
+      "channel": "linkedin",
+      "item": "bj-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-07-31T06:35:24",
-      "channel": "fb",
-      "item": "first-to-answer",
+      "ts": "2026-07-31T09:41:25",
+      "channel": "tiktok",
+      "item": "bj-angi",
       "url": null
     }
   ]

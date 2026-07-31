@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
+
+Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
+  → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
+
 - **@writergeek.bsky.social**: It'll be lower level hospitality, care work, driving jobs. Maybe plumbing and electrics, but with plummeting wages, how will we afford to do house upgrades? We'll simply have an oversupply of skilled 
   → https://bsky.app/profile/writergeek.bsky.social/post/3mrwc4iqeml24
 
@@ -185,10 +190,3 @@ Fast response. Professional service. Local experts.
 
 - **@capitalcityroofing.bsky.social**: The team adjusted in about 90 days. Some of it was uncomfortable. All of it was necessary. The business ran better when I did less of the work and more of the design. Three days. https://go.business41
   → https://bsky.app/profile/capitalcityroofing.bsky.social/post/3mrka3bliik2v
-
-- **@clovermore.bsky.social**: Are they..insulting skilled trades?
-
-I know people from almost every trade... And they're all intelligent. And skilled trades make good money.
-
-But also, that should be something the children should w
-  → https://bsky.app/profile/clovermore.bsky.social/post/3mroagxgnpk2c

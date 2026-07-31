@@ -1,19 +1,20 @@
 {
   "done": [
-    "low-bid",
+    "pod-ep03-verdict",
+    "stop-renting-leads",
     "pod-ep03-exclusive",
-    "pod-ep03-lie",
-    "pod-ep02-fake",
     "pod-ep02-peak",
+    "pod-ep02-onetap",
+    "pod-ep02-howmany",
+    "money-leaks",
+    "pod-ep03-lie",
+    "low-bid",
     "pod-ep03-channels",
     "pod-ep03-track",
-    "is-angi-worth-it",
-    "stop-renting-leads",
     "pod-ep03-trap",
-    "money-leaks",
-    "pod-ep02-onetap",
     "pod-ep02-system",
-    "pod-ep03-verdict"
+    "is-angi-worth-it",
+    "pod-ep02-fake"
   ],
-  "last_iso": "2026-07-29T10:30:14"
+  "last_iso": "2026-07-31T09:42:31"
 }
