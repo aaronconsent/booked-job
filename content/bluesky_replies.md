@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
+  → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
+- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
+
+- **@coloradolocksmith.bsky.social**: Need a dependable Full Service Locksmith in Colorado Springs?
+
+🔐 Home Locks
+🚗 Car Keys
+🏢 Business Security
+⚡ Emergency Lockouts
+
+Fast response. Professional service. Local experts.
+
+📞 719-344-9797
+🌐 c
+  → https://bsky.app/profile/coloradolocksmith.bsky.social/post/3mrpery2h3s26
+
 - **@queenofthesouth.bsky.social**: There were also a lot of employees working in the trades. Do you think universities that house and employ thousands don’t require plumbers? I wish this skilled trade vs academia debate would end immed
   → https://bsky.app/profile/queenofthesouth.bsky.social/post/3mrxhryia3s24
 
@@ -159,28 +181,3 @@ add in if you own your own business? easily pulling down $150-$200k
 
 #building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
   → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mrpavan7o32z
-
-- **@fritzbischoff.bsky.social**: We need genuinely rewarding career paths, decent pay, and the social respect that should come with skilled trades.
-
-In the UK, almost anyone w/o two left hands can set themselves up as an electrician 
-  → https://bsky.app/profile/fritzbischoff.bsky.social/post/3mrpudru5b22b
-
-- **@apprenticesearch.bsky.social**: Curious about a career in the skilled trades?
-
-Come with questions, make new connections, and discover where a career in the #SkilledTrades could take you.
-
-📅 Aug. 19 | 10 AM–2 PM
-📍 Burlington
-🎟️ FREE
-  → https://bsky.app/profile/apprenticesearch.bsky.social/post/3mrpnqe2eos2t
-
-- **@stylelib.org**: Renovar – Construction Company WordPress Theme
-
- https://stylelib.org/?p=639287 
-
-#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
-  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
