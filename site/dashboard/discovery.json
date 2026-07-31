@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:15:50Z",
+  "updated": "2026-07-31T00:12:55Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 3,
+        "uses": 2,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -102,19 +102,9 @@
         "link": "https://mastodon.social/tags/HandymanExpert"
       },
       {
-        "tag": "#hvac",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
         "tag": "#HVACUAE",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACUAE"
-      },
-      {
-        "tag": "#PlumbingProverbs",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingProverbs"
       },
       {
         "tag": "#roofing",
@@ -132,9 +122,19 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
+        "tag": "#hvac",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#HVACsystem",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACsystem"
+      },
+      {
+        "tag": "#HVACTheft",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACTheft"
       }
     ],
     "accounts": [
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3970,
+      "followers": 3972,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3554,
+      "followers": 3555,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
