@@ -410,13 +410,15 @@
       "slug": "missed-call-text-back-for-contractors",
       "series": "Speed to Lead",
       "go_live": "2026-07-31",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-31"
     },
     {
       "slug": "service-area-pages-for-contractors",
       "series": "Local SEO",
       "go_live": "2026-07-31",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-07-31"
     },
     {
       "slug": "how-much-should-a-contractor-website-cost",

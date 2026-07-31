@@ -2029,3 +2029,83 @@ A: Work the channels you already own — past-customer emails, referral asks, co
 A: Every week, at the end of every completed job, while it's fresh. Volume is the whole game — map-pack shops carry roughly 519 reviews (HVAC) and 337 (plumbers), and 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026).
 
 ---
+## Missed Call Text Back: The Cheapest Fix in Contractor Marketing
+URL: https://booked-job.com/blog/missed-call-text-back-for-contractors/
+
+**Short answer:** The average shop misses 14% of its calls, and a homeowner with a leak does not leave a voicemail — they dial the next number. An automatic text sent the second you miss the call puts you back in the conversation before your competitor picks up. It costs a few dollars a month and recovers jobs you already paid to generate.
+
+### You already paid for the call you just missed
+*A missed call is a lead you bought and threw away.*
+Every ringing phone cost something to create — an ad, a review, a profile, a referral you earned. A booked job runs ~$542 through Angi versus ~$168 through Google Local Service Ads, and the average shop still misses 14% of its calls (CallRail 2026). That's not a phone problem, it's a budget problem: you're paying full price for leads and dropping one in seven on the floor. More on the size of it: what missed calls actually cost.
+
+### Homeowners don't leave voicemails anymore
+*They hang up and dial the next contractor.*
+Someone standing in two inches of water is not composing a message. 78% of homeowners hire whoever responds first (Lead Connect 2026), which means the winner of that job is usually decided in the next four minutes, without you. Voicemail is a system designed for a customer who no longer exists.
+
+### What missed call text back actually is
+*An automatic text fires the instant a call goes unanswered.*
+It's a setting, not a project. When a call rings out, your phone system sends the caller a text immediately — before they've finished dialing the next shop. Most VoIP providers, answering services, and contractor CRMs include it; standalone versions run a few dollars a month. If you do one thing to your marketing this month, do this one.
+
+### What the text should say
+*Name the shop, apologize once, ask one question.*
+Three lines, no marketing voice: "This is Mike at Smith Heating & Air — sorry we missed you, we're on a job. What's going on and what's your address? I'll get you on the schedule." Naming the business stops it reading as spam, the apology buys ten seconds of patience, and one question gets them typing instead of dialing. Don't send a link. Don't send a form. Ask a question a person answers with their thumbs.
+
+### Speed is the whole product
+*Instant beats good; five minutes beats thirty.*
+The text has to fire in seconds, not after a five-minute delay someone helpfully configured. Replying in 5 minutes rather than 30 makes you up to 100x more likely to connect (MIT Sloan 2026), and an automatic text is the only way to hit that number while you're under a house. Then answer the reply like it's on fire — see why five minutes matters.
+
+### Fix the phone before you raise the budget
+*Ad spend on a broken phone is just faster waste.*
+Doubling your ad budget while missing 14% of calls buys you more missed calls. The order of operations never changes: answer the phone, then earn reviews, then fix the website, then spend. 98% of contractor-website visitors leave without calling (WebFX 2026) — the few who do call are the entire return on everything else you're paying for. Run your own number: the missed call revenue calculator.
+
+### FAQ
+**Q: What is missed call text back?**
+A: An automatic text message sent to a caller the moment their call goes unanswered, usually built into your VoIP system or contractor CRM. It puts you back in the conversation within seconds, which matters because 78% of homeowners hire whoever responds first (Lead Connect 2026).
+
+**Q: Do missed call text backs actually work for contractors?**
+A: They recover leads you already paid to generate. The average shop misses 14% of its calls (CallRail 2026), homeowners with an urgent problem rarely leave voicemails, and replying in 5 minutes instead of 30 makes you up to 100x more likely to connect (MIT Sloan 2026).
+
+**Q: What should a missed call auto-text say?**
+A: Name your business, apologize in one line, and ask one question: what's going on and what's the address. Keep it under three lines, skip links and forms, and make sure it fires in seconds rather than minutes.
+
+---
+## Service Area Pages: How to Rank in the Towns You Drive To
+URL: https://booked-job.com/blog/service-area-pages-for-contractors/
+
+**Short answer:** You rank near where you sit, not everywhere you drive. Setting a 60-mile radius on your Google profile doesn't extend you — it dilutes you. What actually wins the next town over is a real page about real work you did there, backed by reviews that say the town's name.
+
+### Proximity is real, and a wide radius doesn't beat it
+*You rank near your address, not across your whole service area.*
+The most common contractor mistake in local SEO is setting the service radius to everywhere the truck can reach and waiting. Distance from the searcher is a genuine ranking factor, so a 60-mile radius doesn't buy reach — it just spreads thin proof across a lot of towns. If you're invisible in your own town first, start here instead: why you're not showing up on Google Maps.
+
+### What a real service area page looks like
+*One town, real jobs, real photos, real names.*
+A page that ranks for "plumber in Willis" talks about Willis: the neighborhoods you work, the jobs you've done there, photos from those jobs, the response time from your shop, and reviews from customers in that town. It reads like a contractor wrote it about a place they actually go. Two hundred words of that beat two thousand words of filler.
+
+### The doorway-page trap
+*Fifty copies with the city swapped is a penalty waiting to happen.*
+The templated approach — one page duplicated across every town in the county with find-and-replace on the city name — is the thing search engines have spent twenty years learning to ignore. It doesn't just fail to rank; a pile of thin near-duplicate pages drags on the site that hosts it. Build three towns properly instead of thirty badly.
+
+### Reviews are how you actually claim a town
+*A review that names the town is a ranking signal and a sales asset.*
+Nothing tells a search engine you work in a place like customers from that place saying so. Map-pack shops carry roughly 519 reviews (HVAC) and 337 (plumbers), and 91% of homeowners won't consider a shop under 4 stars (BrightLocal 2026). When you finish a job out of town, ask for that review the same day and let the customer mention where they live naturally. Systemize it: the one-tap review system.
+
+### Build them in order of profit, not alphabetically
+*Start with the towns you'd actually drive to for a good job.*
+Rank the towns by what a job there is worth after the drive. Build the top three pages, earn reviews there, and only then add the fourth. A service area page for a town you'd resent driving to is a page you'll never support with real jobs or real proof — and unsupported pages don't rank.
+
+### Then answer the phone the page earns
+*Out-of-town leads are the easiest ones to lose.*
+A homeowner two towns over is calling three shops, not one. 78% of homeowners hire whoever responds first (Lead Connect 2026), 5 minutes beats 30 by up to 100x (MIT Sloan 2026), and the average shop misses 14% of its calls (CallRail 2026). Ranking in a new town and missing its calls is the most expensive way to do local SEO.
+
+### FAQ
+**Q: Do service area pages actually work for contractors?**
+A: Real ones do. A page about one town — with jobs you did there, photos, and reviews from local customers — can rank. Fifty templated copies with the city name swapped generally don't, and a pile of thin near-duplicate pages can hold back the rest of your site.
+
+**Q: How do I rank in a town I'm not located in?**
+A: Build genuine proof for it: a substantive page about your work in that town, job photos, and reviews from customers who live there. Proximity to the searcher is a real ranking factor, so you're overcoming distance with evidence — which is why review volume matters (map-pack shops carry roughly 519 reviews for HVAC, 337 for plumbers).
+
+**Q: Should I set a big service area radius on my Google Business Profile?**
+A: No. Set the areas you genuinely work. An oversized radius doesn't extend your reach, it spreads thin proof across many towns — and you still rank primarily near where you're based.
+
+---

@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@writergeek.bsky.social**: It'll be lower level hospitality, care work, driving jobs. Maybe plumbing and electrics, but with plummeting wages, how will we afford to do house upgrades? We'll simply have an oversupply of skilled 
+  → https://bsky.app/profile/writergeek.bsky.social/post/3mrwc4iqeml24
+
 - **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
 
 Are any of them farmers?
@@ -189,6 +192,3 @@ I know people from almost every trade... And they're all intelligent. And skille
 
 But also, that should be something the children should w
   → https://bsky.app/profile/clovermore.bsky.social/post/3mroagxgnpk2c
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
