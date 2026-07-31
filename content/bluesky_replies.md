@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
+
+Are any of them farmers?
+  → https://bsky.app/profile/camasonian.bsky.social/post/3mrw23fql7k2d
+
+- **@sdenaro.mastodon.social.ap.brid.gy**: The datacenter boom is boosting the wages in the trades as well.
+
+https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?unlocked_article_code=1.11A.MpEr.zy6zFl3cAO
+  → https://bsky.app/profile/sdenaro.mastodon.social.ap.brid.gy/post/3mrvv5xj5iqh2
+
 - **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f
 
@@ -182,13 +192,3 @@ But also, that should be something the children should w
 
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@holiday-girl-1225.bsky.social**: When they're older..
-
-Will it go by profession? 
-
-Monster general contractor....
-  → https://bsky.app/profile/holiday-girl-1225.bsky.social/post/3mrnqyba7qc2e
-
-- **@proofsignal.bsky.social**: Apple Maps just banned home services ads. Plumbing, HVAC, electrical, roofing, locksmiths — all out. No auction. No paid top spot. Apple's trust data now decides who shows up for half of US phone user
-  → https://bsky.app/profile/proofsignal.bsky.social/post/3mquq7jjptc2d
