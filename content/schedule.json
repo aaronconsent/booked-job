@@ -424,13 +424,15 @@
       "slug": "how-much-should-a-contractor-website-cost",
       "series": "Marketing 101",
       "go_live": "2026-08-01",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-08-01"
     },
     {
       "slug": "crm-for-contractors-do-you-need-one",
       "series": "Marketing 101",
       "go_live": "2026-08-01",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-08-01"
     },
     {
       "slug": "water-damage-restoration-marketing",

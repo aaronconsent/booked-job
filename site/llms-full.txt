@@ -2109,3 +2109,83 @@ A: Build genuine proof for it: a substantive page about your work in that town, 
 A: No. Set the areas you genuinely work. An oversized radius doesn't extend your reach, it spreads thin proof across many towns — and you still rank primarily near where you're based.
 
 ---
+## How Much Should a Contractor Website Cost? (Honest Ranges)
+URL: https://booked-job.com/blog/how-much-should-a-contractor-website-cost/
+
+**Short answer:** There's no right price, only a right test: does the site book jobs for less than your other channels? Most contractors overpay for design and underpay for the four things that actually convert. Here's what's worth money, what isn't, and how to know within ninety days.
+
+### Price the site the way you price everything else
+*Cost per booked job, not cost per page.*
+A website isn't a purchase, it's a channel — and every channel in this shop gets the same test: what does a booked job cost? A booked job runs ~$542 through Angi and ~$168 through Google Local Service Ads. If your site pays for itself in booked work inside a year, the price was right. If it doesn't, no amount of beautiful was worth it. Run it: cost per booked job calculator.
+
+### What you're actually buying
+*Four things convert; the rest is decoration.*
+A phone number visible without scrolling. Proof on the first screen — reviews, real job photos, the trades you actually do. A page that loads fast on a phone in a truck. And a form that reaches somebody in minutes. 98% of contractor-website visitors leave without calling (WebFX 2026); those four items are the whole fight for the other 2%. The longer version: why your site isn't converting.
+
+### What's worth paying for
+*Speed, mobile, proof, and someone who'll change it next year.*
+Pay for a site that loads fast, works one-handed on a phone, puts your proof up front, and can be edited without an invoice every time your hours change. Pay for real photos of your own trucks and crews. That's a real budget, and it's usually a lot less than what gets quoted.
+
+### What's pure markup
+*Custom animation, stock photos, and monthly fees for nothing.*
+Sliders, parallax, and a video header don't book jobs — they slow down the phone in the truck. Neither do stock photos of models in clean hard hats; homeowners can spot them, and they undercut the proof you're paying to build. Watch for a monthly "maintenance" fee attached to a site nobody touches, and for the hosting markup game: what the markup looks like.
+
+### Own the site, whoever builds it
+*Your domain, your hosting, your logins — always.*
+The single most expensive mistake isn't the build price, it's discovering the agency owns your domain, your hosting, and your Google profile. Get admin access to everything in writing before the first payment. If that's a problem for them, it's the answer: when an agency won't share access.
+
+### The 90-day test
+*Count booked jobs, then decide.*
+Put a tracking number on it, ask every caller how they found you, and at ninety days divide what you spent by the jobs it booked. Under your best channel — keep going. Over — the problem is the site, not the budget. And make sure it isn't the phone: the average shop misses 14% of its calls (CallRail 2026), which makes a perfectly good website look like a bad one.
+
+### FAQ
+**Q: How much should a contractor website cost?**
+A: There's no universal number — judge it on cost per booked job like any other channel. A booked job runs about $542 via Angi and about $168 via Google Local Service Ads; if the site books work under that inside a year, it was priced right.
+
+**Q: What makes a contractor website actually convert?**
+A: Four things: a phone number visible without scrolling, proof (reviews and real job photos) on the first screen, fast loading on a phone, and a form that reaches a human in minutes. 98% of visitors leave without calling (WebFX 2026), so everything else is decoration.
+
+**Q: Should I pay a monthly fee for my contractor website?**
+A: Only for something you actually receive — hosting, real edits, real reporting. Be sure you own the domain, the hosting account, and every login before you pay anything; agencies holding those hostage is the most expensive website problem there is.
+
+---
+## Do Contractors Need a CRM? The Honest Answer
+URL: https://booked-job.com/blog/crm-for-contractors-do-you-need-one/
+
+**Short answer:** Most contractors don't lose jobs because they lack software. They lose them because a lead sat unanswered for four hours and an estimate never got followed up. A CRM is worth paying for the day it fixes those two things — and not one day sooner.
+
+### The real question isn't features, it's leaks
+*Buy software to plug a specific leak you can name.*
+Every CRM demo shows you scheduling, dispatch, invoicing, and a dashboard. None of that is why a shop's revenue is short. The leaks are almost always the same two: leads that sat too long, and estimates nobody chased. If a tool fixes those, it's cheap at almost any price. If it doesn't, it's a monthly fee for a prettier version of the problem.
+
+### Leak one: response time
+*Speed is the single highest-value thing to automate.*
+78% of homeowners hire whoever responds first (Lead Connect 2026), and replying in 5 minutes rather than 30 makes you up to 100x more likely to connect (MIT Sloan 2026). Meanwhile the average shop misses 14% of its calls (CallRail 2026). The first thing any CRM has to do is get a text or a call back out in minutes without a human remembering — see missed call text back.
+
+### Leak two: the estimate nobody followed up
+*Most quotes die of silence, not price.*
+Sent quotes are the warmest pipeline a contractor has and the most neglected. A tool that automatically nudges every open estimate at day two and day seven pays for itself in one job, because it's chasing work you already did the site visit for. Why they go quiet: why customers ghost after an estimate.
+
+### When a spreadsheet is genuinely enough
+*One truck, one phone, and a habit that holds.*
+If you're a one-truck shop and you personally answer every call, a shared sheet with name, job, date quoted, and next-touch date works fine. The system that matters is the habit, not the software. Software becomes necessary when leads arrive faster than one person can hold in their head — usually the second truck, or the first office hire.
+
+### It also owns the cheapest list you have
+*Past customers are jobs you already paid for.*
+A CRM's quietest value is remembering every customer you've invoiced, so you can email them a year later. You paid up to ~$542 per booked job through Angi (~$168 via Google LSA) to acquire those names — re-reaching them costs nothing. See email marketing for contractors.
+
+### How to buy one without regret
+*Name the two numbers you expect it to move first.*
+Before the trial, write down your current response time and your estimate follow-up rate. Trial one tool for thirty days and check both. If neither moved, the tool didn't fail — the process did, and a second tool won't fix it. Same test as every other line in the budget: evaluate any marketing with simple math.
+
+### FAQ
+**Q: Do contractors really need a CRM?**
+A: Only if it plugs a leak you can name — usually slow lead response or un-chased estimates. A one-truck shop where the owner answers every call can run on a spreadsheet; the need shows up when leads arrive faster than one person can track.
+
+**Q: What should a contractor CRM actually do?**
+A: Get a reply out in minutes (78% of homeowners hire whoever responds first, Lead Connect 2026), automatically follow up open estimates, and keep every past customer reachable. Scheduling and invoicing are conveniences; those three are the revenue.
+
+**Q: Is a spreadsheet enough instead of a CRM?**
+A: For a single-truck shop, often yes — name, job, date quoted, and next-touch date will hold the pipeline if the habit holds. The habit is the system; the software just makes it survive a second truck.
+
+---
