@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-08-01T17:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing pick two"
+    },
+    {
+      "ts": "2026-08-01T17:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: biz deposit"
+    },
+    {
+      "ts": "2026-08-01T17:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz slow season"
+    },
+    {
       "ts": "2026-08-01T15:27",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to Telegraph: Email Marketing for Contractors: The Cheapest Repeat Work You Own"
-    },
-    {
-      "ts": "2026-07-29T07:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Tumblr (backlink): Email Marketing for Contractors: The Cheapest Repeat Work You Own"
-    },
-    {
-      "ts": "2026-07-29T07:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Email Marketing for Contractors: The Cheapest Repeat Work You Own"
-    },
-    {
-      "ts": "2026-07-29T07:12",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: The 10mm socket conspiracy"
     }
   ]
 }
