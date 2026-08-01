@@ -2,6 +2,24 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jakepost.tech**: Co-advisor: “So you’re like a general contractor now!?”
+
+Me: “Yeah, but I have all these ouchies and boo-boos now 😭”
+  → https://bsky.app/profile/jakepost.tech/post/3mrzpuc6oi22h
+
+- **@stylelib.org**: Rufers – Renovation Services WordPress Theme
+
+ https://stylelib.org/?p=638897 
+
+#painting #remodeling #renovation #roofing #themeforest #themekalia #wordpress #business #corporate #maintenance #constr
+  → https://bsky.app/profile/stylelib.org/post/3mrpyqu4asj2t
+
+- **@southern-ingenue.bsky.social**: …Texas. I was only able to recently achieve switching to another phone service because I didn’t have to reach anyone during business hours. When I had their WiFi hooked up, I was eating through my dat
+  → https://bsky.app/profile/southern-ingenue.bsky.social/post/3mrqkcrcmz22x
+
+- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
+  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
+
 - **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
   → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
 
@@ -164,27 +182,3 @@ Explore the best AI tools here 👇
 
 - **@mattbegins.bsky.social**: “What?  I hired Little Debbie as my general contractor.  You got a problem with that?”
   → https://bsky.app/profile/mattbegins.bsky.social/post/3mrs7wwfwc22x
-
-- **@btisinc.bsky.social**: Brivado makes it easy to quote contractor GL risks just outside standard appetite.
-
-- Up to $15M gross receipts and $3M payroll  
-- Quote in the General Liability Marketplace
-- Hardest class to place 
-  → https://bsky.app/profile/btisinc.bsky.social/post/3mrsfsdaqwh23
-
-- **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
-
-Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
-  → https://bsky.app/profile/platinumzombie.bsky.social/post/3mrr4jbgobc23
-
-- **@bookish-notes.bsky.social**: one last piece of drama for the road lmao that’s a whole mess. 
-
-they’d rather manually remove over 30k members in a fb group than set it to read only or give it to a new admin team to take over the g
-  → https://bsky.app/profile/bookish-notes.bsky.social/post/3mrqmc2tcsc2t
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
