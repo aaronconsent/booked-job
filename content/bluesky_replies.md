@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
+
+Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
+  → https://bsky.app/profile/platinumzombie.bsky.social/post/3mrr4jbgobc23
+
+- **@stylelib.org**: Plumbing – Plumber and Repair Services Maintenance HTML Template
+
+ https://themes.stylelib.org/?p=22880 
+
+#business #corporate #handyman #maintenance #plumber #repair #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3mrzyezswf622
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
 - **@jakepost.tech**: Co-advisor: “So you’re like a general contractor now!?”
 
 Me: “Yeah, but I have all these ouchies and boo-boos now 😭”
@@ -167,18 +186,3 @@ Websites + AI systems that book
 - **@tboyblues.bsky.social**: 1) AI summaries are not legitimate sources 
 2) general dynamics is an american defence contractor, this is just the canadian subsidiary. its still a US defence contractor who will ultimately profit ev
   → https://bsky.app/profile/tboyblues.bsky.social/post/3mrsnnmfet22k
-
-- **@aitoolstoday.bsky.social**: Still spending hours on paperwork and admin?
-
-AI can help your home service business save time, capture more leads, and improve customer service.
-
-Explore the best AI tools here 👇
-
-🔗 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mqalmsvg3423
-
-- **@carpenter22.bsky.social**: A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands. See "The Trades Are Hiring, Are You Ready?" www.amazon.com/dp/B0HBZD941N www.nytimes.com/2026/07/29/b...
-  → https://bsky.app/profile/carpenter22.bsky.social/post/3mrs2yzmoms2b
-
-- **@mattbegins.bsky.social**: “What?  I hired Little Debbie as my general contractor.  You got a problem with that?”
-  → https://bsky.app/profile/mattbegins.bsky.social/post/3mrs7wwfwc22x
