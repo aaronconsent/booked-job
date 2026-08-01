@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
 - **@stylelib.org**: Renovar – Construction Company WordPress Theme
 
  https://stylelib.org/?p=639287 
@@ -173,11 +183,3 @@ https://www.amazon.com/gp/product/B00125NR8E?smid=ATVPDKIKX0DER&th=1&linkCode
 
 - **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
   → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
-
-- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
-in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
-add in if you own your own business? easily pulling down $150-$200k
-  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
-
-- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
-  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
