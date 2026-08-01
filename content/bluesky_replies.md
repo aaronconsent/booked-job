@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@canmike.bsky.social**: If he admits, as general contractor, he hired an unqualified company for the job, does he need to pay back his contractor fee?
+  → https://bsky.app/profile/canmike.bsky.social/post/3mrygpb6uts2c
+
+- **@jlewisdickerson.bsky.social**: Prosecutors in Jeanine Pirro's office say the government received new evidence indicating that "damage to the Lincoln Memorial Reflecting Pool in June 2026 was the result of flawed installation by the
+  → https://bsky.app/profile/jlewisdickerson.bsky.social/post/3mryjyzr6m22r
+
+- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
+in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
+add in if you own your own business? easily pulling down $150-$200k
+  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
+
+- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
+  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
+
+- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
+
+ https://themes.stylelib.org/?p=32511 
+
+#architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s
+
 - **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
 
@@ -163,23 +184,3 @@ they’d rather manually remove over 30k members in a fb group than set it to re
 
 - **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
   → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
-
-- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mr6bwvshha2k
-
-- **@scottwhitegloves.bsky.social**: We had TekSavvy for both home and business ISP for over a decade, then (gasp!) switch to Bell* because their offers were better and the service (speed especially) was untouchable by Tek, and it wasn't
-  → https://bsky.app/profile/scottwhitegloves.bsky.social/post/3mrfpqiuhf22k
-
-- **@glitchdeals.bsky.social**: 6 Rolls, Scotch Painter's Tape Contractor Grade Masking Tan, General Use, 1.41 Inches x 60.1 Yards only $9.74 (Reg $16.24)
-https://www.amazon.com/gp/product/B00125NR8E?smid=ATVPDKIKX0DER&th=1&linkCode
-  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mrfut6oq2n2r
-
-- **@stylelib.org**: Rufers – Renovation Services WordPress Theme
-
- https://stylelib.org/?p=638897 
-
-#painting #remodeling #renovation #roofing #themeforest #themekalia #wordpress #business #corporate #maintenance #constr
-  → https://bsky.app/profile/stylelib.org/post/3mrpyqu4asj2t
-
-- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
-  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h

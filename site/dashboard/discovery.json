@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T00:09:34Z",
+  "updated": "2026-08-01T04:29:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 34,
+        "uses": 36,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -100,6 +100,11 @@
         "tag": "#HandymanExpert",
         "uses": 2,
         "link": "https://mastodon.social/tags/HandymanExpert"
+      },
+      {
+        "tag": "#hvac",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#HVACUAE",
@@ -125,11 +130,6 @@
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#HVACsystem",
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3978,
+      "followers": 3980,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1545,
+      "followers": 1546,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
