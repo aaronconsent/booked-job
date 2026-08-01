@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:08:17Z",
+  "updated": "2026-08-01T12:09:08Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 36,
+        "uses": 37,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23081,
+        "followers": 23080,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8493,
+        "followers": 8492,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 730,
+        "followers": 731,
         "link": "https://mastodon.social/@Noshir"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9668,
+      "followers": 9671,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },

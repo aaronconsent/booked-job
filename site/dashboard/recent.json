@@ -1,22 +1,64 @@
 {
-  "updated": "2026-08-01T05:12",
+  "updated": "2026-08-01T07:15",
   "posts": [
     {
-      "ts": "2026-08-01T05:09:36",
+      "ts": "2026-08-01T07:12:45",
       "channel": "mastodon",
-      "item": "how-much-should-a-contractor-website-cost",
-      "url": "https://mastodon.social/@bookedjob/117019703799768716"
+      "item": "crm-for-contractors-do-you-need-one",
+      "url": "https://mastodon.social/@bookedjob/117020188031972742"
     },
     {
-      "ts": "2026-08-01T05:09:33",
+      "ts": "2026-08-01T07:12:42",
       "channel": "telegraph",
-      "item": "how-much-should-a-contractor-website-cost",
-      "url": "https://telegra.ph/How-Much-Should-a-Contractor-Website-Cost-Honest-Ranges-08-01"
+      "item": "crm-for-contractors-do-you-need-one",
+      "url": "https://telegra.ph/Do-Contractors-Need-a-CRM-The-Honest-Answer-08-01"
     },
     {
-      "ts": "2026-08-01T05:09:32",
+      "ts": "2026-08-01T07:12:42",
       "channel": "tumblr",
-      "item": "how-much-should-a-contractor-website-cost",
+      "item": "crm-for-contractors-do-you-need-one",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:12:39",
+      "channel": "tumblr",
+      "item": "bj-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:12:37",
+      "channel": "bluesky",
+      "item": "bj-wordpress",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:12:34",
+      "channel": "linkedin",
+      "item": "bj-cheapbid",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:12:33",
+      "channel": "tiktok",
+      "item": "bj-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:12:32",
+      "channel": "ig",
+      "item": "bj-track",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:11:55",
+      "channel": "facebook",
+      "item": "pod-ep01-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T07:10:08",
+      "channel": "fb",
+      "item": "eight-automations",
       "url": null
     }
   ]

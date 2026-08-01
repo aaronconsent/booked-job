@@ -63,12 +63,13 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-07-31T13:53:36",
+    "last_iso": "2026-08-01T07:11:22",
     "day": {
-      "date": "2026-07-31",
-      "count": 2
+      "date": "2026-08-01",
+      "count": 1
     }
   },
   "tiktok": {
@@ -98,12 +99,13 @@
       "bj-trade",
       "bj-slow",
       "bj-cpbj",
-      "bj-speed"
+      "bj-speed",
+      "bj-ftc"
     ],
-    "last_iso": "2026-07-31T19:20:47",
+    "last_iso": "2026-08-01T07:11:22",
     "day": {
-      "date": "2026-07-31",
-      "count": 7
+      "date": "2026-08-01",
+      "count": 1
     }
   },
   "linkedin": {
@@ -144,12 +146,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-07-31T17:25:37",
+    "last_iso": "2026-08-01T07:11:22",
     "day": {
-      "date": "2026-07-31",
-      "count": 4
+      "date": "2026-08-01",
+      "count": 1
     }
   },
   "facebook": {
@@ -168,12 +171,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-07-31T17:25:37",
+    "last_iso": "2026-08-01T07:11:22",
     "day": {
-      "date": "2026-07-31",
-      "count": 3
+      "date": "2026-08-01",
+      "count": 1
     }
   },
   "pinterest": {
@@ -223,12 +227,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-07-31T19:20:47",
+    "last_iso": "2026-08-01T07:11:22",
     "day": {
-      "date": "2026-07-31",
-      "count": 7
+      "date": "2026-08-01",
+      "count": 1
     }
   },
   "telegram": {
@@ -272,12 +277,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-07-31T19:20:47",
+    "last_iso": "2026-08-01T07:11:22",
     "day": {
-      "date": "2026-07-31",
-      "count": 7
+      "date": "2026-08-01",
+      "count": 1
     }
   }
 }
