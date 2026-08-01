@@ -1,64 +1,46 @@
 {
-  "updated": "2026-08-01T07:15",
+  "updated": "2026-08-01T09:54",
   "posts": [
     {
-      "ts": "2026-08-01T07:12:45",
+      "ts": "2026-08-01T09:51:47",
+      "channel": "facebook",
+      "item": "card-rev-paint",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T09:51:44",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-08-01T09:51:11",
       "channel": "mastodon",
-      "item": "crm-for-contractors-do-you-need-one",
-      "url": "https://mastodon.social/@bookedjob/117020188031972742"
+      "item": "card-anon98",
+      "url": null
     },
     {
-      "ts": "2026-08-01T07:12:42",
-      "channel": "telegraph",
-      "item": "crm-for-contractors-do-you-need-one",
-      "url": "https://telegra.ph/Do-Contractors-Need-a-CRM-The-Honest-Answer-08-01"
-    },
-    {
-      "ts": "2026-08-01T07:12:42",
+      "ts": "2026-08-01T09:50:57",
       "channel": "tumblr",
-      "item": "crm-for-contractors-do-you-need-one",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T07:12:39",
-      "channel": "tumblr",
-      "item": "bj-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T07:12:37",
-      "channel": "bluesky",
-      "item": "bj-wordpress",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T07:12:34",
-      "channel": "linkedin",
-      "item": "bj-cheapbid",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T07:12:33",
-      "channel": "tiktok",
       "item": "bj-ftc",
       "url": null
     },
     {
-      "ts": "2026-08-01T07:12:32",
-      "channel": "ig",
-      "item": "bj-track",
+      "ts": "2026-08-01T09:50:56",
+      "channel": "bluesky",
+      "item": "bj-first10k",
       "url": null
     },
     {
-      "ts": "2026-08-01T07:11:55",
-      "channel": "facebook",
-      "item": "pod-ep01-ftc",
+      "ts": "2026-08-01T09:50:54",
+      "channel": "linkedin",
+      "item": "bj-wordpress",
       "url": null
     },
     {
-      "ts": "2026-08-01T07:10:08",
-      "channel": "fb",
-      "item": "eight-automations",
+      "ts": "2026-08-01T09:50:53",
+      "channel": "tiktok",
+      "item": "bj-cpl",
       "url": null
     }
   ]

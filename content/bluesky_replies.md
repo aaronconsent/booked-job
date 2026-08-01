@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
+  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h
+
+- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
+
+ https://themes.stylelib.org/?p=15788 
+
+#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
+  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
+
 - **@canmike.bsky.social**: If he admits, as general contractor, he hired an unqualified company for the job, does he need to pay back his contractor fee?
   → https://bsky.app/profile/canmike.bsky.social/post/3mrygpb6uts2c
 
@@ -178,9 +188,3 @@ they’d rather manually remove over 30k members in a fb group than set it to re
 
 #electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
   → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
-
-- **@southern-ingenue.bsky.social**: …Texas. I was only able to recently achieve switching to another phone service because I didn’t have to reach anyone during business hours. When I had their WiFi hooked up, I was eating through my dat
-  → https://bsky.app/profile/southern-ingenue.bsky.social/post/3mrqkcrcmz22x
-
-- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
-  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
