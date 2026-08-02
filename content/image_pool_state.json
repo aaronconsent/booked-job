@@ -5,12 +5,13 @@
       "card-angi",
       "card-reviews",
       "card-rev-plumb",
-      "card-rev-roof"
+      "card-rev-roof",
+      "card-rev-elec"
     ],
-    "last_iso": "2026-08-02T12:23:21",
+    "last_iso": "2026-08-02T14:36:18",
     "day": {
       "date": "2026-08-02",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
