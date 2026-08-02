@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-08-01T22:47",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from 0100019fc0445f08-842d3385-b5f4-4f7c-bddf-08df6a1dc569-000000@amazonses.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-01T22:47",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 0100019fc0445f08-842d3385-b5f4-4f7c-bddf-08df6a1dc569-000000@amazonses.com: \"I made $3000 over fiverr\""
+    },
+    {
+      "ts": "2026-08-01T22:47",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing scope creep"
+    },
+    {
+      "ts": "2026-08-01T22:47",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz chasing invoices"
+    },
+    {
       "ts": "2026-08-01T18:21",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: pricing friend price"
-    },
-    {
-      "ts": "2026-07-29T10:29",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing once not twice"
-    },
-    {
-      "ts": "2026-07-29T07:15",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio54818.mail.apollo.io — needs Aaron"
-    },
-    {
-      "ts": "2026-07-29T07:15",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio54818.mail.apollo.io: Find and connect with new leads with Apollo"
-    },
-    {
-      "ts": "2026-07-29T07:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: pricing callback"
     }
   ]
 }

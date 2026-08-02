@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3ms2rsptgxx2b
+
 - **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
 
 Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
@@ -182,7 +187,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 Websites + AI systems that book 
   → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
-
-- **@tboyblues.bsky.social**: 1) AI summaries are not legitimate sources 
-2) general dynamics is an american defence contractor, this is just the canadian subsidiary. its still a US defence contractor who will ultimately profit ev
-  → https://bsky.app/profile/tboyblues.bsky.social/post/3mrsnnmfet22k

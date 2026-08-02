@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T23:08:58Z",
+  "updated": "2026-08-02T03:45:23Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 37,
+        "uses": 36,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#Electricians",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/Electricians"
       },
       {
         "tag": "#plumbing",
@@ -92,9 +87,9 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#roofing",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/roofing"
+        "tag": "#Electricians",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/Electricians"
       },
       {
         "tag": "#HandymanExpert",
@@ -110,6 +105,11 @@
         "tag": "#HVACUAE",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACUAE"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingNZ",
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35652,
+        "followers": 35653,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2231,
+      "followers": 2230,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },

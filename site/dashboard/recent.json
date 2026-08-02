@@ -1,41 +1,4 @@
 {
-  "updated": "2026-08-01T18:21",
-  "posts": [
-    {
-      "ts": "2026-08-01T18:21:21",
-      "channel": "mastodon",
-      "item": "card-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T18:21:09",
-      "channel": "tumblr",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T18:21:07",
-      "channel": "bluesky",
-      "item": "bj-freecheck",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T18:21:03",
-      "channel": "tiktok",
-      "item": "bj-rev-hvac",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T18:21:03",
-      "channel": "linkedin",
-      "item": "bj-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-08-01T18:21:02",
-      "channel": "facebook",
-      "item": "pod-ep01-cost",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-01T22:47",
+  "posts": []
 }
