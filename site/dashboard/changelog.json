@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-08-02T12:23",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from postmaster@cio51677.buffer.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-02T12:23",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from postmaster@cio51677.buffer.com: One of your updates failed to post"
+    },
+    {
+      "ts": "2026-08-02T12:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: humor gas station"
+    },
+    {
+      "ts": "2026-08-02T12:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy extension cord"
+    },
+    {
       "ts": "2026-08-02T10:24",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: lastguy panel"
-    },
-    {
-      "ts": "2026-07-29T22:19",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: lastguy diy"
-    },
-    {
-      "ts": "2026-07-29T22:19",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy rate"
-    },
-    {
-      "ts": "2026-07-29T18:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz chasing invoices"
-    },
-    {
-      "ts": "2026-07-29T18:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz money leaks"
     }
   ]
 }

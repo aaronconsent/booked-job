@@ -111,12 +111,13 @@
       "bj-rev-hvac",
       "bj-rev-plumb",
       "bj-rev-roof",
-      "bj-rev-elec"
+      "bj-rev-elec",
+      "bj-rev-paint"
     ],
-    "last_iso": "2026-08-02T10:24:28",
+    "last_iso": "2026-08-02T12:22:38",
     "day": {
       "date": "2026-08-02",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -192,12 +193,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-08-02T06:27:05",
+    "last_iso": "2026-08-02T12:22:38",
     "day": {
       "date": "2026-08-02",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -257,12 +259,13 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-08-02T10:24:28",
+    "last_iso": "2026-08-02T12:22:38",
     "day": {
       "date": "2026-08-02",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -316,12 +319,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-08-02T10:24:28",
+    "last_iso": "2026-08-02T12:22:38",
     "day": {
       "date": "2026-08-02",
-      "count": 3
+      "count": 4
     }
   }
 }
