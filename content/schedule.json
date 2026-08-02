@@ -438,13 +438,15 @@
       "slug": "water-damage-restoration-marketing",
       "series": "Trade Guides",
       "go_live": "2026-08-02",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-08-02"
     },
     {
       "slug": "remodeling-contractor-marketing",
       "series": "Trade Guides",
       "go_live": "2026-08-02",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-08-02"
     }
   ]
 }
