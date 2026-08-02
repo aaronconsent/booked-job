@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:25",
+  "updated": "2026-08-02T08:48",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 51,
+        "current": 52,
         "target": 100,
-        "pct": 51,
+        "pct": 52,
         "on_track": true
       },
       {
@@ -108,84 +108,84 @@
       "date": "2026-08-03",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Slow-season survival rule #1: the time to market is when you",
+      "title": "Three ways shops bleed money they never see:",
       "sub": "business"
     },
     {
       "date": "2026-08-04",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Three ways shops bleed money they never see:",
+      "title": "Third month chasing a customer for a $4k invoice. At what po",
       "sub": "business"
     },
     {
       "date": "2026-08-05",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Third month chasing a customer for a $4k invoice. At what po",
+      "title": "No deposit, no material order. I learned that with $6k of cu",
       "sub": "business"
     },
     {
       "date": "2026-08-06",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "No deposit, no material order. I learned that with $6k of cu",
+      "title": "The best time to ask for the Google review is the second the",
       "sub": "business"
     },
     {
       "date": "2026-08-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "The best time to ask for the Google review is the second the",
-      "sub": "business"
-    },
-    {
-      "date": "2026-08-10",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Job was quoted for one thing. Now it's \u201cwhile you're at it\u201d ",
       "sub": "pricing drama"
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Caulk is not a structural material. Somebody tell the last g",
       "sub": "hack job"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-11",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "AC unit wired off an extension cord run through a window. Ra",
       "sub": "hack job"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-12",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every trade has gotten this one. \ud83d\ude2e\u200d\ud83d\udca8",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cMy son said it should be cheaper.\u201d Cool \u2014 have your son do ",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cDo we really need a permit?\u201d Yes \u2014 and here's the version w",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You take a real lunch, or eat a gas-station sandwich doing 7",
+      "sub": "trade humor"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "IYKYK. Roofers in July, you have it worst. \ud83d\udc47",
       "sub": "trade humor"
     }
   ],
@@ -195,12 +195,12 @@
     "likes": 10
   },
   "content": {
-    "posts_published": 51,
+    "posts_published": 52,
     "reactions": 2,
     "comments": 0,
     "shares": 0,
     "reels_published": 51,
-    "posts_remaining": 7,
+    "posts_remaining": 6,
     "reels_remaining": 0
   },
   "ads": {
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 388
+    "media": 389
   },
   "email": {
     "subscribers": 7
@@ -464,7 +464,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 113,
+      "count": 114,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -479,7 +479,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2967,
+      "views": 2973,
       "followers": 1
     },
     {
@@ -496,7 +496,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 143,
+      "count": 144,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -504,7 +504,7 @@
     {
       "name": "Tumblr",
       "status": "live",
-      "count": 143,
+      "count": 144,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -512,7 +512,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 143,
+      "count": 144,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -520,7 +520,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 39,
+      "count": 40,
       "unit": "posts",
       "followers": 59,
       "grade": "B",
@@ -530,7 +530,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 143,
+      "count": 144,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -540,7 +540,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 43,
+      "count": 44,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -587,8 +587,8 @@
       "status": "live",
       "count": 78,
       "unit": "videos (Buffer)",
-      "stat": "1800 views \u00b7 4 reactions",
-      "views": 1800,
+      "stat": "1798 views \u00b7 4 reactions",
+      "views": 1798,
       "likes": 4,
       "grade": "B",
       "group": "social"
@@ -597,7 +597,7 @@
       "name": "Pinterest",
       "status": "live",
       "unit": "pins (Buffer)",
-      "count": 142,
+      "count": 143,
       "views": 0,
       "likes": 0,
       "stat": "0 impressions \u00b7 0 saves",
@@ -618,7 +618,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Carousels",
@@ -633,7 +633,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Polls",
@@ -663,7 +663,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Long video",
@@ -719,7 +719,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Articles",
@@ -738,7 +738,7 @@
       {
         "type": "Pins",
         "status": "live",
-        "count": 142
+        "count": 143
       },
       {
         "type": "Video pins",
@@ -750,19 +750,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 39
+        "count": 40
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 45
+        "count": 46
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 143
+        "count": 144
       },
       {
         "type": "Video",
@@ -777,7 +777,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 43
+        "count": 44
       },
       {
         "type": "Video",
@@ -809,21 +809,21 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 143
+        "count": 144
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 32
+        "count": 33
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 22,
+      "remaining": 21,
       "per_day": 2,
-      "days": 11.0,
+      "days": 10.5,
       "status": "green"
     },
     {
@@ -856,7 +856,7 @@
     }
   ],
   "funnel": {
-    "reach": 44538,
+    "reach": 44549,
     "engagement": 2,
     "audience": 81,
     "cr_clicks": 53
@@ -865,7 +865,7 @@
     "audience": 12,
     "engagement": -6,
     "email": 0,
-    "reach": -88
+    "reach": -77
   },
   "mafia": {
     "metrics": [
@@ -881,7 +881,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1377,
+        "value": 1385,
         "grade": "A"
       },
       {
@@ -901,6 +901,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1377 posts, 81 audience, 53 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1385 posts, 81 audience, 53 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
