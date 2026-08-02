@@ -13,7 +13,7 @@
   "tumblr_runner.py": 0,
   "telegraph_runner.py": 0,
   "github_pages_runner.py": 0,
-  "bluesky_runner.py": 1,
+  "bluesky_runner.py": 0,
   "mastodon_runner.py": 0,
   "threads_runner.py": 0,
   "telegram_runner.py": 0,
