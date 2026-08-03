@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@schlumbrechtselec.bsky.social**: Experiencing an unexpected electrical emergency? Schlumbrecht's Electric is ready to help with emergency electrical services available 24/7. Our electricians provide prompt and professional solutions 
   → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3ms6gu3aqis2m
 
@@ -174,18 +185,3 @@ https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-tra
 
 - **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f
-
-- **@stylelib.org**: Drill – Handyman  Plumber Services WordPress Theme
-
- https://stylelib.org/?p=877700 
-
-#electrician #handyman #plumbing #reacthemes #themeforest #wordpress #business #plumber #corporate #maintenance #c
-  → https://bsky.app/profile/stylelib.org/post/3mqbbgb4s662l
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
-
-https://www.barnardhq.com/blog/content-marketing-for-skill
-  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
