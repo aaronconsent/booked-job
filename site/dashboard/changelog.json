@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-03T16:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing pick two"
+    },
+    {
+      "ts": "2026-08-03T16:27",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz fire customer"
+    },
+    {
       "ts": "2026-08-03T15:03",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner quick"
-    },
-    {
-      "ts": "2026-07-30T15:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@sherlock.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-07-30T15:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@sherlock.pinterest.com: Booked Job, you have a good eye"
     }
   ]
 }
