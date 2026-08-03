@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@schlumbrechtselec.bsky.social**: Experiencing an unexpected electrical emergency? Schlumbrecht's Electric is ready to help with emergency electrical services available 24/7. Our electricians provide prompt and professional solutions 
+  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3ms6gu3aqis2m
+
 - **@marypsych.bsky.social**: www.theguardian.com/business/202... Anyone who doesn’t know that Trump and his friends have been manipulating this war to make big bucks on oil trades has not been paying attention. He ramps up the wa
   → https://bsky.app/profile/marypsych.bsky.social/post/3ms6q47yi3s24
 
@@ -186,6 +189,3 @@ https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-tra
 
 https://www.barnardhq.com/blog/content-marketing-for-skill
   → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
-
-- **@christofear.bsky.social**: Highly recommend having a roommate who’s a general contractor. Helped me get my drill unstuck when the chuck locked up. She’s the best.
-  → https://bsky.app/profile/christofear.bsky.social/post/3mrtembsmhs2p

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T15:50:28Z",
+  "updated": "2026-08-03T18:01:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 34,
+        "uses": 36,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -102,6 +102,11 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#roofing",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
         "tag": "#HandymanExpert",
         "uses": 2,
         "link": "https://mastodon.social/tags/HandymanExpert"
@@ -110,11 +115,6 @@
         "tag": "#HVACUAE",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACUAE"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingNZ",
@@ -139,6 +139,11 @@
     ],
     "accounts": [
       {
+        "handle": "@BusinessInsider@flipboard.com",
+        "followers": 465649,
+        "link": "https://flipboard.com/@BusinessInsider"
+      },
+      {
         "handle": "@home_garden_and_diy@threads.net",
         "followers": 96362,
         "link": "https://threads.net/@home_garden_and_diy/"
@@ -150,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23097,
+        "followers": 23096,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -164,6 +169,16 @@
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
+        "handle": "@BusinessPunk@flipboard.com",
+        "followers": 7173,
+        "link": "https://flipboard.com/@BusinessPunk"
+      },
+      {
+        "handle": "@business-bloomberg@flipboard.com",
+        "followers": 2338,
+        "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
+      },
+      {
         "handle": "@Noshir",
         "followers": 732,
         "link": "https://mastodon.social/@Noshir"
@@ -172,16 +187,6 @@
         "handle": "@electricians@lemmy.world",
         "followers": 632,
         "link": "https://lemmy.world/c/electricians"
-      },
-      {
-        "handle": "@DEPHER_1",
-        "followers": 334,
-        "link": "https://mastodon.social/@DEPHER_1"
-      },
-      {
-        "handle": "@arnaudlauret@hachyderm.io",
-        "followers": 227,
-        "link": "https://hachyderm.io/@arnaudlauret"
       }
     ]
   },
@@ -210,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3556,
+      "followers": 3559,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
