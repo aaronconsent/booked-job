@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T12:34:41Z",
+  "updated": "2026-08-03T15:50:28Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 34,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,14 +92,14 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
+        "tag": "#hvac",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#contractor",
         "uses": 3,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#HandymanExpert",
@@ -139,11 +139,6 @@
     ],
     "accounts": [
       {
-        "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465649,
-        "link": "https://flipboard.com/@BusinessInsider"
-      },
-      {
         "handle": "@home_garden_and_diy@threads.net",
         "followers": 96362,
         "link": "https://threads.net/@home_garden_and_diy/"
@@ -169,16 +164,6 @@
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
-        "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7173,
-        "link": "https://flipboard.com/@BusinessPunk"
-      },
-      {
-        "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2338,
-        "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
-      },
-      {
         "handle": "@Noshir",
         "followers": 732,
         "link": "https://mastodon.social/@Noshir"
@@ -187,6 +172,16 @@
         "handle": "@electricians@lemmy.world",
         "followers": 632,
         "link": "https://lemmy.world/c/electricians"
+      },
+      {
+        "handle": "@DEPHER_1",
+        "followers": 334,
+        "link": "https://mastodon.social/@DEPHER_1"
+      },
+      {
+        "handle": "@arnaudlauret@hachyderm.io",
+        "followers": 227,
+        "link": "https://hachyderm.io/@arnaudlauret"
       }
     ]
   },
@@ -194,14 +189,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9701,
+      "followers": 9700,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 3990,
+      "followers": 3993,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +231,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1791,
+      "followers": 1792,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },

@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@marypsych.bsky.social**: www.theguardian.com/business/202... Anyone who doesn’t know that Trump and his friends have been manipulating this war to make big bucks on oil trades has not been paying attention. He ramps up the wa
+  → https://bsky.app/profile/marypsych.bsky.social/post/3ms6q47yi3s24
+
 - **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
   → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
 
@@ -186,7 +189,3 @@ https://www.barnardhq.com/blog/content-marketing-for-skill
 
 - **@christofear.bsky.social**: Highly recommend having a roommate who’s a general contractor. Helped me get my drill unstuck when the chuck locked up. She’s the best.
   → https://bsky.app/profile/christofear.bsky.social/post/3mrtembsmhs2p
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
