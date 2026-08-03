@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
+  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
 - **@stylelib.org**: Construction – Industrial HTML5 Template
 
  https://themes.stylelib.org/?p=19090 
@@ -182,10 +190,3 @@ https://www.barnardhq.com/blog/content-marketing-for-skill
 - **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
 #Nassa
   → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
