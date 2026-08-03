@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-02T19:20",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools lost tape"
+    },
+    {
+      "ts": "2026-08-02T19:20",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor gas station"
+    },
+    {
       "ts": "2026-08-02T18:16",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "reel",
       "icon": "🎬",
       "text": "Published Reel: Never call your bank over a lead"
-    },
-    {
-      "ts": "2026-07-30T07:00",
-      "kind": "post",
-      "icon": "📝",
-      "text": "Published post: guy radio"
-    },
-    {
-      "ts": "2026-07-30T04:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing scope creep"
     }
   ]
 }

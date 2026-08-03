@@ -1,40 +1,28 @@
 {
-  "updated": "2026-08-02T18:16",
+  "updated": "2026-08-02T19:20",
   "posts": [
     {
-      "ts": "2026-08-02T18:16:11",
+      "ts": "2026-08-02T19:20:33",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-08-02T18:15:58",
+      "ts": "2026-08-02T19:20:20",
       "channel": "tumblr",
-      "item": "bj-wordpress",
-      "url": null
-    },
-    {
-      "ts": "2026-08-02T18:15:57",
-      "channel": "bluesky",
-      "item": "ad-pauls",
-      "url": null
-    },
-    {
-      "ts": "2026-08-02T18:15:55",
-      "channel": "linkedin",
-      "item": "bj-fakemaps",
-      "url": null
-    },
-    {
-      "ts": "2026-08-02T18:15:54",
-      "channel": "tiktok",
       "item": "bj-first10k",
       "url": null
     },
     {
-      "ts": "2026-08-02T18:15:53",
-      "channel": "facebook",
-      "item": "bj-angi",
+      "ts": "2026-08-02T19:20:19",
+      "channel": "bluesky",
+      "item": "ad-summit",
+      "url": null
+    },
+    {
+      "ts": "2026-08-02T19:20:17",
+      "channel": "tiktok",
+      "item": "bj-yelp",
       "url": null
     }
   ]

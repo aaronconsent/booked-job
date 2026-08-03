@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
 - **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
@@ -182,8 +189,3 @@ https://www.barnardhq.com/blog/content-marketing-for-skill
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
-
-Websites + AI systems that book 
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
