@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offers personalized coverage for your auto, home, life, business, and more—backed by local service you can count o
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f
+
 - **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
 
 https://www.barnardhq.com/blog/content-marketing-for-skill
@@ -180,8 +183,3 @@ Whether it’s your home, car, or business, don’t let a lockout ruin your day.
 
 - **@writergeek.bsky.social**: It'll be lower level hospitality, care work, driving jobs. Maybe plumbing and electrics, but with plummeting wages, how will we afford to do house upgrades? We'll simply have an oversupply of skilled 
   → https://bsky.app/profile/writergeek.bsky.social/post/3mrwc4iqeml24
-
-- **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
-
-Are any of them farmers?
-  → https://bsky.app/profile/camasonian.bsky.social/post/3mrw23fql7k2d
