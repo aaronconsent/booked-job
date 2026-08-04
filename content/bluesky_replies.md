@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rankednews.bsky.social**: General testifies how a R2m promotion that never came derailed his career: Major General (Retired) Noel Ndhlovu testified in the Gauteng Division of the High Court in Pretoria on Monday that the contr
+  → https://bsky.app/profile/rankednews.bsky.social/post/3msaxvvogxf24
+
+- **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
+
+Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
+  → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
+
 - **@bawagc.bsky.social**: Best General Contractor Mount Airy MD by Bawa GC
 
 Looking for the Best General Contractor Mount Airy MD? Bawa GC is your trusted partner for professional construction. Visit Here : bawagc.com/general-
@@ -179,9 +187,3 @@ Will it go by profession?
 
 Monster general contractor....
   → https://bsky.app/profile/holiday-girl-1225.bsky.social/post/3mrnqyba7qc2e
-
-- **@capitalcityroofing.bsky.social**: The team adjusted in about 90 days. Some of it was uncomfortable. All of it was necessary. The business ran better when I did less of the work and more of the design. Three days. https://go.business41
-  → https://bsky.app/profile/capitalcityroofing.bsky.social/post/3mrka3bliik2v
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e

@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-08-04T07:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing callback"
+    },
+    {
+      "ts": "2026-08-04T07:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing insurance"
+    },
+    {
+      "ts": "2026-08-04T07:10",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published post: biz deposit"
+    },
+    {
+      "ts": "2026-08-04T07:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
+    },
+    {
       "ts": "2026-08-04T04:47",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: humor 10mm"
-    },
-    {
-      "ts": "2026-07-31T06:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Telegraph: Missed Call Text Back: The Cheapest Fix in Contractor Marketing"
-    },
-    {
-      "ts": "2026-07-31T06:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Tumblr (backlink): Missed Call Text Back: The Cheapest Fix in Contractor Marketing"
-    },
-    {
-      "ts": "2026-07-31T06:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Syndicated to Blogger (backlink): Missed Call Text Back: The Cheapest Fix in Contractor Marketing"
-    },
-    {
-      "ts": "2026-07-31T06:35",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published Reel: 78% hire whoever answers first"
     }
   ]
 }
