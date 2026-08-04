@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bawagc.bsky.social**: Best General Contractor Mount Airy MD by Bawa GC
+
+Looking for the Best General Contractor Mount Airy MD? Bawa GC is your trusted partner for professional construction. Visit Here : bawagc.com/general-
+  → https://bsky.app/profile/bawagc.bsky.social/post/3msbfm6wvwc2m
+
 - **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
 
 Are any of them farmers?
@@ -180,8 +185,3 @@ Monster general contractor....
 
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
-
-Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
-  → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
