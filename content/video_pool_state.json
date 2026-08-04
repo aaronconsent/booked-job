@@ -65,12 +65,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-08-04T16:34:23",
+    "last_iso": "2026-08-04T18:26:23",
     "day": {
       "date": "2026-08-04",
-      "count": 5
+      "count": 6
     }
   },
   "linkedin": {
@@ -163,12 +164,13 @@
       "bj-trade",
       "bj-slow",
       "bj-cpbj",
-      "bj-speed"
+      "bj-speed",
+      "bj-ftc"
     ],
-    "last_iso": "2026-08-04T13:13:09",
+    "last_iso": "2026-08-04T18:26:23",
     "day": {
       "date": "2026-08-04",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
@@ -244,12 +246,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-08-04T16:34:23",
+    "last_iso": "2026-08-04T18:26:23",
     "day": {
       "date": "2026-08-04",
-      "count": 5
+      "count": 6
     }
   },
   "telegram": {
@@ -319,12 +322,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-08-04T16:34:23",
+    "last_iso": "2026-08-04T18:26:23",
     "day": {
       "date": "2026-08-04",
-      "count": 5
+      "count": 6
     }
   }
 }
