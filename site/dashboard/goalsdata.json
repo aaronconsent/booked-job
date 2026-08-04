@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T07:16",
+  "generated": "2026-08-04T10:47",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 2,
+        "current": 4,
         "target": 150,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 2,
+        "current": 4,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 958,
+    "social_posts": 960,
     "followers": 79,
     "engagement": 2,
     "yt_views": 1168,
@@ -249,8 +249,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "2/150 \u2014 148 short of pace.",
-      "prompt": "We're behind on social posts this week (2/150). Refill the social queues / add more variant cards."
+      "why": "4/150 \u2014 146 short of pace.",
+      "prompt": "We're behind on social posts this week (4/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",

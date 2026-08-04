@@ -2,6 +2,10 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msau5ot3jl2d
+
 - **@rankednews.bsky.social**: General testifies how a R2m promotion that never came derailed his career: Major General (Retired) Noel Ndhlovu testified in the Gauteng Division of the High Court in Pretoria on Monday that the contr
   → https://bsky.app/profile/rankednews.bsky.social/post/3msaxvvogxf24
 
@@ -180,10 +184,3 @@ Fast response. Professional service. Local experts.
 
 - **@ben.tootblan.com**: is there a roster moves account but only for noteworthy trades so I can go about my business and turn notifications on?
   → https://bsky.app/profile/ben.tootblan.com/post/3mrxkzce7w22y
-
-- **@holiday-girl-1225.bsky.social**: When they're older..
-
-Will it go by profession? 
-
-Monster general contractor....
-  → https://bsky.app/profile/holiday-girl-1225.bsky.social/post/3mrnqyba7qc2e
