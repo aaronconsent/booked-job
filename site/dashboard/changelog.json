@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-04T16:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: lastguy panel"
+    },
+    {
+      "ts": "2026-08-04T16:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing callback"
+    },
+    {
       "ts": "2026-08-04T15:03",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "reel",
       "icon": "🎬",
       "text": "Published YouTube Short: 519 reviews to rank"
-    },
-    {
-      "ts": "2026-07-31T09:42",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@explore.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-07-31T09:42",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:51:35Z",
+  "updated": "2026-08-04T21:23:01Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
-        "tag": "#HVACsystem",
+        "tag": "#hvacducts",
         "uses": 0,
-        "link": "https://mastodon.social/tags/HVACsystem"
+        "link": "https://mastodon.social/tags/hvacducts"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9701,
+      "followers": 9702,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },

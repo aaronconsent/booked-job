@@ -64,12 +64,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-08-04T15:02:52",
+    "last_iso": "2026-08-04T16:34:23",
     "day": {
       "date": "2026-08-04",
-      "count": 4
+      "count": 5
     }
   },
   "linkedin": {
@@ -126,12 +127,13 @@
       "bj-track",
       "ad-arctic",
       "ad-pauls",
-      "ad-summit"
+      "ad-summit",
+      "clip-speed"
     ],
-    "last_iso": "2026-08-04T13:13:09",
+    "last_iso": "2026-08-04T16:34:23",
     "day": {
       "date": "2026-08-04",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
@@ -241,12 +243,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-08-04T15:02:52",
+    "last_iso": "2026-08-04T16:34:23",
     "day": {
       "date": "2026-08-04",
-      "count": 4
+      "count": 5
     }
   },
   "telegram": {
@@ -315,12 +318,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-08-04T15:02:52",
+    "last_iso": "2026-08-04T16:34:23",
     "day": {
       "date": "2026-08-04",
-      "count": 4
+      "count": 5
     }
   }
 }
