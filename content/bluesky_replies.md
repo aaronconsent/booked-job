@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@idw-online.de**: A longer working life is particularly problematic for socially disadvantaged people and younger workers
+Working for longer and longer – does it work? In a project funded by the German Research Foundat
+  → https://bsky.app/profile/idw-online.de/post/3msaoxh6aj72m
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
 Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
   → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msau5ot3jl2d
@@ -165,22 +175,3 @@ add in if you own your own business? easily pulling down $150-$200k
 
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@coloradolocksmith.bsky.social**: Need a dependable Full Service Locksmith in Colorado Springs?
-
-🔐 Home Locks
-🚗 Car Keys
-🏢 Business Security
-⚡ Emergency Lockouts
-
-Fast response. Professional service. Local experts.
-
-📞 719-344-9797
-🌐 c
-  → https://bsky.app/profile/coloradolocksmith.bsky.social/post/3mrpery2h3s26
-
-- **@queenofthesouth.bsky.social**: There were also a lot of employees working in the trades. Do you think universities that house and employ thousands don’t require plumbers? I wish this skilled trade vs academia debate would end immed
-  → https://bsky.app/profile/queenofthesouth.bsky.social/post/3mrxhryia3s24
-
-- **@ben.tootblan.com**: is there a roster moves account but only for noteworthy trades so I can go about my business and turn notifications on?
-  → https://bsky.app/profile/ben.tootblan.com/post/3mrxkzce7w22y

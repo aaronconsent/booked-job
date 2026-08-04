@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @jobfairgiant.bsky.social: “Are There Jobs Hiring Immediately in Detroit? Yes, many Detroit employers hire immediately…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/jobfairgiant.bsky.social/post/3msau5ot3jl2d",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @rankednews.bsky.social: “General testifies how a R2m promotion that never came derailed his career: Major General (…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/rankednews.bsky.social/post/3msaxvvogxf24",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @garagedoorrepair06.bsky.social: “Locked Out? We’re Here 24/7!  Whether it’s your home, car, or business, don’t let a lockou…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @bawagc.bsky.social: “Best General Contractor Mount Airy MD by Bawa GC  Looking for the Best General Contractor …”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @camasonian.bsky.social: “I believe the farm is being rented to an Amish family since the other cousins didn't want …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/camasonian.bsky.social/post/3mrw23fql7k2d",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @incredibletownswnc.bsky.social: “Looking for dependable insurance in Western North Carolina? Tabatha Hamlin State Farm offe…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mrneptbqrb2f",
       "est": "2 min"
     },
     {
