@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T03:31:04Z",
+  "updated": "2026-08-04T07:22:31Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -87,14 +87,14 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#Electricians",
         "uses": 4,
         "link": "https://mastodon.social/tags/Electricians"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#contractor",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465682,
+        "followers": 465683,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9701,
+      "followers": 9700,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -218,6 +218,13 @@
       "followers": 3562,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
+    },
+    {
+      "handle": "@cpajoe.bsky.social",
+      "display": "Joe Rosenberg",
+      "followers": 2230,
+      "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
+      "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@noshir.bsky.social",
@@ -281,13 +288,6 @@
       "followers": 847,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
-    },
-    {
-      "handle": "@thebarehandyman.bsky.social",
-      "display": "The Bare Handyman",
-      "followers": 698,
-      "desc": "he/any - professional handyman According to chat “the most married man ever” and “slut”",
-      "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }
   ]
 }
