@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
+
+Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
+  → https://bsky.app/profile/youngconst.bsky.social/post/3mscpcabnsk23
+
 - **@waybread.bsky.social**: What percentage of Linda McMahon's kids pursed a degree in skilled trades? Oh it was 0? What about the kids of all Linda McMahon's close friends and coworkers? Also 0% Fascinating!
   → https://bsky.app/profile/waybread.bsky.social/post/3mschrpwjb22l
 
@@ -178,6 +183,3 @@ Me: “Yeah, but I have all these ouchies and boo-boos now 😭”
 
 #architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
   → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
-
-- **@canmike.bsky.social**: If he admits, as general contractor, he hired an unqualified company for the job, does he need to pay back his contractor fee?
-  → https://bsky.app/profile/canmike.bsky.social/post/3mrygpb6uts2c
