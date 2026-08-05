@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T01:42",
+  "generated": "2026-08-05T04:52",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 3,
+        "current": 7,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 42,
+        "current": 46,
         "target": 150,
         "status": "yellow",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 15,
+        "current": 16,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 22,
+        "current": 26,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 14,
+        "current": 15,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 978,
-    "followers": 80,
+    "social_posts": 982,
+    "followers": 81,
     "engagement": 3,
     "yt_views": 1168,
     "yt_shorts": 34,
@@ -249,8 +249,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "15/120 \u2014 105 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (15/120). Refill the social queues / add more variant cards."
+      "why": "16/120 \u2014 104 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (16/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

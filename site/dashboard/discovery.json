@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:38:31Z",
+  "updated": "2026-08-05T09:44:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -77,19 +77,9 @@
   "mastodon": {
     "tags": [
       {
-        "tag": "#homeimprovement",
-        "uses": 33,
-        "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
         "tag": "#plumbing",
         "uses": 7,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#roofing",
@@ -127,31 +117,31 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
-        "tag": "#HVACUAE",
+        "tag": "#PlumbingProverbs",
         "uses": 0,
-        "link": "https://mastodon.social/tags/HVACUAE"
+        "link": "https://mastodon.social/tags/PlumbingProverbs"
       },
       {
-        "tag": "#hvacducts",
+        "tag": "#PlumbingPathways",
         "uses": 0,
-        "link": "https://mastodon.social/tags/hvacducts"
+        "link": "https://mastodon.social/tags/PlumbingPathways"
+      },
+      {
+        "tag": "#PlumbingLambeth",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/PlumbingLambeth"
+      },
+      {
+        "tag": "#PlumbingProject",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/PlumbingProject"
       }
     ],
     "accounts": [
       {
-        "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465683,
-        "link": "https://flipboard.com/@BusinessInsider"
-      },
-      {
         "handle": "@home_garden_and_diy@threads.net",
         "followers": 96363,
         "link": "https://threads.net/@home_garden_and_diy/"
-      },
-      {
-        "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35663,
-        "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
         "handle": "@homeassistant@fosstodon.org",
@@ -167,16 +157,6 @@
         "handle": "@home-page-newyorktimes@flipboard.com",
         "followers": 8493,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
-      },
-      {
-        "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7173,
-        "link": "https://flipboard.com/@BusinessPunk"
-      },
-      {
-        "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2338,
-        "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
         "handle": "@Noshir",
@@ -201,7 +181,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4005,
+      "followers": 4006,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -222,7 +202,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2230,
+      "followers": 2231,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
