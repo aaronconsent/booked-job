@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3ms2rsptgxx2b
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
 - **@stylelib.org**: Electrician – Electricity Services WordPress Theme
 
  https://stylelib.org/?p=134524 
@@ -173,12 +190,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@schlumbrechtselec.bsky.social**: Experiencing an unexpected electrical emergency? Schlumbrecht's Electric is ready to help with emergency electrical services available 24/7. Our electricians provide prompt and professional solutions 
-  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3ms6gu3aqis2m
-
-- **@marypsych.bsky.social**: www.theguardian.com/business/202... Anyone who doesn’t know that Trump and his friends have been manipulating this war to make big bucks on oil trades has not been paying attention. He ramps up the wa
-  → https://bsky.app/profile/marypsych.bsky.social/post/3ms6q47yi3s24
-
-- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
-  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
