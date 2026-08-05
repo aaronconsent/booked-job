@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kacperinvests.bsky.social**: So what do you anchor to when there's no consensus?
+
+The company's own history.
+
+A business that normally trades at 1.2x sales and sits at 0.7x is telling you something - provided you check whether th
+  → https://bsky.app/profile/kacperinvests.bsky.social/post/3mscvnhoo272p
+
 - **@stylelib.org**: Builderry – Construction and Building WordPress Theme
 
  https://themes.stylelib.org/?p=32511 
@@ -180,6 +187,3 @@ Me: “Yeah, but I have all these ouchies and boo-boos now 😭”
 
 - **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
   → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
-
-- **@mangoboy66.bsky.social**: she probably has a plumber buddy that is making bank with his/her business(es) and she thinks all plumbers are doing the same. it's like tech years ago..."hey i know someone who can't tie his shoes bu
-  → https://bsky.app/profile/mangoboy66.bsky.social/post/3mrd3xgwtvc2h

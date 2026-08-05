@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T09:44:21Z",
+  "updated": "2026-08-05T12:09:02Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -82,6 +82,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#roofing",
         "uses": 2,
         "link": "https://mastodon.social/tags/roofing"
@@ -90,11 +95,6 @@
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#HandymanExpert",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/HandymanExpert"
       },
       {
         "tag": "#RoofingNZ",
@@ -112,52 +112,32 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
+        "tag": "#HVACUAE",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACUAE"
+      },
+      {
+        "tag": "#hvacducts",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacducts"
+      },
+      {
+        "tag": "#HVACTheft",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACTheft"
+      },
+      {
+        "tag": "#HVACsystem",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACsystem"
       },
       {
         "tag": "#PlumbingProverbs",
         "uses": 0,
         "link": "https://mastodon.social/tags/PlumbingProverbs"
-      },
-      {
-        "tag": "#PlumbingPathways",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingPathways"
-      },
-      {
-        "tag": "#PlumbingLambeth",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingLambeth"
-      },
-      {
-        "tag": "#PlumbingProject",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingProject"
       }
     ],
     "accounts": [
-      {
-        "handle": "@home_garden_and_diy@threads.net",
-        "followers": 96363,
-        "link": "https://threads.net/@home_garden_and_diy/"
-      },
-      {
-        "handle": "@homeassistant@fosstodon.org",
-        "followers": 23097,
-        "link": "https://fosstodon.org/@homeassistant"
-      },
-      {
-        "handle": "@homeimprovement@lemmy.world",
-        "followers": 10849,
-        "link": "https://lemmy.world/c/homeimprovement"
-      },
-      {
-        "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8493,
-        "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
-      },
       {
         "handle": "@Noshir",
         "followers": 730,
@@ -167,6 +147,11 @@
         "handle": "@electricians@lemmy.world",
         "followers": 632,
         "link": "https://lemmy.world/c/electricians"
+      },
+      {
+        "handle": "@DEPHER_1",
+        "followers": 334,
+        "link": "https://mastodon.social/@DEPHER_1"
       }
     ]
   },
