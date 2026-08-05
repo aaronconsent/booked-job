@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:50:48Z",
+  "updated": "2026-08-05T19:50:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/HandymanExpert"
       },
       {
+        "tag": "#PlumbingIsAConstruct",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
+      },
+      {
         "tag": "#RoofingNZ",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingNZ"
@@ -130,17 +135,12 @@
         "tag": "#HVACUAE",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACUAE"
-      },
-      {
-        "tag": "#hvacducts",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacducts"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465702,
+        "followers": 465703,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4009,
+      "followers": 4010,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3562,
+      "followers": 3561,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2218,
+      "followers": 2219,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1024,
+      "followers": 1025,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },

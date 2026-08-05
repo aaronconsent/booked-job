@@ -1,22 +1,23 @@
 {
   "done": [
     "lastguy-rate",
-    "pricing-friend-price",
     "pricing-low-bid",
-    "pricing-callback",
-    "pricing-insurance",
-    "ugc-before-after",
-    "lastguy-flextape",
+    "homeowner-quick",
+    "lastguy-worst",
+    "pricing-diagnostic-fee",
     "homeowner-drain",
+    "pricing-insurance",
+    "pricing-callback",
     "pricing-once-not-twice",
     "homeowner-lie",
-    "lastguy-panel",
-    "lastguy-worst",
-    "lastguy-diy",
     "pricing-pick-two",
-    "pricing-diagnostic-fee",
+    "lastguy-panel",
+    "homeowner-youtube",
+    "pricing-friend-price",
     "ba-credit",
-    "homeowner-quick"
+    "lastguy-flextape",
+    "lastguy-diy",
+    "ugc-before-after"
   ],
-  "last_iso": "2026-08-05T13:02:42"
+  "last_iso": "2026-08-05T15:02:27"
 }
