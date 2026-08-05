@@ -1,40 +1,52 @@
 {
-  "updated": "2026-08-05T07:16",
+  "updated": "2026-08-05T10:38",
   "posts": [
     {
-      "ts": "2026-08-05T07:13:05",
-      "channel": "tumblr",
-      "item": "ad-summit",
-      "url": null
+      "ts": "2026-08-05T10:36:01",
+      "channel": "youtube",
+      "item": "pod-ep01-verdict",
+      "url": "https://youtu.be/Z0Nb5fx0ccA"
     },
     {
-      "ts": "2026-08-05T07:13:03",
-      "channel": "bluesky",
-      "item": "rip-speed-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-08-05T07:13:01",
-      "channel": "linkedin",
-      "item": "clip1-turd",
-      "url": null
-    },
-    {
-      "ts": "2026-08-05T07:13:00",
-      "channel": "tiktok",
-      "item": "clip-porno2",
-      "url": null
-    },
-    {
-      "ts": "2026-08-05T07:12:59",
-      "channel": "ig",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-08-05T07:12:25",
+      "ts": "2026-08-05T10:35:55",
       "channel": "facebook",
-      "item": "bj-cpl",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-08-05T10:35:52",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-08-05T10:35:19",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-08-05T10:35:06",
+      "channel": "tumblr",
+      "item": "clip-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-08-05T10:35:05",
+      "channel": "bluesky",
+      "item": "stop-renting-leads",
+      "url": null
+    },
+    {
+      "ts": "2026-08-05T10:35:04",
+      "channel": "linkedin",
+      "item": "clip3-onestar",
+      "url": null
+    },
+    {
+      "ts": "2026-08-05T10:35:03",
+      "channel": "tiktok",
+      "item": "clip-porno3",
       "url": null
     }
   ]

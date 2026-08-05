@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@204queenb0574.bsky.social**: General Dynamics is a fully American company. Who are you trying to fool? investigate.afsc.org/company/gene...
+  → https://bsky.app/profile/204queenb0574.bsky.social/post/3msdrdudigk2h
+
 - **@kacperinvests.bsky.social**: So what do you anchor to when there's no consensus?
 
 The company's own history.
@@ -184,6 +187,3 @@ Me: “Yeah, but I have all these ouchies and boo-boos now 😭”
 
 - **@southern-ingenue.bsky.social**: …Texas. I was only able to recently achieve switching to another phone service because I didn’t have to reach anyone during business hours. When I had their WiFi hooked up, I was eating through my dat
   → https://bsky.app/profile/southern-ingenue.bsky.social/post/3mrqkcrcmz22x
-
-- **@ctrlcreative.bsky.social**: Your work may be strong—but can customers find it? This beginner’s guide explains how contractors can use SEO, Google Business Profile, project content, reviews and service pages to generate better le
-  → https://bsky.app/profile/ctrlcreative.bsky.social/post/3mr5x6ndked2a
