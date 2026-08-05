@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@waybread.bsky.social**: What percentage of Linda McMahon's kids pursed a degree in skilled trades? Oh it was 0? What about the kids of all Linda McMahon's close friends and coworkers? Also 0% Fascinating!
+  → https://bsky.app/profile/waybread.bsky.social/post/3mschrpwjb22l
+
+- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=846637 
+
+#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
+  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
+
 - **@stylelib.org**: Renovar – Construction Company WordPress Theme
 
  https://stylelib.org/?p=639287 
@@ -165,21 +181,3 @@ Me: “Yeah, but I have all these ouchies and boo-boos now 😭”
 
 - **@canmike.bsky.social**: If he admits, as general contractor, he hired an unqualified company for the job, does he need to pay back his contractor fee?
   → https://bsky.app/profile/canmike.bsky.social/post/3mrygpb6uts2c
-
-- **@jlewisdickerson.bsky.social**: Prosecutors in Jeanine Pirro's office say the government received new evidence indicating that "damage to the Lincoln Memorial Reflecting Pool in June 2026 was the result of flawed installation by the
-  → https://bsky.app/profile/jlewisdickerson.bsky.social/post/3mryjyzr6m22r
-
-- **@howardbeale.bsky.social**: I'm going to say something here, she is not entirely wrong. 
-in Chicago, a journeyman plumber starts at $50 to $60 an hour plus OT. 
-add in if you own your own business? easily pulling down $150-$200k
-  → https://bsky.app/profile/howardbeale.bsky.social/post/3mrd4aqjmfs2y
-
-- **@embracetheharkness.bsky.social**: business man, who built his own company from nothing (and I mean literally nothing, he had nothing to his name, not even a place to live), and retired at a young age as a wealthy man. Which of those s
-  → https://bsky.app/profile/embracetheharkness.bsky.social/post/3mrd5waqrs22q
-
-- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
-
- https://themes.stylelib.org/?p=32511 
-
-#architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s

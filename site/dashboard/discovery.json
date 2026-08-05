@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T23:14:50Z",
+  "updated": "2026-08-05T03:26:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 37,
+        "uses": 32,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,19 +92,14 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
-        "tag": "#Electricians",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/Electricians"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
         "tag": "#roofing",
         "uses": 2,
         "link": "https://mastodon.social/tags/roofing"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#HandymanExpert",
@@ -112,24 +107,29 @@
         "link": "https://mastodon.social/tags/HandymanExpert"
       },
       {
-        "tag": "#HVACUAE",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACUAE"
-      },
-      {
         "tag": "#RoofingNZ",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingNZ"
       },
       {
-        "tag": "#contractors",
+        "tag": "#RoofingByBrett",
         "uses": 1,
-        "link": "https://mastodon.social/tags/contractors"
+        "link": "https://mastodon.social/tags/RoofingByBrett"
+      },
+      {
+        "tag": "#Electricians",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/Electricians"
       },
       {
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#HVACUAE",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACUAE"
       },
       {
         "tag": "#hvacducts",
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 731,
+        "followers": 730,
         "link": "https://mastodon.social/@Noshir"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9702,
+      "followers": 9703,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4000,
+      "followers": 4002,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1171,
+      "followers": 1172,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },
