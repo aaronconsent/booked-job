@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T07:10",
+  "updated": "2026-08-06T10:27",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 57,
+        "current": 58,
         "target": 100,
-        "pct": 57,
+        "pct": 58,
         "on_track": true
       },
       {
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 3,
+        "current": 4,
         "target": 60,
-        "pct": 5,
+        "pct": 7,
         "on_track": false
       },
       {
@@ -108,85 +108,85 @@
       "date": "2026-08-07",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Caulk is not a structural material. Somebody tell the last g",
+      "title": "AC unit wired off an extension cord run through a window. Ra",
       "sub": "hack job"
     },
     {
       "date": "2026-08-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "AC unit wired off an extension cord run through a window. Ra",
-      "sub": "hack job"
-    },
-    {
-      "date": "2026-08-11",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Every trade has gotten this one. \ud83d\ude2e\u200d\ud83d\udca8",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-11",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cMy son said it should be cheaper.\u201d Cool \u2014 have your son do ",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-12",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cDo we really need a permit?\u201d Yes \u2014 and here's the version w",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You take a real lunch, or eat a gas-station sandwich doing 7",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "IYKYK. Roofers in July, you have it worst. \ud83d\udc47",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Monday, first call is a callback on someone else's screwup. ",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You ride-or-die one battery platform, or a \u201cwhatever's on sa",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Name the tool you lose the most. It's the tape. It's always ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who runs the safety meeting AND the g",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Helper's on his phone more than his tools. You say something",
       "sub": "owner solidarity"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "post",
+      "icon": "\ud83d\udcdd",
+      "title": "Best money move some years is firing your worst customer \u2014 t",
+      "sub": "business"
     }
   ],
   "page": {
@@ -195,12 +195,12 @@
     "likes": 11
   },
   "content": {
-    "posts_published": 57,
+    "posts_published": 58,
     "reactions": 3,
-    "comments": 0,
+    "comments": 1,
     "shares": 0,
     "reels_published": 51,
-    "posts_remaining": 1,
+    "posts_remaining": 0,
     "reels_remaining": 0
   },
   "ads": {
@@ -222,7 +222,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 400
+    "media": 401
   },
   "email": {
     "subscribers": 7
@@ -464,11 +464,11 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 119,
+      "count": 120,
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 6663,
+      "views": 6664,
       "followers": 11,
       "likes": 3
     },
@@ -479,7 +479,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3133,
+      "views": 3144,
       "followers": 1
     },
     {
@@ -520,7 +520,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 19,
+      "count": 20,
       "unit": "posts",
       "followers": 67,
       "grade": "B",
@@ -540,7 +540,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 23,
+      "count": 24,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -587,8 +587,8 @@
       "status": "live",
       "count": 78,
       "unit": "videos (Buffer)",
-      "stat": "683 views \u00b7 1 reactions",
-      "views": 683,
+      "stat": "634 views \u00b7 1 reactions",
+      "views": 634,
       "likes": 1,
       "grade": "B",
       "group": "social"
@@ -618,7 +618,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 56
+        "count": 57
       },
       {
         "type": "Carousels",
@@ -633,7 +633,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 16
       },
       {
         "type": "Polls",
@@ -663,7 +663,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 16
       },
       {
         "type": "Long video",
@@ -719,7 +719,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 58
+        "count": 59
       },
       {
         "type": "Articles",
@@ -750,12 +750,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 4
+        "count": 5
       }
     ],
     "Mastodon": [
@@ -777,7 +777,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Video",
@@ -814,16 +814,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 58
+        "count": 59
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 16,
+      "remaining": 15,
       "per_day": 2,
-      "days": 8.0,
+      "days": 7.5,
       "status": "green"
     },
     {
@@ -856,16 +856,16 @@
     }
   ],
   "funnel": {
-    "reach": 43052,
-    "engagement": 3,
+    "reach": 43044,
+    "engagement": 4,
     "audience": 90,
     "cr_clicks": 63
   },
   "trends": {
     "audience": 14,
-    "engagement": -1,
+    "engagement": 0,
     "email": 0,
-    "reach": -2866
+    "reach": -2874
   },
   "mafia": {
     "metrics": [
@@ -881,7 +881,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1379,
+        "value": 1382,
         "grade": "A"
       },
       {
@@ -896,11 +896,11 @@
       },
       {
         "label": "Engagement",
-        "value": 3,
+        "value": 4,
         "grade": "F"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1379 posts, 90 audience, 63 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1382 posts, 90 audience, 63 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

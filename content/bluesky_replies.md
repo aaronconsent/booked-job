@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
+
+Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
+  → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
+
+- **@rankednews.bsky.social**: General testifies how a R2m promotion that never came derailed his career: Major General (Retired) Noel Ndhlovu testified in the Gauteng Division of the High Court in Pretoria on Monday that the contr
+  → https://bsky.app/profile/rankednews.bsky.social/post/3msaxvvogxf24
+
 - **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
 
 My brother makes about $225k as a master electrician.
@@ -191,9 +199,3 @@ Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts
 - **@idw-online.de**: A longer working life is particularly problematic for socially disadvantaged people and younger workers
 Working for longer and longer – does it work? In a project funded by the German Research Foundat
   → https://bsky.app/profile/idw-online.de/post/3msaoxh6aj72m
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
