@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
+
+Are any of them farmers?
+  → https://bsky.app/profile/camasonian.bsky.social/post/3mrw23fql7k2d
+
+- **@bawagc.bsky.social**: Best General Contractor Mount Airy MD by Bawa GC
+
+Looking for the Best General Contractor Mount Airy MD? Bawa GC is your trusted partner for professional construction. Visit Here : bawagc.com/general-
+  → https://bsky.app/profile/bawagc.bsky.social/post/3msbfm6wvwc2m
+
 - **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
 
 https://www.barnardhq.com/blog/content-marketing-for-skill
@@ -178,15 +197,3 @@ Working for longer and longer – does it work? In a project funded by the Germa
 
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msau5ot3jl2d
-
-- **@rankednews.bsky.social**: General testifies how a R2m promotion that never came derailed his career: Major General (Retired) Noel Ndhlovu testified in the Gauteng Division of the High Court in Pretoria on Monday that the contr
-  → https://bsky.app/profile/rankednews.bsky.social/post/3msaxvvogxf24
-
-- **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
-
-Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
-  → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q

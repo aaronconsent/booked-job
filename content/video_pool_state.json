@@ -6,12 +6,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-08-05T15:01:31",
+    "last_iso": "2026-08-06T07:12:57",
     "day": {
-      "date": "2026-08-05",
-      "count": 2
+      "date": "2026-08-06",
+      "count": 1
     }
   },
   "tiktok": {
@@ -74,12 +75,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-08-05T18:25:00",
+    "last_iso": "2026-08-06T07:12:57",
     "day": {
-      "date": "2026-08-05",
-      "count": 6
+      "date": "2026-08-06",
+      "count": 1
     }
   },
   "linkedin": {
@@ -141,12 +143,13 @@
       "clip1-turd",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-08-05T16:33:12",
+    "last_iso": "2026-08-06T07:12:57",
     "day": {
-      "date": "2026-08-05",
-      "count": 4
+      "date": "2026-08-06",
+      "count": 1
     }
   },
   "facebook": {
@@ -180,12 +183,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-08-05T18:25:00",
+    "last_iso": "2026-08-06T07:12:57",
     "day": {
-      "date": "2026-08-05",
-      "count": 3
+      "date": "2026-08-06",
+      "count": 1
     }
   },
   "pinterest": {
@@ -201,12 +205,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-08-05T18:25:00",
+    "last_iso": "2026-08-06T07:12:57",
     "day": {
-      "date": "2026-08-05",
-      "count": 6
+      "date": "2026-08-06",
+      "count": 1
     }
   },
   "telegram": {
@@ -283,12 +288,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-08-05T18:25:00",
+    "last_iso": "2026-08-06T07:12:57",
     "day": {
-      "date": "2026-08-05",
-      "count": 6
+      "date": "2026-08-06",
+      "count": 1
     }
   }
 }
