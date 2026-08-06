@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T23:13:16Z",
+  "updated": "2026-08-06T03:29:47Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,18 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 37,
+        "uses": 31,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#hvac",
         "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#roofing",
@@ -100,11 +100,6 @@
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#HandymanExpert",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/HandymanExpert"
       },
       {
         "tag": "#PlumbingIsAConstruct",
@@ -122,25 +117,30 @@
         "link": "https://mastodon.social/tags/RoofingByBrett"
       },
       {
-        "tag": "#Electricians",
+        "tag": "#contractors",
         "uses": 1,
-        "link": "https://mastodon.social/tags/Electricians"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#HVACUAE",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACUAE"
+      },
+      {
+        "tag": "#hvacducts",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacducts"
+      },
+      {
+        "tag": "#HVACTheft",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACTheft"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465703,
+        "followers": 465704,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9704,
+      "followers": 9705,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4011,
+      "followers": 4010,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
