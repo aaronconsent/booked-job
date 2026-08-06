@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
+
+https://www.barnardhq.com/blog/content-marketing-for-skill
+  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
+
 - **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
   → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
 
@@ -185,8 +190,3 @@ Yes, many Detroit employers hire immediately for positions in warehouse, manufac
 
 Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
   → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
-
-- **@bawagc.bsky.social**: Best General Contractor Mount Airy MD by Bawa GC
-
-Looking for the Best General Contractor Mount Airy MD? Bawa GC is your trusted partner for professional construction. Visit Here : bawagc.com/general-
-  → https://bsky.app/profile/bawagc.bsky.social/post/3msbfm6wvwc2m
