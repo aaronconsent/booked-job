@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T03:29:47Z",
+  "updated": "2026-08-06T06:41:14Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -102,6 +102,16 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#HVACChecklist",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVACChecklist"
+      },
+      {
+        "tag": "#HVACRepairService",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVACRepairService"
+      },
+      {
         "tag": "#PlumbingIsAConstruct",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
@@ -125,16 +135,6 @@
         "tag": "#HVACUAE",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACUAE"
-      },
-      {
-        "tag": "#hvacducts",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacducts"
-      },
-      {
-        "tag": "#HVACTheft",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACTheft"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23105,
+        "followers": 23106,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -215,14 +215,14 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3561,
+      "followers": 3563,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2231,
+      "followers": 2232,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
