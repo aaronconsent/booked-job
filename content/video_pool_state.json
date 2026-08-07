@@ -82,12 +82,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-08-07T08:35:52",
+    "last_iso": "2026-08-07T10:15:50",
     "day": {
       "date": "2026-08-07",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -221,12 +222,13 @@
       "pod-ep03-lie",
       "pod-ep02-system",
       "pod-ep02-fake",
-      "pod-ep02-onetap"
+      "pod-ep02-onetap",
+      "pod-ep02-peak"
     ],
-    "last_iso": "2026-08-07T08:35:52",
+    "last_iso": "2026-08-07T10:15:50",
     "day": {
       "date": "2026-08-07",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -308,12 +310,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-08-07T08:35:52",
+    "last_iso": "2026-08-07T10:15:50",
     "day": {
       "date": "2026-08-07",
-      "count": 2
+      "count": 3
     }
   }
 }
