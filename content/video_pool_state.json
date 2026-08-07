@@ -8,12 +8,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-08-06T19:24:34",
+    "last_iso": "2026-08-07T06:04:54",
     "day": {
-      "date": "2026-08-06",
-      "count": 2
+      "date": "2026-08-07",
+      "count": 1
     }
   },
   "tiktok": {
@@ -79,12 +80,13 @@
       "clip3-onestar",
       "is-angi-worth-it",
       "money-leaks-torque",
-      "money-leaks"
+      "money-leaks",
+      "explainer-lesson-01"
     ],
-    "last_iso": "2026-08-06T19:24:34",
+    "last_iso": "2026-08-07T06:04:54",
     "day": {
-      "date": "2026-08-06",
-      "count": 3
+      "date": "2026-08-07",
+      "count": 1
     }
   },
   "linkedin": {
@@ -153,8 +155,8 @@
     ],
     "last_iso": "2026-08-06T19:24:34",
     "day": {
-      "date": "2026-08-06",
-      "count": 3
+      "date": "2026-08-07",
+      "count": 0
     }
   },
   "facebook": {
@@ -190,12 +192,13 @@
       "bj-favor",
       "bj-stars",
       "bj-ai",
-      "bj-scam"
+      "bj-scam",
+      "bj-rev-hvac"
     ],
-    "last_iso": "2026-08-06T19:24:34",
+    "last_iso": "2026-08-07T06:04:54",
     "day": {
-      "date": "2026-08-06",
-      "count": 2
+      "date": "2026-08-07",
+      "count": 1
     }
   },
   "pinterest": {
@@ -214,12 +217,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-08-06T19:24:34",
+    "last_iso": "2026-08-07T06:04:54",
     "day": {
-      "date": "2026-08-06",
-      "count": 3
+      "date": "2026-08-07",
+      "count": 1
     }
   },
   "telegram": {
@@ -299,12 +303,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-08-06T19:24:34",
+    "last_iso": "2026-08-07T06:04:54",
     "day": {
-      "date": "2026-08-06",
-      "count": 3
+      "date": "2026-08-07",
+      "count": 1
     }
   }
 }

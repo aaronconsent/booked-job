@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kacperinvests.bsky.social**: So what do you anchor to when there's no consensus?
+
+The company's own history.
+
+A business that normally trades at 1.2x sales and sits at 0.7x is telling you something - provided you check whether th
+  → https://bsky.app/profile/kacperinvests.bsky.social/post/3mscvnhoo272p
+
+- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
+
+ https://themes.stylelib.org/?p=32511 
+
+#architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s
+
 - **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
 
 Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
@@ -174,9 +188,3 @@ Free US shipping + 30-day returns + 12-month warranty.
 
 #architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
   → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
-
-- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
-  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
-
-- **@204queenb0574.bsky.social**: General Dynamics is a fully American company. Who are you trying to fool? investigate.afsc.org/company/gene...
-  → https://bsky.app/profile/204queenb0574.bsky.social/post/3msdrdudigk2h

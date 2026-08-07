@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T09:13:35Z",
+  "updated": "2026-08-07T11:02:50Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -112,6 +112,11 @@
         "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
       },
       {
+        "tag": "#PlumbingServicesWV",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingServicesWV"
+      },
+      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -130,11 +135,6 @@
         "tag": "#HVACUAE",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACUAE"
-      },
-      {
-        "tag": "#hvacducts",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacducts"
       }
     ],
     "accounts": [
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4010,
+      "followers": 4011,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
