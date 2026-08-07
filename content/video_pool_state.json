@@ -81,12 +81,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-08-07T06:04:54",
+    "last_iso": "2026-08-07T08:35:52",
     "day": {
       "date": "2026-08-07",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -219,12 +220,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-08-07T06:04:54",
+    "last_iso": "2026-08-07T08:35:52",
     "day": {
       "date": "2026-08-07",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -305,12 +307,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-08-07T06:04:54",
+    "last_iso": "2026-08-07T08:35:52",
     "day": {
       "date": "2026-08-07",
-      "count": 1
+      "count": 2
     }
   }
 }

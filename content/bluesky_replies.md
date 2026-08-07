@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
+  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
+
+ https://themes.stylelib.org/?p=15788 
+
+#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
+  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
+
 - **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
   → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
 
@@ -170,17 +183,3 @@ Anyone who has ever had to hire a plumber will tell you it's a lucrative busines
 
 #business #corporate #handyman #maintenance #plumber #repair #sitetemplates #themeforest
   → https://bsky.app/profile/stylelib.org/post/3mrzyezswf622
-
-- **@robynpowell.bsky.social**: Uhh, I've never even used computers in any of my jobs except to log hours or to request time off, lol. So uh, yes? lol
-Have these people ever heard of skilled trades?
-  → https://bsky.app/profile/robynpowell.bsky.social/post/3msdktm2ayc2h
-
-- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
-
-Free US shipping + 30-day returns + 12-month warranty.
-
-👉 www.awin1.com/cread.php?aw...
-  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
