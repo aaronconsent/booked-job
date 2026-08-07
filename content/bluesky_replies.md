@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
+
+Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
+  → https://bsky.app/profile/youngconst.bsky.social/post/3mscpcabnsk23
+
+- **@girlsbelike.bsky.social**: Girls be like:
+
+“‘Are you in the business yourself?’ I says, tyking off my ’at, for a man what trades in wolves, anceterer, is a good friend to keepers.
+  → https://bsky.app/profile/girlsbelike.bsky.social/post/3msi7owhpmq2b
+
 - **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
 
@@ -170,17 +180,3 @@ Free US shipping + 30-day returns + 12-month warranty.
 
 - **@204queenb0574.bsky.social**: General Dynamics is a fully American company. Who are you trying to fool? investigate.afsc.org/company/gene...
   → https://bsky.app/profile/204queenb0574.bsky.social/post/3msdrdudigk2h
-
-- **@kacperinvests.bsky.social**: So what do you anchor to when there's no consensus?
-
-The company's own history.
-
-A business that normally trades at 1.2x sales and sits at 0.7x is telling you something - provided you check whether th
-  → https://bsky.app/profile/kacperinvests.bsky.social/post/3mscvnhoo272p
-
-- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
-
- https://themes.stylelib.org/?p=32511 
-
-#architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s
