@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
+
+https://www.barnardhq.com/blog/content-marketing-for-skill
+  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
   → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
 
@@ -164,25 +179,3 @@ And this all
 
 Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
   → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
-
-- **@rankednews.bsky.social**: General testifies how a R2m promotion that never came derailed his career: Major General (Retired) Noel Ndhlovu testified in the Gauteng Division of the High Court in Pretoria on Monday that the contr
-  → https://bsky.app/profile/rankednews.bsky.social/post/3msaxvvogxf24
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
-
-Are any of them farmers?
-  → https://bsky.app/profile/camasonian.bsky.social/post/3mrw23fql7k2d
-
-- **@bawagc.bsky.social**: Best General Contractor Mount Airy MD by Bawa GC
-
-Looking for the Best General Contractor Mount Airy MD? Bawa GC is your trusted partner for professional construction. Visit Here : bawagc.com/general-
-  → https://bsky.app/profile/bawagc.bsky.social/post/3msbfm6wvwc2m

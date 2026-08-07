@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:09:55Z",
+  "updated": "2026-08-07T20:53:32Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23112,
+        "followers": 23113,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9710,
+      "followers": 9709,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },

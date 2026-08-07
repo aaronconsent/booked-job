@@ -20,12 +20,13 @@
   },
   "tiktok": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-08-07T14:21:29",
+    "last_iso": "2026-08-07T16:05:18",
     "day": {
       "date": "2026-08-07",
-      "count": 6
+      "count": 7
     }
   },
   "linkedin": {
@@ -165,12 +166,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-08-07T14:21:29",
+    "last_iso": "2026-08-07T16:05:18",
     "day": {
       "date": "2026-08-07",
-      "count": 6
+      "count": 7
     }
   },
   "telegram": {
@@ -191,12 +193,13 @@
   "tumblr": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-08-07T14:21:29",
+    "last_iso": "2026-08-07T16:05:18",
     "day": {
       "date": "2026-08-07",
-      "count": 6
+      "count": 7
     }
   }
 }
