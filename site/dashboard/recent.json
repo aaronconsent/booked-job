@@ -1,34 +1,40 @@
 {
-  "updated": "2026-08-07T11:20",
+  "updated": "2026-08-07T13:10",
   "posts": [
     {
-      "ts": "2026-08-07T11:19:50",
+      "ts": "2026-08-07T13:09:27",
       "channel": "mastodon",
-      "item": "card-trade",
+      "item": "carousel-leadsites",
       "url": null
     },
     {
-      "ts": "2026-08-07T11:19:37",
+      "ts": "2026-08-07T13:09:01",
       "channel": "tumblr",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-08-07T11:19:34",
+      "ts": "2026-08-07T13:08:59",
       "channel": "bluesky",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-08-07T11:19:28",
-      "channel": "tiktok",
+      "ts": "2026-08-07T13:08:57",
+      "channel": "linkedin",
       "item": "rip-speed-rip",
       "url": null
     },
     {
-      "ts": "2026-08-07T11:19:27",
-      "channel": "facebook",
-      "item": "bj-rev-plumb",
+      "ts": "2026-08-07T13:08:56",
+      "channel": "tiktok",
+      "item": "stop-renting-leads",
+      "url": null
+    },
+    {
+      "ts": "2026-08-07T13:08:55",
+      "channel": "ig",
+      "item": "pod-ep02-peak",
       "url": null
     }
   ]
