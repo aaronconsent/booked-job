@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@noahreday.bsky.social**: First, "middle class woman marries working class schlub" is the plot of half of TV sitcoms.  Why?  Partly because the reverse is Pretty Woman, and is considered a romance, not a comedy.
+
+And this all 
+  → https://bsky.app/profile/noahreday.bsky.social/post/3msgay475gc2n
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
 - **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
 
 Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
@@ -179,9 +187,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts help keep CCTV systems running 
   → https://bsky.app/profile/mithutech.bsky.social/post/3msbmvi7krf27
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T22:49:59Z",
+  "updated": "2026-08-07T23:42:40Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/HVACRepairService"
       },
       {
+        "tag": "#plumbingshop",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/plumbingshop"
+      },
+      {
         "tag": "#PlumbingIsAConstruct",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
@@ -130,11 +135,6 @@
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#HVACUAE",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACUAE"
       }
     ],
     "accounts": [
