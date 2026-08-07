@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-07T18:01",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: biz review timing"
+    },
+    {
+      "ts": "2026-08-07T18:01",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz slow season"
+    },
+    {
       "ts": "2026-08-07T17:03",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner permit"
-    },
-    {
-      "ts": "2026-08-02T16:19",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-02T16:19",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: So you, Booked Job"
     }
   ]
 }

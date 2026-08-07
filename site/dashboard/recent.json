@@ -1,16 +1,28 @@
 {
-  "updated": "2026-08-07T17:04",
+  "updated": "2026-08-07T18:02",
   "posts": [
     {
-      "ts": "2026-08-07T17:03:13",
-      "channel": "facebook",
-      "item": "bj-rev-roof",
+      "ts": "2026-08-07T18:01:38",
+      "channel": "mastodon",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-08-07T17:03:13",
-      "channel": "linkedin",
-      "item": "stop-renting-leads",
+      "ts": "2026-08-07T18:01:26",
+      "channel": "tumblr",
+      "item": "pod-ep03-channels",
+      "url": null
+    },
+    {
+      "ts": "2026-08-07T18:01:25",
+      "channel": "bluesky",
+      "item": "pod-ep01-starter",
+      "url": null
+    },
+    {
+      "ts": "2026-08-07T18:01:23",
+      "channel": "tiktok",
+      "item": "pod-ep03-exclusive",
       "url": null
     }
   ]

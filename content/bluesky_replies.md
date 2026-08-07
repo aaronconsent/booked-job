@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@garagedoorrepair06.bsky.social**: Locked Out? We’re Here 24/7!
+
+Whether it’s your home, car, or business, don’t let a lockout ruin your day. Get fast, reliable emergency locksmith service in Dallas, Quick response, trusted professiona
+  → https://bsky.app/profile/garagedoorrepair06.bsky.social/post/3mrwnf7bahs2q
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@camasonian.bsky.social**: I believe the farm is being rented to an Amish family since the other cousins didn't want to keep doing dairy and started a construction and roofing business.
 
 Are any of them farmers?
@@ -177,11 +185,3 @@ Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@noahreday.bsky.social**: First, "middle class woman marries working class schlub" is the plot of half of TV sitcoms.  Why?  Partly because the reverse is Pretty Woman, and is considered a romance, not a comedy.
-
-And this all 
-  → https://bsky.app/profile/noahreday.bsky.social/post/3msgay475gc2n
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
