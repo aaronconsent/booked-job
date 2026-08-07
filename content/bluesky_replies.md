@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
+
+- **@stylelib.org**: Renovar – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=639287 
+
+#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
+  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
+
 - **@embassya.bsky.social**: Need professional Commercial Documents Embassy Attestation in Delhi NCR for international business requirements? Embassy Apostille Attestation offers fast, reliable, and hassle-free attestation servic
   → https://bsky.app/profile/embassya.bsky.social/post/3mpizuzz7gc2e
 
@@ -171,18 +184,3 @@ A business that normally trades at 1.2x sales and sits at 0.7x is telling you so
 
 #architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s
-
-- **@youngconst.bsky.social**: Top Benefits of Hiring a Residential General Contractor
-
-Planning a home new build, right? Take a look at our latest infographic where we dig into the Top benefits of bringing on a Residential General
-  → https://bsky.app/profile/youngconst.bsky.social/post/3mscpcabnsk23
-
-- **@waybread.bsky.social**: What percentage of Linda McMahon's kids pursed a degree in skilled trades? Oh it was 0? What about the kids of all Linda McMahon's close friends and coworkers? Also 0% Fascinating!
-  → https://bsky.app/profile/waybread.bsky.social/post/3mschrpwjb22l
-
-- **@stylelib.org**: Constrc – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=846637 
-
-#building #business #company #construction #constructor #contractor #corporate #electrician #engineeri
-  → https://bsky.app/profile/stylelib.org/post/3mqrk7pb5fa2a
