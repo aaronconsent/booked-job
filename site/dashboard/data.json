@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-06T22:58",
+  "updated": "2026-08-07T00:48",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
-    "days_left": 21,
+    "days_left": 20,
     "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
@@ -49,9 +49,9 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 1267,
+        "current": 1268,
         "target": 1400,
-        "pct": 90,
+        "pct": 91,
         "on_track": true
       },
       {
@@ -105,84 +105,84 @@
   },
   "upcoming": [
     {
-      "date": "2026-08-07",
+      "date": "2026-08-10",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "AC unit wired off an extension cord run through a window. Ra",
       "sub": "hack job"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every trade has gotten this one. \ud83d\ude2e\u200d\ud83d\udca8",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cMy son said it should be cheaper.\u201d Cool \u2014 have your son do ",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "\u201cDo we really need a permit?\u201d Yes \u2014 and here's the version w",
       "sub": "homeowner says"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You take a real lunch, or eat a gas-station sandwich doing 7",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "IYKYK. Roofers in July, you have it worst. \ud83d\udc47",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Monday, first call is a callback on someone else's screwup. ",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You ride-or-die one battery platform, or a \u201cwhatever's on sa",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Name the tool you lose the most. It's the tape. It's always ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who runs the safety meeting AND the g",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Helper's on his phone more than his tools. You say something",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Best money move some years is firing your worst customer \u2014 t",
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 1267,
+    "views": 1268,
     "likes": 0,
     "videos": 35,
     "shorts": 35
@@ -489,7 +489,7 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 1267,
+      "views": 1268,
       "followers": 0,
       "likes": 0
     },
@@ -520,9 +520,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 22,
+      "count": 23,
       "unit": "posts",
-      "followers": 69,
+      "followers": 70,
       "grade": "B",
       "group": "social",
       "likes": 4
@@ -540,7 +540,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 26,
+      "count": 27,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -551,7 +551,8 @@
       "status": "live",
       "count": 55,
       "unit": "posts",
-      "grade": "B",
+      "followers": 2,
+      "grade": "D",
       "group": "social"
     },
     {
@@ -632,7 +633,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -662,7 +663,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -749,7 +750,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 22
+        "count": 23
       },
       {
         "type": "Video",
@@ -776,7 +777,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 26
+        "count": 27
       },
       {
         "type": "Video",
@@ -855,22 +856,22 @@
     }
   ],
   "funnel": {
-    "reach": 43043,
+    "reach": 43044,
     "engagement": 4,
-    "audience": 90,
+    "audience": 93,
     "cr_clicks": 64
   },
   "trends": {
-    "audience": 14,
-    "engagement": 0,
+    "audience": 17,
+    "engagement": 3,
     "email": 0,
-    "reach": -2875
+    "reach": -2135
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 17971,
+        "value": 17972,
         "grade": "B"
       },
       {
@@ -880,7 +881,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1391,
+        "value": 1393,
         "grade": "A"
       },
       {
@@ -890,7 +891,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 90,
+        "value": 93,
         "grade": "C"
       },
       {
@@ -900,6 +901,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1391 posts, 90 audience, 64 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1393 posts, 93 audience, 64 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
