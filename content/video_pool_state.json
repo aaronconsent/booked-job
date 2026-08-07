@@ -83,12 +83,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-08-07T10:15:50",
+    "last_iso": "2026-08-07T11:19:06",
     "day": {
       "date": "2026-08-07",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -196,12 +197,13 @@
       "bj-stars",
       "bj-ai",
       "bj-scam",
-      "bj-rev-hvac"
+      "bj-rev-hvac",
+      "bj-rev-plumb"
     ],
-    "last_iso": "2026-08-07T06:04:54",
+    "last_iso": "2026-08-07T11:19:06",
     "day": {
       "date": "2026-08-07",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -223,12 +225,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-08-07T10:15:50",
+    "last_iso": "2026-08-07T11:19:06",
     "day": {
       "date": "2026-08-07",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -311,12 +314,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-08-07T10:15:50",
+    "last_iso": "2026-08-07T11:19:06",
     "day": {
       "date": "2026-08-07",
-      "count": 3
+      "count": 4
     }
   }
 }
