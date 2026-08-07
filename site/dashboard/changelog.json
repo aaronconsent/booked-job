@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-07T06:55",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: guy measures"
+    },
+    {
+      "ts": "2026-08-07T06:55",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools ford chevy"
+    },
+    {
       "ts": "2026-08-07T06:06",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Syndicated to Blogger (backlink): Remodeling Contractor Marketing: Selling a Long, Expensive Yes"
-    },
-    {
-      "ts": "2026-08-02T06:25",
-      "kind": "post",
-      "icon": "📝",
-      "text": "Published post: biz slow season"
-    },
-    {
-      "ts": "2026-08-02T04:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing once not twice"
     }
   ]
 }

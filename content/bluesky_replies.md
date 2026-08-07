@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
+  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
+
+- **@204queenb0574.bsky.social**: General Dynamics is a fully American company. Who are you trying to fool? investigate.afsc.org/company/gene...
+  → https://bsky.app/profile/204queenb0574.bsky.social/post/3msdrdudigk2h
+
 - **@kacperinvests.bsky.social**: So what do you anchor to when there's no consensus?
 
 The company's own history.
@@ -178,13 +184,3 @@ Free US shipping + 30-day returns + 12-month warranty.
 
 - **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
   → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
-
- https://themes.stylelib.org/?p=15788 
-
-#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
-  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
