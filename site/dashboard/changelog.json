@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-08T02:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: homeowner son"
+    },
+    {
+      "ts": "2026-08-08T02:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing scope creep"
+    },
+    {
       "ts": "2026-08-08T00:53",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: labor phone"
-    },
-    {
-      "ts": "2026-08-03T03:42",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor monday"
-    },
-    {
-      "ts": "2026-08-02T23:41",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@explore.pinterest.com — needs Aaron"
     }
   ]
 }

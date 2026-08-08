@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
+
 - **@unparalleleddev.bsky.social**: "got any trades?"
   → https://bsky.app/profile/unparalleleddev.bsky.social/post/3mskc6qjjzs25
 
@@ -180,6 +183,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 “‘Are you in the business yourself?’ I says, tyking off my ’at, for a man what trades in wolves, anceterer, is a good friend to keepers.
   → https://bsky.app/profile/girlsbelike.bsky.social/post/3msi7owhpmq2b
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
