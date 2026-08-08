@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-07T21:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: lastguy caulk"
+    },
+    {
+      "ts": "2026-08-07T21:14",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz chasing invoices"
+    },
+    {
       "ts": "2026-08-07T18:54",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: tools lost tape"
-    },
-    {
-      "ts": "2026-08-02T19:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor gas station"
-    },
-    {
-      "ts": "2026-08-02T18:16",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio54818.mail.apollo.io — needs Aaron"
     }
   ]
 }

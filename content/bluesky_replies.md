@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
+
+- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
+  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
+
 - **@noahreday.bsky.social**: First, "middle class woman marries working class schlub" is the plot of half of TV sitcoms.  Why?  Partly because the reverse is Pretty Woman, and is considered a romance, not a comedy.
 
 And this all 
@@ -179,11 +185,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 - **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
   → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@mithutech.bsky.social**: CCTV AMC Service in Durgapur – Annual Maintenance for Reliable Security Systems – 2026
-
-Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts help keep CCTV systems running 
-  → https://bsky.app/profile/mithutech.bsky.social/post/3msbmvi7krf27
