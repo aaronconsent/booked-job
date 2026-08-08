@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@unparalleleddev.bsky.social**: "got any trades?"
+  → https://bsky.app/profile/unparalleleddev.bsky.social/post/3mskc6qjjzs25
+
+- **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
+  → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
+
 - **@mithutech.bsky.social**: CCTV AMC Service in Durgapur – Annual Maintenance for Reliable Security Systems – 2026
 
 Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts help keep CCTV systems running 
@@ -177,13 +183,3 @@ Planning a home new build, right? Take a look at our latest infographic where we
 
 - **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets 3–5 calls a week, tops. A website with AI chatbot answering inquiries 24/7 + local SEO setup? That's 15–20 qualified leads monthly. We build it, opt
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mry5ze5pbk2o
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
-
-- **@stylelib.org**: Renovar – Construction Company WordPress Theme
-
- https://stylelib.org/?p=639287 
-
-#builder #electrician #handyman #painter #progressionstudios #renovation #themeforest #wordpress #architect #architect
-  → https://bsky.app/profile/stylelib.org/post/3mqtsububko2o
