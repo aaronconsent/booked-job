@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T10:45:02Z",
+  "updated": "2026-08-08T11:37:42Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465727,
+        "followers": 465728,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -192,11 +192,32 @@
   },
   "bluesky": [
     {
+      "handle": "@handymanken.bsky.social",
+      "display": "Ken",
+      "followers": 9712,
+      "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
+      "link": "https://bsky.app/profile/handymanken.bsky.social"
+    },
+    {
+      "handle": "@hndymn.bsky.social",
+      "display": "HandymanNick",
+      "followers": 4013,
+      "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
+      "link": "https://bsky.app/profile/hndymn.bsky.social"
+    },
+    {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
       "followers": 3828,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
+    },
+    {
+      "handle": "@hairyturkishgay.bsky.social",
+      "display": "👨‍🔧 HandyMAN 🐻",
+      "followers": 3562,
+      "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
+      "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
     {
       "handle": "@cpajoe.bsky.social",
@@ -211,6 +232,13 @@
       "followers": 2220,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
+    },
+    {
+      "handle": "@cocksroade.bsky.social",
+      "display": "Handyman",
+      "followers": 1793,
+      "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
+      "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@hvac66.bsky.social",
@@ -255,39 +283,11 @@
       "link": "https://bsky.app/profile/kegman83.bsky.social"
     },
     {
-      "handle": "@hvacdave.bsky.social",
-      "display": "Time Out",
-      "followers": 683,
-      "desc": "If we don't solve climate change then nothing else matters.",
-      "link": "https://bsky.app/profile/hvacdave.bsky.social"
-    },
-    {
-      "handle": "@casey.marketing",
-      "display": "Casey The Marketing Guy",
-      "followers": 340,
-      "desc": "Casey.Marketing | Marketer | YouTuber | Podcaster | On a Mission to Get Small Business Owners Marketing Their Business C",
-      "link": "https://bsky.app/profile/casey.marketing"
-    },
-    {
-      "handle": "@mattepannell.bsky.social",
-      "display": "Matt Pannell",
-      "followers": 297,
-      "desc": "Teams: Lakers, Dodgers, NUFC and HMFC. I help small business owners save some 💵 and make some 💰. Yes I am a Theater, Fil",
-      "link": "https://bsky.app/profile/mattepannell.bsky.social"
-    },
-    {
-      "handle": "@smallbizmajority.bsky.social",
-      "display": "Small Business Majority",
-      "followers": 283,
-      "desc": "We're a national non-profit empowering diverse small business owners to build a thriving & equitable economy through edu",
-      "link": "https://bsky.app/profile/smallbizmajority.bsky.social"
-    },
-    {
-      "handle": "@operator214.bsky.social",
-      "display": "Operator214 Private Military Contractor [Vtuber] 🇵🇭⚓️✈️",
-      "followers": 280,
-      "desc": "In Relationship with Razita Qamarina  Filipino VTuber & Merchant Marine IRL , . Vtube Lore as Private Military Contracto",
-      "link": "https://bsky.app/profile/operator214.bsky.social"
+      "handle": "@kirtolson.bsky.social",
+      "display": "Kirt Olson | World's Worst Handyman",
+      "followers": 847,
+      "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
+      "link": "https://bsky.app/profile/kirtolson.bsky.social"
     }
   ]
 }
