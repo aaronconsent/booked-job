@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
+  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
+
 - **@rwatimes.bsky.social**: ➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execute trades or manage funds, leaving the final decision to business owners.
   → https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i
 
@@ -174,10 +177,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 - **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
   → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
-
- https://themes.stylelib.org/?p=15788 
-
-#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
-  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m

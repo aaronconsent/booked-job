@@ -1,34 +1,10 @@
 {
-  "updated": "2026-08-08T15:55",
+  "updated": "2026-08-08T16:53",
   "posts": [
     {
-      "ts": "2026-08-08T15:54:18",
-      "channel": "facebook",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-08-08T15:54:14",
-      "channel": "mastodon",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-08T15:54:00",
-      "channel": "tumblr",
-      "item": "pod-ep02-howmany",
-      "url": null
-    },
-    {
-      "ts": "2026-08-08T15:53:58",
-      "channel": "bluesky",
-      "item": "bj-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-08-08T15:53:53",
-      "channel": "tiktok",
-      "item": "pod-ep02-peak",
+      "ts": "2026-08-08T16:52:30",
+      "channel": "linkedin",
+      "item": "pod-ep03-exclusive",
       "url": null
     }
   ]
