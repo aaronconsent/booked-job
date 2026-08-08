@@ -8,12 +8,13 @@
       "card-rev-roof",
       "card-rev-elec",
       "card-rev-paint",
-      "card-speed"
+      "card-speed",
+      "card-ftc"
     ],
-    "last_iso": "2026-08-08T15:54:11",
+    "last_iso": "2026-08-08T17:52:47",
     "day": {
       "date": "2026-08-08",
-      "count": 5
+      "count": 6
     }
   },
   "ig": {

@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
+
+ https://themes.stylelib.org/?p=15788 
+
+#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
+  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
+
 - **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
   → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
 
@@ -174,6 +181,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 - **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
   → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
