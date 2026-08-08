@@ -1,40 +1,28 @@
 {
-  "updated": "2026-08-08T08:19",
+  "updated": "2026-08-08T09:55",
   "posts": [
     {
-      "ts": "2026-08-08T08:19:19",
-      "channel": "facebook",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-08-08T08:19:14",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-08-08T08:18:37",
+      "ts": "2026-08-08T09:54:18",
       "channel": "mastodon",
-      "item": "card-rev-plumb",
+      "item": "card-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-08-08T08:18:26",
+      "ts": "2026-08-08T09:53:39",
       "channel": "tumblr",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-08-08T08:18:24",
+      "ts": "2026-08-08T09:53:37",
       "channel": "bluesky",
-      "item": "pod-ep01-cost",
+      "item": "pod-ep01-wrongnum",
       "url": null
     },
     {
-      "ts": "2026-08-08T08:18:23",
+      "ts": "2026-08-08T09:53:34",
       "channel": "tiktok",
-      "item": "pod-ep03-lie",
+      "item": "pod-ep02-system",
       "url": null
     }
   ]
