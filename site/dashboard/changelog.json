@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-08T14:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: guy safety"
+    },
+    {
+      "ts": "2026-08-08T14:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: biz gbp stale"
+    },
+    {
       "ts": "2026-08-08T14:06",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: ba nobody sees"
-    },
-    {
-      "ts": "2026-08-03T22:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: ba credit"
-    },
-    {
-      "ts": "2026-08-03T22:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: pricing low bid"
     }
   ]
 }
