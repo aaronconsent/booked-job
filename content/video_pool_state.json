@@ -38,12 +38,13 @@
   },
   "linkedin": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-08-08T06:38:50",
+    "last_iso": "2026-08-08T12:51:42",
     "day": {
       "date": "2026-08-08",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
