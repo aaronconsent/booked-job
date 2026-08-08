@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rwatimes.bsky.social**: ➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execute trades or manage funds, leaving the final decision to business owners.
+  → https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i
+
 - **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
   → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
 
@@ -178,6 +181,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 #architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
   → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
-
-- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
-  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
