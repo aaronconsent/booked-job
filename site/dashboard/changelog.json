@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-08-08T12:00",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: labor phone"
+    },
+    {
+      "ts": "2026-08-08T11:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor monday"
+    },
+    {
+      "ts": "2026-08-08T11:47",
+      "kind": "post",
+      "icon": "📝",
+      "text": "Published post: homeowner warranty"
+    },
+    {
       "ts": "2026-08-08T10:51",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: pricing pick two"
-    },
-    {
-      "ts": "2026-08-03T16:27",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz fire customer"
-    },
-    {
-      "ts": "2026-08-03T15:03",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-03T15:03",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio51677.buffer.com — needs Aaron"
     }
   ]
 }
