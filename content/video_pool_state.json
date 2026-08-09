@@ -40,12 +40,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-08-09T15:58:08",
+    "last_iso": "2026-08-09T17:54:26",
     "day": {
       "date": "2026-08-09",
-      "count": 5
+      "count": 6
     }
   },
   "linkedin": {
@@ -104,12 +105,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-08-09T12:52:23",
+    "last_iso": "2026-08-09T17:54:26",
     "day": {
       "date": "2026-08-09",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
@@ -151,12 +153,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-08-09T15:58:08",
+    "last_iso": "2026-08-09T17:54:26",
     "day": {
       "date": "2026-08-09",
-      "count": 6
+      "count": 7
     }
   },
   "telegram": {
@@ -194,12 +197,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-08-09T15:58:08",
+    "last_iso": "2026-08-09T17:54:26",
     "day": {
       "date": "2026-08-09",
-      "count": 6
+      "count": 7
     }
   }
 }
