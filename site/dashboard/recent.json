@@ -1,29 +1,4 @@
 {
-  "updated": "2026-08-09T14:08",
-  "posts": [
-    {
-      "ts": "2026-08-09T14:07:44",
-      "channel": "mastodon",
-      "item": "card-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T14:07:32",
-      "channel": "tumblr",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T14:07:31",
-      "channel": "bluesky",
-      "item": "bj-favor",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T14:07:23",
-      "channel": "ig",
-      "item": "pod-ep01-speed",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-09T14:55",
+  "posts": []
 }
