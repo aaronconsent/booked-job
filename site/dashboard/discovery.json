@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T23:38:44Z",
+  "updated": "2026-08-09T02:23:37Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -92,11 +92,6 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#contractor",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
         "tag": "#HVACChecklist",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACChecklist"
@@ -130,6 +125,11 @@
         "tag": "#RoofingByBrett",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingByBrett"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#contractors",
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4018,
+      "followers": 4019,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1793,
+      "followers": 1794,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
