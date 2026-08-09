@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-09T00:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz fire customer"
+    },
+    {
+      "ts": "2026-08-09T00:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing callback"
+    },
+    {
       "ts": "2026-08-08T23:27",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@ideas.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-04T13:14",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@ideas.pinterest.com: Booked Job, this was meant for you"
-    },
-    {
-      "ts": "2026-08-04T13:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: lastguy worst"
     }
   ]
 }
