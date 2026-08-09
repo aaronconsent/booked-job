@@ -12,12 +12,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-08-08T14:05:16",
+    "last_iso": "2026-08-09T06:40:10",
     "day": {
-      "date": "2026-08-08",
-      "count": 2
+      "date": "2026-08-09",
+      "count": 1
     }
   },
   "tiktok": {
@@ -33,24 +34,26 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-08-08T21:24:48",
+    "last_iso": "2026-08-09T06:40:10",
     "day": {
-      "date": "2026-08-08",
-      "count": 8
+      "date": "2026-08-09",
+      "count": 1
     }
   },
   "linkedin": {
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-08-08T16:52:29",
+    "last_iso": "2026-08-09T06:40:10",
     "day": {
-      "date": "2026-08-08",
-      "count": 3
+      "date": "2026-08-09",
+      "count": 1
     }
   },
   "facebook": {
@@ -92,12 +95,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-08-08T17:51:52",
+    "last_iso": "2026-08-09T06:40:10",
     "day": {
-      "date": "2026-08-08",
-      "count": 3
+      "date": "2026-08-09",
+      "count": 1
     }
   },
   "pinterest": {
@@ -133,12 +137,13 @@
       "bj-angi",
       "bj-reviews",
       "bj-trade",
-      "bj-slow"
+      "bj-slow",
+      "bj-cpbj"
     ],
-    "last_iso": "2026-08-08T21:24:48",
+    "last_iso": "2026-08-09T06:40:10",
     "day": {
-      "date": "2026-08-08",
-      "count": 8
+      "date": "2026-08-09",
+      "count": 1
     }
   },
   "telegram": {
@@ -170,12 +175,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-08-08T21:24:48",
+    "last_iso": "2026-08-09T06:40:10",
     "day": {
-      "date": "2026-08-08",
-      "count": 8
+      "date": "2026-08-09",
+      "count": 1
     }
   }
 }

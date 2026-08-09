@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@schlumbrechtselec.bsky.social**: Experiencing an unexpected electrical emergency? Schlumbrecht's Electric is ready to help with emergency electrical services available 24/7. Our electricians provide prompt and professional solutions 
+  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3ms6gu3aqis2m
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
+  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
+
 - **@onewindowsolution.bsky.social**: Davidson College President: Is college worth it? Take a look at a new answer | Fortune
 
 A graduate with a four-year degree will make nearly a million dollars more than a non-graduate over their lifeti
@@ -178,13 +188,3 @@ Why a recruiting problem?
 
 https://www.barnardhq.com/blog/content-marketing-for-skill
   → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n

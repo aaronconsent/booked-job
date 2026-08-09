@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T10:47:23Z",
+  "updated": "2026-08-09T11:39:02Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7177,
+        "followers": 7178,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -248,20 +248,6 @@
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
     {
-      "handle": "@roofing11.bsky.social",
-      "display": "Barbara",
-      "followers": 1472,
-      "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
-      "link": "https://bsky.app/profile/roofing11.bsky.social"
-    },
-    {
-      "handle": "@thatroofingguy.bsky.social",
-      "display": "That Roofing Guy",
-      "followers": 1414,
-      "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
-      "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
-    },
-    {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
       "followers": 1171,
@@ -271,7 +257,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1027,
+      "followers": 1029,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
@@ -288,6 +274,20 @@
       "followers": 847,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
+    },
+    {
+      "handle": "@thebarehandyman.bsky.social",
+      "display": "The Bare Handyman",
+      "followers": 702,
+      "desc": "he/any - professional handyman According to chat “the most married man ever” and “slut”",
+      "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
+    },
+    {
+      "handle": "@hvacdave.bsky.social",
+      "display": "Time Out",
+      "followers": 685,
+      "desc": "If we don't solve climate change then nothing else matters.",
+      "link": "https://bsky.app/profile/hvacdave.bsky.social"
     }
   ]
 }
