@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
+
+Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
+  → https://bsky.app/profile/platinumzombie.bsky.social/post/3mrr4jbgobc23
+
+- **@stylelib.org**: Plumbing – Plumber and Repair Services Maintenance HTML Template
+
+ https://themes.stylelib.org/?p=22880 
+
+#business #corporate #handyman #maintenance #plumber #repair #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3mrzyezswf622
+
 - **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
 
 Free US shipping + 30-day returns + 12-month warranty.
@@ -171,13 +183,3 @@ Websites + AI systems that book
 
 #architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
   → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@kevinwardrop.nitemayr.com**: How do I tell the very sensitive AI contractor that "copying and pasting AI responses" doesn't raise my general opinion of them at all.
-  → https://bsky.app/profile/kevinwardrop.nitemayr.com/post/3msj3znss4s2v
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
