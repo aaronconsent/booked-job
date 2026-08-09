@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-08T23:27",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: pricing diagnostic fee"
+    },
+    {
+      "ts": "2026-08-08T23:27",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: ba nobody sees"
+    },
+    {
       "ts": "2026-08-08T21:25",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: lastguy worst"
-    },
-    {
-      "ts": "2026-08-04T13:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing once not twice"
-    },
-    {
-      "ts": "2026-08-04T10:45",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
     }
   ]
 }

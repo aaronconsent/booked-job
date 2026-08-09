@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
+  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
+
+- **@bboogle.bsky.social**: I’m Goombs! Goombs the Shroom! 
+
+Not to long ago, I was minding my business, just walking around back to back in between two green pipes.
+
+Suddenly, a mustache plumber jumped over me in a hurry.
+
+Hey 
+  → https://bsky.app/profile/bboogle.bsky.social/post/3msmmzaex522y
+
 - **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
   → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
 
@@ -169,15 +181,3 @@ Anyone who has ever had to hire a plumber will tell you it's a lucrative busines
 
 #business #corporate #handyman #maintenance #plumber #repair #sitetemplates #themeforest
   → https://bsky.app/profile/stylelib.org/post/3mrzyezswf622
-
-- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
-
-Free US shipping + 30-day returns + 12-month warranty.
-
-👉 www.awin1.com/cread.php?aw...
-  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b

@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @wafb.com: “A local business owner has spent more than a year demanding answers after utility crews le…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @guineverecryptic.bsky.social: “Why does it only count if you’re rich and/or famous? It’s much easier to become a carpente…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “ORIEL – Responsive Interior Design WordPress Theme   https://themes.stylelib.org/?p=15788 …”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @whitespark.ca: “Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendatio…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @rwatimes.bsky.social: “➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execut…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @genaidefense.bsky.social: “GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326",
       "est": "2 min"
     },
     {
