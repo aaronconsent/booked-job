@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T02:10",
+  "updated": "2026-08-09T03:56",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 1299,
+        "current": 1298,
         "target": 1400,
         "pct": 93,
         "on_track": true
@@ -214,7 +214,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 1299,
+    "views": 1298,
     "likes": 0,
     "videos": 36,
     "shorts": 36
@@ -479,7 +479,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3113,
+      "views": 3238,
       "followers": 1
     },
     {
@@ -489,7 +489,7 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 1299,
+      "views": 1298,
       "followers": 0,
       "likes": 0
     },
@@ -520,7 +520,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 57,
+      "count": 1,
       "unit": "posts",
       "followers": 74,
       "grade": "B",
@@ -540,7 +540,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -633,7 +633,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Polls",
@@ -663,7 +663,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Long video",
@@ -750,7 +750,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 57
+        "count": 1
       },
       {
         "type": "Video",
@@ -777,7 +777,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 6
+        "count": 7
       },
       {
         "type": "Video",
@@ -856,7 +856,7 @@
     }
   ],
   "funnel": {
-    "reach": 41892,
+    "reach": 42130,
     "engagement": 4,
     "audience": 97,
     "cr_clicks": 70
@@ -865,13 +865,13 @@
     "audience": 13,
     "engagement": 2,
     "email": 0,
-    "reach": -2790
+    "reach": -2552
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 18003,
+        "value": 18002,
         "grade": "B"
       },
       {
@@ -881,7 +881,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1426,
+        "value": 1371,
         "grade": "A"
       },
       {
@@ -901,6 +901,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1426 posts, 97 audience, 70 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1371 posts, 97 audience, 70 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
