@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T15:41:17Z",
+  "updated": "2026-08-09T16:49:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -92,6 +92,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#roofing",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
         "tag": "#HVACChecklist",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACChecklist"
@@ -115,11 +120,6 @@
         "tag": "#PlumbingServicesWV",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingServicesWV"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingByBrett",
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 731,
+        "followers": 730,
         "link": "https://mastodon.social/@Noshir"
       },
       {

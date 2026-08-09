@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-09T12:01",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: homeowner lie"
+    },
+    {
+      "ts": "2026-08-09T12:00",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy rate"
+    },
+    {
       "ts": "2026-08-09T10:53",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from kuta.cts@gmail.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-05T10:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-05T10:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: You =?UTF-8?B?RG9u4oCZdA==?= Need a Job to Make Money | Mona Lazar"
     }
   ]
 }

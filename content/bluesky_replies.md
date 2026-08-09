@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@malena.bsky.social**: Warning⚠️
+Every one of us whether we're a rich business person, a supermarket clerk, a teacher or a plumber is at risk from #ICELawlessness.
+
+They can target anyone. If your business has a rival, mayb
+  → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
+
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
 
@@ -177,11 +186,3 @@ Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@ukbreakingnews24x7.bsky.social**: Could knowledge management become AI's secret advantage? Explore why this overlooked field matters more than ever. Read more: www.ukbreakingnews24x7.com/tech/knowled... #AI #KnowledgeManagement #Techn
-  → https://bsky.app/profile/ukbreakingnews24x7.bsky.social/post/3mppzxvsups2y
-
-- **@noahreday.bsky.social**: First, "middle class woman marries working class schlub" is the plot of half of TV sitcoms.  Why?  Partly because the reverse is Pretty Woman, and is considered a romance, not a comedy.
-
-And this all 
-  → https://bsky.app/profile/noahreday.bsky.social/post/3msgay475gc2n
