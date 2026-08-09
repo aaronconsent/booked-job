@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-09T10:53",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: ba credit"
+    },
+    {
+      "ts": "2026-08-09T10:53",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy worst"
+    },
+    {
       "ts": "2026-08-09T09:58",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: You =?UTF-8?B?RG9u4oCZdA==?= Need a Job to Make Money | Mona Lazar"
-    },
-    {
-      "ts": "2026-08-05T10:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from kuta.cts@gmail.com: Regarding Your Booked-job.com"
-    },
-    {
-      "ts": "2026-08-05T10:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Booked Job, a beautiful life is your calling"
     }
   ]
 }

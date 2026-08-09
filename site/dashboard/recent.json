@@ -1,29 +1,4 @@
 {
-  "updated": "2026-08-09T09:58",
-  "posts": [
-    {
-      "ts": "2026-08-09T09:58:07",
-      "channel": "mastodon",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T09:57:53",
-      "channel": "tumblr",
-      "item": "pod-ep01-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T09:57:50",
-      "channel": "bluesky",
-      "item": "bj-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T09:57:47",
-      "channel": "tiktok",
-      "item": "pod-ep01-starter",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-09T10:54",
+  "posts": []
 }
