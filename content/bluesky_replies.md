@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
+
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
 - **@unparalleleddev.bsky.social**: "got any trades?"
   → https://bsky.app/profile/unparalleleddev.bsky.social/post/3mskc6qjjzs25
 
@@ -179,13 +187,3 @@ Hey
 
 #architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s
-
-- **@natalie-reed.bsky.social**: Aecore runs a general contractor like a software company - real-time schedules, transparent budgets, weekly photo updates.
-
-https://yespress.io/aecore?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3mslgvoetwn2p
-
-- **@girlsbelike.bsky.social**: Girls be like:
-
-“‘Are you in the business yourself?’ I says, tyking off my ’at, for a man what trades in wolves, anceterer, is a good friend to keepers.
-  → https://bsky.app/profile/girlsbelike.bsky.social/post/3msi7owhpmq2b
