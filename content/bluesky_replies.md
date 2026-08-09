@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@continentsentinel.bsky.social**: MICHIGAN’S NEXT ECONOMY – Pentagon Pushes Weapons Production As Iran War Drains Arsenal — Could Michigan Capture Billions?
+
+https://www.europesays.com/3184808/
+
+GM, Ford and thousands of Michigan supp
+  → https://bsky.app/profile/continentsentinel.bsky.social/post/3mso7ztoodh2i
+
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
 
@@ -183,6 +190,3 @@ Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts
 
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523

@@ -1,34 +1,28 @@
 {
-  "updated": "2026-08-09T12:54",
+  "updated": "2026-08-09T14:08",
   "posts": [
     {
-      "ts": "2026-08-09T12:53:03",
+      "ts": "2026-08-09T14:07:44",
+      "channel": "mastodon",
+      "item": "card-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-08-09T14:07:32",
       "channel": "tumblr",
-      "item": "pod-ep01-refunds",
+      "item": "pod-ep01-cost",
       "url": null
     },
     {
-      "ts": "2026-08-09T12:53:00",
+      "ts": "2026-08-09T14:07:31",
       "channel": "bluesky",
-      "item": "bj-cpl",
+      "item": "bj-favor",
       "url": null
     },
     {
-      "ts": "2026-08-09T12:52:56",
-      "channel": "tiktok",
-      "item": "pod-ep01-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T12:52:56",
-      "channel": "linkedin",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-08-09T12:52:55",
-      "channel": "facebook",
-      "item": "bj-first10k",
+      "ts": "2026-08-09T14:07:23",
+      "channel": "ig",
+      "item": "pod-ep01-speed",
       "url": null
     }
   ]
