@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=18003 
+
+#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
+
+- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
+  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
+
+- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
+  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
 - **@stylelib.org**: Builderry – Construction and Building WordPress Theme
 
  https://themes.stylelib.org/?p=32511 
@@ -164,32 +185,3 @@ Websites + AI systems that book
 
 #architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
   → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
-
-- **@kevinwardrop.nitemayr.com**: How do I tell the very sensitive AI contractor that "copying and pasting AI responses" doesn't raise my general opinion of them at all.
-  → https://bsky.app/profile/kevinwardrop.nitemayr.com/post/3msj3znss4s2v
-
-- **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
-
-Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
-  → https://bsky.app/profile/platinumzombie.bsky.social/post/3mrr4jbgobc23
-
-- **@stylelib.org**: Plumbing – Plumber and Repair Services Maintenance HTML Template
-
- https://themes.stylelib.org/?p=22880 
-
-#business #corporate #handyman #maintenance #plumber #repair #sitetemplates #themeforest
-  → https://bsky.app/profile/stylelib.org/post/3mrzyezswf622
-
-- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
-
-Free US shipping + 30-day returns + 12-month warranty.
-
-👉 www.awin1.com/cread.php?aw...
-  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
