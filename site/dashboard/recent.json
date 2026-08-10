@@ -1,41 +1,4 @@
 {
-  "updated": "2026-08-10T16:09",
-  "posts": [
-    {
-      "ts": "2026-08-10T16:07:51",
-      "channel": "facebook",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T16:07:48",
-      "channel": "mastodon",
-      "item": "card-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T16:07:36",
-      "channel": "tumblr",
-      "item": "bj-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T16:07:35",
-      "channel": "bluesky",
-      "item": "bj-cheapbid",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T16:07:31",
-      "channel": "linkedin",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T16:07:30",
-      "channel": "tiktok",
-      "item": "bj-cpbj",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-10T17:05",
+  "posts": []
 }

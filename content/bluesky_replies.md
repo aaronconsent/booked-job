@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
+
+Free US shipping + 30-day returns + 12-month warranty.
+
+👉 www.awin1.com/cread.php?aw...
+  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
 - **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
@@ -165,18 +184,3 @@ Need to secure your home, apartment, or business without replacing every lock? R
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@onewindowsolution.bsky.social**: Davidson College President: Is college worth it? Take a look at a new answer | Fortune
-
-A graduate with a four-year degree will make nearly a million dollars more than a non-graduate over their lifeti
-  → https://bsky.app/profile/onewindowsolution.bsky.social/post/3msnflzbnxw2a
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
