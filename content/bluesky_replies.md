@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@oldnbitter.bsky.social**: I just got a text from a roofing company that said they used a drone to fly over my house to assess it for damage & they have concerns.  MY CONCERN is—can they legally do that & can I fly a drone over
+  → https://bsky.app/profile/oldnbitter.bsky.social/post/3msqrjw2nos2r
+
+- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
+  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
+
+- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
+  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
+
+- **@legalizegoblins.bsky.social**: It’s my 7th anniversary as a staff editor at Paizo. (I was a temp/contractor/freelancer/general underling for a year and a half before that.) Very weird to think about. I guess I’m proud of myself?
+  → https://bsky.app/profile/legalizegoblins.bsky.social/post/3msqsm5m5js2p
+
+- **@rwatimes.bsky.social**: ➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execute trades or manage funds, leaving the final decision to business owners.
+  → https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i
+
+- **@motorcityadam.com**: This whole interview is remarkably unfocused, even for Galloway and Douthat.
+
+But, bottom line.
+
+If anyone is hoping that more skilled trades interest is a quick fix to a long history of "unremarkable
+  → https://bsky.app/profile/motorcityadam.com/post/3msotycydz22d
+
 - **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
 
 🛠️ Steady local repair jobs
@@ -164,31 +186,3 @@ Free US shipping + 30-day returns + 12-month warranty.
 
 👉 www.awin1.com/cread.php?aw...
   → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
