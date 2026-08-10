@@ -44,12 +44,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-08-10T06:57:01",
+    "last_iso": "2026-08-10T08:48:26",
     "day": {
       "date": "2026-08-10",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -161,12 +162,13 @@
       "bj-stars",
       "bj-ai",
       "bj-scam",
-      "bj-rev-hvac"
+      "bj-rev-hvac",
+      "bj-rev-plumb"
     ],
-    "last_iso": "2026-08-10T06:57:01",
+    "last_iso": "2026-08-10T08:48:26",
     "day": {
       "date": "2026-08-10",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -207,12 +209,13 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-08-10T06:57:01",
+    "last_iso": "2026-08-10T08:48:26",
     "day": {
       "date": "2026-08-10",
-      "count": 1
+      "count": 2
     }
   }
 }
