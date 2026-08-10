@@ -1,34 +1,10 @@
 {
-  "updated": "2026-08-10T12:17",
+  "updated": "2026-08-10T13:11",
   "posts": [
     {
-      "ts": "2026-08-10T12:16:07",
-      "channel": "mastodon",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T12:15:43",
-      "channel": "tumblr",
-      "item": "bj-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T12:15:41",
-      "channel": "bluesky",
-      "item": "bj-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T12:15:37",
-      "channel": "tiktok",
-      "item": "bj-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T12:15:35",
-      "channel": "facebook",
-      "item": "bj-missedcall",
+      "ts": "2026-08-10T13:11:03",
+      "channel": "linkedin",
+      "item": "pod-ep02-fake",
       "url": null
     }
   ]
