@@ -1,13 +1,14 @@
 {
   "done": [
     "is-angi-worth-it",
-    "low-bid",
-    "first-to-answer",
     "519-reviews",
-    "money-leaks-torque",
-    "chargeback-trap",
+    "first-to-answer",
     "missed-call",
     "last-guy",
-    "eight-automations"
+    "eight-automations",
+    "low-bid",
+    "money-leaks",
+    "money-leaks-torque",
+    "chargeback-trap"
   ]
 }

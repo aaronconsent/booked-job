@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
+  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
+
+Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
+  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
+
 - **@onewindowsolution.bsky.social**: Davidson College President: Is college worth it? Take a look at a new answer | Fortune
 
 A graduate with a four-year degree will make nearly a million dollars more than a non-graduate over their lifeti
@@ -169,21 +181,3 @@ GM, Ford and thousands of Michigan supp
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
-
-https://www.barnardhq.com/blog/content-marketing-for-skill
-  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n

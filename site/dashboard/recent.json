@@ -1,35 +1,4 @@
 {
-  "updated": "2026-08-10T18:03",
-  "posts": [
-    {
-      "ts": "2026-08-10T18:02:57",
-      "channel": "mastodon",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T18:02:46",
-      "channel": "tumblr",
-      "item": "bj-cpl",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T18:02:45",
-      "channel": "bluesky",
-      "item": "bj-wordpress",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T18:02:43",
-      "channel": "tiktok",
-      "item": "bj-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T18:02:42",
-      "channel": "facebook",
-      "item": "bj-stormchaser",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-10T18:59",
+  "posts": []
 }
