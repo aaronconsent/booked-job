@@ -2,6 +2,35 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kevinwardrop.nitemayr.com**: How do I tell the very sensitive AI contractor that "copying and pasting AI responses" doesn't raise my general opinion of them at all.
+  → https://bsky.app/profile/kevinwardrop.nitemayr.com/post/3msj3znss4s2v
+
+- **@platinumzombie.bsky.social**: As if their kids will ever work at anything... Or attend public schools for that matter.
+
+Anyone who has ever had to hire a plumber will tell you it's a lucrative business.  Anyone who studied to be a
+  → https://bsky.app/profile/platinumzombie.bsky.social/post/3mrr4jbgobc23
+
+- **@stylelib.org**: Plumbing – Plumber and Repair Services Maintenance HTML Template
+
+ https://themes.stylelib.org/?p=22880 
+
+#business #corporate #handyman #maintenance #plumber #repair #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3mrzyezswf622
+
+- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
+
+Free US shipping + 30-day returns + 12-month warranty.
+
+👉 www.awin1.com/cread.php?aw...
+  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
 - **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
 
  https://themes.stylelib.org/?p=18003 
@@ -156,32 +185,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
   → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
-
-- **@onewindowsolution.bsky.social**: Davidson College President: Is college worth it? Take a look at a new answer | Fortune
-
-A graduate with a four-year degree will make nearly a million dollars more than a non-graduate over their lifeti
-  → https://bsky.app/profile/onewindowsolution.bsky.social/post/3msnflzbnxw2a
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3ms2rsptgxx2b
-
-- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
-
-Websites + AI systems that book 
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
