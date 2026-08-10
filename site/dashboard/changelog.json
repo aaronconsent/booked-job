@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-08-10T18:02",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy panel"
+    },
+    {
+      "ts": "2026-08-10T18:02",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: biz slow season"
+    },
+    {
+      "ts": "2026-08-10T18:02",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools burning truck"
+    },
+    {
       "ts": "2026-08-10T17:04",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-07T08:36",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Careers Are Collapsing. Jobs Are Dying. The Smartest People Are Doing This Right"
-    },
-    {
-      "ts": "2026-08-07T08:36",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing scope creep"
-    },
-    {
-      "ts": "2026-08-07T08:36",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: labor show up"
     }
   ]
 }
