@@ -2,6 +2,35 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@motorcityadam.com**: This whole interview is remarkably unfocused, even for Galloway and Douthat.
+
+But, bottom line.
+
+If anyone is hoping that more skilled trades interest is a quick fix to a long history of "unremarkable
+  → https://bsky.app/profile/motorcityadam.com/post/3msotycydz22d
+
+- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
+
+🛠️ Steady local repair jobs
+💰 Reliable payouts
+📅 Flexible scheduling
+
+Join
+  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@natalie-reed.bsky.social**: Aecore runs a general contractor like a software company - real-time schedules, transparent budgets, weekly photo updates.
+
+https://yespress.io/aecore?utm_source=bluesky&utm_medium=social via Yespress
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3mslgvoetwn2p
+
+- **@citizenptnewsoh.bsky.social**: Rising contractor and fuel costs are pushing the estimated price of Olentangy High School 5 to a staggering $135 million—what does this mean for the future of education funding in Ohio? 
+
+Click to rea
+  → https://bsky.app/profile/citizenptnewsoh.bsky.social/post/3msothgrz6w2j
+
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
 
@@ -164,26 +193,3 @@ Hey
 
 - **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
   → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
-
- https://themes.stylelib.org/?p=15788 
-
-#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
-  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
-
-- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
-  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
-
-- **@rwatimes.bsky.social**: ➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execute trades or manage funds, leaving the final decision to business owners.
-  → https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i
-
-- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
-  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
-
- https://themes.stylelib.org/?p=32511 
-
-#architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s

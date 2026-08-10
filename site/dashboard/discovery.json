@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T23:41:46Z",
+  "updated": "2026-08-10T02:28:22Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,23 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 19,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 7,
+        "uses": 5,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
         "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#HVACChecklist",
@@ -112,14 +107,19 @@
         "link": "https://mastodon.social/tags/plumbingshop"
       },
       {
+        "tag": "#PlumbingServicesWV",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingServicesWV"
+      },
+      {
         "tag": "#PlumbingIsAConstruct",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
       },
       {
-        "tag": "#PlumbingServicesWV",
+        "tag": "#roofing",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingServicesWV"
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingByBrett",
@@ -127,20 +127,20 @@
         "link": "https://mastodon.social/tags/RoofingByBrett"
       },
       {
-        "tag": "#contractor",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#HVACUAE",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACUAE"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465761,
+        "followers": 465762,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23116,
+        "followers": 23117,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9729,
+      "followers": 9731,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
