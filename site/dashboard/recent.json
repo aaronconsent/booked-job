@@ -1,46 +1,28 @@
 {
-  "updated": "2026-08-10T08:51",
+  "updated": "2026-08-10T10:25",
   "posts": [
     {
-      "ts": "2026-08-10T08:50:06",
-      "channel": "youtube",
-      "item": "pod-ep01-starter",
-      "url": "https://youtu.be/frT2-ZqnsVY"
-    },
-    {
-      "ts": "2026-08-10T08:49:59",
-      "channel": "facebook",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T08:49:55",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-08-10T08:49:19",
+      "ts": "2026-08-10T10:24:04",
       "channel": "mastodon",
-      "item": "card-cpbj",
+      "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-08-10T08:49:06",
+      "ts": "2026-08-10T10:23:50",
       "channel": "tumblr",
-      "item": "bj-trade",
+      "item": "bj-slow",
       "url": null
     },
     {
-      "ts": "2026-08-10T08:48:47",
+      "ts": "2026-08-10T10:23:48",
       "channel": "bluesky",
-      "item": "bj-rev-plumb",
+      "item": "bj-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-08-10T08:48:28",
+      "ts": "2026-08-10T10:23:44",
       "channel": "tiktok",
-      "item": "bj-angi",
+      "item": "bj-reviews",
       "url": null
     }
   ]

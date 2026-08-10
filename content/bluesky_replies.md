@@ -2,6 +2,33 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@malena.bsky.social**: Warning⚠️
+Every one of us whether we're a rich business person, a supermarket clerk, a teacher or a plumber is at risk from #ICELawlessness.
+
+They can target anyone. If your business has a rival, mayb
+  → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@continentsentinel.bsky.social**: MICHIGAN’S NEXT ECONOMY – Pentagon Pushes Weapons Production As Iran War Drains Arsenal — Could Michigan Capture Billions?
+
+https://www.europesays.com/3184808/
+
+GM, Ford and thousands of Michigan supp
+  → https://bsky.app/profile/continentsentinel.bsky.social/post/3mso7ztoodh2i
+
+- **@quadrifrons.online**: On the other end of the scale, I once worked a con where the vendors room was tucked away on the opposite end of the venue from everything else. It was so slow I don't think anyone did more business i
+  → https://bsky.app/profile/quadrifrons.online/post/3msqbe2dxys2f
+
+- **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
+
+
+  → https://bsky.app/profile/weareoca.bsky.social/post/3msqba5g7je25
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -171,24 +198,3 @@ Click to rea
 
 A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
   → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
-
-- **@unparalleleddev.bsky.social**: "got any trades?"
-  → https://bsky.app/profile/unparalleleddev.bsky.social/post/3mskc6qjjzs25
-
-- **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
-  → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
-
-- **@mithutech.bsky.social**: CCTV AMC Service in Durgapur – Annual Maintenance for Reliable Security Systems – 2026
-
-Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts help keep CCTV systems running 
-  → https://bsky.app/profile/mithutech.bsky.social/post/3msbmvi7krf27
-
-- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
-Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
-  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523

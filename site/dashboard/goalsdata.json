@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T08:51",
+  "generated": "2026-08-10T10:25",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 15,
+        "current": 17,
         "target": 22,
         "status": "yellow",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       }
     ],
@@ -95,7 +95,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 2,
+        "current": 3,
         "target": 7,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 43,
+        "current": 45,
         "target": 600,
         "status": "red",
         "needs": null
@@ -167,7 +167,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 5,
+        "current": 6,
         "target": 30,
         "status": "red",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 150,
+        "current": 154,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -222,11 +222,11 @@
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 999,
+    "social_posts": 1001,
     "followers": 95,
     "engagement": 3,
-    "yt_views": 1298,
-    "yt_shorts": 36,
+    "yt_views": 1302,
+    "yt_shorts": 37,
     "email_subs": 7,
     "traffic": 0
   },
