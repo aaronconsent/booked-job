@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
+
+ https://themes.stylelib.org/?p=32511 
+
+#architecture #business #company #construction #corporate #industry #plumber #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mryg3rvmua2s
+
+- **@stylelib.org**: ORIEL – Responsive Interior Design WordPress Theme
+
+ https://themes.stylelib.org/?p=15788 
+
+#architect #architecture #business #company #corporate #engineering #furniture #handyman #interior #interior
+  → https://bsky.app/profile/stylelib.org/post/3mrzod6b3by2m
+
+- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
+  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
+
+- **@rwatimes.bsky.social**: ➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execute trades or manage funds, leaving the final decision to business owners.
+  → https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i
+
+- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
+  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
+
 - **@motorcityadam.com**: This whole interview is remarkably unfocused, even for Galloway and Douthat.
 
 But, bottom line.
@@ -170,26 +193,3 @@ Free US shipping + 30-day returns + 12-month warranty.
 
 👉 www.awin1.com/cread.php?aw...
   → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@bboogle.bsky.social**: I’m Goombs! Goombs the Shroom! 
-
-Not to long ago, I was minding my business, just walking around back to back in between two green pipes.
-
-Suddenly, a mustache plumber jumped over me in a hurry.
-
-Hey 
-  → https://bsky.app/profile/bboogle.bsky.social/post/3msmmzaex522y
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
