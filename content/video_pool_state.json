@@ -14,12 +14,13 @@
       "pod-ep02-howmany",
       "pod-ep02-invisible",
       "pod-ep01-verdict",
-      "pod-ep01-speed"
+      "pod-ep01-speed",
+      "pod-ep01-starter"
     ],
-    "last_iso": "2026-08-09T14:06:47",
+    "last_iso": "2026-08-10T06:57:01",
     "day": {
-      "date": "2026-08-09",
-      "count": 2
+      "date": "2026-08-10",
+      "count": 1
     }
   },
   "tiktok": {
@@ -42,12 +43,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-08-09T21:29:59",
+    "last_iso": "2026-08-10T06:57:01",
     "day": {
-      "date": "2026-08-09",
-      "count": 7
+      "date": "2026-08-10",
+      "count": 1
     }
   },
   "linkedin": {
@@ -57,12 +59,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-08-09T16:53:51",
+    "last_iso": "2026-08-10T06:57:01",
     "day": {
-      "date": "2026-08-09",
-      "count": 3
+      "date": "2026-08-10",
+      "count": 1
     }
   },
   "facebook": {
@@ -107,12 +110,13 @@
       "bj-cheapbid",
       "bj-wordpress",
       "bj-first10k",
-      "bj-yelp"
+      "bj-yelp",
+      "bj-anon98"
     ],
-    "last_iso": "2026-08-09T17:54:26",
+    "last_iso": "2026-08-10T06:57:01",
     "day": {
-      "date": "2026-08-09",
-      "count": 3
+      "date": "2026-08-10",
+      "count": 1
     }
   },
   "pinterest": {
@@ -156,12 +160,13 @@
       "bj-favor",
       "bj-stars",
       "bj-ai",
-      "bj-scam"
+      "bj-scam",
+      "bj-rev-hvac"
     ],
-    "last_iso": "2026-08-09T21:29:59",
+    "last_iso": "2026-08-10T06:57:01",
     "day": {
-      "date": "2026-08-09",
-      "count": 8
+      "date": "2026-08-10",
+      "count": 1
     }
   },
   "telegram": {
@@ -201,12 +206,13 @@
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
-      "bj-angi"
+      "bj-angi",
+      "bj-reviews"
     ],
-    "last_iso": "2026-08-09T21:29:59",
+    "last_iso": "2026-08-10T06:57:01",
     "day": {
-      "date": "2026-08-09",
-      "count": 8
+      "date": "2026-08-10",
+      "count": 1
     }
   }
 }
