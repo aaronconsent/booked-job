@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T15:11:32Z",
+  "updated": "2026-08-10T17:03:48Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,14 +107,14 @@
         "link": "https://mastodon.social/tags/plumbingshop"
       },
       {
-        "tag": "#PlumbingIsAConstruct",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
-      },
-      {
         "tag": "#PlumbingServicesWV",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingServicesWV"
+      },
+      {
+        "tag": "#PlumbingIsAConstruct",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
       },
       {
         "tag": "#roofing",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465770,
+        "followers": 465771,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2339,
+        "followers": 2338,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9736,
+      "followers": 9743,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
