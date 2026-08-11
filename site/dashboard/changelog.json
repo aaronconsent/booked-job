@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-08-11T08:40",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-11T08:40",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: =?UTF-8?B?RG9u4oCZdA==?= Learn To Code. Learn A Trade Instead. | Attila =?UTF-8?"
+    },
+    {
+      "ts": "2026-08-11T08:39",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: homeowner son"
+    },
+    {
+      "ts": "2026-08-11T08:39",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz deposit"
+    },
+    {
       "ts": "2026-08-11T06:53",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Threads: lastguy caulk"
-    },
-    {
-      "ts": "2026-08-07T21:14",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz chasing invoices"
-    },
-    {
-      "ts": "2026-08-07T18:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: homeowner son"
-    },
-    {
-      "ts": "2026-08-07T18:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: pricing scope creep"
-    },
-    {
-      "ts": "2026-08-07T18:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz money leaks"
     }
   ]
 }
