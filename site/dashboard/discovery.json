@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T05:59:58Z",
+  "updated": "2026-08-11T07:22:49Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,14 +107,14 @@
         "link": "https://mastodon.social/tags/plumbingshop"
       },
       {
-        "tag": "#PlumbingIsAConstruct",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
-      },
-      {
         "tag": "#PlumbingServicesWV",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingServicesWV"
+      },
+      {
+        "tag": "#PlumbingIsAConstruct",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
       },
       {
         "tag": "#roofing",
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9797,
+      "followers": 9798,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3564,
+      "followers": 3565,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1797,
+      "followers": 1796,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
