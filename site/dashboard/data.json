@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T06:00",
+  "updated": "2026-08-11T06:52",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 62,
+        "current": 63,
         "target": 100,
-        "pct": 62,
+        "pct": 63,
         "on_track": true
       },
       {
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 4,
+        "current": 5,
         "target": 60,
-        "pct": 7,
+        "pct": 8,
         "on_track": false
       },
       {
@@ -57,10 +57,10 @@
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 11,
+        "current": 12,
         "target": 25,
-        "pct": 44,
-        "on_track": false
+        "pct": 48,
+        "on_track": true
       },
       {
         "label": "YouTube subs",
@@ -89,10 +89,10 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 11,
+        "current": 12,
         "target": 25,
-        "pct": 44,
-        "on_track": false
+        "pct": 48,
+        "on_track": true
       }
     ]
   },
@@ -108,74 +108,67 @@
       "date": "2026-08-12",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "You take a real lunch, or eat a gas-station sandwich doing 7",
+      "title": "IYKYK. Roofers in July, you have it worst. \ud83d\udc47",
       "sub": "trade humor"
     },
     {
       "date": "2026-08-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "IYKYK. Roofers in July, you have it worst. \ud83d\udc47",
+      "title": "Monday, first call is a callback on someone else's screwup. ",
       "sub": "trade humor"
     },
     {
       "date": "2026-08-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Monday, first call is a callback on someone else's screwup. ",
-      "sub": "trade humor"
-    },
-    {
-      "date": "2026-08-17",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "You ride-or-die one battery platform, or a \u201cwhatever's on sa",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Name the tool you lose the most. It's the tape. It's always ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who runs the safety meeting AND the g",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Helper's on his phone more than his tools. You say something",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Best money move some years is firing your worst customer \u2014 t",
       "sub": "business"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New wrapped truck: rolling billboard that pays for itself, o",
       "sub": "business"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Half of you have a Google Business Profile you set up once i",
       "sub": "business"
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-25",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The jobs you're proudest of are the ones nobody ever thinks ",
@@ -184,12 +177,12 @@
   ],
   "page": {
     "name": "Booked Job",
-    "followers": 11,
-    "likes": 11
+    "followers": 12,
+    "likes": 12
   },
   "content": {
-    "posts_published": 62,
-    "reactions": 3,
+    "posts_published": 63,
+    "reactions": 4,
     "comments": 1,
     "shares": 0,
     "reels_published": 51,
@@ -215,7 +208,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 415
+    "media": 416
   },
   "email": {
     "subscribers": 7
@@ -457,13 +450,13 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 124,
+      "count": 125,
       "unit": "posts",
       "grade": "B",
       "group": "social",
       "views": 6048,
-      "followers": 11,
-      "likes": 3
+      "followers": 12,
+      "likes": 4
     },
     {
       "name": "Instagram",
@@ -513,7 +506,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 36,
+      "count": 37,
       "unit": "posts",
       "followers": 80,
       "grade": "B",
@@ -533,7 +526,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -569,7 +562,7 @@
       "status": "live",
       "count": 26,
       "unit": "posts (Buffer)",
-      "stat": "1977 reach \u00b7 6 reactions",
+      "stat": "1941 reach \u00b7 6 reactions",
       "views": 41,
       "likes": 6,
       "grade": "C",
@@ -611,7 +604,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 61
+        "count": 62
       },
       {
         "type": "Carousels",
@@ -626,7 +619,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Polls",
@@ -656,7 +649,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Long video",
@@ -712,7 +705,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Articles",
@@ -743,12 +736,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 36
+        "count": 37
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 40
+        "count": 41
       }
     ],
     "Mastodon": [
@@ -770,7 +763,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Video",
@@ -807,16 +800,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 29
+        "count": 30
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 11,
+      "remaining": 10,
       "per_day": 2,
-      "days": 5.5,
+      "days": 5.0,
       "status": "amber"
     },
     {
@@ -850,13 +843,13 @@
   ],
   "funnel": {
     "reach": 41846,
-    "engagement": 4,
-    "audience": 103,
+    "engagement": 5,
+    "audience": 104,
     "cr_clicks": 70
   },
   "trends": {
-    "audience": 16,
-    "engagement": 1,
+    "audience": 17,
+    "engagement": 2,
     "email": 0,
     "reach": -1927
   },
@@ -874,7 +867,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1404,
+        "value": 1407,
         "grade": "A"
       },
       {
@@ -884,16 +877,16 @@
       },
       {
         "label": "Audience Size",
-        "value": 103,
+        "value": 104,
         "grade": "C"
       },
       {
         "label": "Engagement",
-        "value": 4,
-        "grade": "F"
+        "value": 5,
+        "grade": "D"
       }
     ],
-    "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1404 posts, 103 audience, 70 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "overall": "B",
+    "summary": "Strong. 104 audience and 70 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

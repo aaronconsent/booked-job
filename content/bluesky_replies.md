@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
+  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
+
+- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
+
+Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
+  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
+
+- **@motorcityadam.com**: This whole interview is remarkably unfocused, even for Galloway and Douthat.
+
+But, bottom line.
+
+If anyone is hoping that more skilled trades interest is a quick fix to a long history of "unremarkable
+  → https://bsky.app/profile/motorcityadam.com/post/3msotycydz22d
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
+
+- **@citizenptnewsoh.bsky.social**: Rising contractor and fuel costs are pushing the estimated price of Olentangy High School 5 to a staggering $135 million—what does this mean for the future of education funding in Ohio? 
+
+Click to rea
+  → https://bsky.app/profile/citizenptnewsoh.bsky.social/post/3msothgrz6w2j
+
 - **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
 Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
   → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y
@@ -172,22 +195,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 - **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
   → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@oldnbitter.bsky.social**: I just got a text from a roofing company that said they used a drone to fly over my house to assess it for damage & they have concerns.  MY CONCERN is—can they legally do that & can I fly a drone over
-  → https://bsky.app/profile/oldnbitter.bsky.social/post/3msqrjw2nos2r
-
-- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
-  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
