@@ -2,6 +2,31 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
+
+Free US shipping + 30-day returns + 12-month warranty.
+
+👉 www.awin1.com/cread.php?aw...
+  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
+
+- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
+
+Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
+  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
+
+- **@nataliedavis.journa.host.ap.brid.gy**: Capitalism Is Killing an American Cinema Renaissance https://jacobin.com/2026/08/imax-sale-odyssey-cinema-corporate-consolidation?utm_source=dlvr.it&utm_medium=mastodon #socialism
+  → https://bsky.app/profile/nataliedavis.journa.host.ap.brid.gy/post/3mssxtmkd2xp2
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
 - **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
 
 Websites + AI systems that book 
@@ -165,28 +190,3 @@ They can target anyone. If your business has a rival, mayb
 
 - **@quadrifrons.online**: On the other end of the scale, I once worked a con where the vendors room was tucked away on the opposite end of the venue from everything else. It was so slow I don't think anyone did more business i
   → https://bsky.app/profile/quadrifrons.online/post/3msqbe2dxys2f
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
-
-https://www.barnardhq.com/blog/content-marketing-for-skill
-  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
-
-- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
-  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
