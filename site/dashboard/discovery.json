@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T04:35:57Z",
+  "updated": "2026-08-11T05:59:58Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,14 +107,14 @@
         "link": "https://mastodon.social/tags/plumbingshop"
       },
       {
-        "tag": "#PlumbingServicesWV",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingServicesWV"
-      },
-      {
         "tag": "#PlumbingIsAConstruct",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
+      },
+      {
+        "tag": "#PlumbingServicesWV",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingServicesWV"
       },
       {
         "tag": "#roofing",
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9793,
+      "followers": 9797,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
