@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
+  → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
+
+https://www.barnardhq.com/blog/content-marketing-for-skill
+  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
+
+- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
+  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
+
 - **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
 
 Free US shipping + 30-day returns + 12-month warranty.
@@ -165,28 +193,3 @@ https://www.europesays.com/3184808/
 
 GM, Ford and thousands of Michigan supp
   → https://bsky.app/profile/continentsentinel.bsky.social/post/3mso7ztoodh2i
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@malena.bsky.social**: Warning⚠️
-Every one of us whether we're a rich business person, a supermarket clerk, a teacher or a plumber is at risk from #ICELawlessness.
-
-They can target anyone. If your business has a rival, mayb
-  → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
-
-
-  → https://bsky.app/profile/weareoca.bsky.social/post/3msqba5g7je25
-
-- **@quadrifrons.online**: On the other end of the scale, I once worked a con where the vendors room was tucked away on the opposite end of the venue from everything else. It was so slow I don't think anyone did more business i
-  → https://bsky.app/profile/quadrifrons.online/post/3msqbe2dxys2f
