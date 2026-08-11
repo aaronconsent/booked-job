@@ -2,6 +2,49 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
+
+- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
+
+🛠️ Steady local repair jobs
+💰 Reliable payouts
+📅 Flexible scheduling
+
+Join
+  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
+
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y
+
+- **@jerryhome.bsky.social**: Smart Bathroom Remodeling Timeline Tips for Faster Project Completion
+
+www.youtube.com/watch?v=LXKN...
+
+Planning ahead is one of the most effective ways to complete a bathroom renovation with fewer de
+  → https://bsky.app/profile/jerryhome.bsky.social/post/3mssensotqc2t
+
 - **@closetsamples.bsky.social**: FREE Skilled Trades Training with Home Depot Path to Pro
 😱 closetsamples.com/freebies/hom...
 
@@ -153,39 +196,3 @@ entrepreneurplus.co.uk/what-is-mifi
 
 - **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
   → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
-  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
-
-Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
-  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
-
-- **@motorcityadam.com**: This whole interview is remarkably unfocused, even for Galloway and Douthat.
-
-But, bottom line.
-
-If anyone is hoping that more skilled trades interest is a quick fix to a long history of "unremarkable
-  → https://bsky.app/profile/motorcityadam.com/post/3msotycydz22d
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
-
-- **@citizenptnewsoh.bsky.social**: Rising contractor and fuel costs are pushing the estimated price of Olentangy High School 5 to a staggering $135 million—what does this mean for the future of education funding in Ohio? 
-
-Click to rea
-  → https://bsky.app/profile/citizenptnewsoh.bsky.social/post/3msothgrz6w2j

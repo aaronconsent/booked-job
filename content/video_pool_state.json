@@ -82,12 +82,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-08-11T14:28:23",
+    "last_iso": "2026-08-11T18:08:35",
     "day": {
       "date": "2026-08-11",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
@@ -137,12 +138,13 @@
       "bj-missedcall",
       "bj-stormchaser",
       "bj-freecheck",
-      "bj-fakemaps"
+      "bj-fakemaps",
+      "bj-agency12k"
     ],
-    "last_iso": "2026-08-11T12:21:45",
+    "last_iso": "2026-08-11T18:08:35",
     "day": {
       "date": "2026-08-11",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
