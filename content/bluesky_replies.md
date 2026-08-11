@@ -2,6 +2,31 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y
+
+- **@natalie-reed.bsky.social**: Aecore runs a general contractor like a software company - real-time schedules, transparent budgets, weekly photo updates.
+
+https://yespress.io/aecore?utm_source=bluesky&utm_medium=social via Yespress
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3mslgvoetwn2p
+
+- **@jerryhome.bsky.social**: Smart Bathroom Remodeling Timeline Tips for Faster Project Completion
+
+www.youtube.com/watch?v=LXKN...
+
+Planning ahead is one of the most effective ways to complete a bathroom renovation with fewer de
+  → https://bsky.app/profile/jerryhome.bsky.social/post/3mssensotqc2t
+
+- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
+
+🛠️ Steady local repair jobs
+💰 Reliable payouts
+📅 Flexible scheduling
+
+Join
+  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
+
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
 
@@ -166,19 +191,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 - **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
   → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
-
-- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
-  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@legalizegoblins.bsky.social**: It’s my 7th anniversary as a staff editor at Paizo. (I was a temp/contractor/freelancer/general underling for a year and a half before that.) Very weird to think about. I guess I’m proud of myself?
-  → https://bsky.app/profile/legalizegoblins.bsky.social/post/3msqsm5m5js2p
-
-- **@rwatimes.bsky.social**: ➤ The tool analyzes business exposures and recommends Kalshi contracts but does not execute trades or manage funds, leaving the final decision to business owners.
-  → https://bsky.app/profile/rwatimes.bsky.social/post/3mslwygun3d2i
-
-- **@motorcityadam.com**: This whole interview is remarkably unfocused, even for Galloway and Douthat.
-
-But, bottom line.
-
-If anyone is hoping that more skilled trades interest is a quick fix to a long history of "unremarkable
-  → https://bsky.app/profile/motorcityadam.com/post/3msotycydz22d
