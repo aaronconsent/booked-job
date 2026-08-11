@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T23:46:19Z",
+  "updated": "2026-08-11T02:21:59Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,17 +78,17 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 23,
+        "uses": 18,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 3,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 6,
+        "uses": 3,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35664,
+        "followers": 35691,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9766,
+      "followers": 9783,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2234,
+      "followers": 2233,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
