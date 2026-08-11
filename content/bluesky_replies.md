@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
+
+
+  → https://bsky.app/profile/weareoca.bsky.social/post/3msqba5g7je25
+
+- **@quadrifrons.online**: On the other end of the scale, I once worked a con where the vendors room was tucked away on the opposite end of the venue from everything else. It was so slow I don't think anyone did more business i
+  → https://bsky.app/profile/quadrifrons.online/post/3msqbe2dxys2f
+
 - **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
 #Nassa
   → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
@@ -169,22 +185,3 @@ Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts
 - **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
 Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
   → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
-
-- **@malena.bsky.social**: Warning⚠️
-Every one of us whether we're a rich business person, a supermarket clerk, a teacher or a plumber is at risk from #ICELawlessness.
-
-They can target anyone. If your business has a rival, mayb
-  → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@continentsentinel.bsky.social**: MICHIGAN’S NEXT ECONOMY – Pentagon Pushes Weapons Production As Iran War Drains Arsenal — Could Michigan Capture Billions?
-
-https://www.europesays.com/3184808/
-
-GM, Ford and thousands of Michigan supp
-  → https://bsky.app/profile/continentsentinel.bsky.social/post/3mso7ztoodh2i
