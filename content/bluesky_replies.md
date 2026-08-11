@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@closetsamples.bsky.social**: FREE Skilled Trades Training with Home Depot Path to Pro
+😱 closetsamples.com/freebies/hom...
+
+Miss seeing all the deals posted? I'm sharing most here! 👀 Grab today's deals instantly—no sign-up require
+  → https://bsky.app/profile/closetsamples.bsky.social/post/3msqkxrzz7c2n
+
+- **@mithutech.bsky.social**: CCTV AMC Service in Durgapur – Annual Maintenance for Reliable Security Systems – 2026
+
+Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts help keep CCTV systems running 
+  → https://bsky.app/profile/mithutech.bsky.social/post/3msbmvi7krf27
+
+- **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
+  → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@continentsentinel.bsky.social**: MICHIGAN’S NEXT ECONOMY – Pentagon Pushes Weapons Production As Iran War Drains Arsenal — Could Michigan Capture Billions?
+
+https://www.europesays.com/3184808/
+
+GM, Ford and thousands of Michigan supp
+  → https://bsky.app/profile/continentsentinel.bsky.social/post/3mso7ztoodh2i
+
 - **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
 
 
@@ -156,39 +189,3 @@ If anyone is hoping that more skilled trades interest is a quick fix to a long h
 
 Click to rea
   → https://bsky.app/profile/citizenptnewsoh.bsky.social/post/3msothgrz6w2j
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y
-
-- **@natalie-reed.bsky.social**: Aecore runs a general contractor like a software company - real-time schedules, transparent budgets, weekly photo updates.
-
-https://yespress.io/aecore?utm_source=bluesky&utm_medium=social via Yespress
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3mslgvoetwn2p
-
-- **@jerryhome.bsky.social**: Smart Bathroom Remodeling Timeline Tips for Faster Project Completion
-
-www.youtube.com/watch?v=LXKN...
-
-Planning ahead is one of the most effective ways to complete a bathroom renovation with fewer de
-  → https://bsky.app/profile/jerryhome.bsky.social/post/3mssensotqc2t
-
-- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
-
-🛠️ Steady local repair jobs
-💰 Reliable payouts
-📅 Flexible scheduling
-
-Join
-  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
-
-A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
