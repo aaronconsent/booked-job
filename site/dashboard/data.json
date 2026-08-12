@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T08:37",
+  "updated": "2026-08-12T10:09",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -17,9 +17,9 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 37,
+        "current": 38,
         "target": 45,
-        "pct": 82,
+        "pct": 84,
         "on_track": true
       },
       {
@@ -202,13 +202,13 @@
     "subscribers": 0,
     "views": 1320,
     "likes": 0,
-    "videos": 37,
-    "shorts": 37
+    "videos": 38,
+    "shorts": 38
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 419
+    "media": 420
   },
   "email": {
     "subscribers": 7
@@ -465,13 +465,13 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2960,
+      "views": 2961,
       "followers": 1
     },
     {
       "name": "YouTube",
       "status": "live",
-      "count": 19,
+      "count": 20,
       "unit": "shorts",
       "grade": "C",
       "group": "social",
@@ -506,7 +506,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 52,
+      "count": 53,
       "unit": "posts",
       "followers": 88,
       "grade": "B",
@@ -526,7 +526,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 1,
+      "count": 2,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -560,7 +560,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 33,
+      "count": 34,
       "unit": "posts (Buffer)",
       "stat": "1785 reach \u00b7 6 reactions",
       "views": 38,
@@ -619,7 +619,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Polls",
@@ -649,7 +649,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Long video",
@@ -660,7 +660,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Community posts",
@@ -695,7 +695,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Documents",
@@ -736,12 +736,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 52
+        "count": 53
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 50
+        "count": 51
       }
     ],
     "Mastodon": [
@@ -763,7 +763,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 1
+        "count": 2
       },
       {
         "type": "Video",
@@ -800,7 +800,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 39
+        "count": 40
       }
     ]
   },
@@ -821,9 +821,9 @@
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 45,
+      "remaining": 44,
       "per_day": 2,
-      "days": 22.5,
+      "days": 22.0,
       "status": "green"
     },
     {
@@ -842,7 +842,7 @@
     }
   ],
   "funnel": {
-    "reach": 41468,
+    "reach": 41469,
     "engagement": 5,
     "audience": 112,
     "cr_clicks": 70
@@ -851,7 +851,7 @@
     "audience": 23,
     "engagement": 2,
     "email": 0,
-    "reach": -1822
+    "reach": -1821
   },
   "mafia": {
     "metrics": [
@@ -867,7 +867,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1387,
+        "value": 1391,
         "grade": "A"
       },
       {

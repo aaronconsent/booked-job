@@ -66,12 +66,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-08-12T08:49:49",
+    "last_iso": "2026-08-12T10:20:18",
     "day": {
       "date": "2026-08-12",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -215,12 +216,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-08-12T08:49:49",
+    "last_iso": "2026-08-12T10:20:18",
     "day": {
       "date": "2026-08-12",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -279,12 +281,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-08-12T08:49:49",
+    "last_iso": "2026-08-12T10:20:18",
     "day": {
       "date": "2026-08-12",
-      "count": 2
+      "count": 3
     }
   }
 }

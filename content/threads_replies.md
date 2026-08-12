@@ -2,6 +2,9 @@
 
 _People engaging with our Threads posts. Reply by hand. Newest first._
 
+- **@bigfishbenjamin84** (on: Nobody in the history of the trades has finished a job with …): Pencil.
+  → https://www.threads.com/@bigfishbenjamin84/post/Db8cabiFkwV
+
 - **@tony16.06** (on: How to market a landscaping business in 2026: own your Googl…): I don't think so. As a business developer for the landscape architecture sector operating on digital platforms, success depends on the specific position and platform—and, most importantly, the value t
   → https://www.threads.com/@tony16.06/post/Da22qgCiTEg
 
