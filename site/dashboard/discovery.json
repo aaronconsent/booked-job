@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:57:09Z",
+  "updated": "2026-08-12T22:54:05Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -87,14 +87,14 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#hvac",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#plumbing",
         "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#HVAC대장주",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23123,
+        "followers": 23125,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1034,
+      "followers": 1035,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
