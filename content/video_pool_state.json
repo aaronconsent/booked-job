@@ -61,12 +61,13 @@
       "bj-ai",
       "bj-scam",
       "bj-rev-hvac",
-      "bj-rev-plumb"
+      "bj-rev-plumb",
+      "bj-rev-roof"
     ],
-    "last_iso": "2026-08-11T17:10:58",
+    "last_iso": "2026-08-11T19:03:45",
     "day": {
       "date": "2026-08-11",
-      "count": 7
+      "count": 8
     }
   },
   "linkedin": {
@@ -203,12 +204,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-08-11T17:10:58",
+    "last_iso": "2026-08-11T19:03:45",
     "day": {
       "date": "2026-08-11",
-      "count": 7
+      "count": 8
     }
   },
   "telegram": {
@@ -263,12 +265,13 @@
       "bj-rev-hvac",
       "bj-rev-plumb",
       "bj-rev-roof",
-      "bj-rev-elec"
+      "bj-rev-elec",
+      "bj-rev-paint"
     ],
-    "last_iso": "2026-08-11T17:10:58",
+    "last_iso": "2026-08-11T19:03:45",
     "day": {
       "date": "2026-08-11",
-      "count": 7
+      "count": 8
     }
   }
 }
