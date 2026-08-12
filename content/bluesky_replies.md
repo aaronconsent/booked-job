@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y
+
+- **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
+  → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
+
+- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
+
+- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
+
+🛠️ Steady local repair jobs
+💰 Reliable payouts
+📅 Flexible scheduling
+
+Join
+  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
+
+- **@citizenptnewsca.bsky.social**: The Sewer Authority Mid-Coast faced a crucial decision: should they lock in contractor prices now or wait for formal budget approvals, leading to a heated debate among directors? 
+
+Learn more here
+
+#P
+  → https://bsky.app/profile/citizenptnewsca.bsky.social/post/3msv6ov3okv27
+
 - **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
 
 A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
@@ -156,32 +189,3 @@ entrepreneurplus.co.uk/what-is-mifi
 
 Websites + AI systems that book 
   → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
-
-- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
-  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
-
-Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
-  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
-
-- **@citizenptnewsoh.bsky.social**: Rising contractor and fuel costs are pushing the estimated price of Olentangy High School 5 to a staggering $135 million—what does this mean for the future of education funding in Ohio? 
-
-Click to rea
-  → https://bsky.app/profile/citizenptnewsoh.bsky.social/post/3msothgrz6w2j

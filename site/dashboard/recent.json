@@ -1,40 +1,46 @@
 {
-  "updated": "2026-08-12T07:00",
+  "updated": "2026-08-12T08:52",
   "posts": [
     {
-      "ts": "2026-08-12T06:57:41",
-      "channel": "tumblr",
-      "item": "bj-wordpress",
-      "url": null
+      "ts": "2026-08-12T08:51:08",
+      "channel": "youtube",
+      "item": "pod-ep01-ftc",
+      "url": "https://youtu.be/UJNxa-PQmTI"
     },
     {
-      "ts": "2026-08-12T06:57:39",
-      "channel": "bluesky",
-      "item": "bj-track",
-      "url": null
-    },
-    {
-      "ts": "2026-08-12T06:57:36",
-      "channel": "linkedin",
-      "item": "pod-ep01-starter",
-      "url": null
-    },
-    {
-      "ts": "2026-08-12T06:57:35",
-      "channel": "tiktok",
-      "item": "bj-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-08-12T06:57:34",
-      "channel": "ig",
-      "item": "pod-ep01-wrongnum",
-      "url": null
-    },
-    {
-      "ts": "2026-08-12T06:56:59",
+      "ts": "2026-08-12T08:51:03",
       "channel": "facebook",
-      "item": "bj-reviews50",
+      "item": "card-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-08-12T08:50:59",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-08-12T08:50:07",
+      "channel": "mastodon",
+      "item": "card-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-08-12T08:49:53",
+      "channel": "tumblr",
+      "item": "bj-first10k",
+      "url": null
+    },
+    {
+      "ts": "2026-08-12T08:49:52",
+      "channel": "bluesky",
+      "item": "ad-arctic",
+      "url": null
+    },
+    {
+      "ts": "2026-08-12T08:49:50",
+      "channel": "tiktok",
+      "item": "bj-cheapbid",
       "url": null
     }
   ]
