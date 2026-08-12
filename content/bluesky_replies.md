@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
+
+
+  → https://bsky.app/profile/weareoca.bsky.social/post/3msqba5g7je25
+
+- **@jerryhome.bsky.social**: Smart Bathroom Remodeling Timeline Tips for Faster Project Completion
+
+www.youtube.com/watch?v=LXKN...
+
+Planning ahead is one of the most effective ways to complete a bathroom renovation with fewer de
+  → https://bsky.app/profile/jerryhome.bsky.social/post/3mssensotqc2t
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
 - **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
   → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
 
@@ -166,20 +183,3 @@ Join
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
-
-A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
-
-- **@koerneroffice.com**: This dude turned $100 into $45,000.
-
-How? Free watermelons.
-
-He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
-
-You can complain that a m
-  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
