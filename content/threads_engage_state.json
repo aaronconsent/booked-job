@@ -1,6 +1,12 @@
 {
   "queue": [
     {
+      "user": "mcfall8780",
+      "text": "10mm socket",
+      "url": "https://www.threads.com/@mcfall8780/post/Db8kW79EVNf",
+      "on": "Nobody in the history of the trades has finished a job with "
+    },
+    {
       "user": "bigfishbenjamin84",
       "text": "Pencil.",
       "url": "https://www.threads.com/@bigfishbenjamin84/post/Db8cabiFkwV",
@@ -26,9 +32,10 @@
     }
   ],
   "seen": [
+    "18180948682416419",
     "17897017185521366",
+    "17968112550136341",
     "17862024285648271",
-    "17860849236660671",
-    "18180948682416419"
+    "17860849236660671"
   ]
 }

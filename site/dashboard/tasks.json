@@ -55,49 +55,58 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
-      "task": "Reply to @jobfairgiant.bsky.social: “Are There Jobs Hiring Immediately in Detroit? Yes, many Detroit employers hire immediately…”",
+      "task": "Reply to @hectorramirez.bsky.social: “Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning  Need gutter cleanin…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y",
+      "link": "https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o",
       "est": "2 min"
     },
     {
       "id": "bluesky-q1",
       "platform": "Bluesky",
       "emoji": "🦋",
-      "task": "Reply to @mobilenotary1.bsky.social: “Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan …”",
+      "task": "Reply to @stylelib.org: “Plumbing Spl – Plumber WordPress Theme   https://themes.stylelib.org/?p=18003   #business …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226",
+      "link": "https://bsky.app/profile/stylelib.org/post/3mspedu537f2o",
       "est": "2 min"
     },
     {
       "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
-      "task": "Reply to @rjgsr.bsky.social: “Discover master by Leonardo Hotels – Where Home Meets Hotel Stay your way with master by L…”",
+      "task": "Reply to @ppcagencycharlotte.bsky.social: “How does the Google Ads auction actually work? Here's the plain-English version for Charlo…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t",
+      "link": "https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l",
       "est": "2 min"
     },
     {
       "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
-      "task": "Reply to @texascontractorseo.bsky.social: “Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/res…”",
+      "task": "Reply to @websitebuilders.bsky.social: “Your landscaping/roofing/plumbing business deserves a website that actually converts. We b…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e",
+      "link": "https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s",
       "est": "2 min"
     },
     {
       "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
-      "task": "Reply to @selectwarranty.bsky.social: “Are you a trade contractor looking to grow your business? Stop paying for cold leads. Part…”",
+      "task": "Reply to @wafb-mirror.bsky.social: “https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulat…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s",
+      "link": "https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j",
       "est": "2 min"
     },
     {
       "id": "threads-q0",
+      "platform": "Threads",
+      "emoji": "🧵",
+      "task": "Reply to @bigfishbenjamin84: “Pencil.…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://www.threads.com/@bigfishbenjamin84/post/Db8cabiFkwV",
+      "est": "2 min"
+    },
+    {
+      "id": "threads-q1",
       "platform": "Threads",
       "emoji": "🧵",
       "task": "Reply to @tony16.06: “I don't think so. As a business developer for the landscape architecture sector operating …”",
@@ -106,7 +115,7 @@
       "est": "2 min"
     },
     {
-      "id": "threads-q1",
+      "id": "threads-q2",
       "platform": "Threads",
       "emoji": "🧵",
       "task": "Reply to @harrycastaner: “the constraint is what makes it work, contractors who \"hate marketing\" usually just hate t…”",
@@ -115,7 +124,7 @@
       "est": "2 min"
     },
     {
-      "id": "threads-q2",
+      "id": "threads-q3",
       "platform": "Threads",
       "emoji": "🧵",
       "task": "Reply to @harrycastaner: “the constraint is the whole insight, contractors who try to do everything end up booking n…”",
