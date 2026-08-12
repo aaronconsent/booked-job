@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-11T23:56",
+  "updated": "2026-08-12T01:23",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
-    "days_left": 16,
+    "days_left": 15,
     "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
@@ -60,7 +60,7 @@
         "current": 12,
         "target": 25,
         "pct": 48,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "YouTube subs",
@@ -92,7 +92,7 @@
         "current": 12,
         "target": 25,
         "pct": 48,
-        "on_track": true
+        "on_track": false
       }
     ]
   },
@@ -105,70 +105,70 @@
   },
   "upcoming": [
     {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "IYKYK. Roofers in July, you have it worst. \ud83d\udc47",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Monday, first call is a callback on someone else's screwup. ",
       "sub": "trade humor"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "You ride-or-die one battery platform, or a \u201cwhatever's on sa",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Name the tool you lose the most. It's the tape. It's always ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who runs the safety meeting AND the g",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Helper's on his phone more than his tools. You say something",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Best money move some years is firing your worst customer \u2014 t",
       "sub": "business"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New wrapped truck: rolling billboard that pays for itself, o",
       "sub": "business"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Half of you have a Google Business Profile you set up once i",
       "sub": "business"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The jobs you're proudest of are the ones nobody ever thinks ",
@@ -506,7 +506,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 47,
+      "count": 48,
       "unit": "posts",
       "followers": 85,
       "grade": "B",
@@ -526,7 +526,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 53,
+      "count": 54,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -560,9 +560,9 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 29,
+      "count": 30,
       "unit": "posts (Buffer)",
-      "stat": "1725 reach \u00b7 6 reactions",
+      "stat": "1673 reach \u00b7 6 reactions",
       "views": 39,
       "likes": 6,
       "grade": "C",
@@ -619,7 +619,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Polls",
@@ -649,7 +649,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Long video",
@@ -695,7 +695,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 17
+        "count": 18
       },
       {
         "type": "Documents",
@@ -736,7 +736,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 47
+        "count": 48
       },
       {
         "type": "Video",
@@ -763,7 +763,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Video",
@@ -848,10 +848,10 @@
     "cr_clicks": 70
   },
   "trends": {
-    "audience": 22,
+    "audience": 20,
     "engagement": 2,
     "email": 0,
-    "reach": -1914
+    "reach": -1431
   },
   "mafia": {
     "metrics": [
@@ -867,7 +867,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1430,
+        "value": 1433,
         "grade": "A"
       },
       {

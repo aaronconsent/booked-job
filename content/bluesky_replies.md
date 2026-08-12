@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
+
+Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
+  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
+
+- **@malena.bsky.social**: Warning⚠️
+Every one of us whether we're a rich business person, a supermarket clerk, a teacher or a plumber is at risk from #ICELawlessness.
+
+They can target anyone. If your business has a rival, mayb
+  → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
+
+- **@canberraartemis.bsky.social**: Plumber Joe’s business loan and home mortgages both go up. Joe increases his prices and fires Dave the recent hire.
+
+Is that good for the economy?
+  → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
 
 https://www.barnardhq.com/blog/content-marketing-for-skill
@@ -168,23 +187,3 @@ Stay your way with master by Leonardo Hotels: spacious serviced apartments with 
 
 www.you
   → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@continentsentinel.bsky.social**: MICHIGAN’S NEXT ECONOMY – Pentagon Pushes Weapons Production As Iran War Drains Arsenal — Could Michigan Capture Billions?
-
-https://www.europesays.com/3184808/
-
-GM, Ford and thousands of Michigan supp
-  → https://bsky.app/profile/continentsentinel.bsky.social/post/3mso7ztoodh2i
-
-- **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
-
-
-  → https://bsky.app/profile/weareoca.bsky.social/post/3msqba5g7je25
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
