@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
 - **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
 
 
@@ -168,18 +185,3 @@ Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris an
 
 Click to rea
   → https://bsky.app/profile/citizenptnewsoh.bsky.social/post/3msothgrz6w2j
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
-
-🛠️ Steady local repair jobs
-💰 Reliable payouts
-📅 Flexible scheduling
-
-Join
-  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
