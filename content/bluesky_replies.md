@@ -2,6 +2,36 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
+  → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@quadrifrons.online**: On the other end of the scale, I once worked a con where the vendors room was tucked away on the opposite end of the venue from everything else. It was so slow I don't think anyone did more business i
+  → https://bsky.app/profile/quadrifrons.online/post/3msqbe2dxys2f
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
 - **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
 
 Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
@@ -153,37 +183,3 @@ He owns a roofing business. He placed 20 watermelons on doorsteps with this note
 
 You can complain that a m
   → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3msshg4zyyx2y
-
-- **@jerryhome.bsky.social**: Smart Bathroom Remodeling Timeline Tips for Faster Project Completion
-
-www.youtube.com/watch?v=LXKN...
-
-Planning ahead is one of the most effective ways to complete a bathroom renovation with fewer de
-  → https://bsky.app/profile/jerryhome.bsky.social/post/3mssensotqc2t
-
-- **@closetsamples.bsky.social**: FREE Skilled Trades Training with Home Depot Path to Pro
-😱 closetsamples.com/freebies/hom...
-
-Miss seeing all the deals posted? I'm sharing most here! 👀 Grab today's deals instantly—no sign-up require
-  → https://bsky.app/profile/closetsamples.bsky.social/post/3msqkxrzz7c2n
-
-- **@mithutech.bsky.social**: CCTV AMC Service in Durgapur – Annual Maintenance for Reliable Security Systems – 2026
-
-Looking for CCTV AMC service in Durgapur? Learn how Annual Maintenance Contracts help keep CCTV systems running 
-  → https://bsky.app/profile/mithutech.bsky.social/post/3msbmvi7krf27
-
-- **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
-  → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
-
-- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
-Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
-  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p

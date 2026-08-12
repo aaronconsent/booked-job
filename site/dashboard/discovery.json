@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T06:23:02Z",
+  "updated": "2026-08-12T08:27:04Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#HVAC대장주",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVAC대장주"
+      },
+      {
         "tag": "#HVACChecklist",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACChecklist"
@@ -105,11 +110,6 @@
         "tag": "#HVACRepairService",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACRepairService"
-      },
-      {
-        "tag": "#hvacousticmassloadedvinyl",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
       },
       {
         "tag": "#plumbingshop",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9836,
+      "followers": 9837,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4023,
+      "followers": 4022,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1033,
+      "followers": 1034,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
