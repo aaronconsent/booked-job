@@ -2,6 +2,36 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
+  → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@quadrifrons.online**: On the other end of the scale, I once worked a con where the vendors room was tucked away on the opposite end of the venue from everything else. It was so slow I don't think anyone did more business i
+  → https://bsky.app/profile/quadrifrons.online/post/3msqbe2dxys2f
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
+#Nassa
+  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
 
@@ -154,42 +184,3 @@ Stay your way with master by Leonardo Hotels: spacious serviced apartments with 
 
 Join
   → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@citizenptnewsca.bsky.social**: The Sewer Authority Mid-Coast faced a crucial decision: should they lock in contractor prices now or wait for formal budget approvals, leading to a heated debate among directors? 
-
-Learn more here
-
-#P
-  → https://bsky.app/profile/citizenptnewsca.bsky.social/post/3msv6ov3okv27
-
-- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
-
-A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
-
-- **@koerneroffice.com**: This dude turned $100 into $45,000.
-
-How? Free watermelons.
-
-He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
-
-You can complain that a m
-  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
-
-- **@weareoca.bsky.social**: Huge thanks to Laurin and Company General Contractor for bringing us on site for another OCA Summer Cool Down! We loved bringing much needed sweet treats to the crew on site on a hot and sunny day 🍦
-
-
-  → https://bsky.app/profile/weareoca.bsky.social/post/3msqba5g7je25
-
-- **@jerryhome.bsky.social**: Smart Bathroom Remodeling Timeline Tips for Faster Project Completion
-
-www.youtube.com/watch?v=LXKN...
-
-Planning ahead is one of the most effective ways to complete a bathroom renovation with fewer de
-  → https://bsky.app/profile/jerryhome.bsky.social/post/3mssensotqc2t
