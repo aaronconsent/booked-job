@@ -2,6 +2,45 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
+
+- **@entrepreneurplusuk.bsky.social**: Building fintech and not sure if MiFID II applies to you? 
+
+It's not about the "fintech" label, it's about whether you advise, execute, or report trades. #ukfintech
+entrepreneurplus.co.uk/what-is-mifi
+  → https://bsky.app/profile/entrepreneurplusuk.bsky.social/post/3mssluaws7c2e
+
+- **@kparent.bsky.social**: Yes ! If you know anyone who's been in the trades business, our bodies pay the toll.
+  → https://bsky.app/profile/kparent.bsky.social/post/3mstw7nnaos2p
+
+- **@whitespark.ca**: Someone could ask ChatGPT for a plumber, lawyer, dentist, or restaurant, see recommendations based on Yelp data, read reviews, view photos, and potentially contact the business, all without opening Go
+  → https://bsky.app/profile/whitespark.ca/post/3msdsbl4f4c2i
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
 - **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
   → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
 
@@ -152,40 +191,3 @@ Why a recruiting problem?
 
 - **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
   → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
-
-https://www.barnardhq.com/blog/content-marketing-for-skill
-  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
-
-- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
-  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
-
-- **@yasukegene.bsky.social**: GARVEE: affordable home, garden, tools & outdoor gear.
-
-Free US shipping + 30-day returns + 12-month warranty.
-
-👉 www.awin1.com/cread.php?aw...
-  → https://bsky.app/profile/yasukegene.bsky.social/post/3msdkdtef3k2c
-
-- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
-
-Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
-  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
-
-- **@nataliedavis.journa.host.ap.brid.gy**: Capitalism Is Killing an American Cinema Renaissance https://jacobin.com/2026/08/imax-sale-odyssey-cinema-corporate-consolidation?utm_source=dlvr.it&utm_medium=mastodon #socialism
-  → https://bsky.app/profile/nataliedavis.journa.host.ap.brid.gy/post/3mssxtmkd2xp2
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
