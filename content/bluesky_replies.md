@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
 - **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
 
  https://themes.stylelib.org/?p=18003 
@@ -171,18 +188,3 @@ Need to secure your home, apartment, or business without replacing every lock? R
 
 - **@nataliedavis.journa.host.ap.brid.gy**: Capitalism Is Killing an American Cinema Renaissance https://jacobin.com/2026/08/imax-sale-odyssey-cinema-corporate-consolidation?utm_source=dlvr.it&utm_medium=mastodon #socialism
   → https://bsky.app/profile/nataliedavis.journa.host.ap.brid.gy/post/3mssxtmkd2xp2
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
