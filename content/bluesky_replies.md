@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
+
+- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
+
+Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
+  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@stylelib.org**: Electrician – Electricity Services WordPress Theme
 
  https://stylelib.org/?p=134524 
@@ -177,14 +190,3 @@ https://apify.com/s
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
-
-Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
-  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
-
-- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
-  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
-
-- **@nataliedavis.journa.host.ap.brid.gy**: Capitalism Is Killing an American Cinema Renaissance https://jacobin.com/2026/08/imax-sale-odyssey-cinema-corporate-consolidation?utm_source=dlvr.it&utm_medium=mastodon #socialism
-  → https://bsky.app/profile/nataliedavis.journa.host.ap.brid.gy/post/3mssxtmkd2xp2

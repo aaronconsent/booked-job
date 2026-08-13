@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-08-13T05:20",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools borrowed"
+    },
+    {
+      "ts": "2026-08-13T05:20",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: ba credit"
+    },
+    {
+      "ts": "2026-08-13T05:20",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy worst"
+    },
+    {
       "ts": "2026-08-13T03:41",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: lastguy worst"
-    },
-    {
-      "ts": "2026-08-09T09:58",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@explore.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-09T09:58",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@notifications.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-09T09:58",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@notifications.pinterest.com: Open for summer trends"
     }
   ]
 }
