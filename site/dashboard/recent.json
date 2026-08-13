@@ -1,28 +1,10 @@
 {
-  "updated": "2026-08-13T17:11",
+  "updated": "2026-08-13T18:07",
   "posts": [
     {
-      "ts": "2026-08-13T17:10:59",
-      "channel": "mastodon",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-13T17:10:46",
-      "channel": "tumblr",
-      "item": "ad-pauls",
-      "url": null
-    },
-    {
-      "ts": "2026-08-13T17:10:44",
-      "channel": "bluesky",
-      "item": "explainer-lesson-01",
-      "url": null
-    },
-    {
-      "ts": "2026-08-13T17:10:40",
-      "channel": "tiktok",
-      "item": "bj-track",
+      "ts": "2026-08-13T18:07:15",
+      "channel": "linkedin",
+      "item": "pod-ep01-shared",
       "url": null
     }
   ]
