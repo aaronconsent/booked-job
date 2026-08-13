@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T19:15:40Z",
+  "updated": "2026-08-13T20:56:18Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,46 +107,41 @@
         "link": "https://mastodon.social/tags/HVAC대장주"
       },
       {
-        "tag": "#plumbingshop",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/plumbingshop"
-      },
-      {
-        "tag": "#PlumbingServicesWV",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingServicesWV"
-      },
-      {
-        "tag": "#plumbingemergency",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/plumbingemergency"
-      },
-      {
-        "tag": "#roofingcompanytulsa",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofingcompanytulsa"
-      },
-      {
         "tag": "#Electricians",
         "uses": 1,
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorGuide",
+        "tag": "#homeimprovements",
         "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorGuide"
+        "link": "https://mastodon.social/tags/homeimprovements"
+      },
+      {
+        "tag": "#smallbusinessowners",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/smallbusinessowners"
+      },
+      {
+        "tag": "#HVAC_",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVAC_"
+      },
+      {
+        "tag": "#hvacr",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacr"
+      },
+      {
+        "tag": "#HVACUK",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACUK"
       }
     ],
     "accounts": [
       {
-        "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465804,
-        "link": "https://flipboard.com/@BusinessInsider"
-      },
-      {
-        "handle": "@home_garden_and_diy@threads.net",
-        "followers": 96349,
-        "link": "https://threads.net/@home_garden_and_diy/"
+        "handle": "@thefurnituredr@threads.net",
+        "followers": 63046,
+        "link": "https://threads.net/@thefurnituredr/"
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
@@ -154,29 +149,14 @@
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
-        "handle": "@homeassistant@fosstodon.org",
-        "followers": 23126,
-        "link": "https://fosstodon.org/@homeassistant"
-      },
-      {
         "handle": "@homeimprovement@lemmy.world",
         "followers": 10849,
         "link": "https://lemmy.world/c/homeimprovement"
       },
       {
-        "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8486,
-        "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
-      },
-      {
-        "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7178,
-        "link": "https://flipboard.com/@BusinessPunk"
-      },
-      {
-        "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2338,
-        "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
+        "handle": "@mtlcontractors@threads.net",
+        "followers": 6438,
+        "link": "https://threads.net/@mtlcontractors/"
       },
       {
         "handle": "@Noshir",
@@ -187,6 +167,16 @@
         "handle": "@electricians@lemmy.world",
         "followers": 632,
         "link": "https://lemmy.world/c/electricians"
+      },
+      {
+        "handle": "@DEPHER_1",
+        "followers": 334,
+        "link": "https://mastodon.social/@DEPHER_1"
+      },
+      {
+        "handle": "@arnaudlauret@hachyderm.io",
+        "followers": 227,
+        "link": "https://hachyderm.io/@arnaudlauret"
       }
     ]
   },
@@ -236,7 +226,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1797,
+      "followers": 1798,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -264,14 +254,14 @@
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1172,
+      "followers": 1173,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1035,
+      "followers": 1036,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
