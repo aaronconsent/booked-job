@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T12:06",
+  "updated": "2026-08-13T14:15",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 64,
+        "current": 65,
         "target": 100,
-        "pct": 64,
+        "pct": 65,
         "on_track": true
       },
       {
@@ -108,60 +108,53 @@
       "date": "2026-08-14",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Monday, first call is a callback on someone else's screwup. ",
-      "sub": "trade humor"
-    },
-    {
-      "date": "2026-08-17",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "You ride-or-die one battery platform, or a \u201cwhatever's on sa",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Name the tool you lose the most. It's the tape. It's always ",
       "sub": "tool wars"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who runs the safety meeting AND the g",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Helper's on his phone more than his tools. You say something",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Best money move some years is firing your worst customer \u2014 t",
       "sub": "business"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New wrapped truck: rolling billboard that pays for itself, o",
       "sub": "business"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Half of you have a Google Business Profile you set up once i",
       "sub": "business"
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-25",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The jobs you're proudest of are the ones nobody ever thinks ",
@@ -174,7 +167,7 @@
     "likes": 12
   },
   "content": {
-    "posts_published": 64,
+    "posts_published": 65,
     "reactions": 3,
     "comments": 1,
     "shares": 0,
@@ -443,7 +436,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 126,
+      "count": 127,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -458,7 +451,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2945,
+      "views": 3068,
       "followers": 1
     },
     {
@@ -499,12 +492,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 11,
+      "count": 12,
       "unit": "posts",
-      "followers": 90,
+      "followers": 91,
       "grade": "B",
       "group": "social",
-      "likes": 4
+      "likes": 3
     },
     {
       "name": "Mastodon",
@@ -519,7 +512,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 17,
+      "count": 18,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -555,8 +548,8 @@
       "status": "live",
       "count": 42,
       "unit": "posts (Buffer)",
-      "stat": "1879 reach \u00b7 6 reactions",
-      "views": 37,
+      "stat": "1877 reach \u00b7 6 reactions",
+      "views": 35,
       "likes": 6,
       "grade": "C",
       "group": "social"
@@ -597,7 +590,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 63
+        "count": 64
       },
       {
         "type": "Carousels",
@@ -612,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -642,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -729,12 +722,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 11
+        "count": 12
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 59
+        "count": 60
       }
     ],
     "Mastodon": [
@@ -756,7 +749,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 17
+        "count": 18
       },
       {
         "type": "Video",
@@ -793,16 +786,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 48
+        "count": 49
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 9,
+      "remaining": 8,
       "per_day": 2,
-      "days": 4.5,
+      "days": 4.0,
       "status": "amber"
     },
     {
@@ -835,16 +828,16 @@
     }
   ],
   "funnel": {
-    "reach": 41407,
+    "reach": 41625,
     "engagement": 4,
-    "audience": 114,
+    "audience": 115,
     "cr_clicks": 72
   },
   "trends": {
-    "audience": 24,
+    "audience": 25,
     "engagement": 0,
     "email": 0,
-    "reach": -1636
+    "reach": -1418
   },
   "mafia": {
     "metrics": [
@@ -860,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1373,
+        "value": 1376,
         "grade": "A"
       },
       {
@@ -870,7 +863,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 114,
+        "value": 115,
         "grade": "C"
       },
       {
@@ -880,6 +873,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1373 posts, 114 audience, 72 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1376 posts, 115 audience, 72 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
