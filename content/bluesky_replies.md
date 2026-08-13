@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
+
+ https://themes.stylelib.org/?p=18003 
+
+#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
 
@@ -174,16 +186,3 @@ Need to secure your home, apartment, or business without replacing every lock? R
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
-
-- **@entrepreneurplusuk.bsky.social**: Building fintech and not sure if MiFID II applies to you? 
-
-It's not about the "fintech" label, it's about whether you advise, execute, or report trades. #ukfintech
-entrepreneurplus.co.uk/what-is-mifi
-  → https://bsky.app/profile/entrepreneurplusuk.bsky.social/post/3mssluaws7c2e
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
