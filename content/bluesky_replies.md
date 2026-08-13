@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
+
+- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
+
+Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
+  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
+
+- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
+
+Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
+  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
+
+- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
+  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
 
@@ -156,40 +191,3 @@ Trump has a patt
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
-
-https://www.barnardhq.com/blog/content-marketing-for-skill
-  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
-
-- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
-  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
-
-- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
-
-news.bangboxonline.com/Roofing-Dump...
-Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@entrepreneurplusuk.bsky.social**: Building fintech and not sure if MiFID II applies to you? 
-
-It's not about the "fintech" label, it's about whether you advise, execute, or report trades. #ukfintech
-entrepreneurplus.co.uk/what-is-mifi
-  → https://bsky.app/profile/entrepreneurplusuk.bsky.social/post/3mssluaws7c2e
-
-- **@invictaconst.bsky.social**: Which Commercial General Contractor Edmonton Delivers Quality Results on Time?
-
-Invicta Construction is a trusted commercial general contractor Edmonton, offering quality construction solutions, and r
-  → https://bsky.app/profile/invictaconst.bsky.social/post/3msxhkid2js2b
