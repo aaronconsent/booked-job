@@ -8,7 +8,7 @@
   "reel_runner.py": 0,
   "reel_story_runner.py": 0,
   "story_runner.py": 0,
-  "video_pool_runner.py": 0,
+  "video_pool_runner.py": 1,
   "blogger_runner.py": 0,
   "tumblr_runner.py": 0,
   "telegraph_runner.py": 0,

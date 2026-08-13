@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@entrepreneurplusuk.bsky.social**: Building fintech and not sure if MiFID II applies to you? 
+
+It's not about the "fintech" label, it's about whether you advise, execute, or report trades. #ukfintech
+entrepreneurplus.co.uk/what-is-mifi
+  → https://bsky.app/profile/entrepreneurplusuk.bsky.social/post/3mssluaws7c2e
+
+- **@invictaconst.bsky.social**: Which Commercial General Contractor Edmonton Delivers Quality Results on Time?
+
+Invicta Construction is a trusted commercial general contractor Edmonton, offering quality construction solutions, and r
+  → https://bsky.app/profile/invictaconst.bsky.social/post/3msxhkid2js2b
+
+- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
+
+Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
+  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
+
+- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
+  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
+
 - **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
@@ -168,25 +194,3 @@ Every one of us whether we're a rich business person, a supermarket clerk, a tea
 
 They can target anyone. If your business has a rival, mayb
   → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
-
-- **@canberraartemis.bsky.social**: Plumber Joe’s business loan and home mortgages both go up. Joe increases his prices and fires Dave the recent hire.
-
-Is that good for the economy?
-  → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
-
-- **@barnardhq.bsky.social**: A roofing contractor with 20 years and zero callbacks can still lose work to a guy with a better Instagram grid. Quality isn't self-evident…
-
-https://www.barnardhq.com/blog/content-marketing-for-skill
-  → https://bsky.app/profile/barnardhq.bsky.social/post/3mrujcdzd7t2n
-
-- **@simonallardice.bsky.social**: Anyone here buy duraflame logs? I know a particular tool who loves RFKJr who works on their marketing as a contractor…so, uh, maybe don’t buy those.
-  → https://bsky.app/profile/simonallardice.bsky.social/post/3ms5k2eki5c2b
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
