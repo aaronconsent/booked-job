@@ -76,12 +76,13 @@
       "bj-missedcall",
       "bj-stormchaser",
       "bj-freecheck",
-      "bj-fakemaps"
+      "bj-fakemaps",
+      "bj-agency12k"
     ],
-    "last_iso": "2026-08-13T10:19:28",
+    "last_iso": "2026-08-13T12:18:07",
     "day": {
       "date": "2026-08-13",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -239,12 +240,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-08-13T10:19:28",
+    "last_iso": "2026-08-13T12:18:07",
     "day": {
       "date": "2026-08-13",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -311,12 +313,13 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-08-13T10:19:28",
+    "last_iso": "2026-08-13T12:18:07",
     "day": {
       "date": "2026-08-13",
-      "count": 2
+      "count": 3
     }
   }
 }
