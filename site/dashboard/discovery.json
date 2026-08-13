@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T23:53:11Z",
+  "updated": "2026-08-13T02:39:38Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 22,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -100,16 +100,6 @@
         "tag": "#HVAC대장주",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVAC대장주"
-      },
-      {
-        "tag": "#HVACChecklist",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACChecklist"
-      },
-      {
-        "tag": "#HVACRepairService",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACRepairService"
       },
       {
         "tag": "#plumbingshop",
@@ -135,6 +125,16 @@
         "tag": "#Electricians",
         "uses": 1,
         "link": "https://mastodon.social/tags/Electricians"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#ContractorGuide",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorGuide"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9838,
+      "followers": 9837,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -208,7 +208,7 @@
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3827,
+      "followers": 3826,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },

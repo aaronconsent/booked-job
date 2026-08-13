@@ -2,6 +2,24 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that actually converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that track leads. Result: more qualifi
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mscabomi2u2s
+
+- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
+  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
+
+- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
+  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
+
+- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
+
+1. You set a max bid for a keyword (say 'plumber charlotte')
+2. Google multiplies your b
+  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
+
 - **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
   → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
 
@@ -169,30 +187,3 @@ entrepreneurplus.co.uk/what-is-mifi
 
 #electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
   → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
-
-Websites + AI systems that book 
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
-
-- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
-
-Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
-  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
