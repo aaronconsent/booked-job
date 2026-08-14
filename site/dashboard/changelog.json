@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-14T06:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools borrowed"
+    },
+    {
+      "ts": "2026-08-14T06:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor quick job"
+    },
+    {
       "ts": "2026-08-14T05:17",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: humor one more"
-    },
-    {
-      "ts": "2026-08-10T08:50",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: The ONE time Angi actually makes sense"
-    },
-    {
-      "ts": "2026-08-10T08:50",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
     }
   ]
 }
