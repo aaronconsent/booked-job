@@ -2,6 +2,49 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@rankednews.bsky.social**: Meta taps skilled trades workers to power America’s AI infrastructure boom: Meta has announced a partnership with North America’s Building Trades Unions (NABTU) to expand the pipeline of skilled worke
+  → https://bsky.app/profile/rankednews.bsky.social/post/3msyu5whmqe24
+
+- **@chanl1.bsky.social**: Do you really believe the estimate/projection?
+Expect the General Contractor selected will only be getting 60% of that published number!
+Trump's greasy hands will demand Quid-Pro-Quo!
+Trump has a patt
+  → https://bsky.app/profile/chanl1.bsky.social/post/3msxqeblahc2b
+
+- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
+
+Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
+  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
+
+- **@malena.bsky.social**: Warning⚠️
+Every one of us whether we're a rich business person, a supermarket clerk, a teacher or a plumber is at risk from #ICELawlessness.
+
+They can target anyone. If your business has a rival, mayb
+  → https://bsky.app/profile/malena.bsky.social/post/3mso2fkava22f
+
+- **@canberraartemis.bsky.social**: Plumber Joe’s business loan and home mortgages both go up. Joe increases his prices and fires Dave the recent hire.
+
+Is that good for the economy?
+  → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
+
 - **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
 
 news.bangboxonline.com/Roofing-Dump...
@@ -159,32 +202,3 @@ He owns a roofing business. He placed 20 watermelons on doorsteps with this note
 
 You can complain that a m
   → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
-
-- **@the74.bsky.social**: Corwin and Dewees: If the economy urgently needs more skilled trades workers, why aren't we making a greater investment to prepare high schoolers? www.the74million.org/article/amid...
-  → https://bsky.app/profile/the74.bsky.social/post/3msxzq44ku52h
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
-  → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
-
-- **@concretebadger.bsky.social**: Culturally, we have a tendency to think, "*my* job is 'real work' but other people whose skills are different? Not so much"
-
-It's always been disappointingly common for white-collar workers to not giv
-  → https://bsky.app/profile/concretebadger.bsky.social/post/3msxvrqurqs26
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24

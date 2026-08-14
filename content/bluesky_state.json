@@ -1,21 +1,22 @@
 {
   "done": [
-    "ba-credit",
-    "lastguy-diy",
-    "pricing-callback",
-    "ugc-before-after",
-    "pricing-diagnostic-fee",
-    "homeowner-drain",
-    "pricing-pick-two",
-    "lastguy-panel",
-    "lastguy-worst",
-    "lastguy-flextape",
-    "homeowner-lie",
     "pricing-once-not-twice",
+    "lastguy-diy",
+    "ugc-before-after",
     "pricing-insurance",
-    "lastguy-rate",
+    "pricing-callback",
     "pricing-friend-price",
-    "pricing-low-bid"
+    "homeowner-drain",
+    "lastguy-panel",
+    "homeowner-lie",
+    "ba-credit",
+    "homeowner-quick",
+    "lastguy-rate",
+    "pricing-low-bid",
+    "pricing-pick-two",
+    "pricing-diagnostic-fee",
+    "lastguy-flextape",
+    "lastguy-worst"
   ],
-  "last_iso": "2026-08-13T18:07:15"
+  "last_iso": "2026-08-13T19:03:58"
 }
