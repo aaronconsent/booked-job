@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
 - **@citizenptnewsca.bsky.social**: The Sewer Authority Mid-Coast faced a crucial decision: should they lock in contractor prices now or wait for formal budget approvals, leading to a heated debate among directors? 
 
 Learn more here
@@ -194,8 +197,3 @@ Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris an
 
 - **@texascontractorseo.bsky.social**: Ready to dominate the Texas commercial excavation market? Visit texascontractorseo.com/resources/excavation-seo/commercial-projects/ and let’s get your business digging into lucrative contracts today!
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mrbp6enfov2e
-
-- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
-
-Websites + AI systems that book 
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
