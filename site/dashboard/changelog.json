@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-14T12:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: labor show up"
+    },
+    {
+      "ts": "2026-08-14T12:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools mil vs dewalt"
+    },
+    {
       "ts": "2026-08-14T11:14",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: tools borrowed"
-    },
-    {
-      "ts": "2026-08-10T16:07",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio54818.apollo.io — needs Aaron"
-    },
-    {
-      "ts": "2026-08-10T16:07",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio54818.apollo.io: Updated Apollo Terms of Service, Privacy Policy, and AI Policy"
     }
   ]
 }
