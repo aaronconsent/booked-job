@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-08-14T05:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz money leaks"
+    },
+    {
+      "ts": "2026-08-14T05:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: tools ford chevy"
+    },
+    {
+      "ts": "2026-08-14T05:17",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor that guy"
+    },
+    {
       "ts": "2026-08-14T03:26",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-10T08:50",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: The Most Popular Open Source Database. Its Owner Just Rewrote Who Controls It. |"
-    },
-    {
-      "ts": "2026-08-10T08:49",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy worst"
-    },
-    {
-      "ts": "2026-08-10T08:49",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: tools borrowed"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T08:24:41Z",
+  "updated": "2026-08-14T10:13:50Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -82,16 +82,6 @@
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
-        "tag": "#plumbing",
-        "uses": 8,
-        "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/roofing"
-      },
-      {
         "tag": "#hvac",
         "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
@@ -122,19 +112,29 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#HVAC_",
+        "tag": "#HVACUAE",
         "uses": 0,
-        "link": "https://mastodon.social/tags/HVAC_"
+        "link": "https://mastodon.social/tags/HVACUAE"
       },
       {
-        "tag": "#hvacr",
+        "tag": "#HVACChecklist",
         "uses": 0,
-        "link": "https://mastodon.social/tags/hvacr"
+        "link": "https://mastodon.social/tags/HVACChecklist"
       },
       {
-        "tag": "#HVACUK",
+        "tag": "#HVACRepairService",
         "uses": 0,
-        "link": "https://mastodon.social/tags/HVACUK"
+        "link": "https://mastodon.social/tags/HVACRepairService"
+      },
+      {
+        "tag": "#electriciansalary",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/electriciansalary"
+      },
+      {
+        "tag": "#ElectriciansCanada",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/ElectriciansCanada"
       }
     ],
     "accounts": [
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35691,
+        "followers": 35701,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -169,11 +169,6 @@
         "link": "https://lemmy.world/c/electricians"
       },
       {
-        "handle": "@DEPHER_1",
-        "followers": 334,
-        "link": "https://mastodon.social/@DEPHER_1"
-      },
-      {
         "handle": "@arnaudlauret@hachyderm.io",
         "followers": 227,
         "link": "https://hachyderm.io/@arnaudlauret"
@@ -184,7 +179,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9840,
+      "followers": 9841,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -205,7 +200,7 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3565,
+      "followers": 3564,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
