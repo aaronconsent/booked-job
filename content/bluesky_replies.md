@@ -2,6 +2,52 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@citizenptnewsca.bsky.social**: The Sewer Authority Mid-Coast faced a crucial decision: should they lock in contractor prices now or wait for formal budget approvals, leading to a heated debate among directors? 
+
+Learn more here
+
+#P
+  → https://bsky.app/profile/citizenptnewsca.bsky.social/post/3msv6ov3okv27
+
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msydcniykc2x
+
+- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
+
+https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
+
+- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
+  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
+
+- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
+
+🛠️ Steady local repair jobs
+💰 Reliable payouts
+📅 Flexible scheduling
+
+Join
+  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
+
 - **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
   → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
 
@@ -153,35 +199,3 @@ Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris an
 
 Websites + AI systems that book 
   → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
-
-- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
-
-1. You set a max bid for a keyword (say 'plumber charlotte')
-2. Google multiplies your b
-  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@mobilenotary1.bsky.social**: Need a trusted Mobile notary in miami for documents, affidavits, real estate papers, loan signings, powers of attorney, or business forms? Enjoy convenient mobile notary services delivered to your hom
-  → https://bsky.app/profile/mobilenotary1.bsky.social/post/3mshrtioqd226
-
-- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
-Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
-  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
