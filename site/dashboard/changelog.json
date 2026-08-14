@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-14T15:51",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Threads: biz slow season"
+    },
+    {
+      "ts": "2026-08-14T15:51",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools burning truck"
+    },
+    {
       "ts": "2026-08-14T14:21",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+108678471-7343-hello=booked-job.com@em7172.mail.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-10T18:58",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+108678471-7343-hello=booked-job.com@em7172.mail.medium.com: Write for humans, not algorithms"
-    },
-    {
-      "ts": "2026-08-10T18:58",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: biz money leaks"
     }
   ]
 }

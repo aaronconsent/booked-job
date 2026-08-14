@@ -2,6 +2,33 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@thesteeltoeapp.bsky.social**: We know you made a website for your business, but can customers find you where you in your small town? Some patrons want to see if there are businesses near them even if they order your products onlin
+  → https://bsky.app/profile/thesteeltoeapp.bsky.social/post/3mt2yrtqiqc2q
+
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
 - **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
   → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
 
@@ -161,36 +188,3 @@ A clus
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@stylelib.org**: Plumbing Spl – Plumber WordPress Theme
-
- https://themes.stylelib.org/?p=18003 
-
-#business #corporate #handyman #maintenance #painter #plumber #renovation #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mspedu537f2o
-
-- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
-
-1. You set a max bid for a keyword (say 'plumber charlotte')
-2. Google multiplies your b
-  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
-
-The outsize numbers come if you're self-employed/business owner. Experience
-  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
-
-Websites + AI systems that book 
-  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
