@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T06:23:12Z",
+  "updated": "2026-08-14T08:24:41Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
