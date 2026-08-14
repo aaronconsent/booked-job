@@ -1,46 +1,28 @@
 {
-  "updated": "2026-08-14T08:41",
+  "updated": "2026-08-14T10:15",
   "posts": [
     {
-      "ts": "2026-08-14T08:40:00",
-      "channel": "youtube",
-      "item": "pod-ep01-refunds",
-      "url": "https://youtu.be/UM6uphq0L4w"
-    },
-    {
-      "ts": "2026-08-14T08:39:54",
-      "channel": "facebook",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-08-14T08:39:48",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-08-14T08:38:57",
+      "ts": "2026-08-14T10:14:20",
       "channel": "mastodon",
-      "item": "card-ai",
+      "item": "card-anon98",
       "url": null
     },
     {
-      "ts": "2026-08-14T08:38:42",
+      "ts": "2026-08-14T10:14:07",
       "channel": "tumblr",
-      "item": "clip2-game",
+      "item": "clip3-onestar",
       "url": null
     },
     {
-      "ts": "2026-08-14T08:38:40",
+      "ts": "2026-08-14T10:14:05",
       "channel": "bluesky",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-08-14T08:38:38",
+      "ts": "2026-08-14T10:14:03",
       "channel": "tiktok",
-      "item": "clip-porno2",
+      "item": "clip-porno3",
       "url": null
     }
   ]
