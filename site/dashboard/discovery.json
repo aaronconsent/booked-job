@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T11:53:54Z",
+  "updated": "2026-08-14T13:27:18Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -92,6 +92,21 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#hvac",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#HVAC대장주",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVAC대장주"
+      },
+      {
         "tag": "#PlumbingRenovation",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingRenovation"
@@ -107,34 +122,19 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
+        "tag": "#ContractorledSolutions",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorledSolutions"
+      },
+      {
+        "tag": "#ContractorGuide",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorGuide"
+      },
+      {
         "tag": "#smallbusinessowners",
         "uses": 1,
         "link": "https://mastodon.social/tags/smallbusinessowners"
-      },
-      {
-        "tag": "#plumbingshop",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/plumbingshop"
-      },
-      {
-        "tag": "#PlumbingIsAConstruct",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingIsAConstruct"
-      },
-      {
-        "tag": "#PlumbingServicesWV",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingServicesWV"
-      },
-      {
-        "tag": "#RoofingNZ",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/RoofingNZ"
-      },
-      {
-        "tag": "#RoofingByBrett",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/RoofingByBrett"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23127,
+        "followers": 23136,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -179,14 +179,14 @@
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
-        "handle": "@business-BBCNews@flipboard.com",
-        "followers": 522,
-        "link": "https://flipboard.com/@bbcnews/business-h8ss70mez"
+        "handle": "@Noshir",
+        "followers": 731,
+        "link": "https://mastodon.social/@Noshir"
       },
       {
-        "handle": "@DEPHER_1",
-        "followers": 334,
-        "link": "https://mastodon.social/@DEPHER_1"
+        "handle": "@electricians@lemmy.world",
+        "followers": 632,
+        "link": "https://lemmy.world/c/electricians"
       }
     ]
   },
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4029,
+      "followers": 4030,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
