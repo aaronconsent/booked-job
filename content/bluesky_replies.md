@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
+
+1. You set a max bid for a keyword (say 'plumber charlotte')
+2. Google multiplies your b
+  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@jacobchappellai.bsky.social**: contractor sites that take 5+ seconds to load on mobile lose leads before anyone reads a word. homeowner's on their phone with a problem. they are not waiting around.
+
+Websites + AI systems that book 
+  → https://bsky.app/profile/jacobchappellai.bsky.social/post/3mrmcuhaefa2d
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@thesteeltoeapp.bsky.social**: We know you made a website for your business, but can customers find you where you in your small town? Some patrons want to see if there are businesses near them even if they order your products onlin
   → https://bsky.app/profile/thesteeltoeapp.bsky.social/post/3mt2yrtqiqc2q
 
@@ -169,22 +195,3 @@ Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris an
 
 #architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
   → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@invictaconst.bsky.social**: Which Commercial General Contractor Edmonton Delivers Quality Results on Time?
-
-Invicta Construction is a trusted commercial general contractor Edmonton, offering quality construction solutions, and r
-  → https://bsky.app/profile/invictaconst.bsky.social/post/3msxhkid2js2b
-
-- **@intlguy56.bsky.social**: What happens when you mix a legacy defense contractor, with a slow moving Pentagon bureaucracy, with a pack of incompetent white he-men selected by Hedgehog for their chest thumping abilities?
-
-A clus
-  → https://bsky.app/profile/intlguy56.bsky.social/post/3msyqo72hsc2h
-
-- **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
-  → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
