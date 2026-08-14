@@ -119,12 +119,13 @@
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
-      "bj-angi"
+      "bj-angi",
+      "bj-reviews"
     ],
-    "last_iso": "2026-08-14T06:57:18",
+    "last_iso": "2026-08-14T13:14:36",
     "day": {
       "date": "2026-08-14",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
