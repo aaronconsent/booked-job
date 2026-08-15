@@ -133,12 +133,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-08-15T08:49:46",
+    "last_iso": "2026-08-15T12:42:11",
     "day": {
       "date": "2026-08-15",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
