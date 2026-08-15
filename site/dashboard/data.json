@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:30",
+  "updated": "2026-08-15T13:42",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -471,7 +471,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 49,
+      "count": 50,
       "unit": "posts",
       "followers": 96,
       "grade": "B",
@@ -526,7 +526,7 @@
       "status": "live",
       "count": 59,
       "unit": "posts (Buffer)",
-      "stat": "2005 reach \u00b7 6 reactions",
+      "stat": "2003 reach \u00b7 6 reactions",
       "views": 34,
       "likes": 6,
       "grade": "B",
@@ -583,7 +583,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Polls",
@@ -613,7 +613,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Long video",
@@ -669,7 +669,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 25
+        "count": 26
       },
       {
         "type": "Articles",
@@ -700,7 +700,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 49
+        "count": 50
       },
       {
         "type": "Video",
@@ -831,7 +831,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1471,
+        "value": 1472,
         "grade": "A"
       },
       {
@@ -851,6 +851,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1471 posts, 120 audience, 74 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1472 posts, 120 audience, 74 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

@@ -25,12 +25,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-08-15T06:30:45",
+    "last_iso": "2026-08-15T13:53:44",
     "day": {
       "date": "2026-08-15",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -99,12 +100,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-08-15T11:48:20",
+    "last_iso": "2026-08-15T13:53:44",
     "day": {
       "date": "2026-08-15",
-      "count": 4
+      "count": 5
     }
   },
   "linkedin": {
@@ -229,12 +231,13 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-08-15T11:48:20",
+    "last_iso": "2026-08-15T13:53:44",
     "day": {
       "date": "2026-08-15",
-      "count": 4
+      "count": 5
     }
   },
   "telegram": {
@@ -255,12 +258,13 @@
   "tumblr": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-08-15T11:48:20",
+    "last_iso": "2026-08-15T13:53:44",
     "day": {
       "date": "2026-08-15",
-      "count": 4
+      "count": 5
     }
   }
 }
