@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cowc.bsky.social**: Did you know?
+
+Prevailing Wage requires that skilled trades workers, employed in the construction of government buildings and public improvement projects, must receive the hourly rates received by uni
+  → https://bsky.app/profile/cowc.bsky.social/post/3mt4or2vzms2r
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
 
 A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
@@ -171,20 +191,3 @@ Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris an
 
 - **@wafb-mirror.bsky.social**: https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owner-stuck-regulatory-loophole-after-crater-left-driveway/?utm_source=twitter&utm_medium=Social&utm_campaign=snd&utm_content=waf
   → https://bsky.app/profile/wafb-mirror.bsky.social/post/3msdjv5inci2j
-
-- **@wafb.com**: A local business owner has spent more than a year demanding answers after utility crews left a large crater in his driveway. https://www.wafb.com/2026/08/05/i-didnt-want-this-baton-rouge-business-owne
-  → https://bsky.app/profile/wafb.com/post/3msdjtwe2qn2c
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@intlguy56.bsky.social**: What happens when you mix a legacy defense contractor, with a slow moving Pentagon bureaucracy, with a pack of incompetent white he-men selected by Hedgehog for their chest thumping abilities?
-
-A clus
-  → https://bsky.app/profile/intlguy56.bsky.social/post/3msyqo72hsc2h
-
-- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
-
-1. You set a max bid for a keyword (say 'plumber charlotte')
-2. Google multiplies your b
-  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
