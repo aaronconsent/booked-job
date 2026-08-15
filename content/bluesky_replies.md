@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@quincunctial.bsky.social**: A lot of inexplicable (well, police and fire disability fraud and general contractor tax evasion) wealth in that area. PBA? Of course. Plenty of partying and boats.
+
+Sounds like Bayville - a town that
+  → https://bsky.app/profile/quincunctial.bsky.social/post/3mt3v36lxw224
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
 - **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
  
 #Alerting #ITOps 
@@ -178,17 +188,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
   → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
-
-🛠️ Steady local repair jobs
-💰 Reliable payouts
-📅 Flexible scheduling
-
-Join
-  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@concretebadger.bsky.social**: Culturally, we have a tendency to think, "*my* job is 'real work' but other people whose skills are different? Not so much"
-
-It's always been disappointingly common for white-collar workers to not giv
-  → https://bsky.app/profile/concretebadger.bsky.social/post/3msxvrqurqs26
