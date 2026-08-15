@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
   → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
 
@@ -172,27 +192,3 @@ A clus
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business is leaving money on the table without a website that converts. We build SEO-ready sites + AI chatbots that answer calls 24/7 + automations that turn browsers 
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3msharzec6523
-
-- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=810192 
-
-#business #construction #corporate #maintenance #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
-
-- **@cowc.bsky.social**: Did you know?
-
-Prevailing Wage requires that skilled trades workers, employed in the construction of government buildings and public improvement projects, must receive the hourly rates received by uni
-  → https://bsky.app/profile/cowc.bsky.social/post/3mt4or2vzms2r
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
-
-The outsize numbers come if you're self-employed/business owner. Experience
-  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
