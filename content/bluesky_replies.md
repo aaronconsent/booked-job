@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@quincunctial.bsky.social**: A lot of inexplicable (well, police and fire disability fraud and general contractor tax evasion) wealth in that area. PBA? Of course. Plenty of partying and boats.
 
 Sounds like Bayville - a town that
@@ -185,6 +188,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
   → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
-  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
