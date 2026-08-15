@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@rankednews.bsky.social**: Meta taps skilled trades workers to power America’s AI infrastructure boom: Meta has announced a partnership with North America’s Building Trades Unions (NABTU) to expand the pipeline of skilled worke
   → https://bsky.app/profile/rankednews.bsky.social/post/3msyu5whmqe24
 
@@ -181,14 +192,3 @@ Join
 
 It's always been disappointingly common for white-collar workers to not giv
   → https://bsky.app/profile/concretebadger.bsky.social/post/3msxvrqurqs26
-
-- **@the74.bsky.social**: Corwin and Dewees: If the economy urgently needs more skilled trades workers, why aren't we making a greater investment to prepare high schoolers? www.the74million.org/article/amid...
-  → https://bsky.app/profile/the74.bsky.social/post/3msxzq44ku52h
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
