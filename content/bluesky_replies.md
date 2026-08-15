@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rkdowner.bsky.social**: A major Pentagon contractor has stiffed the country for millions of dollars while delivering nothing?
+
+Nothing to see folks. Move along, move along.
+  → https://bsky.app/profile/rkdowner.bsky.social/post/3mt45rjqmvs2t
+
+- **@the74.bsky.social**: Corwin and Dewees: If the economy urgently needs more skilled trades workers, why aren't we making a greater investment to prepare high schoolers? www.the74million.org/article/amid...
+  → https://bsky.app/profile/the74.bsky.social/post/3msxzq44ku52h
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -179,12 +187,3 @@ Stay your way with master by Leonardo Hotels: spacious serviced apartments with 
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msydcniykc2x
-
-- **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
-#Nassa
-  → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
