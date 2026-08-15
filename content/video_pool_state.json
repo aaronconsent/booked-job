@@ -101,12 +101,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-08-15T13:53:44",
+    "last_iso": "2026-08-15T15:46:42",
     "day": {
       "date": "2026-08-15",
-      "count": 5
+      "count": 6
     }
   },
   "linkedin": {
@@ -232,12 +233,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-08-15T13:53:44",
+    "last_iso": "2026-08-15T15:46:42",
     "day": {
       "date": "2026-08-15",
-      "count": 5
+      "count": 6
     }
   },
   "telegram": {
@@ -259,12 +261,13 @@
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-08-15T13:53:44",
+    "last_iso": "2026-08-15T15:46:42",
     "day": {
       "date": "2026-08-15",
-      "count": 5
+      "count": 6
     }
   }
 }

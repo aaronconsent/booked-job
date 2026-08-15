@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:29:26Z",
+  "updated": "2026-08-15T20:34:34Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -122,14 +122,14 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorGuide",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorGuide"
-      },
-      {
         "tag": "#ContractorledSolutions",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorledSolutions"
+      },
+      {
+        "tag": "#ContractorGuide",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorGuide"
       },
       {
         "tag": "#ContractorownedContractoroperated",
