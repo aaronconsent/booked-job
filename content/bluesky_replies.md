@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@thesteeltoeapp.bsky.social**: We know you made a website for your business, but can customers find you where you in your small town? Some patrons want to see if there are businesses near them even if they order your products onlin
+  → https://bsky.app/profile/thesteeltoeapp.bsky.social/post/3mt2yrtqiqc2q
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
+
+- **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
+  → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
+
 - **@seoontop.bsky.social**: Need a trusted Nassau County electrician? Discover why professional electrical services are essential for safety, efficiency, and protecting your home or business from costly electrical issues.
 #Nassa
   → https://bsky.app/profile/seoontop.bsky.social/post/3mrhaydxqvk2r
@@ -183,23 +196,3 @@ Prevailing Wage requires that skilled trades workers, employed in the constructi
 
 The outsize numbers come if you're self-employed/business owner. Experience
   → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
-
-A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
-
-- **@koerneroffice.com**: This dude turned $100 into $45,000.
-
-How? Free watermelons.
-
-He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
-
-You can complain that a m
-  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
