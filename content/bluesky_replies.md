@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
+
+Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
+  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
+
+- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
+  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
 - **@intlguy56.bsky.social**: What happens when you mix a legacy defense contractor, with a slow moving Pentagon bureaucracy, with a pack of incompetent white he-men selected by Hedgehog for their chest thumping abilities?
 
 A clus
@@ -175,22 +190,3 @@ https://apify.com/s
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
-
-- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
-
-Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
-  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
