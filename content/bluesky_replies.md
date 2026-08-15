@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=134524 
+
+#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
+  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
+
+Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
+  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
+
 - **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
 
 Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
@@ -175,18 +194,3 @@ Planning a roof repair or replacement project? Roofing dumpster rental Orlando f
 
 - **@gmakp.bsky.social**: So good to know that it’s working on the top priority concerns that “we the people” have! Will it be the “general contractor” for that project also? How many times will we pay for that project?
   → https://bsky.app/profile/gmakp.bsky.social/post/3mt2loyfywc25
-
-- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
-
-Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
-  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msit4evlc32b
