@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:34:34Z",
+  "updated": "2026-08-15T21:31:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -122,14 +122,14 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorledSolutions",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorledSolutions"
-      },
-      {
         "tag": "#ContractorGuide",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorGuide"
+      },
+      {
+        "tag": "#ContractorledSolutions",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorledSolutions"
       },
       {
         "tag": "#ContractorownedContractoroperated",
@@ -229,7 +229,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2224,
+      "followers": 2225,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },

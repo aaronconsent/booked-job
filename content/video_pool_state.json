@@ -137,12 +137,13 @@
       "bj-trade",
       "bj-slow",
       "bj-cpbj",
-      "bj-speed"
+      "bj-speed",
+      "bj-ftc"
     ],
-    "last_iso": "2026-08-15T12:42:11",
+    "last_iso": "2026-08-15T16:43:24",
     "day": {
       "date": "2026-08-15",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
