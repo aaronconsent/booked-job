@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T13:54",
+  "generated": "2026-08-15T14:41",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 32,
+        "current": 34,
         "target": 22,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 46,
+        "current": 48,
         "target": 150,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 142,
+        "current": 144,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 1098,
+    "social_posts": 1100,
     "followers": 113,
     "engagement": 3,
     "yt_views": 1327,
@@ -259,8 +259,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "46/150 \u2014 104 short of pace.",
-      "prompt": "We're behind on social posts this week (46/150). Refill the social queues / add more variant cards."
+      "why": "48/150 \u2014 102 short of pace.",
+      "prompt": "We're behind on social posts this week (48/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",

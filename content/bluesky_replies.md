@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@johnvoelcker.bsky.social**: Some young workers are swapping laptops for hard hats, betting a welding torch or tool belt offers more protection against AI disruption. 
+
+"More young Americans are looking to the skilled trades for 
+  → https://bsky.app/profile/johnvoelcker.bsky.social/post/3mt5fzgpj3c2c
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -173,28 +194,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
   → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
-
-🛠️ Steady local repair jobs
-💰 Reliable payouts
-📅 Flexible scheduling
-
-Join
-  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@rkdowner.bsky.social**: A major Pentagon contractor has stiffed the country for millions of dollars while delivering nothing?
-
-Nothing to see folks. Move along, move along.
-  → https://bsky.app/profile/rkdowner.bsky.social/post/3mt45rjqmvs2t
-
-- **@the74.bsky.social**: Corwin and Dewees: If the economy urgently needs more skilled trades workers, why aren't we making a greater investment to prepare high schoolers? www.the74million.org/article/amid...
-  → https://bsky.app/profile/the74.bsky.social/post/3msxzq44ku52h
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@quincunctial.bsky.social**: A lot of inexplicable (well, police and fire disability fraud and general contractor tax evasion) wealth in that area. PBA? Of course. Plenty of partying and boats.
-
-Sounds like Bayville - a town that
-  → https://bsky.app/profile/quincunctial.bsky.social/post/3mt3v36lxw224
