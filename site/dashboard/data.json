@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:40",
+  "updated": "2026-08-15T04:35",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -478,7 +478,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 40,
+      "count": 41,
       "unit": "posts",
       "followers": 95,
       "grade": "B",
@@ -498,7 +498,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -591,7 +591,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 19
+        "count": 2
       },
       {
         "type": "Polls",
@@ -621,7 +621,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 19
+        "count": 2
       },
       {
         "type": "Long video",
@@ -708,7 +708,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 40
+        "count": 41
       },
       {
         "type": "Video",
@@ -735,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 46
+        "count": 47
       },
       {
         "type": "Video",
@@ -839,7 +839,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1449,
+        "value": 1451,
         "grade": "A"
       },
       {
@@ -859,6 +859,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1449 posts, 121 audience, 73 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1451 posts, 121 audience, 73 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
