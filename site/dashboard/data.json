@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T18:31",
+  "updated": "2026-08-14T20:45",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 66,
+        "current": 67,
         "target": 100,
-        "pct": 66,
+        "pct": 67,
         "on_track": true
       },
       {
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 1326,
+        "current": 1327,
         "target": 1400,
         "pct": 95,
         "on_track": true
@@ -108,46 +108,39 @@
       "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Name the tool you lose the most. It's the tape. It's always ",
-      "sub": "tool wars"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Every crew has the guy who runs the safety meeting AND the g",
       "sub": "that guy"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Helper's on his phone more than his tools. You say something",
       "sub": "owner solidarity"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Best money move some years is firing your worst customer \u2014 t",
       "sub": "business"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New wrapped truck: rolling billboard that pays for itself, o",
       "sub": "business"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-21",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Half of you have a Google Business Profile you set up once i",
       "sub": "business"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-24",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The jobs you're proudest of are the ones nobody ever thinks ",
@@ -160,7 +153,7 @@
     "likes": 14
   },
   "content": {
-    "posts_published": 66,
+    "posts_published": 67,
     "reactions": 3,
     "comments": 0,
     "shares": 0,
@@ -179,7 +172,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 0,
-    "views": 1326,
+    "views": 1327,
     "likes": 0,
     "videos": 39,
     "shorts": 39
@@ -429,7 +422,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 128,
+      "count": 129,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -454,7 +447,7 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 1326,
+      "views": 1327,
       "followers": 0,
       "likes": 0
     },
@@ -485,7 +478,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 32,
+      "count": 33,
       "unit": "posts",
       "followers": 95,
       "grade": "B",
@@ -505,7 +498,7 @@
     {
       "name": "Threads",
       "status": "live",
-      "count": 38,
+      "count": 39,
       "unit": "posts",
       "followers": 2,
       "grade": "D",
@@ -539,9 +532,9 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 53,
+      "count": 54,
       "unit": "posts (Buffer)",
-      "stat": "1875 reach \u00b7 6 reactions",
+      "stat": "2005 reach \u00b7 6 reactions",
       "views": 34,
       "likes": 6,
       "grade": "B",
@@ -583,7 +576,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 65
+        "count": 66
       },
       {
         "type": "Carousels",
@@ -598,7 +591,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 9
       },
       {
         "type": "Polls",
@@ -628,7 +621,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 9
       },
       {
         "type": "Long video",
@@ -674,7 +667,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Documents",
@@ -715,7 +708,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 32
+        "count": 33
       },
       {
         "type": "Video",
@@ -742,7 +735,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 38
+        "count": 39
       },
       {
         "type": "Video",
@@ -786,9 +779,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 7,
+      "remaining": 6,
       "per_day": 2,
-      "days": 3.5,
+      "days": 3.0,
       "status": "amber"
     },
     {
@@ -821,7 +814,7 @@
     }
   ],
   "funnel": {
-    "reach": 41358,
+    "reach": 41359,
     "engagement": 3,
     "audience": 121,
     "cr_clicks": 73
@@ -830,13 +823,13 @@
     "audience": 26,
     "engagement": -1,
     "email": 0,
-    "reach": -944
+    "reach": -943
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 18030,
+        "value": 18031,
         "grade": "B"
       },
       {
@@ -846,7 +839,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1429,
+        "value": 1433,
         "grade": "A"
       },
       {
@@ -866,6 +859,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1429 posts, 121 audience, 73 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1433 posts, 121 audience, 73 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
