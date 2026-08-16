@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
+
+1. You set a max bid for a keyword (say 'plumber charlotte')
+2. Google multiplies your b
+  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
+
+- **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
+
+c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
+  → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=810192 
+
+#business #construction #corporate #maintenance #renovation #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
+
+- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
+  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
+
 - **@cowc.bsky.social**: Did you know?
 
 Prevailing Wage requires that skilled trades workers, employed in the construction of government buildings and public improvement projects, must receive the hourly rates received by uni
@@ -162,32 +190,3 @@ Is that good for the economy?
 
 - **@gmakp.bsky.social**: And who might be the general contractor on that one?
   → https://bsky.app/profile/gmakp.bsky.social/post/3mt53jmya3c2f
-
-- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
-
-Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
-  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
-
-- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
-
-Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
-  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
-
-- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
-
-Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
-  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=134524 
-
-#electrician #mechanic #smartdatasoft #themeforest #wordpress #business #engineering #corporate #maintenance #repa
-  → https://bsky.app/profile/stylelib.org/post/3mrg5lqaoii2x
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
