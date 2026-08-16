@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
+
+Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
+  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
+
 - **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
 
 Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
@@ -194,9 +199,3 @@ Why a recruiting problem?
 
 Is that good for the economy?
   → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
-
-- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
-
-news.bangboxonline.com/Roofing-Dump...
-Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
