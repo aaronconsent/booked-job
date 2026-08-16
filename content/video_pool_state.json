@@ -80,12 +80,13 @@
       "bj-speed",
       "bj-ftc",
       "bj-cpl",
-      "bj-favor"
+      "bj-favor",
+      "bj-stars"
     ],
-    "last_iso": "2026-08-16T08:51:19",
+    "last_iso": "2026-08-16T12:43:20",
     "day": {
       "date": "2026-08-16",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
