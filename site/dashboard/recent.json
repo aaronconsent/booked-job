@@ -1,22 +1,28 @@
 {
-  "updated": "2026-08-16T07:58",
+  "updated": "2026-08-16T08:52",
   "posts": [
     {
-      "ts": "2026-08-16T07:58:05",
-      "channel": "tumblr",
-      "item": "pod-ep02-fake",
+      "ts": "2026-08-16T08:52:11",
+      "channel": "facebook",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-08-16T07:58:03",
-      "channel": "bluesky",
-      "item": "pod-ep01-refunds",
+      "ts": "2026-08-16T08:52:07",
+      "channel": "ig",
+      "item": "carousel-leadsites",
       "url": null
     },
     {
-      "ts": "2026-08-16T07:58:01",
-      "channel": "tiktok",
-      "item": "pod-ep03-channels",
+      "ts": "2026-08-16T08:51:29",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-08-16T08:51:21",
+      "channel": "linkedin",
+      "item": "bj-favor",
       "url": null
     }
   ]
