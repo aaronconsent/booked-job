@@ -39,12 +39,13 @@
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-08-16T06:31:32",
+    "last_iso": "2026-08-16T07:58:00",
     "day": {
       "date": "2026-08-16",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -178,12 +179,13 @@
       "pod-ep01-verdict",
       "pod-ep01-speed",
       "pod-ep01-starter",
-      "pod-ep01-ftc"
+      "pod-ep01-ftc",
+      "pod-ep01-refunds"
     ],
-    "last_iso": "2026-08-16T06:31:32",
+    "last_iso": "2026-08-16T07:58:00",
     "day": {
       "date": "2026-08-16",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -209,12 +211,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-08-16T06:31:32",
+    "last_iso": "2026-08-16T07:58:00",
     "day": {
       "date": "2026-08-16",
-      "count": 1
+      "count": 2
     }
   }
 }

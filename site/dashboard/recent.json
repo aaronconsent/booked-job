@@ -1,40 +1,22 @@
 {
-  "updated": "2026-08-16T06:33",
+  "updated": "2026-08-16T07:58",
   "posts": [
     {
-      "ts": "2026-08-16T06:32:31",
+      "ts": "2026-08-16T07:58:05",
       "channel": "tumblr",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-08-16T06:32:30",
+      "ts": "2026-08-16T07:58:03",
       "channel": "bluesky",
-      "item": "pod-ep01-ftc",
+      "item": "pod-ep01-refunds",
       "url": null
     },
     {
-      "ts": "2026-08-16T06:32:28",
+      "ts": "2026-08-16T07:58:01",
       "channel": "tiktok",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-08-16T06:32:28",
-      "channel": "linkedin",
-      "item": "bj-cpl",
-      "url": null
-    },
-    {
-      "ts": "2026-08-16T06:32:27",
-      "channel": "ig",
-      "item": "bj-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-16T06:31:58",
-      "channel": "facebook",
-      "item": "is-angi-worth-it",
+      "item": "pod-ep03-channels",
       "url": null
     }
   ]
