@@ -1,28 +1,16 @@
 {
-  "updated": "2026-08-16T15:48",
+  "updated": "2026-08-16T16:43",
   "posts": [
     {
-      "ts": "2026-08-16T15:46:49",
-      "channel": "mastodon",
-      "item": "carousel-leadsites",
+      "ts": "2026-08-16T16:43:12",
+      "channel": "facebook",
+      "item": "card-speed",
       "url": null
     },
     {
-      "ts": "2026-08-16T15:46:39",
-      "channel": "tumblr",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-08-16T15:46:37",
-      "channel": "bluesky",
-      "item": "bj-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-08-16T15:46:32",
-      "channel": "tiktok",
-      "item": "pod-ep02-fake",
+      "ts": "2026-08-16T16:42:28",
+      "channel": "linkedin",
+      "item": "bj-ai",
       "url": null
     }
   ]
