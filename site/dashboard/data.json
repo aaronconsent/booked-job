@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:29",
+  "updated": "2026-08-15T20:53",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 68,
+        "current": 69,
         "target": 100,
-        "pct": 68,
+        "pct": 69,
         "on_track": true
       },
       {
@@ -108,32 +108,25 @@
       "date": "2026-08-17",
       "type": "post",
       "icon": "\ud83d\udcdd",
-      "title": "Helper's on his phone more than his tools. You say something",
-      "sub": "owner solidarity"
-    },
-    {
-      "date": "2026-08-18",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
       "title": "Best money move some years is firing your worst customer \u2014 t",
       "sub": "business"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "New wrapped truck: rolling billboard that pays for itself, o",
       "sub": "business"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "Half of you have a Google Business Profile you set up once i",
       "sub": "business"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "type": "post",
       "icon": "\ud83d\udcdd",
       "title": "The jobs you're proudest of are the ones nobody ever thinks ",
@@ -146,7 +139,7 @@
     "likes": 14
   },
   "content": {
-    "posts_published": 68,
+    "posts_published": 69,
     "reactions": 3,
     "comments": 0,
     "shares": 0,
@@ -415,7 +408,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 130,
+      "count": 131,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -471,7 +464,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 55,
+      "count": 56,
       "unit": "posts",
       "followers": 96,
       "grade": "B",
@@ -524,7 +517,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 60,
+      "count": 61,
       "unit": "posts (Buffer)",
       "stat": "2002 reach \u00b7 6 reactions",
       "views": 33,
@@ -568,7 +561,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 67
+        "count": 68
       },
       {
         "type": "Carousels",
@@ -583,7 +576,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 4
       },
       {
         "type": "Polls",
@@ -613,7 +606,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 4
       },
       {
         "type": "Long video",
@@ -659,7 +652,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 48
+        "count": 49
       },
       {
         "type": "Documents",
@@ -700,7 +693,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 55
+        "count": 56
       },
       {
         "type": "Video",
@@ -771,9 +764,9 @@
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 5,
+      "remaining": 4,
       "per_day": 2,
-      "days": 2.5,
+      "days": 2.0,
       "status": "red"
     },
     {
@@ -831,7 +824,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1478,
+        "value": 1481,
         "grade": "A"
       },
       {
@@ -851,6 +844,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1478 posts, 120 audience, 74 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1481 posts, 120 audience, 74 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
