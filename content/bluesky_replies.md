@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@gmakp.bsky.social**: And who might be the general contractor on that one?
+  → https://bsky.app/profile/gmakp.bsky.social/post/3mt53jmya3c2f
+
 - **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
 
 Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
@@ -194,8 +197,3 @@ Why a recruiting problem?
 
 - **@rankednews.bsky.social**: Meta taps skilled trades workers to power America’s AI infrastructure boom: Meta has announced a partnership with North America’s Building Trades Unions (NABTU) to expand the pipeline of skilled worke
   → https://bsky.app/profile/rankednews.bsky.social/post/3msyu5whmqe24
-
-- **@canberraartemis.bsky.social**: Plumber Joe’s business loan and home mortgages both go up. Joe increases his prices and fires Dave the recent hire.
-
-Is that good for the economy?
-  → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
