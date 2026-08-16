@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-16T01:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing once not twice"
+    },
+    {
       "ts": "2026-08-16T00:38",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@explore.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-12T10:20",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@explore.pinterest.com: You do you"
     }
   ]
 }
