@@ -51,12 +51,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-08-17T09:49:58",
+    "last_iso": "2026-08-17T11:50:43",
     "day": {
       "date": "2026-08-17",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -165,12 +166,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-08-17T06:36:58",
+    "last_iso": "2026-08-17T11:50:43",
     "day": {
       "date": "2026-08-17",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -208,12 +210,13 @@
       "bj-trade",
       "bj-slow",
       "bj-cpbj",
-      "bj-speed"
+      "bj-speed",
+      "bj-ftc"
     ],
-    "last_iso": "2026-08-17T09:49:58",
+    "last_iso": "2026-08-17T11:50:43",
     "day": {
       "date": "2026-08-17",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -249,12 +252,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-08-17T09:49:58",
+    "last_iso": "2026-08-17T11:50:43",
     "day": {
       "date": "2026-08-17",
-      "count": 3
+      "count": 4
     }
   }
 }

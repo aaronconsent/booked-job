@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T10:46",
+  "generated": "2026-08-17T11:51",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 15,
+        "current": 17,
         "target": 150,
         "status": "yellow",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 82,
+        "current": 84,
         "target": 600,
         "status": "red",
         "needs": null
@@ -215,14 +215,14 @@
     ]
   },
   "queues": {
-    "fb_ig_posts": 3,
+    "fb_ig_posts": 2,
     "reels": 0,
     "staged_articles": 0
   },
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 1038,
+    "social_posts": 1040,
     "followers": 118,
     "engagement": 4,
     "yt_views": 1326,
@@ -234,7 +234,7 @@
   "prompts": [
     {
       "title": "\ud83d\udce3 FB/IG queue running low",
-      "why": "Only 3 posts left (goal ~12/day).",
+      "why": "Only 2 posts left (goal ~12/day).",
       "prompt": "Top up the FB/IG queue \u2014 generate a batch of stat cards / quote-card variants from the stats DB and queue them."
     },
     {
