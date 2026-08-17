@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-17T09:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: labor show up"
+    },
+    {
       "ts": "2026-08-17T09:00",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "post",
       "icon": "📝",
       "text": "Published post: humor monday"
-    },
-    {
-      "ts": "2026-08-13T10:19",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
     }
   ]
 }
