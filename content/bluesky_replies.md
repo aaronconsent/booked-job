@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
 - **@stylelib.org**: Tanj  – Construction WordPress Theme
 
  https://stylelib.org/?p=164862 
@@ -177,16 +196,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 Sounds like Bayville - a town that
   → https://bsky.app/profile/quincunctial.bsky.social/post/3mt3v36lxw224
-
-- **@rkdowner.bsky.social**: A major Pentagon contractor has stiffed the country for millions of dollars while delivering nothing?
-
-Nothing to see folks. Move along, move along.
-  → https://bsky.app/profile/rkdowner.bsky.social/post/3mt45rjqmvs2t
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@johnvoelcker.bsky.social**: Some young workers are swapping laptops for hard hats, betting a welding torch or tool belt offers more protection against AI disruption. 
-
-"More young Americans are looking to the skilled trades for 
-  → https://bsky.app/profile/johnvoelcker.bsky.social/post/3mt5fzgpj3c2c

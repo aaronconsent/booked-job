@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:08:55Z",
+  "updated": "2026-08-17T04:53:38Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/HVAC대장주"
       },
       {
+        "tag": "#hvacousticmassloadedvinyl",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
+      },
+      {
         "tag": "#PlumbingRenovation",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingRenovation"
@@ -122,19 +127,14 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorledSolutions",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorledSolutions"
-      },
-      {
         "tag": "#ContractorGuide",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorGuide"
       },
       {
-        "tag": "#ContractorownedContractoroperated",
+        "tag": "#ContractorledSolutions",
         "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorownedContractoroperated"
+        "link": "https://mastodon.social/tags/ContractorledSolutions"
       }
     ],
     "accounts": [
@@ -201,16 +201,9 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4029,
+      "followers": 4030,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
-    },
-    {
-      "handle": "@sbaer28.bsky.social",
-      "display": "S Baer",
-      "followers": 3826,
-      "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
-      "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
     {
       "handle": "@hairyturkishgay.bsky.social",
@@ -218,13 +211,6 @@
       "followers": 3562,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
-    },
-    {
-      "handle": "@cpajoe.bsky.social",
-      "display": "Joe Rosenberg",
-      "followers": 2231,
-      "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
-      "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@noshir.bsky.social",
@@ -262,13 +248,6 @@
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
     {
-      "handle": "@girdley.bsky.social",
-      "display": "Michael Girdley",
-      "followers": 1173,
-      "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
-      "link": "https://bsky.app/profile/girdley.bsky.social"
-    },
-    {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
       "followers": 1036,
@@ -288,6 +267,27 @@
       "followers": 848,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
+    },
+    {
+      "handle": "@thebarehandyman.bsky.social",
+      "display": "The Bare Handyman",
+      "followers": 704,
+      "desc": "he/any - professional handyman According to chat “the most married man ever” and “slut”",
+      "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
+    },
+    {
+      "handle": "@hvacdave.bsky.social",
+      "display": "Time Out",
+      "followers": 682,
+      "desc": "If we don't solve climate change then nothing else matters.",
+      "link": "https://bsky.app/profile/hvacdave.bsky.social"
+    },
+    {
+      "handle": "@lunargabriel.stream",
+      "display": "Lunar 🌙 Handyman Era 🔧 【The Gremlin Squad】",
+      "followers": 569,
+      "desc": "Your fav Moon Deer Angel🌙  ✨ Twitch: twitch.tv/lunargabriel ✨ Email: lunar_gabriel@outlook.com ✨ Banner: @mikuruzumi on ",
+      "link": "https://bsky.app/profile/lunargabriel.stream"
     }
   ]
 }
