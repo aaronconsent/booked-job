@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@irelandticker.bsky.social**: Tender: Tipperary Education and Training Board_1284<br>CFT 8843560 - Project C1057 - Main Contractor with PSCS role for a Permanent Accommodation for 2 ASD Units, 1 Music Room and 5 General Class Room
+  → https://bsky.app/profile/irelandticker.bsky.social/post/3mtb3jjs5u22o
+
+- **@johnvoelcker.bsky.social**: Some young workers are swapping laptops for hard hats, betting a welding torch or tool belt offers more protection against AI disruption. 
+
+"More young Americans are looking to the skilled trades for 
+  → https://bsky.app/profile/johnvoelcker.bsky.social/post/3mt5fzgpj3c2c
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
 
 My brother makes about $225k as a master electrician.
@@ -185,14 +196,3 @@ Join
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msydcniykc2x
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@quincunctial.bsky.social**: A lot of inexplicable (well, police and fire disability fraud and general contractor tax evasion) wealth in that area. PBA? Of course. Plenty of partying and boats.
-
-Sounds like Bayville - a town that
-  → https://bsky.app/profile/quincunctial.bsky.social/post/3mt3v36lxw224
