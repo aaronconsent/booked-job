@@ -2,6 +2,62 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@txpremier.bsky.social**: Affordable Lock Rekeying in Austin, TX: Fast, Secure, and Budget-Friendly Service 
+
+Need to secure your home, apartment, or business without replacing every lock? Rekeying is the smart, affordable sol
+  → https://bsky.app/profile/txpremier.bsky.social/post/3mspxfr73d22s
+
+- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
+
+Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
+  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
+
+- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
+  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
+
+- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
+
+Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
+  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
+
+- **@cowc.bsky.social**: Did you know?
+
+Prevailing Wage requires that skilled trades workers, employed in the construction of government buildings and public improvement projects, must receive the hourly rates received by uni
+  → https://bsky.app/profile/cowc.bsky.social/post/3mt4or2vzms2r
+
+- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=810192 
+
+#business #construction #corporate #maintenance #renovation #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
 - **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
   → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
 
@@ -143,52 +199,3 @@ Why a recruiting problem?
 
 1. Trade Unions once direc
   → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://stylelib.org/?p=164862 
-
-#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
-  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
-
-- **@johnvoelcker.bsky.social**: Some young workers are swapping laptops for hard hats, betting a welding torch or tool belt offers more protection against AI disruption. 
-
-"More young Americans are looking to the skilled trades for 
-  → https://bsky.app/profile/johnvoelcker.bsky.social/post/3mt5fzgpj3c2c
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@gmakp.bsky.social**: So good to know that it’s working on the top priority concerns that “we the people” have! Will it be the “general contractor” for that project also? How many times will we pay for that project?
-  → https://bsky.app/profile/gmakp.bsky.social/post/3mt2loyfywc25
-
-- **@gmakp.bsky.social**: And who might be the general contractor on that one?
-  → https://bsky.app/profile/gmakp.bsky.social/post/3mt53jmya3c2f
-
-- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
-
-news.bangboxonline.com/Roofing-Dump...
-Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
-
-- **@canberraartemis.bsky.social**: Plumber Joe’s business loan and home mortgages both go up. Joe increases his prices and fires Dave the recent hire.
-
-Is that good for the economy?
-  → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
-
-- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
-
-1. You set a max bid for a keyword (say 'plumber charlotte')
-2. Google multiplies your b
-  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
-
-- **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
-
-c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
-  → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q

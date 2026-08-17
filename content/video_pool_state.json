@@ -98,12 +98,13 @@
       "bj-ai",
       "bj-scam",
       "bj-rev-hvac",
-      "bj-rev-plumb"
+      "bj-rev-plumb",
+      "bj-rev-roof"
     ],
-    "last_iso": "2026-08-17T12:49:02",
+    "last_iso": "2026-08-17T16:46:38",
     "day": {
       "date": "2026-08-17",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {

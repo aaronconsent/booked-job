@@ -1,28 +1,16 @@
 {
-  "updated": "2026-08-17T15:52",
+  "updated": "2026-08-17T16:47",
   "posts": [
     {
-      "ts": "2026-08-17T15:50:38",
-      "channel": "mastodon",
-      "item": "card-rev-paint",
+      "ts": "2026-08-17T16:46:44",
+      "channel": "facebook",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-08-17T15:50:28",
-      "channel": "tumblr",
-      "item": "pod-ep01-shared",
-      "url": null
-    },
-    {
-      "ts": "2026-08-17T15:50:26",
-      "channel": "bluesky",
-      "item": "bj-favor",
-      "url": null
-    },
-    {
-      "ts": "2026-08-17T15:50:22",
-      "channel": "tiktok",
-      "item": "pod-ep01-ftc",
+      "ts": "2026-08-17T16:46:39",
+      "channel": "linkedin",
+      "item": "bj-rev-roof",
       "url": null
     }
   ]
