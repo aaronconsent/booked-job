@@ -2,6 +2,52 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@canberraartemis.bsky.social**: Plumber Joe’s business loan and home mortgages both go up. Joe increases his prices and fires Dave the recent hire.
+
+Is that good for the economy?
+  → https://bsky.app/profile/canberraartemis.bsky.social/post/3mstiwfxlx226
+
+- **@ppcagencycharlotte.bsky.social**: How does the Google Ads auction actually work? Here's the plain-English version for Charlotte business owners:
+
+1. You set a max bid for a keyword (say 'plumber charlotte')
+2. Google multiplies your b
+  → https://bsky.app/profile/ppcagencycharlotte.bsky.social/post/3msvc5mo5qd2l
+
+- **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
+
+c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
+  → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
+
+- **@johnvoelcker.bsky.social**: Some young workers are swapping laptops for hard hats, betting a welding torch or tool belt offers more protection against AI disruption. 
+
+"More young Americans are looking to the skilled trades for 
+  → https://bsky.app/profile/johnvoelcker.bsky.social/post/3mt5fzgpj3c2c
+
+- **@gmakp.bsky.social**: And who might be the general contractor on that one?
+  → https://bsky.app/profile/gmakp.bsky.social/post/3mt53jmya3c2f
+
+- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
+
+news.bangboxonline.com/Roofing-Dump...
+Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
+  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
+
+- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
+
+https://apify.com/s
+  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
+
+- **@stylelib.org**: Tanj  – Construction WordPress Theme
+
+ https://stylelib.org/?p=164862 
+
+#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
+  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@stylelib.org**: Construction – Industrial HTML5 Template
 
  https://themes.stylelib.org/?p=19090 
@@ -148,54 +194,3 @@ https://apify.com/sleek_waveform/constr
 
 #painting #renovation #roofing #themeforest #wordpress #business #corporate #maintenance #construction
   → https://bsky.app/profile/stylelib.org/post/3mtc6pxzi6i2z
-
-- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
-
-🛠️ Steady local repair jobs
-💰 Reliable payouts
-📅 Flexible scheduling
-
-Join
-  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@smartestlancer.com**: We have started our journey recently on Blue Sky.
-We want to help businesses thrive and also grow with them together.
-
-Are you facing any issues with your business digitally?
-Let's help you find your 
-  → https://bsky.app/profile/smartestlancer.com/post/3mtbbeo5zs22m
-
-- **@quincunctial.bsky.social**: A lot of inexplicable (well, police and fire disability fraud and general contractor tax evasion) wealth in that area. PBA? Of course. Plenty of partying and boats.
-
-Sounds like Bayville - a town that
-  → https://bsky.app/profile/quincunctial.bsky.social/post/3mt3v36lxw224
-
-- **@rkdowner.bsky.social**: A major Pentagon contractor has stiffed the country for millions of dollars while delivering nothing?
-
-Nothing to see folks. Move along, move along.
-  → https://bsky.app/profile/rkdowner.bsky.social/post/3mt45rjqmvs2t
-
-- **@irelandticker.bsky.social**: Tender: Tipperary Education and Training Board_1284<br>CFT 8843560 - Project C1057 - Main Contractor with PSCS role for a Permanent Accommodation for 2 ASD Units, 1 Music Room and 5 General Class Room
-  → https://bsky.app/profile/irelandticker.bsky.social/post/3mtb3jjs5u22o
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
