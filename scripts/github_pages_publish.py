@@ -3,7 +3,7 @@
 Commit files to the Booked Job GitHub Pages repo via the Contents API, and
 enable Pages. Reads secrets/github.env:
     GITHUB_TOKEN=...     (fine-grained PAT: Contents write + Pages write)
-    GITHUB_OWNER=aaronconsent
+    GITHUB_OWNER=heyaaronmarketing
     GITHUB_REPO=booked-job-articles
 """
 import base64, json, os, sys, urllib.request

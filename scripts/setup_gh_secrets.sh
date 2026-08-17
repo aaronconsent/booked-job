@@ -7,7 +7,7 @@
 set -e
 cd "$(dirname "$0")/.."
 command -v gh >/dev/null || { echo "Install the GitHub CLI first:  brew install gh  &&  gh auth login"; exit 1; }
-REPO="aaronconsent/booked-job"
+REPO="heyaaronmarketing/booked-job"
 echo "Uploading secrets to $REPO ..."
 for f in secrets/*.env; do
   [ -f "$f" ] || continue

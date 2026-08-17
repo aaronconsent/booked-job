@@ -5,7 +5,7 @@ Consent Resolve. Grows the Facebook page + site autonomously. Strategy: `STRATEG
 
 ## What's live
 - **Site:** `site/` (static) — `index.html` landing + `go.html` link-in-bio hub.
-  Deployed via Cloudflare Pages from GitHub `aaronconsent/booked-job`.
+  Deployed via Cloudflare Pages from GitHub `heyaaronmarketing/booked-job`.
   **CF build output directory must be `site`** (build command empty, framework None).
 - **Facebook Page:** "Booked Job" — public URL `profile.php?id=61591176670582`,
   API page id `1272845059238799`. Long-lived Page token in `secrets/fb.env` (never expires).
