@@ -12,11 +12,13 @@
     }
   },
   "ig": {
-    "posted": [],
-    "last_iso": "2026-08-16T08:51:23",
+    "posted": [
+      "carousel-leadsites"
+    ],
+    "last_iso": "2026-08-17T09:00:37",
     "day": {
       "date": "2026-08-17",
-      "count": 0
+      "count": 1
     }
   },
   "facebook": {
