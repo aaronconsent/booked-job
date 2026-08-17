@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bpsmithuk.bsky.social**: Would it surprise you to learn water leaks are fixed by an outsourced company, who is paid *per job*, not *by success*?
+Or that they further outsource "refinishing road/pavement" to another contractor
+  → https://bsky.app/profile/bpsmithuk.bsky.social/post/3mtbrpnlusc2o
+
+- **@970locksmithfc.bsky.social**: 🔐 Locked out? Remember these 3 steps:
+
+1️⃣ Stay calm
+2️⃣ Don't force the lock or break a window
+3️⃣ Call a professional locksmith
+
+970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
+  → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
+
+- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
+
+A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
+
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need another social media account. You need a website that converts visitors into calls. We build SEO-optimized sites + AI chatbots that handle 80% o
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mt5uy7eq7c2x
+
 - **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
   → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
 
@@ -161,37 +194,3 @@ Locked out, dealing with a broken lock, or upgrading your home or business secur
 
 c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
   → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=810192 
-
-#business #construction #corporate #maintenance #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
-
-- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
-  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
-
-- **@cowc.bsky.social**: Did you know?
-
-Prevailing Wage requires that skilled trades workers, employed in the construction of government buildings and public improvement projects, must receive the hourly rates received by uni
-  → https://bsky.app/profile/cowc.bsky.social/post/3mt4or2vzms2r
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
-
-The outsize numbers come if you're self-employed/business owner. Experience
-  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227

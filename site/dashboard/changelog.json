@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-08-17T08:14",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: $542 vs $168 — the Angi tax"
+    },
+    {
+      "ts": "2026-08-17T08:14",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-17T08:14",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: 10 Websites Better Than Another Hour of Doomscrolling | Rafia Naseem in The Sund"
+    },
+    {
+      "ts": "2026-08-17T08:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: guy radio"
+    },
+    {
       "ts": "2026-08-17T06:38",
       "kind": "engage",
       "icon": "💬",
@@ -1175,30 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-13T10:19",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com: You have 2 new followers"
-    },
-    {
-      "ts": "2026-08-13T10:19",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Obsessed"
-    },
-    {
-      "ts": "2026-08-13T10:19",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Threads: homeowner quick"
-    },
-    {
-      "ts": "2026-08-13T10:19",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy flextape"
     }
   ]
 }
