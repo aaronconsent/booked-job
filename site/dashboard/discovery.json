@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:53:16Z",
+  "updated": "2026-08-17T20:37:55Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -127,14 +127,14 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorGuide",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorGuide"
-      },
-      {
         "tag": "#ContractorledSolutions",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorledSolutions"
+      },
+      {
+        "tag": "#ContractorGuide",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorGuide"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23151,
+        "followers": 23159,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4032,
+      "followers": 4034,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
