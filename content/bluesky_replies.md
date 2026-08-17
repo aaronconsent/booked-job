@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
+  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
+
+- **@thesteeltoeapp.bsky.social**: We know you made a website for your business, but can customers find you where you in your small town? Some patrons want to see if there are businesses near them even if they order your products onlin
+  → https://bsky.app/profile/thesteeltoeapp.bsky.social/post/3mt2yrtqiqc2q
+
+- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
+
+https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
+
+- **@vanetworking.bsky.social**: What service could you offer that clients already need? Explore 200+ Virtual Assistant service ideas inside our free VA Resource Kit:
+  → https://bsky.app/profile/vanetworking.bsky.social/post/3mst5rxftu42b
+
 - **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
@@ -188,16 +202,3 @@ He owns a roofing business. He placed 20 watermelons on doorsteps with this note
 
 You can complain that a m
   → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
-
-- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
-Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
-  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
