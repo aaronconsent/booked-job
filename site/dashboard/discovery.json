@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:42:48Z",
+  "updated": "2026-08-17T11:35:37Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 27,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -127,14 +127,14 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorGuide",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorGuide"
-      },
-      {
         "tag": "#ContractorledSolutions",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorledSolutions"
+      },
+      {
+        "tag": "#ContractorGuide",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorGuide"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23151,
+        "followers": 23150,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {

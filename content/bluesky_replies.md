@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@rjgsr.bsky.social**: Discover master by Leonardo Hotels – Where Home Meets Hotel
+Stay your way with master by Leonardo Hotels: spacious serviced apartments with kitchens, laundry facilities, high-speed Wi-Fi and hotel-lev
+  → https://bsky.app/profile/rjgsr.bsky.social/post/3msok37eiwc2t
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
+
 - **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
   → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
 
@@ -182,23 +195,3 @@ Prevailing Wage requires that skilled trades workers, employed in the constructi
 
 The outsize numbers come if you're self-employed/business owner. Experience
   → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
-
-- **@premierroofing.bsky.social**: PREMIER LOW-SLOPE ROOFING REPLACEMENT
-
-A crisp aerial view of our commercial Low Slope Roofing Replacement in San Antonio, Texas. Straight lines, clean job sites, and professional execution. Get a Quo
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3msldofpq5m2e
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need another social media account. You need a website that converts visitors into calls. We build SEO-optimized sites + AI chatbots that handle 80% o
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mt5uy7eq7c2x
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website—it needs one that answers phones. AI chatbots handle inquiries 24/7. SEO gets you found. We do the setup. You get calls. Ready?
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3msosmcijg72m
-
-- **@koerneroffice.com**: This dude turned $100 into $45,000.
-
-How? Free watermelons.
-
-He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
-
-You can complain that a m
-  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
