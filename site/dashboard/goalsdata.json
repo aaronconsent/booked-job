@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T02:16",
+  "generated": "2026-08-17T04:00",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 3,
+        "current": 0,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,9 +75,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 62,
+        "current": 7,
         "target": 150,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 129,
+        "current": 74,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 1085,
+    "social_posts": 1030,
     "followers": 117,
     "engagement": 4,
     "yt_views": 1326,
@@ -256,6 +256,11 @@
       "title": "\ud83d\udcdd Articles behind this week",
       "why": "0/14 \u2014 14 short of pace.",
       "prompt": "We're behind on articles this week (0/14). Run a content workflow batch (staged)."
+    },
+    {
+      "title": "\ud83d\udce3 Social posts behind this week",
+      "why": "7/150 \u2014 143 short of pace.",
+      "prompt": "We're behind on social posts this week (7/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",
