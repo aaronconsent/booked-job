@@ -106,12 +106,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-08-18T06:37:36",
+    "last_iso": "2026-08-18T09:04:21",
     "day": {
       "date": "2026-08-18",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {

@@ -1,40 +1,10 @@
 {
-  "updated": "2026-08-18T08:16",
+  "updated": "2026-08-18T09:04",
   "posts": [
     {
-      "ts": "2026-08-18T08:15:53",
-      "channel": "facebook",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T08:15:50",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T08:15:20",
-      "channel": "mastodon",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T08:15:13",
-      "channel": "tumblr",
-      "item": "bj-slow",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T08:15:12",
-      "channel": "bluesky",
-      "item": "bj-rev-hvac",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T08:15:09",
-      "channel": "tiktok",
-      "item": "pod-ep01-shared",
+      "ts": "2026-08-18T09:04:23",
+      "channel": "linkedin",
+      "item": "bj-cheapbid",
       "url": null
     }
   ]
