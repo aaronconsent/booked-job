@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@quincunctial.bsky.social**: A lot of inexplicable (well, police and fire disability fraud and general contractor tax evasion) wealth in that area. PBA? Of course. Plenty of partying and boats.
+
+Sounds like Bayville - a town that
+  → https://bsky.app/profile/quincunctial.bsky.social/post/3mt3v36lxw224
+
+- **@rkdowner.bsky.social**: A major Pentagon contractor has stiffed the country for millions of dollars while delivering nothing?
+
+Nothing to see folks. Move along, move along.
+  → https://bsky.app/profile/rkdowner.bsky.social/post/3mt45rjqmvs2t
+
+- **@irelandticker.bsky.social**: Tender: Tipperary Education and Training Board_1284<br>CFT 8843560 - Project C1057 - Main Contractor with PSCS role for a Permanent Accommodation for 2 ASD Units, 1 Music Room and 5 General Class Room
+  → https://bsky.app/profile/irelandticker.bsky.social/post/3mtb3jjs5u22o
+
 - **@gmakp.bsky.social**: And who might be the general contractor on that one?
   → https://bsky.app/profile/gmakp.bsky.social/post/3mt53jmya3c2f
 
@@ -177,22 +190,3 @@ www.you
 
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@selectwarranty.bsky.social**: Are you a trade contractor looking to grow your business? Stop paying for cold leads. Partner with Select Home Warranty for:
-
-🛠️ Steady local repair jobs
-💰 Reliable payouts
-📅 Flexible scheduling
-
-Join
-  → https://bsky.app/profile/selectwarranty.bsky.social/post/3msoscj2ab72s
-
-- **@smartestlancer.com**: We have started our journey recently on Blue Sky.
-We want to help businesses thrive and also grow with them together.
-
-Are you facing any issues with your business digitally?
-Let's help you find your 
-  → https://bsky.app/profile/smartestlancer.com/post/3mtbbeo5zs22m
-
-- **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
-  → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
