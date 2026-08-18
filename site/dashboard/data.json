@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T00:38",
+  "updated": "2026-08-18T01:59",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -409,7 +409,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2722,
+      "views": 2724,
       "followers": 1
     },
     {
@@ -450,9 +450,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 45,
+      "count": 46,
       "unit": "posts",
-      "followers": 103,
+      "followers": 104,
       "grade": "B",
       "group": "social",
       "likes": 7
@@ -562,7 +562,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Polls",
@@ -592,7 +592,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Long video",
@@ -679,7 +679,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 45
+        "count": 46
       },
       {
         "type": "Video",
@@ -785,16 +785,16 @@
     }
   ],
   "funnel": {
-    "reach": 40723,
+    "reach": 40731,
     "engagement": 4,
-    "audience": 127,
+    "audience": 128,
     "cr_clicks": 77
   },
   "trends": {
-    "audience": 18,
+    "audience": 19,
     "engagement": -1,
     "email": 0,
-    "reach": -1136
+    "reach": -1128
   },
   "mafia": {
     "metrics": [
@@ -810,7 +810,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1426,
+        "value": 1427,
         "grade": "A"
       },
       {
@@ -820,7 +820,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 127,
+        "value": 128,
         "grade": "C"
       },
       {
@@ -830,6 +830,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1426 posts, 127 audience, 77 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1427 posts, 128 audience, 77 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
