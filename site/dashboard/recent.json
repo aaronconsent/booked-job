@@ -1,4 +1,41 @@
 {
-  "updated": "2026-08-18T10:54",
-  "posts": []
+  "updated": "2026-08-18T12:02",
+  "posts": [
+    {
+      "ts": "2026-08-18T12:01:35",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T12:01:30",
+      "channel": "tumblr",
+      "item": "bj-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T12:01:27",
+      "channel": "bluesky",
+      "item": "bj-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T12:01:23",
+      "channel": "linkedin",
+      "item": "bj-wordpress",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T12:01:22",
+      "channel": "tiktok",
+      "item": "bj-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T12:01:20",
+      "channel": "facebook",
+      "item": "stop-renting-leads",
+      "url": null
+    }
+  ]
 }
