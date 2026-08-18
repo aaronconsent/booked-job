@@ -1,40 +1,70 @@
 {
-  "updated": "2026-08-18T12:02",
+  "updated": "2026-08-18T18:50",
   "posts": [
     {
-      "ts": "2026-08-18T12:01:35",
-      "channel": "mastodon",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T12:01:30",
-      "channel": "tumblr",
-      "item": "bj-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T12:01:27",
-      "channel": "bluesky",
-      "item": "bj-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T12:01:23",
-      "channel": "linkedin",
-      "item": "bj-wordpress",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T12:01:22",
-      "channel": "tiktok",
-      "item": "bj-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T12:01:20",
+      "ts": "2026-08-18T18:49:53",
       "channel": "facebook",
-      "item": "stop-renting-leads",
+      "item": "card-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:49",
+      "channel": "mastodon",
+      "item": "card-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:45",
+      "channel": "mastodon",
+      "item": "do-i-need-a-website",
+      "url": "https://mastodon.social/@bookedjob/117119188057815249"
+    },
+    {
+      "ts": "2026-08-18T18:49:43",
+      "channel": "telegraph",
+      "item": "do-i-need-a-website",
+      "url": "https://telegra.ph/Do-I-Actually-Need-a-Website-for-My-Business-Honest-"
+    },
+    {
+      "ts": "2026-08-18T18:49:42",
+      "channel": "tumblr",
+      "item": "do-i-need-a-website",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:40",
+      "channel": "tumblr",
+      "item": "bj-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:37",
+      "channel": "bluesky",
+      "item": "bj-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:34",
+      "channel": "linkedin",
+      "item": "bj-first10k",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:32",
+      "channel": "tiktok",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:49:31",
+      "channel": "ig",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-08-18T18:48:54",
+      "channel": "facebook",
+      "item": "pod-ep03-verdict",
       "url": null
     }
   ]

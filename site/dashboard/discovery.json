@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:49:32Z",
+  "updated": "2026-08-18T23:37:11Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 34,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -122,6 +122,11 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
+        "tag": "#contractors",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#ContractorledSolutions",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorledSolutions"
@@ -130,17 +135,12 @@
         "tag": "#ContractorownedContractoroperated",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorownedContractoroperated"
-      },
-      {
-        "tag": "#HVACChecklist",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACChecklist"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465869,
+        "followers": 465870,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8488,
+        "followers": 8490,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4033,
+      "followers": 4034,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,14 +215,14 @@
     {
       "handle": "@hairyturkishgay.bsky.social",
       "display": "👨‍🔧 HandyMAN 🐻",
-      "followers": 3561,
+      "followers": 3560,
       "desc": "📍𝑳𝒐𝒏𝒅𝒐𝒏   DM 💌 ✔️    |🏳️‍🌈|🇬🇧|🇹🇷|🔞|",
       "link": "https://bsky.app/profile/hairyturkishgay.bsky.social"
     },
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2231,
+      "followers": 2230,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1804,
+      "followers": 1805,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1038,
+      "followers": 1040,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
