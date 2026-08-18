@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:53",
+  "updated": "2026-08-18T09:47",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -145,7 +145,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 439
+    "media": 438
   },
   "email": {
     "subscribers": 7
@@ -443,7 +443,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 53,
+      "count": 54,
       "unit": "posts",
       "followers": 105,
       "grade": "B",
@@ -555,7 +555,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 13
       },
       {
         "type": "Polls",
@@ -585,7 +585,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 13
       },
       {
         "type": "Long video",
@@ -641,7 +641,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 37
+        "count": 38
       },
       {
         "type": "Articles",
@@ -672,7 +672,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Video",
@@ -803,7 +803,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1435,
+        "value": 1436,
         "grade": "A"
       },
       {
@@ -823,6 +823,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1435 posts, 129 audience, 77 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1436 posts, 129 audience, 77 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
