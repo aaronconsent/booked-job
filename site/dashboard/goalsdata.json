@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T22:06",
+  "generated": "2026-08-17T22:57",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 25,
+        "current": 26,
         "target": 150,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 92,
+        "current": 93,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 141,
     "reels": 51,
-    "social_posts": 1048,
+    "social_posts": 1049,
     "followers": 119,
     "engagement": 4,
     "yt_views": 1327,
