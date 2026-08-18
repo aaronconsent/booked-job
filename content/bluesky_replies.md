@@ -2,6 +2,43 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hectorramirez.bsky.social**: Need Gutter Cleaning in Des Plaines Choose Windy City Gutter Cleaning
+
+Need gutter cleaning in Des Plaines? Windy City Gutter Cleaning clears debris and restores proper water flow. Schedule your gutte
+  → https://bsky.app/profile/hectorramirez.bsky.social/post/3mssiejuyrs2o
+
+- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
+
+https://apify.com/s
+  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
+
+- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=810192 
+
+#business #construction #corporate #maintenance #renovation #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
+
+- **@cowc.bsky.social**: Did you know?
+
+Prevailing Wage requires that skilled trades workers, employed in the construction of government buildings and public improvement projects, must receive the hourly rates received by uni
+  → https://bsky.app/profile/cowc.bsky.social/post/3mt4or2vzms2r
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
 
@@ -160,40 +197,3 @@ Sounds like Bayville - a town that
 
 Nothing to see folks. Move along, move along.
   → https://bsky.app/profile/rkdowner.bsky.social/post/3mt45rjqmvs2t
-
-- **@irelandticker.bsky.social**: Tender: Tipperary Education and Training Board_1284<br>CFT 8843560 - Project C1057 - Main Contractor with PSCS role for a Permanent Accommodation for 2 ASD Units, 1 Music Room and 5 General Class Room
-  → https://bsky.app/profile/irelandticker.bsky.social/post/3mtb3jjs5u22o
-
-- **@gmakp.bsky.social**: And who might be the general contractor on that one?
-  → https://bsky.app/profile/gmakp.bsky.social/post/3mt53jmya3c2f
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://stylelib.org/?p=164862 
-
-#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
-  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
-
-news.bangboxonline.com/Roofing-Dump...
-Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
