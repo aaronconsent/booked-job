@@ -1,12 +1,13 @@
 {
   "mastodon": {
     "posted": [
-      "card-cpbj"
+      "card-cpbj",
+      "card-angi"
     ],
-    "last_iso": "2026-08-19T16:53:39",
+    "last_iso": "2026-08-19T18:43:58",
     "day": {
       "date": "2026-08-19",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
