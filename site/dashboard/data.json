@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:04",
+  "updated": "2026-08-19T08:54",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -17,9 +17,9 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 40,
+        "current": 41,
         "target": 45,
-        "pct": 89,
+        "pct": 91,
         "on_track": true
       },
       {
@@ -131,13 +131,13 @@
     "subscribers": 0,
     "views": 1327,
     "likes": 0,
-    "videos": 40,
-    "shorts": 40
+    "videos": 41,
+    "shorts": 41
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 440
+    "media": 441
   },
   "email": {
     "subscribers": 7
@@ -400,7 +400,7 @@
     {
       "name": "YouTube",
       "status": "live",
-      "count": 22,
+      "count": 23,
       "unit": "shorts",
       "grade": "C",
       "group": "social",
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
       "followers": 106,
       "grade": "B",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Long video",
@@ -588,7 +588,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 22
+        "count": 23
       },
       {
         "type": "Community posts",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 38
+        "count": 39
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 29
+        "count": 30
       }
     ]
   },
@@ -749,9 +749,9 @@
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 42,
+      "remaining": 41,
       "per_day": 2,
-      "days": 21.0,
+      "days": 20.5,
       "status": "green"
     },
     {
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1393,
+        "value": 1395,
         "grade": "A"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1393 posts, 130 audience, 78 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1395 posts, 130 audience, 78 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

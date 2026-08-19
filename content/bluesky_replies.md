@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@koerneroffice.com**: This dude turned $100 into $45,000.
+
+How? Free watermelons.
+
+He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
+
+You can complain that a m
+  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
+
+- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=810192 
+
+#business #construction #corporate #maintenance #renovation #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
+
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need another social media account. You need a website that converts visitors into calls. We build SEO-optimized sites + AI chatbots that handle 80% o
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mt5uy7eq7c2x
 
@@ -188,11 +204,3 @@ The end consumer didn't give two shits about the Canadian economy and demand Can
 
 #builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
   → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
-
-The outsize numbers come if you're self-employed/business owner. Experience
-  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
