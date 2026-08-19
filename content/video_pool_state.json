@@ -67,12 +67,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-08-19T06:46:39",
+    "last_iso": "2026-08-19T08:15:58",
     "day": {
       "date": "2026-08-19",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -184,12 +185,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-08-19T06:46:39",
+    "last_iso": "2026-08-19T08:15:58",
     "day": {
       "date": "2026-08-19",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -237,12 +239,13 @@
       "bj-speed",
       "bj-ftc",
       "bj-cpl",
-      "bj-favor"
+      "bj-favor",
+      "bj-stars"
     ],
-    "last_iso": "2026-08-19T06:46:39",
+    "last_iso": "2026-08-19T08:15:58",
     "day": {
       "date": "2026-08-19",
-      "count": 1
+      "count": 2
     }
   }
 }

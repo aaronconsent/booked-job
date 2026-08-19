@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:45",
+  "updated": "2026-08-19T08:04",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -25,9 +25,9 @@
       {
         "label": "Posts shipped",
         "icon": "\ud83d\udcdd",
-        "current": 72,
+        "current": 73,
         "target": 100,
-        "pct": 72,
+        "pct": 73,
         "on_track": false
       },
       {
@@ -103,22 +103,14 @@
     "next_move": "Stop adding volume; add asks. (1) The retarget\u2192Page-Like campaign against the 25/50/95% video-watchers is still the cheapest follower we will ever buy, and it's been recommended and unbuilt for three weeks \u2014 it needs Aaron to resume spend (stays at $7/day, guardrail is $10). Until then, ad video views are frozen and that goal is capped. (2) The email list is the only owned asset and it's flat at 7: the capture block sits at the BOTTOM of every article, after the FAQ. Move it mid-article and give it a real deliverable (the refund-filing checklist from today's post is the obvious first magnet). (3) FB's 2026 rules now weight creator-origin verification and a viewer 'true interest' rating \u2014 synthetic TTS reels are exactly what that demotes. Reel queue was reweighted today toward money/pricing/proof scripts (the only archetypes that scored in July; pure gag reels scored 0), but the real unlock is a phone camera on a real jobsite. (4) AEO research says fact density lifts low-ranked pages up to 40% in AI answers \u2014 our template already does this, so the next SEO move is retrofitting the older thin posts rather than writing more of them. (5) Website traffic has read 0 every single day since launch: CF analytics was never wired, so we are flying blind on whether 128 articles do anything. Wire it before Month 2 is judged. Goals recalibrated off real 14-day pace \u2014 the dashboard now tells the truth instead of showing 1%.",
     "next_review": "2026-08-03"
   },
-  "upcoming": [
-    {
-      "date": "2026-08-20",
-      "type": "post",
-      "icon": "\ud83d\udcdd",
-      "title": "The jobs you're proudest of are the ones nobody ever thinks ",
-      "sub": "before after"
-    }
-  ],
+  "upcoming": [],
   "page": {
     "name": "Booked Job",
     "followers": 14,
     "likes": 14
   },
   "content": {
-    "posts_published": 72,
+    "posts_published": 73,
     "reactions": 2,
     "comments": 0,
     "shares": 0,
@@ -145,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 439
+    "media": 440
   },
   "email": {
     "subscribers": 7
@@ -387,7 +379,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 134,
+      "count": 135,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -443,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 106,
       "grade": "B",
@@ -540,7 +532,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 71
+        "count": 72
       },
       {
         "type": "Carousels",
@@ -555,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -585,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -641,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Articles",
@@ -672,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 4
+        "count": 5
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 37
+        "count": 38
       }
     ],
     "Mastodon": [
@@ -736,16 +728,16 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 28
+        "count": 29
       }
     ]
   },
   "runway": [
     {
       "label": "Facebook posts",
-      "remaining": 1,
+      "remaining": 0,
       "per_day": 2,
-      "days": 0.5,
+      "days": 0.0,
       "status": "red"
     },
     {
@@ -803,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1391,
+        "value": 1393,
         "grade": "A"
       },
       {
@@ -823,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1391 posts, 130 audience, 78 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1393 posts, 130 audience, 78 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

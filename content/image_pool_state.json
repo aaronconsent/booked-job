@@ -13,21 +13,22 @@
       "card-stars",
       "card-ai",
       "card-anon98",
-      "card-missedcall"
+      "card-missedcall",
+      "card-trade"
     ],
-    "last_iso": "2026-08-18T20:49:43",
+    "last_iso": "2026-08-19T08:16:06",
     "day": {
-      "date": "2026-08-18",
-      "count": 5
+      "date": "2026-08-19",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-08-18T08:15:15",
+    "last_iso": "2026-08-19T08:16:06",
     "day": {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "count": 1
     }
   },
@@ -44,12 +45,13 @@
       "card-ftc",
       "card-stars",
       "card-ai",
-      "card-anon98"
+      "card-anon98",
+      "card-missedcall"
     ],
-    "last_iso": "2026-08-18T18:49:47",
+    "last_iso": "2026-08-19T08:16:06",
     "day": {
-      "date": "2026-08-18",
-      "count": 2
+      "date": "2026-08-19",
+      "count": 1
     }
   }
 }
