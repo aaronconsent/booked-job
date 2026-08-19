@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
+
+- **@chefnashzink.bsky.social**: Looking to hire a personal chef in San Antonio? Chef Nash Zink specializes in private dining, weekly meal prep, dinner parties, birthday celebrations, and corporate events with handcrafted customizabl
+  → https://bsky.app/profile/chefnashzink.bsky.social/post/3msudq3azfc2q
+
+- **@strainstars.bsky.social**: Why Hire a Local Locksmith in Dallas, and How to Pick the Right One
+
+Locked out, dealing with a broken lock, or upgrading your home or business security? Choosing a local locksmith in Dallas means fas
+  → https://bsky.app/profile/strainstars.bsky.social/post/3msudz3mqis23
+
+- **@970locksmithfc.bsky.social**: 🔐 Locked out? Remember these 3 steps:
+
+1️⃣ Stay calm
+2️⃣ Don't force the lock or break a window
+3️⃣ Call a professional locksmith
+
+970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
+  → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
+
+- **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
+  → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
+
 - **@koerneroffice.com**: This dude turned $100 into $45,000.
 
 How? Free watermelons.
@@ -174,33 +202,3 @@ We lost generations of people ho understood vapor per
 
 #business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://stylelib.org/?p=164862 
-
-#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
-  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@aster-verite.bsky.social**: What, they never heard of  IKO Industries or BP Canada, Canadian asphalt shingle manufacturers?
-
-The end consumer didn't give two shits about the Canadian economy and demand Canadian products only... 
-  → https://bsky.app/profile/aster-verite.bsky.social/post/3mtevkpszvs2i
-
-- **@irelandticker.bsky.social**: Tender: Tipperary Education and Training Board_1284<br>CFT 8843560 - Project C1057 - Main Contractor with PSCS role for a Permanent Accommodation for 2 ASD Units, 1 Music Room and 5 General Class Room
-  → https://bsky.app/profile/irelandticker.bsky.social/post/3mtb3jjs5u22o
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
