@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3msydcniykc2x
+
+- **@smartestlancer.com**: We have started our journey recently on Blue Sky.
+We want to help businesses thrive and also grow with them together.
+
+Are you facing any issues with your business digitally?
+Let's help you find your 
+  → https://bsky.app/profile/smartestlancer.com/post/3mtbbeo5zs22m
+
+- **@apfy.bsky.social**: Expanding to a new city? Scrape licensed contractors in the target zip to see if the market's saturated or wide open. CA, FL, TX, NY. 272 runs. Pay Per Result.
+
+https://apify.com/sleek_waveform/constr
+  → https://bsky.app/profile/apfy.bsky.social/post/3mtcc26txil22
+
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@pittsburghtodd.bsky.social**: Does this idiot think a lifetime of slapping his name on things qualifies him as some kind of architect or general contractor?
+
+Also, would you want advice about building a hardened building from a gu
+  → https://bsky.app/profile/pittsburghtodd.bsky.social/post/3mtchjybzik2k
+
 - **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
   → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
 
@@ -174,29 +209,3 @@ Locked out, dealing with a broken lock, or upgrading your home or business secur
 
 - **@buildingtradesab.bsky.social**: Chief Herb Jackson from Whitefish Lake First Nation shares what being a member of the unionized skilled trades with @weareliuna.bsky.social Local 92 means for him and for building the next generation.
   → https://bsky.app/profile/buildingtradesab.bsky.social/post/3mtceyeb2qk24
-
-- **@jeremyshall.bsky.social**: I was just cheap and had a bigger general contractor I helped out who just started recommending me to anyone who asked him for marketing problems so I did it for a long time.
-
-Honestly most of the guy
-  → https://bsky.app/profile/jeremyshall.bsky.social/post/3mtekevuxms2n
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
-  → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@bpsmithuk.bsky.social**: Would it surprise you to learn water leaks are fixed by an outsourced company, who is paid *per job*, not *by success*?
-Or that they further outsource "refinishing road/pavement" to another contractor
-  → https://bsky.app/profile/bpsmithuk.bsky.social/post/3mtbrpnlusc2o
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
