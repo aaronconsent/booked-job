@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:45:55Z",
+  "updated": "2026-08-19T21:41:09Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -75,14 +75,126 @@
     }
   ],
   "mastodon": {
-    "tags": [],
-    "accounts": []
+    "tags": [
+      {
+        "tag": "#homeimprovement",
+        "uses": 34,
+        "link": "https://mastodon.social/tags/homeimprovement"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 10,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#hvac",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#ContractorownedContractoroperated",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorownedContractoroperated"
+      },
+      {
+        "tag": "#smallbusinessowners",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/smallbusinessowners"
+      },
+      {
+        "tag": "#HVAC대장주",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVAC대장주"
+      },
+      {
+        "tag": "#HVACChecklist",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACChecklist"
+      },
+      {
+        "tag": "#HVACRepairService",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACRepairService"
+      },
+      {
+        "tag": "#hvacousticmassloadedvinyl",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
+      }
+    ],
+    "accounts": [
+      {
+        "handle": "@BusinessInsider@flipboard.com",
+        "followers": 465887,
+        "link": "https://flipboard.com/@BusinessInsider"
+      },
+      {
+        "handle": "@home_garden_and_diy@threads.net",
+        "followers": 96684,
+        "link": "https://threads.net/@home_garden_and_diy/"
+      },
+      {
+        "handle": "@FamilyHandyman@flipboard.com",
+        "followers": 35702,
+        "link": "https://flipboard.com/@FamilyHandyman"
+      },
+      {
+        "handle": "@homeassistant@fosstodon.org",
+        "followers": 23163,
+        "link": "https://fosstodon.org/@homeassistant"
+      },
+      {
+        "handle": "@homeimprovement@lemmy.world",
+        "followers": 10849,
+        "link": "https://lemmy.world/c/homeimprovement"
+      },
+      {
+        "handle": "@home-page-newyorktimes@flipboard.com",
+        "followers": 8489,
+        "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
+      },
+      {
+        "handle": "@BusinessPunk@flipboard.com",
+        "followers": 7183,
+        "link": "https://flipboard.com/@BusinessPunk"
+      },
+      {
+        "handle": "@business-bloomberg@flipboard.com",
+        "followers": 2339,
+        "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
+      },
+      {
+        "handle": "@Noshir",
+        "followers": 731,
+        "link": "https://mastodon.social/@Noshir"
+      },
+      {
+        "handle": "@electricians@lemmy.world",
+        "followers": 632,
+        "link": "https://lemmy.world/c/electricians"
+      }
+    ]
   },
   "bluesky": [
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9897,
+      "followers": 9898,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -131,7 +243,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1551,
+      "followers": 1554,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
