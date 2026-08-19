@@ -1,70 +1,34 @@
 {
-  "updated": "2026-08-18T18:50",
+  "updated": "2026-08-18T20:50",
   "posts": [
     {
-      "ts": "2026-08-18T18:49:53",
-      "channel": "facebook",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T18:49:49",
+      "ts": "2026-08-18T20:49:45",
       "channel": "mastodon",
-      "item": "card-anon98",
+      "item": "card-missedcall",
       "url": null
     },
     {
-      "ts": "2026-08-18T18:49:45",
-      "channel": "mastodon",
-      "item": "do-i-need-a-website",
-      "url": "https://mastodon.social/@bookedjob/117119188057815249"
-    },
-    {
-      "ts": "2026-08-18T18:49:43",
-      "channel": "telegraph",
-      "item": "do-i-need-a-website",
-      "url": "https://telegra.ph/Do-I-Actually-Need-a-Website-for-My-Business-Honest-"
-    },
-    {
-      "ts": "2026-08-18T18:49:42",
+      "ts": "2026-08-18T20:49:42",
       "channel": "tumblr",
-      "item": "do-i-need-a-website",
+      "item": "bj-cpl",
       "url": null
     },
     {
-      "ts": "2026-08-18T18:49:40",
-      "channel": "tumblr",
-      "item": "bj-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T18:49:37",
+      "ts": "2026-08-18T20:49:40",
       "channel": "bluesky",
-      "item": "bj-rev-elec",
+      "item": "bj-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-08-18T18:49:34",
+      "ts": "2026-08-18T20:49:38",
       "channel": "linkedin",
-      "item": "bj-first10k",
+      "item": "bj-yelp",
       "url": null
     },
     {
-      "ts": "2026-08-18T18:49:32",
+      "ts": "2026-08-18T20:49:37",
       "channel": "tiktok",
-      "item": "bj-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T18:49:31",
-      "channel": "ig",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-08-18T18:48:54",
-      "channel": "facebook",
-      "item": "pod-ep03-verdict",
+      "item": "bj-slow",
       "url": null
     }
   ]
