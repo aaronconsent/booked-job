@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-20T09:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor one more"
+    },
+    {
       "ts": "2026-08-20T09:08",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner permit"
-    },
-    {
-      "ts": "2026-08-15T07:57",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
     }
   ]
 }
