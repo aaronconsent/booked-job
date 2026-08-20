@@ -2,6 +2,51 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
+
+https://apify.com/s
+  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
+
+- **@aster-verite.bsky.social**: What, they never heard of  IKO Industries or BP Canada, Canadian asphalt shingle manufacturers?
+
+The end consumer didn't give two shits about the Canadian economy and demand Canadian products only... 
+  → https://bsky.app/profile/aster-verite.bsky.social/post/3mtevkpszvs2i
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtgyx6uxah2k
+
+- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
+
+What business does government have deciding what relationships you can have, with whom, or what to call them?
+
+And why should
+  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
+
+- **@970locksmithfc.bsky.social**: 🔐 Locked out? Remember these 3 steps:
+
+1️⃣ Stay calm
+2️⃣ Don't force the lock or break a window
+3️⃣ Call a professional locksmith
+
+970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
+  → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mthg4e56ua2w
+
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United hosts a webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking 
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mthm7cno7d2a
+
 - **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
   → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
 
@@ -143,48 +188,3 @@ https://apify.com/sleek_waveform/constr
 
 c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
   → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@bing-howell.bsky.social**: "If the economy urgently needs more skilled trades workers, why aren’t we making a greater investment in our public high schools to help prepare students for these in-demand, well-paying careers?"
-  → https://bsky.app/profile/bing-howell.bsky.social/post/3mtfaa7q4c32s
-
-- **@edweek.org**: Can Social Media Influencers Hook Teens on the Skilled Trades?: Skilled trades jobs are in demand. Young skilled trades pros/influencers pique teens' interest.
-  → https://bsky.app/profile/edweek.org/post/3mthqynvkhh24
-
-- **@beccasaintpaul.bsky.social**: Forgot to share this first thing!!! Does anyone have good general contractor recommendations in St Paul?!
-  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtjry3xjfc2i
-
-- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
-
-news.bangboxonline.com/Roofing-Dump...
-Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
