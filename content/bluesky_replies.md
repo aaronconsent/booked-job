@@ -2,6 +2,24 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ready to dominate local search and grow your plumbing business in Central Texas? Visit texascontractorseo.com/locations/austin-plumbing-seo/ to learn how we can help you boost visibility, trust, and l
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijkppwfg2p
+
+- **@texascontractorseo.bsky.social**: One Austin plumber saw a surge in water heater service requests just two months after optimizing their service pages. 🔧 Curious how targeted pages turn searches into calls? https://texascontractorseo.
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijm3546c2f
+
+- **@texascontractorseo.bsky.social**: That same focus on service pages helped a Round Rock plumbing company double customer inquiries from nearby neighborhoods! 🏘️ Want to see similar neighborhood-level growth? https://texascontractorseo.
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmfn4h62p
+
+- **@texascontractorseo.bsky.social**: As inquiries rose, a Cedar Park contractor improved trust and reviews—resulting in more repeat customers and referrals. 🌟 Ready to build local credibility that keeps customers coming back? https://tex
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmh3ikb23
+
+- **@texascontractorseo.bsky.social**: With better reviews and targeted pages, a Pflugerville plumber began ranking higher for drain cleaning and leak detection—bringing steady new jobs every week. 🚿 Want consistent leads for your core ser
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmistyc2f
+
+- **@texascontractorseo.bsky.social**: All of these wins added up: an Austin company expanded service-area visibility across six nearby cities, outperforming competitors in multiple markets. 🌆 Want to dominate your region with focused loca
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmkbych2j
+
 - **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
   → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
 
@@ -174,29 +192,3 @@ https://apify.com/s
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mthg4e56ua2w
-
-- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United hosts a webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking 
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mthm7cno7d2a
-
-- **@irelandticker.bsky.social**: Tender: Tipperary Education and Training Board_1284<br>CFT 8843560 - Project C1057 - Main Contractor with PSCS role for a Permanent Accommodation for 2 ASD Units, 1 Music Room and 5 General Class Room
-  → https://bsky.app/profile/irelandticker.bsky.social/post/3mtb3jjs5u22o
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtgyx6uxah2k
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://stylelib.org/?p=164862 
-
-#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
-  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
