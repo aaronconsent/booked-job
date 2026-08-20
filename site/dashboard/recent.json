@@ -1,34 +1,10 @@
 {
-  "updated": "2026-08-20T17:51",
+  "updated": "2026-08-20T18:46",
   "posts": [
     {
-      "ts": "2026-08-20T17:50:54",
-      "channel": "mastodon",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T17:50:49",
-      "channel": "tumblr",
-      "item": "bj-yelp",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T17:50:48",
-      "channel": "bluesky",
-      "item": "bj-track",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T17:50:45",
-      "channel": "tiktok",
-      "item": "bj-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T17:50:44",
-      "channel": "facebook",
-      "item": "pod-ep03-lie",
+      "ts": "2026-08-20T18:46:21",
+      "channel": "linkedin",
+      "item": "bj-reviews50",
       "url": null
     }
   ]
