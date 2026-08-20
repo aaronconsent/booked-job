@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-20T14:51",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor that guy"
+    },
+    {
+      "ts": "2026-08-20T14:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools borrowed"
+    },
+    {
       "ts": "2026-08-20T14:06",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: humor monday"
-    },
-    {
-      "ts": "2026-08-15T10:43",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-15T10:43",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: So you"
     }
   ]
 }
