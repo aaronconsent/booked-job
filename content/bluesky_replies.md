@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
+
+https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@gishgallop.bsky.social**: Dimbulb Don just declared "an economic war" on Iran & any country that trades with them, and that means China. So now we go to economic war with Iran & China.
+
+This is why the world hates the US. TACO
+  → https://bsky.app/profile/gishgallop.bsky.social/post/3mti5zeords2u
+
+- **@jeremyshall.bsky.social**: I was just cheap and had a bigger general contractor I helped out who just started recommending me to anyone who asked him for marketing problems so I did it for a long time.
+
+Honestly most of the guy
+  → https://bsky.app/profile/jeremyshall.bsky.social/post/3mtekevuxms2n
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
@@ -177,32 +198,3 @@ Locked out, dealing with a broken lock, or upgrading your home or business secur
 
 970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
   → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
-
-- **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
-  → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
-
-- **@koerneroffice.com**: This dude turned $100 into $45,000.
-
-How? Free watermelons.
-
-He owns a roofing business. He placed 20 watermelons on doorsteps with this note attached and it won him 2 jobs.
-
-You can complain that a m
-  → https://bsky.app/profile/koerneroffice.com/post/3mstmvrydm22u
-
-- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=810192 
-
-#business #construction #corporate #maintenance #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need another social media account. You need a website that converts visitors into calls. We build SEO-optimized sites + AI chatbots that handle 80% o
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mt5uy7eq7c2x
-
-- **@stylelib.org**: Muffle – Roofing Company WordPress Theme
-
- https://stylelib.org/?p=794340 
-
-#painting #renovation #roofing #themeforest #wordpress #business #corporate #maintenance #construction
-  → https://bsky.app/profile/stylelib.org/post/3mtc6pxzi6i2z
