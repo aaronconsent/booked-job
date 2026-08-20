@@ -132,12 +132,13 @@
       "bj-anon98",
       "bj-missedcall",
       "bj-stormchaser",
-      "bj-freecheck"
+      "bj-freecheck",
+      "bj-fakemaps"
     ],
-    "last_iso": "2026-08-20T06:38:06",
+    "last_iso": "2026-08-20T12:51:10",
     "day": {
       "date": "2026-08-20",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
