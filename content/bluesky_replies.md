@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@970locksmithfc.bsky.social**: 🔐 Locked out? Remember these 3 steps:
+
+1️⃣ Stay calm
+2️⃣ Don't force the lock or break a window
+3️⃣ Call a professional locksmith
+
+970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
+  → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
+
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United hosts a webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking 
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mthm7cno7d2a
+
 - **@texascontractorseo.bsky.social**: Ready to dominate local search and grow your plumbing business in Central Texas? Visit texascontractorseo.com/locations/austin-plumbing-seo/ to learn how we can help you boost visibility, trust, and l
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijkppwfg2p
 
@@ -182,13 +194,3 @@ Planning a roof repair or replacement project? Roofing dumpster rental Orlando f
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mthg4e56ua2w
