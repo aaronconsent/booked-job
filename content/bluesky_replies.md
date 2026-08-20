@@ -2,6 +2,52 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@libertyhauling.bsky.social**: Roofing Dumpster Rental Orlando for Fast and Easy Cleanup
+
+news.bangboxonline.com/Roofing-Dump...
+Planning a roof repair or replacement project? Roofing dumpster rental Orlando from Liberty Hauling Se
+  → https://bsky.app/profile/libertyhauling.bsky.social/post/3msxmczne622t
+
+- **@sipgoodcoffee.bsky.social**: "Incidentally, it also destroyed the skilled trades." [Translated]
+
+This. Need plaster? Sorry no. Need lime mortar? Nope. Need hempcrete? Maybe. 
+
+We lost generations of people ho understood vapor per
+  → https://bsky.app/profile/sipgoodcoffee.bsky.social/post/3mtexczv6cs23
+
+- **@bing-howell.bsky.social**: "If the economy urgently needs more skilled trades workers, why aren’t we making a greater investment in our public high schools to help prepare students for these in-demand, well-paying careers?"
+  → https://bsky.app/profile/bing-howell.bsky.social/post/3mtfaa7q4c32s
+
+- **@edweek.org**: Can Social Media Influencers Hook Teens on the Skilled Trades?: Skilled trades jobs are in demand. Young skilled trades pros/influencers pique teens' interest.
+  → https://bsky.app/profile/edweek.org/post/3mthqynvkhh24
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
 - **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
@@ -145,40 +191,3 @@ Let's help you find your
 
 - **@genaidefense.bsky.social**: GenAI “redline reconciler” for engineering leads: compares contractor redlines across ICD/SOW drafts, flags conflicts + missing rationale (with citations)—cutting review cycles and reducing integratio
   → https://bsky.app/profile/genaidefense.bsky.social/post/3mslsff5ov326
-
-- **@bpsmithuk.bsky.social**: Would it surprise you to learn water leaks are fixed by an outsourced company, who is paid *per job*, not *by success*?
-Or that they further outsource "refinishing road/pavement" to another contractor
-  → https://bsky.app/profile/bpsmithuk.bsky.social/post/3mtbrpnlusc2o
-
-- **@apfy.bsky.social**: Expanding to a new city? Scrape licensed contractors in the target zip to see if the market's saturated or wide open. CA, FL, TX, NY. 272 runs. Pay Per Result.
-
-https://apify.com/sleek_waveform/constr
-  → https://bsky.app/profile/apfy.bsky.social/post/3mtcc26txil22
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
-
-c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
-  → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
-
-- **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
-  → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
-
-- **@pittsburghtodd.bsky.social**: Does this idiot think a lifetime of slapping his name on things qualifies him as some kind of architect or general contractor?
-
-Also, would you want advice about building a hardened building from a gu
-  → https://bsky.app/profile/pittsburghtodd.bsky.social/post/3mtchjybzik2k
