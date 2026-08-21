@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aster-verite.bsky.social**: What, they never heard of  IKO Industries or BP Canada, Canadian asphalt shingle manufacturers?
+
+The end consumer didn't give two shits about the Canadian economy and demand Canadian products only... 
+  → https://bsky.app/profile/aster-verite.bsky.social/post/3mtevkpszvs2i
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
+
+What business does government have deciding what relationships you can have, with whom, or what to call them?
+
+And why should
+  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
+
+https://apify.com/s
+  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
+
 - **@urgocakelord.bsky.social**: The trades are always oversubscribed at our local college - some grammar sch kids are now snaffling the places my low/mid ability pupils used to get with ease 20yrs ago, and grade requirements have ri
   → https://bsky.app/profile/urgocakelord.bsky.social/post/3mtlc6iabmc2j
 
@@ -153,31 +194,3 @@ Or that they further outsource "refinishing road/pavement" to another contractor
 
 https://apify.com/sleek_waveform/constr
   → https://bsky.app/profile/apfy.bsky.social/post/3mtcc26txil22
-
-- **@gishgallop.bsky.social**: Dimbulb Don just declared "an economic war" on Iran & any country that trades with them, and that means China. So now we go to economic war with Iran & China.
-
-This is why the world hates the US. TACO
-  → https://bsky.app/profile/gishgallop.bsky.social/post/3mti5zeords2u
-
-- **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
-  → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@beccasaintpaul.bsky.social**: Forgot to share this first thing!!! Does anyone have good general contractor recommendations in St Paul?!
-  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtjry3xjfc2i
-
-- **@edweek.org**: Can Social Media Influencers Hook Teens on the Skilled Trades?: Skilled trades jobs are in demand. Young skilled trades pros/influencers pique teens' interest.
-  → https://bsky.app/profile/edweek.org/post/3mthqynvkhh24
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
