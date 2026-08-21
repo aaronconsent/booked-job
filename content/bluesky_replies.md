@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
+
+https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@smartestlancer.com**: We have started our journey recently on Blue Sky.
+We want to help businesses thrive and also grow with them together.
+
+Are you facing any issues with your business digitally?
+Let's help you find your 
+  → https://bsky.app/profile/smartestlancer.com/post/3mtbbeo5zs22m
+
+- **@jeremyshall.bsky.social**: I was just cheap and had a bigger general contractor I helped out who just started recommending me to anyone who asked him for marketing problems so I did it for a long time.
+
+Honestly most of the guy
+  → https://bsky.app/profile/jeremyshall.bsky.social/post/3mtekevuxms2n
+
+- **@citizenptnewsin.bsky.social**: The Michigan City Urban Enterprise Association just approved a $40,000 contract with BAC Marketing that could reshape local revenue streams—will this decision pay off? 
+
+Click to read more!
+
+#Kingsfor
+  → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3mtjaxrxeg52z
+
 - **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
 
 c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
@@ -155,38 +190,3 @@ Tabatha Hamlin State Farm offers personalized auto, home, life & business insura
 
 - **@texascontractorseo.bsky.social**: With better reviews and targeted pages, a Pflugerville plumber began ranking higher for drain cleaning and leak detection—bringing steady new jobs every week. 🚿 Want consistent leads for your core ser
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmistyc2f
-
-- **@texascontractorseo.bsky.social**: All of these wins added up: an Austin company expanded service-area visibility across six nearby cities, outperforming competitors in multiple markets. 🌆 Want to dominate your region with focused loca
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmkbych2j
-
-- **@brilliantdirectories.com**: AI does 45% of local search now. It retrieves — reviews, local directories.
-
-Plumbers fight to be named. The plumber directory gets read.
-
-#ai #localseo #directories #smallbiz #aisearch
-
-https://get.b
-  → https://bsky.app/profile/brilliantdirectories.com/post/3mtk43v6uor2p
-
-- **@top500.thebay.wiki**: Meta Platforms Wikipedia article edited by Laurenchicky99 https://en.wikipedia.org/w/index.php?diff=1370378236&oldid=1370050437
-  → https://bsky.app/profile/top500.thebay.wiki/post/3mtjzuvnm3425
-
-- **@beccasaintpaul.bsky.social**: I wish I had recommendations! I'll share in the morning when we can get more hits. 💛
-  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtieck3gvk2n
-
-- **@stylelib.org**: Rafter – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=810192 
-
-#business #construction #corporate #maintenance #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mt4riso3yt2h
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need another social media account. You need a website that converts visitors into calls. We build SEO-optimized sites + AI chatbots that handle 80% o
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mt5uy7eq7c2x
-
-- **@stylelib.org**: Muffle – Roofing Company WordPress Theme
-
- https://stylelib.org/?p=794340 
-
-#painting #renovation #roofing #themeforest #wordpress #business #corporate #maintenance #construction
-  → https://bsky.app/profile/stylelib.org/post/3mtc6pxzi6i2z

@@ -1,29 +1,4 @@
 {
-  "updated": "2026-08-20T20:54",
-  "posts": [
-    {
-      "ts": "2026-08-20T20:54:11",
-      "channel": "mastodon",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T20:54:08",
-      "channel": "tumblr",
-      "item": "bj-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T20:54:07",
-      "channel": "bluesky",
-      "item": "ad-arctic",
-      "url": null
-    },
-    {
-      "ts": "2026-08-20T20:54:04",
-      "channel": "tiktok",
-      "item": "bj-cheapbid",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-20T22:13",
+  "posts": []
 }
