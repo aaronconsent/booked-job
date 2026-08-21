@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:45:55Z",
+  "updated": "2026-08-21T17:38:18Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -112,6 +112,11 @@
         "link": "https://mastodon.social/tags/ContractorownedContractoroperated"
       },
       {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
         "tag": "#smallbusinessowners",
         "uses": 1,
         "link": "https://mastodon.social/tags/smallbusinessowners"
@@ -130,11 +135,6 @@
         "tag": "#hvacousticmassloadedvinyl",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
-      },
-      {
-        "tag": "#plumbingshop",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/plumbingshop"
       }
     ],
     "accounts": [

@@ -146,12 +146,13 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-08-21T06:36:40",
+    "last_iso": "2026-08-21T12:49:38",
     "day": {
       "date": "2026-08-21",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {

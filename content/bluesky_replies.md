@@ -2,6 +2,46 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bpsmithuk.bsky.social**: Would it surprise you to learn water leaks are fixed by an outsourced company, who is paid *per job*, not *by success*?
+Or that they further outsource "refinishing road/pavement" to another contractor
+  → https://bsky.app/profile/bpsmithuk.bsky.social/post/3mtbrpnlusc2o
+
+- **@apfy.bsky.social**: Expanding to a new city? Scrape licensed contractors in the target zip to see if the market's saturated or wide open. CA, FL, TX, NY. 272 runs. Pay Per Result.
+
+https://apify.com/sleek_waveform/constr
+  → https://bsky.app/profile/apfy.bsky.social/post/3mtcc26txil22
+
+- **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
+
+c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
+  → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
+
+- **@smartestlancer.com**: We have started our journey recently on Blue Sky.
+We want to help businesses thrive and also grow with them together.
+
+Are you facing any issues with your business digitally?
+Let's help you find your 
+  → https://bsky.app/profile/smartestlancer.com/post/3mtbbeo5zs22m
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
+- **@top500.thebay.wiki**: Meta Platforms Wikipedia article edited by Laurenchicky99 https://en.wikipedia.org/w/index.php?diff=1370378236&oldid=1370050437
+  → https://bsky.app/profile/top500.thebay.wiki/post/3mtjzuvnm3425
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
 - **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
   → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
 
@@ -157,38 +197,3 @@ https://get.b
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need another social media account. You need a website that converts visitors into calls. We build SEO-optimized sites + AI chatbots that handle 80% o
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mt5uy7eq7c2x
-
-- **@stylelib.org**: Muffle – Roofing Company WordPress Theme
-
- https://stylelib.org/?p=794340 
-
-#painting #renovation #roofing #themeforest #wordpress #business #corporate #maintenance #construction
-  → https://bsky.app/profile/stylelib.org/post/3mtc6pxzi6i2z
-
-- **@texascontractorseo.bsky.social**: One Austin plumber saw a surge in water heater service requests just two months after optimizing their service pages. 🔧 Curious how targeted pages turn searches into calls? https://texascontractorseo.
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijm3546c2f
-
-- **@texascontractorseo.bsky.social**: That same focus on service pages helped a Round Rock plumbing company double customer inquiries from nearby neighborhoods! 🏘️ Want to see similar neighborhood-level growth? https://texascontractorseo.
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmfn4h62p
-
-- **@texascontractorseo.bsky.social**: As inquiries rose, a Cedar Park contractor improved trust and reviews—resulting in more repeat customers and referrals. 🌟 Ready to build local credibility that keeps customers coming back? https://tex
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmh3ikb23
-
-- **@texascontractorseo.bsky.social**: With better reviews and targeted pages, a Pflugerville plumber began ranking higher for drain cleaning and leak detection—bringing steady new jobs every week. 🚿 Want consistent leads for your core ser
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmistyc2f
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@texascontractorseo.bsky.social**: All of these wins added up: an Austin company expanded service-area visibility across six nearby cities, outperforming competitors in multiple markets. 🌆 Want to dominate your region with focused loca
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmkbych2j
-
-- **@beccasaintpaul.bsky.social**: I wish I had recommendations! I'll share in the morning when we can get more hits. 💛
-  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtieck3gvk2n
