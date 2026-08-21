@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:40:28Z",
+  "updated": "2026-08-21T11:35:23Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,11 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#HVACMyth",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVACMyth"
+      },
+      {
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
@@ -125,11 +130,6 @@
         "tag": "#hvacousticmassloadedvinyl",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
-      },
-      {
-        "tag": "#hvacousticrubbersheets",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticrubbersheets"
       },
       {
         "tag": "#plumbingshop",

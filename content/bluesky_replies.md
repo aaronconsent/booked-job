@@ -2,6 +2,49 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
+- **@of-by-forthepeople.bsky.social**: what? this is like a plumber direct heart surgeons during an operation.
+
+c'mon navy, play along for five more weeks--no wait, days--no wait, hours, let nature take its course, then go on about your bu
+  → https://bsky.app/profile/of-by-forthepeople.bsky.social/post/3mt67dk5aus2q
+
+- **@bpsmithuk.bsky.social**: Would it surprise you to learn water leaks are fixed by an outsourced company, who is paid *per job*, not *by success*?
+Or that they further outsource "refinishing road/pavement" to another contractor
+  → https://bsky.app/profile/bpsmithuk.bsky.social/post/3mtbrpnlusc2o
+
+- **@apfy.bsky.social**: Expanding to a new city? Scrape licensed contractors in the target zip to see if the market's saturated or wide open. CA, FL, TX, NY. 272 runs. Pay Per Result.
+
+https://apify.com/sleek_waveform/constr
+  → https://bsky.app/profile/apfy.bsky.social/post/3mtcc26txil22
+
+- **@jeremyshall.bsky.social**: I was just cheap and had a bigger general contractor I helped out who just started recommending me to anyone who asked him for marketing problems so I did it for a long time.
+
+Honestly most of the guy
+  → https://bsky.app/profile/jeremyshall.bsky.social/post/3mtekevuxms2n
+
+- **@citizenptnewsin.bsky.social**: The Michigan City Urban Enterprise Association just approved a $40,000 contract with BAC Marketing that could reshape local revenue streams—will this decision pay off? 
+
+Click to read more!
+
+#Kingsfor
+  → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3mtjaxrxeg52z
+
+- **@jburnmurdoch.ft.com**: What about the skilled-trades boom from the energy transition and data centres?
+
+Relatively speaking this will be tiny.
+
+Here’s my employment-change-by-sector chart with skilled trades in pink. Dashed
+  → https://bsky.app/profile/jburnmurdoch.ft.com/post/3mtllbnczvk2a
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -154,35 +197,3 @@ https://get.b
 
 #painting #renovation #roofing #themeforest #wordpress #business #corporate #maintenance #construction
   → https://bsky.app/profile/stylelib.org/post/3mtc6pxzi6i2z
-
-- **@top500.thebay.wiki**: Meta Platforms Wikipedia article edited by Laurenchicky99 https://en.wikipedia.org/w/index.php?diff=1370378236&oldid=1370050437
-  → https://bsky.app/profile/top500.thebay.wiki/post/3mtjzuvnm3425
-
-- **@texascontractorseo.bsky.social**: All of these wins added up: an Austin company expanded service-area visibility across six nearby cities, outperforming competitors in multiple markets. 🌆 Want to dominate your region with focused loca
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmkbych2j
-
-- **@beccasaintpaul.bsky.social**: I wish I had recommendations! I'll share in the morning when we can get more hits. 💛
-  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtieck3gvk2n
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@smartestlancer.com**: We have started our journey recently on Blue Sky.
-We want to help businesses thrive and also grow with them together.
-
-Are you facing any issues with your business digitally?
-Let's help you find your 
-  → https://bsky.app/profile/smartestlancer.com/post/3mtbbeo5zs22m
