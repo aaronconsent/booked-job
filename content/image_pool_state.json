@@ -14,12 +14,13 @@
       "card-ai",
       "card-anon98",
       "card-missedcall",
-      "card-trade"
+      "card-trade",
+      "carousel-leadsites"
     ],
-    "last_iso": "2026-08-21T14:03:54",
+    "last_iso": "2026-08-21T15:47:03",
     "day": {
       "date": "2026-08-21",
-      "count": 4
+      "count": 5
     }
   },
   "ig": {
@@ -35,12 +36,13 @@
   "facebook": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-08-21T08:16:39",
+    "last_iso": "2026-08-21T15:47:03",
     "day": {
       "date": "2026-08-21",
-      "count": 1
+      "count": 2
     }
   }
 }
