@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-08-21T08:17",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: One Angi lead — sold to 5 other guys"
+    },
+    {
+      "ts": "2026-08-21T08:17",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-21T08:17",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: The First Company-Wide AI Ban Just Hit My Inbox. =?UTF-8?B?SGVyZeKAmXM=?= What I"
+    },
+    {
+      "ts": "2026-08-21T08:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools mil vs dewalt"
+    },
+    {
+      "ts": "2026-08-21T08:16",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner warranty"
+    },
+    {
       "ts": "2026-08-21T06:37",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: tools lost tape"
-    },
-    {
-      "ts": "2026-08-16T02:41",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing diagnostic fee"
-    },
-    {
-      "ts": "2026-08-16T01:56",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing once not twice"
-    },
-    {
-      "ts": "2026-08-16T00:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools loyalty"
-    },
-    {
-      "ts": "2026-08-16T00:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing low bid"
-    },
-    {
-      "ts": "2026-08-15T23:47",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing insurance"
     }
   ]
 }
