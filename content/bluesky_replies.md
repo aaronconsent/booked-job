@@ -2,6 +2,51 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
+
+- **@stylelib.org**: Construction – Industrial HTML5 Template
+
+ https://themes.stylelib.org/?p=19090 
+
+#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
+  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@jburnmurdoch.ft.com**: What about the skilled-trades boom from the energy transition and data centres?
+
+Relatively speaking this will be tiny.
+
+Here’s my employment-change-by-sector chart with skilled trades in pink. Dashed
+  → https://bsky.app/profile/jburnmurdoch.ft.com/post/3mtllbnczvk2a
+
 - **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
 
 https://apify.com/s
@@ -150,35 +195,3 @@ Let's help you find your
 
 www.you
   → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@top500.thebay.wiki**: Meta Platforms Wikipedia article edited by Laurenchicky99 https://en.wikipedia.org/w/index.php?diff=1370378236&oldid=1370050437
-  → https://bsky.app/profile/top500.thebay.wiki/post/3mtjzuvnm3425
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
-  → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
-
-- **@beccasaintpaul.bsky.social**: Forgot to share this first thing!!! Does anyone have good general contractor recommendations in St Paul?!
-  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtjry3xjfc2i
-
-- **@jeremyshall.bsky.social**: I was just cheap and had a bigger general contractor I helped out who just started recommending me to anyone who asked him for marketing problems so I did it for a long time.
-
-Honestly most of the guy
-  → https://bsky.app/profile/jeremyshall.bsky.social/post/3mtekevuxms2n
-
-- **@citizenptnewsin.bsky.social**: The Michigan City Urban Enterprise Association just approved a $40,000 contract with BAC Marketing that could reshape local revenue streams—will this decision pay off? 
-
-Click to read more!
-
-#Kingsfor
-  → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3mtjaxrxeg52z
