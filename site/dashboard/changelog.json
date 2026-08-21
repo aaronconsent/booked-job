@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-21T09:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner permit"
+    },
+    {
       "ts": "2026-08-21T09:07",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: pricing friend price"
-    },
-    {
-      "ts": "2026-08-16T03:42",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing callback"
     }
   ]
 }

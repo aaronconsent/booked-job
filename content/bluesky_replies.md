@@ -2,6 +2,52 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtgyx6uxah2k
+
+- **@970locksmithfc.bsky.social**: 🔐 Locked out? Remember these 3 steps:
+
+1️⃣ Stay calm
+2️⃣ Don't force the lock or break a window
+3️⃣ Call a professional locksmith
+
+970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
+  → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
+
+- **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
+  → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mthg4e56ua2w
+
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United hosts a webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking 
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mthm7cno7d2a
+
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guid
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtlxo3gnjd26
+
+- **@fwadp1.bsky.social**: I asked my neighborhood fb page a few weeks ago for anyone with Starlink to do a speed test. Even linked the site to make it easy. These are the comments that aren’t just “following.”
+  → https://bsky.app/profile/fwadp1.bsky.social/post/3mtlyhp7dc22o
+
+- **@texascontractorseo.bsky.social**: Ready to dominate local search and grow your plumbing business in Central Texas? Visit texascontractorseo.com/locations/austin-plumbing-seo/ to learn how we can help you boost visibility, trust, and l
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijkppwfg2p
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@stylelib.org**: Tanj  – Construction WordPress Theme
+
+ https://stylelib.org/?p=164862 
+
+#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
+  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
+
 - **@brilliantdirectories.com**: AI does 45% of local search now. It retrieves — reviews, local directories.
 
 Plumbers fight to be named. The plumber directory gets read.
@@ -139,53 +185,3 @@ This is why the world hates the US. TACO
 
 - **@thembird.bsky.social**: Are we supposed to feel sorry for these people? Put your own home as a guarantee for a business that employs people, that has to sell a product or a service, deal with customers, employees, competitio
   → https://bsky.app/profile/thembird.bsky.social/post/3mtctty63cs2j
-
-- **@edweek.org**: Can Social Media Influencers Hook Teens on the Skilled Trades?: Skilled trades jobs are in demand. Young skilled trades pros/influencers pique teens' interest.
-  → https://bsky.app/profile/edweek.org/post/3mthqynvkhh24
-
-- **@aster-verite.bsky.social**: What, they never heard of  IKO Industries or BP Canada, Canadian asphalt shingle manufacturers?
-
-The end consumer didn't give two shits about the Canadian economy and demand Canadian products only... 
-  → https://bsky.app/profile/aster-verite.bsky.social/post/3mtevkpszvs2i
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
-
-What business does government have deciding what relationships you can have, with whom, or what to call them?
-
-And why should
-  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
-
-- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
-
-The outsize numbers come if you're self-employed/business owner. Experience
-  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
-
-- **@apfy.bsky.social**: Hiring a contractor? Verify their license is active before you sign. One bad hire costs far more than a check. 267 runs of verified CA, FL, TX, NY contractor data. Pay Per Result.
-
-https://apify.com/s
-  → https://bsky.app/profile/apfy.bsky.social/post/3msvpldejpu23
-
-- **@urgocakelord.bsky.social**: The trades are always oversubscribed at our local college - some grammar sch kids are now snaffling the places my low/mid ability pupils used to get with ease 20yrs ago, and grade requirements have ri
-  → https://bsky.app/profile/urgocakelord.bsky.social/post/3mtlc6iabmc2j
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
