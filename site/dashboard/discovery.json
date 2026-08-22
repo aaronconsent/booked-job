@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T10:34:23Z",
+  "updated": "2026-08-22T11:30:23Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 55,
+        "uses": 56,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -102,14 +102,14 @@
         "link": "https://mastodon.social/tags/contractors"
       },
       {
+        "tag": "#handyman",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
         "tag": "#HVACMyth",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACMyth"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#smallbusinessowners",
