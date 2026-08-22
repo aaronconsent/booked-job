@@ -1,35 +1,4 @@
 {
-  "updated": "2026-08-22T17:45",
-  "posts": [
-    {
-      "ts": "2026-08-22T17:45:19",
-      "channel": "mastodon",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-22T17:45:14",
-      "channel": "tumblr",
-      "item": "clip3-onestar",
-      "url": null
-    },
-    {
-      "ts": "2026-08-22T17:45:12",
-      "channel": "bluesky",
-      "item": "rip-speed-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-08-22T17:45:09",
-      "channel": "facebook",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-08-22T17:45:09",
-      "channel": "tiktok",
-      "item": "ad-summit",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-22T18:42",
+  "posts": []
 }
