@@ -2,6 +2,40 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@indy.bsky.social**: Plumbers coming up in university discourse again, this is interesting as a comparison: www.myjobquote.co.uk/tradesadvice...
+
+The outsize numbers come if you're self-employed/business owner. Experience
+  → https://bsky.app/profile/indy.bsky.social/post/3mszqqghfm227
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtgyx6uxah2k
+
+- **@brilliantdirectories.com**: AI does 45% of local search now. It retrieves — reviews, local directories.
+
+Plumbers fight to be named. The plumber directory gets read.
+
+#ai #localseo #directories #smallbiz #aisearch
+
+https://get.b
+  → https://bsky.app/profile/brilliantdirectories.com/post/3mtk43v6uor2p
+
 - **@beccasaintpaul.bsky.social**: Forgot to share this first thing!!! Does anyone have good general contractor recommendations in St Paul?!
   → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtjry3xjfc2i
 
@@ -125,36 +159,3 @@ Click to read more!
  
 #Alerting #ITOps 
   → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@970locksmithfc.bsky.social**: 🔐 Locked out? Remember these 3 steps:
-
-1️⃣ Stay calm
-2️⃣ Don't force the lock or break a window
-3️⃣ Call a professional locksmith
-
-970 Locksmith - Fort Collins provides 24 Hour Emergency Locksmith ser
-  → https://bsky.app/profile/970locksmithfc.bsky.social/post/3mtbmip5zgk2u
-
-- **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
-  → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
