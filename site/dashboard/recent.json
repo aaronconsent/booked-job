@@ -1,28 +1,16 @@
 {
-  "updated": "2026-08-22T15:46",
+  "updated": "2026-08-22T16:43",
   "posts": [
     {
-      "ts": "2026-08-22T15:46:31",
-      "channel": "mastodon",
-      "item": "card-rev-paint",
+      "ts": "2026-08-22T16:42:38",
+      "channel": "facebook",
+      "item": "card-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-08-22T15:46:27",
-      "channel": "tumblr",
-      "item": "clip2-game",
-      "url": null
-    },
-    {
-      "ts": "2026-08-22T15:46:26",
-      "channel": "bluesky",
-      "item": "rip-reviews-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-08-22T15:46:19",
-      "channel": "tiktok",
-      "item": "ad-pauls",
+      "ts": "2026-08-22T16:42:32",
+      "channel": "linkedin",
+      "item": "clip3-onestar",
       "url": null
     }
   ]
