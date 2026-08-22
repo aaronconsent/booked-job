@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:33:24Z",
+  "updated": "2026-08-22T01:45:57Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,17 +78,17 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 57,
+        "uses": 55,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#plumbing",
-        "uses": 7,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#roofing",
-        "uses": 4,
+        "uses": 2,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
@@ -105,11 +105,6 @@
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#ContractorownedContractoroperated",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorownedContractoroperated"
       },
       {
         "tag": "#handyman",
@@ -135,6 +130,11 @@
         "tag": "#hvacousticmassloadedvinyl",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
+      },
+      {
+        "tag": "#plumbingshop",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/plumbingshop"
       }
     ],
     "accounts": [
@@ -236,14 +236,14 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1809,
+      "followers": 1810,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1555,
+      "followers": 1556,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
