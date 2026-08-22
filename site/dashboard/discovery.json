@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T11:30:23Z",
+  "updated": "2026-08-22T12:56:17Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 56,
+        "uses": 57,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -122,14 +122,14 @@
         "link": "https://mastodon.social/tags/HVAC대장주"
       },
       {
-        "tag": "#HVACChecklist",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACChecklist"
-      },
-      {
         "tag": "#hvacousticmassloadedvinyl",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticmassloadedvinyl"
+      },
+      {
+        "tag": "#hvacousticrubbersheets",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticrubbersheets"
       },
       {
         "tag": "#plumbingshop",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465904,
+        "followers": 465905,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
