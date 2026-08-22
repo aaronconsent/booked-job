@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@beccasaintpaul.bsky.social**: Forgot to share this first thing!!! Does anyone have good general contractor recommendations in St Paul?!
+  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtjry3xjfc2i
+
+- **@invictaconst.bsky.social**: Which Commercial General Contractor Edmonton Delivers Quality Results on Time?
+
+A reliable Commercial General Contractor Edmonton delivers quality construction solutions,nproject management, and timel
+  → https://bsky.app/profile/invictaconst.bsky.social/post/3mtnniyjrxs2z
+
 - **@texascontractorseo.bsky.social**: Since partnering with Texas Contractor SEO, our spray foam leads doubled in just 3 months, and that was only the beginning. 💥 Ready to simplify your life? https://texascontractorseo.com/resources/spra
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5ayw2rx27
 
@@ -150,11 +158,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@dj.phoking.gay**: Reminded me of the mattermost office and their silly onion-like landing station near my old home in Mountain View. They finally launched their "delivery service" after 4 years, I guess? I have to wait
   → https://bsky.app/profile/dj.phoking.gay/post/3mtd5n36f5224
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mthg4e56ua2w
-
-- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United hosts a webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking 
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mthm7cno7d2a

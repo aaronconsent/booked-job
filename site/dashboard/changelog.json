@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-22T01:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing once not twice"
+    },
+    {
       "ts": "2026-08-22T00:39",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from postmaster@cio54818.mail.apollo.io — needs Aaron"
-    },
-    {
-      "ts": "2026-08-16T17:44",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio54818.mail.apollo.io: 3 Apollo events handpicked for GTM pros"
     }
   ]
 }
