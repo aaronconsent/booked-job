@@ -158,12 +158,13 @@
       "bj-track",
       "ad-arctic",
       "ad-pauls",
-      "ad-summit"
+      "ad-summit",
+      "clip-speed"
     ],
-    "last_iso": "2026-08-22T06:31:39",
+    "last_iso": "2026-08-22T08:50:58",
     "day": {
       "date": "2026-08-22",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
