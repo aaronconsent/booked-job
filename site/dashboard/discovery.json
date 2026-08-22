@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T07:39:43Z",
+  "updated": "2026-08-22T08:41:29Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -87,6 +87,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#roofing",
         "uses": 2,
         "link": "https://mastodon.social/tags/roofing"
@@ -95,11 +100,6 @@
         "tag": "#contractors",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#HVACMyth",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23175,
+        "followers": 23177,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
