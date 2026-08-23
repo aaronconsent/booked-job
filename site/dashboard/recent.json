@@ -1,28 +1,16 @@
 {
-  "updated": "2026-08-23T15:47",
+  "updated": "2026-08-23T16:44",
   "posts": [
     {
-      "ts": "2026-08-23T15:46:46",
-      "channel": "mastodon",
-      "item": "card-trade",
+      "ts": "2026-08-23T16:43:36",
+      "channel": "facebook",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-08-23T15:46:42",
-      "channel": "tumblr",
-      "item": "rip-speed-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-08-23T15:46:41",
-      "channel": "bluesky",
-      "item": "pod-ep03-lie",
-      "url": null
-    },
-    {
-      "ts": "2026-08-23T15:46:38",
-      "channel": "tiktok",
-      "item": "is-angi-worth-it",
+      "ts": "2026-08-23T16:43:23",
+      "channel": "linkedin",
+      "item": "rip-angi-rip",
       "url": null
     }
   ]
