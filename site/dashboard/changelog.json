@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-23T01:58",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor friday"
+    },
+    {
       "ts": "2026-08-23T00:40",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: lastguy caulk"
-    },
-    {
-      "ts": "2026-08-17T18:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing scope creep"
     }
   ]
 }
