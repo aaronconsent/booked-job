@@ -110,12 +110,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-08-23T13:54:03",
+    "last_iso": "2026-08-23T15:46:37",
     "day": {
       "date": "2026-08-23",
-      "count": 5
+      "count": 6
     }
   },
   "linkedin": {
@@ -224,12 +225,13 @@
       "pod-ep03-track",
       "pod-ep03-exclusive",
       "pod-ep03-channels",
-      "pod-ep03-trap"
+      "pod-ep03-trap",
+      "pod-ep03-lie"
     ],
-    "last_iso": "2026-08-23T13:54:03",
+    "last_iso": "2026-08-23T15:46:37",
     "day": {
       "date": "2026-08-23",
-      "count": 5
+      "count": 6
     }
   },
   "telegram": {
@@ -311,12 +313,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-08-23T13:54:03",
+    "last_iso": "2026-08-23T15:46:37",
     "day": {
       "date": "2026-08-23",
-      "count": 5
+      "count": 6
     }
   }
 }
