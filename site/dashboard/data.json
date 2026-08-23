@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:30",
+  "updated": "2026-08-23T07:57",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 3,
+        "current": 2,
         "target": 60,
-        "pct": 5,
+        "pct": 3,
         "on_track": false
       },
       {
@@ -111,7 +111,7 @@
   },
   "content": {
     "posts_published": 73,
-    "reactions": 3,
+    "reactions": 2,
     "comments": 0,
     "shares": 0,
     "reels_published": 51,
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 451
+    "media": 452
   },
   "email": {
     "subscribers": 7
@@ -385,7 +385,7 @@
       "group": "social",
       "views": 4879,
       "followers": 14,
-      "likes": 3
+      "likes": 2
     },
     {
       "name": "Instagram",
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2041,
+      "views": 2042,
       "followers": 1
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 30,
+      "count": 31,
       "unit": "posts",
       "followers": 122,
       "grade": "B",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 15
+        "count": 13
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 15
+        "count": 13
       },
       {
         "type": "Long video",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 56
+        "count": 57
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 30
+        "count": 31
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 67
+        "count": 1
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 58
+        "count": 59
       }
     ]
   },
@@ -770,16 +770,16 @@
     }
   ],
   "funnel": {
-    "reach": 38566,
-    "engagement": 3,
+    "reach": 38570,
+    "engagement": 2,
     "audience": 146,
     "cr_clicks": 81
   },
   "trends": {
     "audience": 55,
-    "engagement": -1,
+    "engagement": -2,
     "email": 0,
-    "reach": -4486
+    "reach": -4482
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1458,
+        "value": 1459,
         "grade": "A"
       },
       {
@@ -810,11 +810,11 @@
       },
       {
         "label": "Engagement",
-        "value": 3,
+        "value": 2,
         "grade": "F"
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1458 posts, 146 audience, 81 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1459 posts, 146 audience, 81 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
