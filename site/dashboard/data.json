@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-22T23:48",
+  "updated": "2026-08-23T00:38",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
-    "days_left": 5,
+    "days_left": 4,
     "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 23,
+      "count": 24,
       "unit": "posts",
       "followers": 121,
       "grade": "B",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Video",
@@ -773,7 +773,7 @@
     "reach": 38922,
     "engagement": 3,
     "audience": 145,
-    "cr_clicks": 80
+    "cr_clicks": 81
   },
   "trends": {
     "audience": 54,
@@ -790,12 +790,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 80,
+        "value": 81,
         "grade": "C"
       },
       {
         "label": "Total Posts",
-        "value": 1448,
+        "value": 1449,
         "grade": "A"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1448 posts, 145 audience, 80 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1449 posts, 145 audience, 81 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
