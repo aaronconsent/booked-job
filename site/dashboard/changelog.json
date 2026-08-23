@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-23T18:43",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy extension cord"
+    },
+    {
       "ts": "2026-08-23T17:45",
       "kind": "engage",
       "icon": "💬",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted to Mastodon: Do I Actually Need a Website for My Business? (Honest Answer)"
-    },
-    {
-      "ts": "2026-08-18T18:49",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing pick two"
     }
   ]
 }
