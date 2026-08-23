@@ -2,6 +2,44 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@elrondcupboard.bsky.social**: Aside from small trades and local shops is there a business that doesn’t?
+
+There’s probably a horseshoe shoe theory of bullshit jobs as it seems are approaching the opinion of “oh silly HR and admin” 
+  → https://bsky.app/profile/elrondcupboard.bsky.social/post/3mtqhp3hwvs2s
+
+- **@texascontractorseo.bsky.social**: As inquiries rose, a Cedar Park contractor improved trust and reviews—resulting in more repeat customers and referrals. 🌟 Ready to build local credibility that keeps customers coming back? https://tex
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmh3ikb23
+
+- **@citizenptnewsin.bsky.social**: The Michigan City Urban Enterprise Association just approved a $40,000 contract with BAC Marketing that could reshape local revenue streams—will this decision pay off? 
+
+Click to read more!
+
+#Kingsfor
+  → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3mtjaxrxeg52z
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mthg4e56ua2w
+
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United hosts a webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking 
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mthm7cno7d2a
+
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guid
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtlxo3gnjd26
+
+- **@fwadp1.bsky.social**: I asked my neighborhood fb page a few weeks ago for anyone with Starlink to do a speed test. Even linked the site to make it easy. These are the comments that aren’t just “following.”
+  → https://bsky.app/profile/fwadp1.bsky.social/post/3mtlyhp7dc22o
+
+- **@byzantinedixie.bsky.social**: What shocks me is they have had terrible Customer Service now for YEARS.  What the heck keeps them in business?  The fiber....?  I guess its the fiber because if I could get their fiber at my home I w
+  → https://bsky.app/profile/byzantinedixie.bsky.social/post/3mtos5fiyrs2o
+
+- **@robertscotthorton.bsky.social**: Gary is a largely Black city with a GOP administration in a GOP-ruled. What is the lesson to take home from the massive, sustained power failure? They don't give a shit about Black citizens. blockclub
+  → https://bsky.app/profile/robertscotthorton.bsky.social/post/3mtppcvrxms2v
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@bonsaibean.bsky.social**: 1000+ trades in a month?  That's not investing, that's flat out day trading by the President.  That's like 50 trades per business day.  WTF?
   → https://bsky.app/profile/bonsaibean.bsky.social/post/3mtpm2twqzk2a
 
@@ -111,51 +149,3 @@ Websites + AI systems that book jobs for the trades: https://j1systems.pro/
 
 GM trades at a low multiple because its product portfolio is aiming to the past, and it nearly g
   → https://bsky.app/profile/runakog.bsky.social/post/3mtp3dga3zs2j
-
-- **@texascontractorseo.bsky.social**: One Austin plumber saw a surge in water heater service requests just two months after optimizing their service pages. 🔧 Curious how targeted pages turn searches into calls? https://texascontractorseo.
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijm3546c2f
-
-- **@texascontractorseo.bsky.social**: That same focus on service pages helped a Round Rock plumbing company double customer inquiries from nearby neighborhoods! 🏘️ Want to see similar neighborhood-level growth? https://texascontractorseo.
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmfn4h62p
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Austin plumbing market? Discover how we can power your growth with expert SEO strategies designed just for contractors: texascontractorseo.com/locations/austin-plumbing-seo/.
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5mhm6yj2k
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
-
-- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
-  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
-
-What business does government have deciding what relationships you can have, with whom, or what to call them?
-
-And why should
-  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
