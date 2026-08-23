@@ -40,12 +40,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-08-22T13:55:27",
+    "last_iso": "2026-08-23T06:31:54",
     "day": {
-      "date": "2026-08-22",
-      "count": 2
+      "date": "2026-08-23",
+      "count": 1
     }
   },
   "tiktok": {
@@ -103,12 +104,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-08-22T20:56:57",
+    "last_iso": "2026-08-23T06:31:54",
     "day": {
-      "date": "2026-08-22",
-      "count": 8
+      "date": "2026-08-23",
+      "count": 1
     }
   },
   "linkedin": {
@@ -168,12 +170,13 @@
       "ad-summit",
       "clip-speed",
       "clip1-turd",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-08-22T16:42:31",
+    "last_iso": "2026-08-23T06:31:54",
     "day": {
-      "date": "2026-08-22",
-      "count": 4
+      "date": "2026-08-23",
+      "count": 1
     }
   },
   "facebook": {
@@ -189,12 +192,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-08-22T17:44:42",
+    "last_iso": "2026-08-23T06:31:54",
     "day": {
-      "date": "2026-08-22",
-      "count": 3
+      "date": "2026-08-23",
+      "count": 1
     }
   },
   "pinterest": {
@@ -207,78 +211,12 @@
   },
   "bluesky": {
     "posted": [
-      "pod-ep03-verdict",
-      "pod-ep03-track",
-      "pod-ep03-exclusive",
-      "pod-ep03-channels",
-      "pod-ep03-trap",
-      "pod-ep03-lie",
-      "pod-ep02-system",
-      "pod-ep02-fake",
-      "pod-ep02-onetap",
-      "pod-ep02-peak",
-      "pod-ep02-howmany",
-      "pod-ep02-invisible",
-      "pod-ep01-verdict",
-      "pod-ep01-speed",
-      "pod-ep01-starter",
-      "pod-ep01-ftc",
-      "pod-ep01-refunds",
-      "pod-ep01-cost",
-      "pod-ep01-wrongnum",
-      "pod-ep01-shared",
-      "bj-angi",
-      "bj-reviews",
-      "bj-trade",
-      "bj-slow",
-      "bj-cpbj",
-      "bj-speed",
-      "bj-ftc",
-      "bj-cpl",
-      "bj-favor",
-      "bj-stars",
-      "bj-ai",
-      "bj-scam",
-      "bj-rev-hvac",
-      "bj-rev-plumb",
-      "bj-rev-roof",
-      "bj-rev-elec",
-      "bj-rev-paint",
-      "bj-cheapbid",
-      "bj-wordpress",
-      "bj-first10k",
-      "bj-yelp",
-      "bj-anon98",
-      "bj-missedcall",
-      "bj-stormchaser",
-      "bj-freecheck",
-      "bj-fakemaps",
-      "bj-agency12k",
-      "bj-reviews50",
-      "bj-gbp",
-      "bj-track",
-      "ad-arctic",
-      "ad-pauls",
-      "ad-summit",
-      "clip-porno2",
-      "clip-porno3",
-      "clip-speed",
-      "clip1-turd",
-      "clip2-game",
-      "clip3-onestar",
-      "is-angi-worth-it",
-      "money-leaks-torque",
-      "money-leaks",
-      "explainer-lesson-01",
-      "rip-angi-rip",
-      "rip-reviews-rip",
-      "rip-speed-rip",
-      "stop-renting-leads"
+      "pod-ep03-verdict"
     ],
-    "last_iso": "2026-08-22T20:56:57",
+    "last_iso": "2026-08-23T06:31:54",
     "day": {
-      "date": "2026-08-22",
-      "count": 8
+      "date": "2026-08-23",
+      "count": 1
     }
   },
   "telegram": {
@@ -355,12 +293,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-08-22T20:56:57",
+    "last_iso": "2026-08-23T06:31:54",
     "day": {
-      "date": "2026-08-22",
-      "count": 8
+      "date": "2026-08-23",
+      "count": 1
     }
   }
 }
