@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Muffle – Roofing Company WordPress Theme
+
+ https://stylelib.org/?p=794340 
+
+#painting #renovation #roofing #themeforest #wordpress #business #corporate #maintenance #construction
+  → https://bsky.app/profile/stylelib.org/post/3mtc6pxzi6i2z
+
+- **@aster-verite.bsky.social**: What, they never heard of  IKO Industries or BP Canada, Canadian asphalt shingle manufacturers?
+
+The end consumer didn't give two shits about the Canadian economy and demand Canadian products only... 
+  → https://bsky.app/profile/aster-verite.bsky.social/post/3mtevkpszvs2i
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business deserves a website that actually brings calls. We build yours, add AI chatbots to answer questions 24/7, handle the SEO so locals find you first, and aut
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mtpisouf3s2v
+
 - **@texascontractorseo.bsky.social**: Ready to dominate local search and grow your plumbing business in Central Texas? Visit texascontractorseo.com/locations/austin-plumbing-seo/ to learn how we can help you boost visibility, trust, and l
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijkppwfg2p
 
@@ -151,12 +166,3 @@ Click to read more!
 
 - **@texascontractorseo.bsky.social**: As inquiries rose, a Cedar Park contractor improved trust and reviews—resulting in more repeat customers and referrals. 🌟 Ready to build local credibility that keeps customers coming back? https://tex
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmh3ikb23
-
-- **@texascontractorseo.bsky.social**: With better reviews and targeted pages, a Pflugerville plumber began ranking higher for drain cleaning and leak detection—bringing steady new jobs every week. 🚿 Want consistent leads for your core ser
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmistyc2f
-
-- **@texascontractorseo.bsky.social**: All of these wins added up: an Austin company expanded service-area visibility across six nearby cities, outperforming competitors in multiple markets. 🌆 Want to dominate your region with focused loca
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmkbych2j
-
-- **@texascontractorseo.bsky.social**: Since partnering with Texas Contractor SEO, our spray foam leads doubled in just 3 months, and that was only the beginning. 💥 Ready to simplify your life? https://texascontractorseo.com/resources/spra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5ayw2rx27

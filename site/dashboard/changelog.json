@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-23T02:43",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz deposit"
+    },
+    {
+      "ts": "2026-08-23T02:43",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools mil vs dewalt"
+    },
+    {
       "ts": "2026-08-23T01:58",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-17T21:13",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: So you, Booked Job"
-    },
-    {
-      "ts": "2026-08-17T21:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy caulk"
     }
   ]
 }
