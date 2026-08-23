@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:37:07Z",
+  "updated": "2026-08-23T17:29:40Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/HVACMyth"
       },
       {
+        "tag": "#plumbingthedepths",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/plumbingthedepths"
+      },
+      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
@@ -130,11 +135,6 @@
         "tag": "#hvacousticrubbersheets",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticrubbersheets"
-      },
-      {
-        "tag": "#plumbingshop",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/plumbingshop"
       }
     ],
     "accounts": [
@@ -208,7 +208,7 @@
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3827,
+      "followers": 3826,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2228,
+      "followers": 2229,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
