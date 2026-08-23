@@ -10,12 +10,13 @@
       "card-rev-paint",
       "card-speed",
       "card-ftc",
-      "card-stars"
+      "card-stars",
+      "card-ai"
     ],
-    "last_iso": "2026-08-23T08:52:29",
+    "last_iso": "2026-08-23T10:43:56",
     "day": {
       "date": "2026-08-23",
-      "count": 1
+      "count": 2
     }
   },
   "ig": {
