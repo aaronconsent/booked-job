@@ -1,13 +1,14 @@
 {
   "done": [
-    "chargeback-trap",
-    "first-to-answer",
-    "missed-call",
-    "low-bid",
     "last-guy",
     "money-leaks-torque",
-    "eight-automations",
+    "first-to-answer",
+    "money-leaks",
+    "chargeback-trap",
+    "low-bid",
     "519-reviews",
-    "is-angi-worth-it"
+    "eight-automations",
+    "is-angi-worth-it",
+    "missed-call"
   ]
 }

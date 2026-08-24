@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T14:49",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor gas station"
+    },
+    {
+      "ts": "2026-08-24T14:49",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing pick two"
+    },
+    {
       "ts": "2026-08-24T14:06",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy diy"
-    },
-    {
-      "ts": "2026-08-19T16:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy rate"
-    },
-    {
-      "ts": "2026-08-19T09:59",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio51677.buffermail.com — needs Aaron"
     }
   ]
 }
