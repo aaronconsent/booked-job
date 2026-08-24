@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T17:39:36Z",
+  "updated": "2026-08-24T18:54:17Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/hvacousticrubbersheets"
       },
       {
-        "tag": "#plumbingshop",
+        "tag": "#PlumbingRenovation",
         "uses": 0,
-        "link": "https://mastodon.social/tags/plumbingshop"
+        "link": "https://mastodon.social/tags/PlumbingRenovation"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9945,
+      "followers": 9949,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
