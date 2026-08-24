@@ -1,29 +1,4 @@
 {
-  "updated": "2026-08-24T10:06",
-  "posts": [
-    {
-      "ts": "2026-08-24T10:05:57",
-      "channel": "mastodon",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T10:05:50",
-      "channel": "tumblr",
-      "item": "pod-ep03-channels",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T10:05:49",
-      "channel": "bluesky",
-      "item": "pod-ep02-howmany",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T10:05:45",
-      "channel": "tiktok",
-      "item": "rip-reviews-rip",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-24T11:02",
+  "posts": []
 }
