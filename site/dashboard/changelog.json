@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T12:51",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from postmaster@cio51677.buffermail.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-24T12:51",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from postmaster@cio51677.buffer.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-24T12:51",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from postmaster@cio51677.buffer.com: One of your updates failed to post"
+    },
+    {
+      "ts": "2026-08-24T12:51",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from postmaster@cio51677.buffermail.com: =?UTF-8?q?You're_approaching_your_API_rate_limit_=E2=80=94_here's_how_to_?= =?UT"
+    },
+    {
+      "ts": "2026-08-24T12:51",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz gbp stale"
+    },
+    {
       "ts": "2026-08-24T12:03",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy flextape"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy panel"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy rate"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy worst"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing friend price"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing callback"
     }
   ]
 }
