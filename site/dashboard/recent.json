@@ -1,33 +1,9 @@
 {
-  "updated": "2026-08-24T15:54",
+  "updated": "2026-08-24T16:50",
   "posts": [
     {
-      "ts": "2026-08-24T15:53:46",
-      "channel": "facebook",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T15:53:42",
-      "channel": "mastodon",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T15:53:37",
-      "channel": "tumblr",
-      "item": "pod-ep02-system",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T15:53:35",
-      "channel": "bluesky",
-      "item": "pod-ep01-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T15:53:31",
-      "channel": "tiktok",
+      "ts": "2026-08-24T16:50:30",
+      "channel": "linkedin",
       "item": "pod-ep03-verdict",
       "url": null
     }
