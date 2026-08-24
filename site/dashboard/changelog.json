@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T15:53",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing insurance"
+    },
+    {
       "ts": "2026-08-24T14:49",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: ugc before after"
-    },
-    {
-      "ts": "2026-08-19T16:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy diy"
     }
   ]
 }
