@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T08:20",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: $79 for ONE Angi lead"
+    },
+    {
+      "ts": "2026-08-24T08:20",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-08-24T08:20",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: What is a Free Relationship with Technology? | Stephanie Shen in ILLUMINATION"
+    },
+    {
+      "ts": "2026-08-24T08:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner permit"
+    },
+    {
+      "ts": "2026-08-24T08:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: guy safety"
+    },
+    {
       "ts": "2026-08-24T06:41",
       "kind": "engage",
       "icon": "💬",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing low bid"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing friend price"
-    },
-    {
-      "ts": "2026-08-19T08:16",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: The number Angi doesn't want you doing"
-    },
-    {
-      "ts": "2026-08-19T08:16",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-19T08:16",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Linux 7.1: Kicinski Called It =?UTF-8?B?4oCYTExNLXBvY2FseXBzZS7igJk=?= Then Dele"
-    },
-    {
-      "ts": "2026-08-19T08:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing callback"
     }
   ]
 }
