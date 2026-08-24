@@ -1,10 +1,34 @@
 {
-  "updated": "2026-08-24T16:50",
+  "updated": "2026-08-24T17:50",
   "posts": [
     {
-      "ts": "2026-08-24T16:50:30",
-      "channel": "linkedin",
-      "item": "pod-ep03-verdict",
+      "ts": "2026-08-24T17:50:23",
+      "channel": "mastodon",
+      "item": "card-rev-paint",
+      "url": null
+    },
+    {
+      "ts": "2026-08-24T17:50:19",
+      "channel": "tumblr",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-08-24T17:50:17",
+      "channel": "bluesky",
+      "item": "pod-ep01-starter",
+      "url": null
+    },
+    {
+      "ts": "2026-08-24T17:50:14",
+      "channel": "tiktok",
+      "item": "pod-ep03-track",
+      "url": null
+    },
+    {
+      "ts": "2026-08-24T17:50:13",
+      "channel": "facebook",
+      "item": "pod-ep01-cost",
       "url": null
     }
   ]

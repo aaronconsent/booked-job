@@ -1,8 +1,9 @@
 {
   "done": [
-    "pricing-insurance",
     "pricing-pick-two",
+    "pricing-once-not-twice",
+    "pricing-insurance",
     "pricing-low-bid"
   ],
-  "last_iso": "2026-08-24T16:50:31"
+  "last_iso": "2026-08-24T17:50:19"
 }
