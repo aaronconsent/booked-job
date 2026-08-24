@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T22:12",
+  "updated": "2026-08-23T23:56",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2086,
+      "views": 2087,
       "followers": 1
     },
     {
@@ -435,12 +435,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 44,
+      "count": 45,
       "unit": "posts",
       "followers": 125,
       "grade": "B",
       "group": "social",
-      "likes": 5
+      "likes": 4
     },
     {
       "name": "Mastodon",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Long video",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 44
+        "count": 45
       },
       {
         "type": "Video",
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 38651,
+    "reach": 38652,
     "engagement": 2,
     "audience": 149,
     "cr_clicks": 82
@@ -779,7 +779,7 @@
     "audience": 58,
     "engagement": -2,
     "email": 0,
-    "reach": -4401
+    "reach": -4400
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1473,
+        "value": 1474,
         "grade": "A"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1473 posts, 149 audience, 82 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1474 posts, 149 audience, 82 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
