@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T00:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy extension cord"
+    },
+    {
+      "ts": "2026-08-24T00:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor gas station"
+    },
+    {
       "ts": "2026-08-23T23:57",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com: polsia.sophia52 liked your post"
-    },
-    {
-      "ts": "2026-08-18T20:49",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing insurance"
-    },
-    {
-      "ts": "2026-08-18T18:49",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
     }
   ]
 }
