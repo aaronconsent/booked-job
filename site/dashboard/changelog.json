@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T18:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor porta potty"
+    },
+    {
+      "ts": "2026-08-24T18:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing diagnostic fee"
+    },
+    {
       "ts": "2026-08-24T17:50",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@ideas.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-19T16:53",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@sherlock.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-19T16:53",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio54818.mail.apollo.io — needs Aaron"
     }
   ]
 }
