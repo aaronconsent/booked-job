@@ -1,29 +1,4 @@
 {
-  "updated": "2026-08-23T20:55",
-  "posts": [
-    {
-      "ts": "2026-08-23T20:55:11",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-08-23T20:55:07",
-      "channel": "tumblr",
-      "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-08-23T20:55:06",
-      "channel": "bluesky",
-      "item": "pod-ep02-fake",
-      "url": null
-    },
-    {
-      "ts": "2026-08-23T20:55:02",
-      "channel": "tiktok",
-      "item": "money-leaks",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-23T22:15",
+  "posts": []
 }
