@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T08:07",
+  "updated": "2026-08-24T09:54",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -17,9 +17,9 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 42,
+        "current": 43,
         "target": 45,
-        "pct": 93,
+        "pct": 96,
         "on_track": true
       },
       {
@@ -131,13 +131,13 @@
     "subscribers": 0,
     "views": 1336,
     "likes": 0,
-    "videos": 42,
-    "shorts": 42
+    "videos": 43,
+    "shorts": 43
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 455
+    "media": 456
   },
   "email": {
     "subscribers": 7
@@ -400,7 +400,7 @@
     {
       "name": "YouTube",
       "status": "live",
-      "count": 24,
+      "count": 25,
       "unit": "shorts",
       "grade": "C",
       "group": "social",
@@ -435,8 +435,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "posts",
+      "followers": 126,
       "grade": "B",
       "group": "social",
       "likes": 3
@@ -487,9 +488,9 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 57,
+      "count": 58,
       "unit": "posts (Buffer)",
-      "stat": "1783 reach \u00b7 5 reactions",
+      "stat": "1770 reach \u00b7 5 reactions",
       "views": 37,
       "likes": 5,
       "grade": "B",
@@ -546,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -576,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -587,7 +588,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 24
+        "count": 25
       },
       {
         "type": "Community posts",
@@ -622,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 45
+        "count": 46
       },
       {
         "type": "Documents",
@@ -663,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 9
+        "count": 10
       }
     ],
     "Mastodon": [
@@ -727,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -748,9 +749,9 @@
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 40,
+      "remaining": 39,
       "per_day": 2,
-      "days": 20.0,
+      "days": 19.5,
       "status": "green"
     },
     {
@@ -771,11 +772,11 @@
   "funnel": {
     "reach": 38359,
     "engagement": 2,
-    "audience": 24,
+    "audience": 150,
     "cr_clicks": 82
   },
   "trends": {
-    "audience": -67,
+    "audience": 59,
     "engagement": -2,
     "email": 0,
     "reach": -4693
@@ -794,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1484,
+        "value": 1487,
         "grade": "A"
       },
       {
@@ -804,8 +805,8 @@
       },
       {
         "label": "Audience Size",
-        "value": 24,
-        "grade": "D"
+        "value": 150,
+        "grade": "C"
       },
       {
         "label": "Engagement",
@@ -814,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1484 posts, 24 audience, 82 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1487 posts, 150 audience, 82 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }

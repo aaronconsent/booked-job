@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T10:05",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: labor phone"
+    },
+    {
       "ts": "2026-08-24T08:20",
       "kind": "reel",
       "icon": "🎬",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing once not twice"
-    },
-    {
-      "ts": "2026-08-19T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing low bid"
     }
   ]
 }

@@ -1,46 +1,28 @@
 {
-  "updated": "2026-08-24T08:20",
+  "updated": "2026-08-24T10:06",
   "posts": [
     {
-      "ts": "2026-08-24T08:20:11",
-      "channel": "youtube",
-      "item": "bj-angi",
-      "url": "https://youtu.be/T8mfY0TQAig"
-    },
-    {
-      "ts": "2026-08-24T08:19:59",
-      "channel": "facebook",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T08:19:56",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-08-24T08:19:17",
+      "ts": "2026-08-24T10:05:57",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-08-24T08:19:13",
+      "ts": "2026-08-24T10:05:50",
       "channel": "tumblr",
-      "item": "pod-ep03-exclusive",
+      "item": "pod-ep03-channels",
       "url": null
     },
     {
-      "ts": "2026-08-24T08:19:11",
+      "ts": "2026-08-24T10:05:49",
       "channel": "bluesky",
-      "item": "pod-ep02-peak",
+      "item": "pod-ep02-howmany",
       "url": null
     },
     {
-      "ts": "2026-08-24T08:19:08",
+      "ts": "2026-08-24T10:05:45",
       "channel": "tiktok",
-      "item": "rip-angi-rip",
+      "item": "rip-reviews-rip",
       "url": null
     }
   ]
