@@ -42,12 +42,13 @@
       "bj-wordpress",
       "bj-first10k",
       "bj-yelp",
-      "bj-anon98"
+      "bj-anon98",
+      "bj-missedcall"
     ],
-    "last_iso": "2026-08-23T13:54:03",
+    "last_iso": "2026-08-24T06:39:56",
     "day": {
-      "date": "2026-08-23",
-      "count": 2
+      "date": "2026-08-24",
+      "count": 1
     }
   },
   "tiktok": {
@@ -113,12 +114,13 @@
       "clip3-onestar",
       "is-angi-worth-it",
       "money-leaks-torque",
-      "money-leaks"
+      "money-leaks",
+      "explainer-lesson-01"
     ],
-    "last_iso": "2026-08-23T20:55:01",
+    "last_iso": "2026-08-24T06:39:56",
     "day": {
-      "date": "2026-08-23",
-      "count": 8
+      "date": "2026-08-24",
+      "count": 1
     }
   },
   "linkedin": {
@@ -184,12 +186,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-08-23T18:43:37",
+    "last_iso": "2026-08-24T06:39:56",
     "day": {
-      "date": "2026-08-23",
-      "count": 6
+      "date": "2026-08-24",
+      "count": 1
     }
   },
   "facebook": {
@@ -208,12 +211,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-08-23T17:44:23",
+    "last_iso": "2026-08-24T06:39:56",
     "day": {
-      "date": "2026-08-23",
-      "count": 3
+      "date": "2026-08-24",
+      "count": 1
     }
   },
   "pinterest": {
@@ -233,12 +237,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-08-23T20:55:01",
+    "last_iso": "2026-08-24T06:39:56",
     "day": {
-      "date": "2026-08-23",
-      "count": 8
+      "date": "2026-08-24",
+      "count": 1
     }
   },
   "telegram": {
@@ -258,12 +263,13 @@
   },
   "tumblr": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-08-23T20:55:01",
+    "last_iso": "2026-08-24T06:39:56",
     "day": {
-      "date": "2026-08-23",
-      "count": 8
+      "date": "2026-08-24",
+      "count": 1
     }
   }
 }
