@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-24T04:59",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner son"
+    },
+    {
       "ts": "2026-08-24T04:00",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: pricing low bid"
-    },
-    {
-      "ts": "2026-08-18T20:49",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+55518745-ddb1-hello=booked-job.com@em1548.service.tiktok.com — needs Aaron"
     }
   ]
 }
