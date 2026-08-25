@@ -1,18 +1,19 @@
 {
   "done": [
-    "pricing-pick-two",
-    "ugc-before-after",
-    "pricing-friend-price",
+    "lastguy-panel",
+    "ba-credit",
+    "lastguy-flextape",
+    "lastguy-diy",
+    "pricing-insurance",
     "pricing-diagnostic-fee",
+    "pricing-friend-price",
     "pricing-callback",
     "pricing-once-not-twice",
-    "lastguy-flextape",
+    "pricing-pick-two",
+    "ugc-before-after",
     "lastguy-worst",
-    "lastguy-diy",
-    "lastguy-rate",
-    "pricing-insurance",
-    "lastguy-panel",
-    "pricing-low-bid"
+    "pricing-low-bid",
+    "lastguy-rate"
   ],
-  "last_iso": "2026-08-25T04:49:06"
+  "last_iso": "2026-08-25T05:45:01"
 }

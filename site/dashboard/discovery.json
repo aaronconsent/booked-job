@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:47:15Z",
+  "updated": "2026-08-25T10:43:47Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,8 +78,13 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 53,
+        "uses": 54,
         "link": "https://mastodon.social/tags/homeimprovement"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#hvac",
@@ -90,11 +95,6 @@
         "tag": "#plumbing",
         "uses": 2,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#handyman",
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4044,
+      "followers": 4045,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
