@@ -2,6 +2,57 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bettycrockermn.bsky.social**: It’s true that college degrees have oversaturated the market and skilled trades are dying out; there is a big imbalance that needs to be corrected. However, I don’t trust a single “recommendation” thi
+  → https://bsky.app/profile/bettycrockermn.bsky.social/post/3mttg4ye52k22
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
+
+- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
+
+My brother makes about $225k as a master electrician.
+
+Why a recruiting problem?
+
+1. Trade Unions once direc
+  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
+
+- **@guineverecryptic.bsky.social**: Why does it only count if you’re rich and/or famous? It’s much easier to become a carpenter or an electrician if you go into the family business - but that’s just normal, old-fashioned ‘learning a tra
+  → https://bsky.app/profile/guineverecryptic.bsky.social/post/3msiltn2vb22n
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@stylelib.org**: Tanj  – Construction WordPress Theme
+
+ https://stylelib.org/?p=164862 
+
+#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
+  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
+
+- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
+
+What business does government have deciding what relationships you can have, with whom, or what to call them?
+
+And why should
+  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
+
+- **@beccasaintpaul.bsky.social**: Forgot to share this first thing!!! Does anyone have good general contractor recommendations in St Paul?!
+  → https://bsky.app/profile/beccasaintpaul.bsky.social/post/3mtjry3xjfc2i
+
+- **@invictaconst.bsky.social**: Which Commercial General Contractor Edmonton Delivers Quality Results on Time?
+
+A reliable Commercial General Contractor Edmonton delivers quality construction solutions,nproject management, and timel
+  → https://bsky.app/profile/invictaconst.bsky.social/post/3mtnniyjrxs2z
+
 - **@wiscjobs.bsky.social**: Are you a Facility, #Construction, or #Maintenance Professional? If so, join one of our teams to ensure quality & safety of state office buildings with hands-on work in building repairs, skilled trade
   → https://bsky.app/profile/wiscjobs.bsky.social/post/3mtthq7wjar2i
 
@@ -117,41 +168,3 @@ No lodging, gas, food, can’t use the bathroom. Get hurt? No medical care. If o
 
 - **@arlingtondes.bsky.social**: Tomorrow, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for gui
   → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtt2bmnc4223
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mt7my4vhyl2a
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtgyx6uxah2k
-
-- **@brilliantdirectories.com**: AI does 45% of local search now. It retrieves — reviews, local directories.
-
-Plumbers fight to be named. The plumber directory gets read.
-
-#ai #localseo #directories #smallbiz #aisearch
-
-https://get.b
-  → https://bsky.app/profile/brilliantdirectories.com/post/3mtk43v6uor2p
-
-- **@cheryllynneaton.bsky.social**: I'm going to mind my business and not mention the celebrity who made me think about that day. But I will say that the entire point of dating a guy not in show biz is to live like Dolly Parton. You're 
-  → https://bsky.app/profile/cheryllynneaton.bsky.social/post/3mtudt4pza227
-
-- **@stylelib.org**: Construction – Industrial HTML5 Template
-
- https://themes.stylelib.org/?p=19090 
-
-#architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
-  → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
