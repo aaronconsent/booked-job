@@ -1,10 +1,34 @@
 {
-  "updated": "2026-08-25T16:49",
+  "updated": "2026-08-25T17:52",
   "posts": [
     {
-      "ts": "2026-08-25T16:49:00",
-      "channel": "linkedin",
-      "item": "pod-ep03-channels",
+      "ts": "2026-08-25T17:51:36",
+      "channel": "mastodon",
+      "item": "card-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-08-25T17:51:29",
+      "channel": "tumblr",
+      "item": "pod-ep01-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-08-25T17:51:27",
+      "channel": "bluesky",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-08-25T17:51:23",
+      "channel": "facebook",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-08-25T17:51:23",
+      "channel": "tiktok",
+      "item": "pod-ep02-peak",
       "url": null
     }
   ]
