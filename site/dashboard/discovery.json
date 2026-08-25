@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:45:58Z",
+  "updated": "2026-08-25T18:52:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#HVACProfitability",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/HVACProfitability"
+      },
+      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -117,9 +122,9 @@
         "link": "https://mastodon.social/tags/contractors"
       },
       {
-        "tag": "#contractorriskmanagement",
+        "tag": "#ContractorData",
         "uses": 1,
-        "link": "https://mastodon.social/tags/contractorriskmanagement"
+        "link": "https://mastodon.social/tags/ContractorData"
       },
       {
         "tag": "#HVAC대장주",
@@ -130,17 +135,12 @@
         "tag": "#hvacousticsupplier",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticsupplier"
-      },
-      {
-        "tag": "#Hvacousticmanufacturer",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/Hvacousticmanufacturer"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465997,
+        "followers": 465998,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9975,
+      "followers": 9976,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4044,
+      "followers": 4043,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -278,7 +278,7 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 847,
+      "followers": 848,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     },

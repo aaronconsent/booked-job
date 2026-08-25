@@ -45,12 +45,13 @@
       "bj-anon98",
       "bj-missedcall",
       "bj-stormchaser",
-      "bj-freecheck"
+      "bj-freecheck",
+      "bj-fakemaps"
     ],
-    "last_iso": "2026-08-25T06:38:43",
+    "last_iso": "2026-08-25T14:03:30",
     "day": {
       "date": "2026-08-25",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -61,12 +62,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-08-25T12:01:14",
+    "last_iso": "2026-08-25T14:03:30",
     "day": {
       "date": "2026-08-25",
-      "count": 4
+      "count": 5
     }
   },
   "linkedin": {
@@ -139,12 +141,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-08-25T12:01:14",
+    "last_iso": "2026-08-25T14:03:30",
     "day": {
       "date": "2026-08-25",
-      "count": 4
+      "count": 5
     }
   },
   "telegram": {
@@ -176,12 +179,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-08-25T12:01:14",
+    "last_iso": "2026-08-25T14:03:30",
     "day": {
       "date": "2026-08-25",
-      "count": 4
+      "count": 5
     }
   }
 }
