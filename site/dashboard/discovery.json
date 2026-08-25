@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:54:14Z",
+  "updated": "2026-08-25T09:47:15Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -87,11 +87,6 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
-        "tag": "#HVACProfitability",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/HVACProfitability"
-      },
-      {
         "tag": "#plumbing",
         "uses": 2,
         "link": "https://mastodon.social/tags/plumbing"
@@ -135,6 +130,11 @@
         "tag": "#hvacousticsupplier",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticsupplier"
+      },
+      {
+        "tag": "#Hvacousticmanufacturer",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/Hvacousticmanufacturer"
       }
     ],
     "accounts": [
