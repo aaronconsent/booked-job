@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T01:47:07Z",
+  "updated": "2026-08-25T03:08:40Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465998,
+        "followers": 465997,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23196,
+        "followers": 23197,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9969,
+      "followers": 9970,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
