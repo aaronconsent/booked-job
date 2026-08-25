@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@wiscjobs.bsky.social**: Are you a Facility, #Construction, or #Maintenance Professional? If so, join one of our teams to ensure quality & safety of state office buildings with hands-on work in building repairs, skilled trade
+  → https://bsky.app/profile/wiscjobs.bsky.social/post/3mtthq7wjar2i
+
+- **@boldlygoinglol.bsky.social**: BASH: One of the things that's happening is there's a push to start students down a trade school track as early as elementary school. Is that too early?
+
+LINDA McMAHON: I don't think so
+
+BASH: But ele
+  → https://bsky.app/profile/boldlygoinglol.bsky.social/post/3mttjkcesos2v
+
 - **@texascontractorseo.bsky.social**: As inquiries rose, a Cedar Park contractor improved trust and reviews—resulting in more repeat customers and referrals. 🌟 Ready to build local credibility that keeps customers coming back? https://tex
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijmh3ikb23
 
@@ -145,19 +155,3 @@ https://get.b
 
 #architecture #building #business #construction #constructor #contractor #corporate #electrician #engineering #handyma
   → https://bsky.app/profile/stylelib.org/post/3ms54xnnqxd2p
-
-- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
-
- https://themes.stylelib.org/?p=4166 
-
-#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mseoegqlgd2q
-
-- **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
-
-My brother makes about $225k as a master electrician.
-
-Why a recruiting problem?
-
-1. Trade Unions once direc
-  → https://bsky.app/profile/frankwild.bsky.social/post/3msftknaakc2z
