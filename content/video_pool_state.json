@@ -58,12 +58,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-08-25T06:38:43",
+    "last_iso": "2026-08-25T08:17:24",
     "day": {
       "date": "2026-08-25",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -131,12 +132,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-08-25T06:38:43",
+    "last_iso": "2026-08-25T08:17:24",
     "day": {
       "date": "2026-08-25",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -165,12 +167,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-08-25T06:38:43",
+    "last_iso": "2026-08-25T08:17:24",
     "day": {
       "date": "2026-08-25",
-      "count": 1
+      "count": 2
     }
   }
 }
