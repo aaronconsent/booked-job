@@ -72,12 +72,13 @@
   "linkedin": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-08-25T06:38:43",
+    "last_iso": "2026-08-25T12:57:44",
     "day": {
       "date": "2026-08-25",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {

@@ -1,34 +1,10 @@
 {
-  "updated": "2026-08-25T12:02",
+  "updated": "2026-08-25T12:58",
   "posts": [
     {
-      "ts": "2026-08-25T12:01:55",
-      "channel": "mastodon",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-08-25T12:01:46",
-      "channel": "tumblr",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-08-25T12:01:45",
-      "channel": "bluesky",
-      "item": "pod-ep01-shared",
-      "url": null
-    },
-    {
-      "ts": "2026-08-25T12:01:42",
-      "channel": "tiktok",
-      "item": "pod-ep02-system",
-      "url": null
-    },
-    {
-      "ts": "2026-08-25T12:01:40",
-      "channel": "facebook",
-      "item": "pod-ep01-shared",
+      "ts": "2026-08-25T12:57:45",
+      "channel": "linkedin",
+      "item": "pod-ep03-exclusive",
       "url": null
     }
   ]
