@@ -1,10 +1,11 @@
 {
   "done": [
-    "pricing-low-bid",
-    "pricing-once-not-twice",
-    "pricing-pick-two",
     "pricing-diagnostic-fee",
-    "pricing-insurance"
+    "pricing-insurance",
+    "pricing-callback",
+    "pricing-low-bid",
+    "pricing-pick-two",
+    "pricing-once-not-twice"
   ],
-  "last_iso": "2026-08-24T18:42:21"
+  "last_iso": "2026-08-24T20:48:36"
 }
