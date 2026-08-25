@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:52:21Z",
+  "updated": "2026-08-25T19:42:43Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,11 +97,6 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#HVACProfitability",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/HVACProfitability"
-      },
-      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -135,12 +130,17 @@
         "tag": "#hvacousticsupplier",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticsupplier"
+      },
+      {
+        "tag": "#Hvacousticmanufacturer",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/Hvacousticmanufacturer"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465998,
+        "followers": 465999,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23198,
+        "followers": 23199,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
