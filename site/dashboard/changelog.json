@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-08-25T00:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools lost tape"
+    },
+    {
+      "ts": "2026-08-25T00:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy rate"
+    },
+    {
       "ts": "2026-08-24T23:50",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: ugc before after"
-    },
-    {
-      "ts": "2026-08-19T20:49",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@ideas.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-19T20:49",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@ideas.pinterest.com: So you, Booked Job"
     }
   ]
 }
