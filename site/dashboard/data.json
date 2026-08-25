@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:05",
+  "updated": "2026-08-25T09:00",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 458
+    "media": 459
   },
   "email": {
     "subscribers": 7
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
       "followers": 128,
       "grade": "B",
@@ -488,9 +488,9 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 65,
+      "count": 66,
       "unit": "posts (Buffer)",
-      "stat": "1523 reach \u00b7 5 reactions",
+      "stat": "1513 reach \u00b7 5 reactions",
       "views": 37,
       "likes": 5,
       "grade": "B",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 13
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 11
+        "count": 13
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Documents",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 15
+        "count": 16
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 17
+        "count": 18
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 10
+        "count": 11
       }
     ]
   },
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1457,
+        "value": 1459,
         "grade": "A"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1457 posts, 151 audience, 82 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1459 posts, 151 audience, 82 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
