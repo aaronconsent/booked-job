@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-25T23:51",
+  "updated": "2026-08-26T00:43",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
-    "days_left": 2,
+    "days_left": 1,
     "rationale": "Month 1 proved the machine PRODUCES (39 reels, 29 shorts, 128 articles, ~1,250 social posts) and that production alone does not convert: 9 FB followers, 8 lifetime engagement actions, 7 email subs flat for two weeks, 0 YouTube subs off 29 shorts. Month 2 targets are rebuilt from REAL 14-day pace, not ambition \u2014 every number below is cumulative (the counters are lifetime, not per-period). Production targets stay aggressive because they cost nothing; audience targets are cut to honest multiples of actual pace so the dashboard tells the truth instead of showing 1%. The one place we deliberately under-set is ad video views: the $7/day campaign is PAUSED, so that number cannot move until Aaron resumes it. Recalibrated 2026-07-27 (weekly strategist).",
     "items": [
       {
@@ -20,7 +20,7 @@
         "current": 43,
         "target": 45,
         "pct": 96,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "Posts shipped",
@@ -52,7 +52,7 @@
         "current": 1336,
         "target": 1400,
         "pct": 95,
-        "on_track": true
+        "on_track": false
       },
       {
         "label": "FB followers",
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 29,
+      "count": 30,
       "unit": "posts",
       "followers": 132,
       "grade": "B",
@@ -488,12 +488,12 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 69,
+      "count": 13,
       "unit": "posts (Buffer)",
-      "stat": "1487 reach \u00b7 5 reactions",
+      "stat": "1483 reach \u00b7 5 reactions",
       "views": 37,
       "likes": 5,
-      "grade": "B",
+      "grade": "C",
       "group": "social"
     },
     {
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 10
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 10
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 57
+        "count": 1
       },
       {
         "type": "Documents",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 29
+        "count": 30
       },
       {
         "type": "Video",
@@ -776,10 +776,10 @@
     "cr_clicks": 83
   },
   "trends": {
-    "audience": 25,
+    "audience": 23,
     "engagement": 1,
     "email": 0,
-    "reach": -1990
+    "reach": -1628
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1475,
+        "value": 1420,
         "grade": "A"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1475 posts, 155 audience, 83 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1420 posts, 155 audience, 83 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
