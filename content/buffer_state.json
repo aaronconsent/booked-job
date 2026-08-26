@@ -1,8 +1,9 @@
 {
   "linkedin": [
-    "pricing-low-bid",
-    "pricing-once-not-twice",
     "pricing-insurance",
+    "pricing-once-not-twice",
+    "pricing-low-bid",
+    "pricing-diagnostic-fee",
     "pricing-pick-two"
   ],
   "tiktok": [

@@ -1,40 +1,46 @@
 {
-  "updated": "2026-08-26T06:42",
+  "updated": "2026-08-26T08:24",
   "posts": [
     {
-      "ts": "2026-08-26T06:41:38",
-      "channel": "tumblr",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-08-26T06:41:36",
-      "channel": "bluesky",
-      "item": "bj-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-08-26T06:41:33",
-      "channel": "linkedin",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-08-26T06:41:32",
-      "channel": "tiktok",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-08-26T06:41:31",
-      "channel": "ig",
-      "item": "bj-agency12k",
-      "url": null
-    },
-    {
-      "ts": "2026-08-26T06:40:55",
-      "channel": "facebook",
+      "ts": "2026-08-26T08:24:27",
+      "channel": "youtube",
       "item": "bj-reviews",
+      "url": "https://youtu.be/PXu3Nmq-8Ng"
+    },
+    {
+      "ts": "2026-08-26T08:24:16",
+      "channel": "facebook",
+      "item": "card-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-08-26T08:24:12",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-08-26T08:23:35",
+      "channel": "mastodon",
+      "item": "card-cpbj",
+      "url": null
+    },
+    {
+      "ts": "2026-08-26T08:23:29",
+      "channel": "tumblr",
+      "item": "pod-ep01-wrongnum",
+      "url": null
+    },
+    {
+      "ts": "2026-08-26T08:23:27",
+      "channel": "bluesky",
+      "item": "bj-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-08-26T08:23:23",
+      "channel": "tiktok",
+      "item": "pod-ep01-verdict",
       "url": null
     }
   ]
