@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T08:56:19Z",
+  "updated": "2026-08-26T09:53:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,6 +97,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#HVACProfitability",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/HVACProfitability"
+      },
+      {
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
@@ -130,11 +135,6 @@
         "tag": "#contractors",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#ContractorData",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorData"
       }
     ],
     "accounts": [
