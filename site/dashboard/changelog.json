@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-26T05:47",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz slow season"
+    },
+    {
       "ts": "2026-08-26T04:54",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: biz deposit"
-    },
-    {
-      "ts": "2026-08-21T02:03",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz chasing invoices"
     }
   ]
 }
