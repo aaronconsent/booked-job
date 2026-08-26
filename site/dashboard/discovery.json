@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:03:24Z",
+  "updated": "2026-08-26T07:56:01Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -102,6 +102,11 @@
         "link": "https://mastodon.social/tags/HVACProfitability"
       },
       {
+        "tag": "#contractor",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
@@ -125,11 +130,6 @@
         "tag": "#RoofingSpecialists",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingSpecialists"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#contractors",
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2338,
+        "followers": 2339,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9977,
+      "followers": 9976,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
