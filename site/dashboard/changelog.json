@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-08-26T11:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz review timing"
+    },
+    {
       "ts": "2026-08-26T10:07",
       "kind": "engage",
       "icon": "💬",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner son"
-    },
-    {
-      "ts": "2026-08-21T08:17",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: One Angi lead — sold to 5 other guys"
     }
   ]
 }

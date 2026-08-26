@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:56:27Z",
+  "updated": "2026-08-26T16:27:14Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -97,11 +97,6 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#HVACProfitability",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/HVACProfitability"
-      },
-      {
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
@@ -135,12 +130,17 @@
         "tag": "#RoofingNeeds",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingNeeds"
+      },
+      {
+        "tag": "#RoofingProject",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/RoofingProject"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 465998,
+        "followers": 466016,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -285,7 +285,7 @@
     {
       "handle": "@thebarehandyman.bsky.social",
       "display": "The Bare Handyman",
-      "followers": 704,
+      "followers": 705,
       "desc": "he/any - professional handyman",
       "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }
