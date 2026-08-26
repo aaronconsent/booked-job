@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@goobypls89.bsky.social**: I was told that too, but depending on the contractor they may not accept in case someone put something in it or spit it or that kind of thing. Not saying you would, but just a general abundance of cau
+  → https://bsky.app/profile/goobypls89.bsky.social/post/3mtwvvhwsas2s
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@natalie-reed.bsky.social**: Igor Shvartsman helps run Breezeworks, the app turning a plumber's phone into a full business back office.
 
 https://yespress.io/igor-shvartsman?utm_source=bluesky&utm_medium=social via Yespress - appl
@@ -149,9 +155,3 @@ Key changes include:
 
 - **@texascontractorseo.bsky.social**: In Dallas metro we invested mid-level SEO and gained authority for both open-cell and closed-cell services, keeping leads flowing steadily. 🔧 Ready to simplify your life? https://texascontractorseo.co
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5b64jwp27
-
-- **@texascontractorseo.bsky.social**: We learned low-budget SEO couldn’t keep up in Houston’s competitive market, so raising investment secured consistent commercial insulation leads over time. ⏳ Ready to simplify your life? https://texas
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5b75im72d
-
-- **@texascontractorseo.bsky.social**: After months of steady content and proof updates, we finally broke through local rankings and now our phone never stops ringing for crawlspace projects. 📞 Ready to simplify your life? https://texascon
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bacddh27
