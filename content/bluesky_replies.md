@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: When competitors paused their SEO, our ongoing reinforcement let us surge ahead and capture key spray foam opportunities in Austin’s busy market. 🚀 Ready to simplify your life? https://texascontractor
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bceeps2m
+
+- **@texascontractorseo.bsky.social**: Finally, as the campaign expanded service depth from residential attics to commercial spray foam, leads stayed consistent thanks to an expert local SEO strategy. 🏗️ Ready to simplify your life? https:
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bdezns2v
+
 - **@texascontractorseo.bsky.social**: That’s why service-area SEO is critical: it targets the exact neighborhoods and searches your customers are using so you show up where they click. Want to be the go-to plumber in their ZIP code?
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5mdbsf42v
 
@@ -161,9 +167,3 @@ How long does it take to map a massive commercial roof? With our advanced digita
 
 - **@texascontractorseo.bsky.social**: We learned low-budget SEO couldn’t keep up in Houston’s competitive market, so raising investment secured consistent commercial insulation leads over time. ⏳ Ready to simplify your life? https://texas
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5b75im72d
-
-- **@texascontractorseo.bsky.social**: After months of steady content and proof updates, we finally broke through local rankings and now our phone never stops ringing for crawlspace projects. 📞 Ready to simplify your life? https://texascon
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bacddh27
-
-- **@texascontractorseo.bsky.social**: We added fresh project galleries monthly to build trust, and that turned search clicks into real business on a reliable basis. 🎯 Ready to simplify your life? https://texascontractorseo.com/resources/s
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bbdrnz2k
