@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@estarcontractor.bsky.social**: Doral warehouse, completely transformed. Our build-out at 2196 NW 82nd Ave proved what a licensed general contractor can do when they know Miami-Dade’s building codes. Your commercial space next? 954-
+  → https://bsky.app/profile/estarcontractor.bsky.social/post/3mu2z7xxsvo23
+
 - **@texascontractorseo.bsky.social**: When competitors paused their SEO, our ongoing reinforcement let us surge ahead and capture key spray foam opportunities in Austin’s busy market. 🚀 Ready to simplify your life? https://texascontractor
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bceeps2m
 
@@ -164,6 +167,3 @@ How long does it take to map a massive commercial roof? With our advanced digita
 
 - **@texascontractorseo.bsky.social**: In Dallas metro we invested mid-level SEO and gained authority for both open-cell and closed-cell services, keeping leads flowing steadily. 🔧 Ready to simplify your life? https://texascontractorseo.co
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5b64jwp27
-
-- **@texascontractorseo.bsky.social**: We learned low-budget SEO couldn’t keep up in Houston’s competitive market, so raising investment secured consistent commercial insulation leads over time. ⏳ Ready to simplify your life? https://texas
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5b75im72d
