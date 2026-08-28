@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T05:18:46Z",
+  "updated": "2026-08-28T18:34:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,17 +78,17 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 37,
+        "uses": 42,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#plumbing",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#hvac",
-        "uses": 4,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -97,14 +97,14 @@
         "link": "https://mastodon.social/tags/plumbingservices"
       },
       {
+        "tag": "#roofing",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
         "tag": "#contractor",
         "uses": 3,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#handyman",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23210,
+        "followers": 23214,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2339,
+        "followers": 2340,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9983,
+      "followers": 9988,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4044,
+      "followers": 4047,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1815,
+      "followers": 1817,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1562,
+      "followers": 1563,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -250,7 +250,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1416,
+      "followers": 1415,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1047,
+      "followers": 1048,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
@@ -278,7 +278,7 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 847,
+      "followers": 848,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     },
