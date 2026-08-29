@@ -2,6 +2,35 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mtvhektx4q2w
+
+- **@arlingtondes.bsky.social**: STARTS AT NOON: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guidance on 
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtw5cqhmqo25
+
+- **@texascontractorseo.bsky.social**: We added fresh project galleries monthly to build trust, and that turned search clicks into real business on a reliable basis. 🎯 Ready to simplify your life? https://texascontractorseo.com/resources/s
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bbdrnz2k
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business deserves a website that actually brings calls. We build yours, add AI chatbots to answer questions 24/7, handle the SEO so locals find you first, and aut
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mtpisouf3s2v
+
+- **@libertyhauling.bsky.social**: Planning a home renovation, a garage cleanout, a roofing job, or a full-scale construction project in Ocoee, FL? One of the biggest headaches isn’t the work itself — it’s figuring out what to do with 
+  → https://bsky.app/profile/libertyhauling.bsky.social/post/3mttcqpc4h222
+
+- **@stylelib.org**: RinBuild – Construction Building Company WordPress Theme + RTL
+
+ https://stylelib.org/?p=221740 
+
+#constructor #renovation #roofing #templatepath #themeforest #wordpress #architecture #business #build
+  → https://bsky.app/profile/stylelib.org/post/3mtton5grqr23
+
+- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
+
+How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
+  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
+
 - **@australiajobs-app.bsky.social**: White-collar burnout meets AI anxiety—and the result? A massive career pivot toward skilled trades. 🛠️💼 From former lawyers to tech professionals, thousands of Aussies are swapping spreadsheets for to
   → https://bsky.app/profile/australiajobs-app.bsky.social/post/3mu75rbazs62m
 
@@ -164,26 +193,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guid
   → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtlxo3gnjd26
-
-- **@fwadp1.bsky.social**: I asked my neighborhood fb page a few weeks ago for anyone with Starlink to do a speed test. Even linked the site to make it easy. These are the comments that aren’t just “following.”
-  → https://bsky.app/profile/fwadp1.bsky.social/post/3mtlyhp7dc22o
-
-- **@vicpescocostanzo.bsky.social**: Why don’t more businesses refuse service to all federal LEOs? Boycott every business that provides services to them. 
-No lodging, gas, food, can’t use the bathroom. Get hurt? No medical care. If one c
-  → https://bsky.app/profile/vicpescocostanzo.bsky.social/post/3mtmtb6ihg227
-
-- **@byzantinedixie.bsky.social**: What shocks me is they have had terrible Customer Service now for YEARS.  What the heck keeps them in business?  The fiber....?  I guess its the fiber because if I could get their fiber at my home I w
-  → https://bsky.app/profile/byzantinedixie.bsky.social/post/3mtos5fiyrs2o
-
-- **@robertscotthorton.bsky.social**: Gary is a largely Black city with a GOP administration in a GOP-ruled. What is the lesson to take home from the massive, sustained power failure? They don't give a shit about Black citizens. blockclub
-  → https://bsky.app/profile/robertscotthorton.bsky.social/post/3mtppcvrxms2v
-
-- **@arlingtondes.bsky.social**: Tomorrow, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for gui
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtt2bmnc4223
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
