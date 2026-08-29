@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T18:34:44Z",
+  "updated": "2026-08-29T02:06:11Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 42,
+        "uses": 35,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 5,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -105,11 +105,6 @@
         "tag": "#contractor",
         "uses": 3,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#HVACTrends",
@@ -135,12 +130,17 @@
         "tag": "#RoofingProject",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingProject"
+      },
+      {
+        "tag": "#RoofingSpecialists",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/RoofingSpecialists"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466037,
+        "followers": 466053,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23214,
+        "followers": 23215,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9988,
+      "followers": 9990,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4047,
+      "followers": 4048,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },

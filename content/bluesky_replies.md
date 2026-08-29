@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
+
+ https://stylelib.org/?p=973301 
+
+#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
+  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
+
+- **@veezystudios.bsky.social**: 🚨 **Attention Plumbing Business Owners & Managers: Emergency Calls Don’t Wait — and Neither Should You.**
+
+When disaster strikes — a midnight leak or a midday backup — homeowners aren’t scrolling thro
+  → https://bsky.app/profile/veezystudios.bsky.social/post/3mtzkdeolgd2y
+
+- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
+
+The technology changed. The goal didn’t: find a local business you
+  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
+
+- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
+
+ https://stylelib.org/?p=185862 
+
+#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
+  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
+
 - **@estarcontractor.bsky.social**: Doral warehouse, completely transformed. Our build-out at 2196 NW 82nd Ave proved what a licensed general contractor can do when they know Miami-Dade’s building codes. Your commercial space next? 954-
   → https://bsky.app/profile/estarcontractor.bsky.social/post/3mu2z7xxsvo23
 
@@ -153,17 +177,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@texascontractorseo.bsky.social**: Ready to dominate local search and grow your plumbing business in Central Texas? Visit texascontractorseo.com/locations/austin-plumbing-seo/ to learn how we can help you boost visibility, trust, and l
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijkppwfg2p
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business deserves a website that actually brings calls. We build yours, add AI chatbots to answer questions 24/7, handle the SEO so locals find you first, and aut
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mtpisouf3s2v
-
-- **@libertyhauling.bsky.social**: Planning a home renovation, a garage cleanout, a roofing job, or a full-scale construction project in Ocoee, FL? One of the biggest headaches isn’t the work itself — it’s figuring out what to do with 
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3mttcqpc4h222
-
-- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
-
-How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
-
-- **@texascontractorseo.bsky.social**: In Dallas metro we invested mid-level SEO and gained authority for both open-cell and closed-cell services, keeping leads flowing steadily. 🔧 Ready to simplify your life? https://texascontractorseo.co
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5b64jwp27
