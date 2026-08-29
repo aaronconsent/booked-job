@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kamloops.ca**: Is your home or business secured with an alarm system?
+Starting September 1, 2026, a new Security Alarm System Bylaw will take effect in Kamloops.
+ 
+Key changes include:
+▪️ Increased service fees for 
+  → https://bsky.app/profile/kamloops.ca/post/3mtwhm6yqel2g
+
+- **@rustyeire.bsky.social**: Nichols must be pirouetting with joy.  This is centrists in a feckin' nutshell.  Wilson is right.  First order of business after the midterms is to get a Speaker with spine & a minimal idea of how not
+  → https://bsky.app/profile/rustyeire.bsky.social/post/3mtxcpi3ki22a
+
+- **@aitoolstoday.bsky.social**: 🏠 Contractors: what if AI could help you get more leads WITHOUT adding more hours to your day?
+
+AI Tools Today has a dedicated collection of AI tools for home service businesses 👇
+
+👉 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mtzpjq23e22p
+
+- **@aitoolstoday.bsky.social**: Your competition is using AI.
+
+Are you?
+
+From generating content to finding leads and automating repetitive marketing tasks, AI can help home service businesses save time and grow faster.
+
+Explore the
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mu433db42t2a
+
 - **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
 
  https://stylelib.org/?p=973301 
@@ -161,19 +187,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@namie281.bsky.social**: To something else they're studying. How would a plumber use this? A marine biologist? How would understanding math change news reporting? A business owner?  I felt the possibilities were limited only 
-  → https://bsky.app/profile/namie281.bsky.social/post/3mtn52b3w422t
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtoj3zmv3c2d
-
-- **@stylelib.org**: Lumoria –  Architect, Construction WordPress Theme
-
- https://themes.stylelib.org/?p=849232 
-
-#architect #architecture #builder #business #construction #contractor #designthemes #handyman #interior #pl
-  → https://bsky.app/profile/stylelib.org/post/3mtqrusvwat22
-
-- **@texascontractorseo.bsky.social**: Ready to dominate local search and grow your plumbing business in Central Texas? Visit texascontractorseo.com/locations/austin-plumbing-seo/ to learn how we can help you boost visibility, trust, and l
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtijkppwfg2p

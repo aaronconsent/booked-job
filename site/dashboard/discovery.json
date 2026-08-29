@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T02:06:11Z",
+  "updated": "2026-08-29T09:58:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -97,14 +97,14 @@
         "link": "https://mastodon.social/tags/plumbingservices"
       },
       {
+        "tag": "#contractor",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
         "tag": "#roofing",
         "uses": 3,
         "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#HVACTrends",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466053,
+        "followers": 466054,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23215,
+        "followers": 23218,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 9990,
+      "followers": 9991,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4048,
+      "followers": 4050,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1048,
+      "followers": 1047,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
