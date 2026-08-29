@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@australiajobs-app.bsky.social**: White-collar burnout meets AI anxiety—and the result? A massive career pivot toward skilled trades. 🛠️💼 From former lawyers to tech professionals, thousands of Aussies are swapping spreadsheets for to
+  → https://bsky.app/profile/australiajobs-app.bsky.social/post/3mu75rbazs62m
+
 - **@kamloops.ca**: Is your home or business secured with an alarm system?
 Starting September 1, 2026, a new Security Alarm System Bylaw will take effect in Kamloops.
  
@@ -184,6 +187,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24

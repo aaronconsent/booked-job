@@ -7,11 +7,12 @@
       "card-rev-plumb",
       "card-rev-roof",
       "card-rev-elec",
-      "card-rev-paint"
+      "card-rev-paint",
+      "card-speed"
     ],
-    "last_iso": "2026-08-28T13:47:00",
+    "last_iso": "2026-08-29T10:13:35",
     "day": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "count": 1
     }
   },
@@ -19,33 +20,19 @@
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-08-28T13:47:00",
+    "last_iso": "2026-08-29T10:13:35",
     "day": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
-      "card-cpbj",
-      "card-angi",
-      "card-reviews",
-      "card-rev-plumb",
-      "card-rev-roof",
-      "card-rev-elec",
-      "card-rev-paint",
-      "card-speed",
-      "card-ftc",
-      "card-stars",
-      "card-ai",
-      "card-anon98",
-      "card-missedcall",
-      "card-trade",
-      "carousel-leadsites"
+      "card-cpbj"
     ],
-    "last_iso": "2026-08-28T13:47:00",
+    "last_iso": "2026-08-29T10:13:35",
     "day": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "count": 1
     }
   }
