@@ -52,12 +52,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-08-29T10:12:22",
+    "last_iso": "2026-08-29T19:21:20",
     "day": {
       "date": "2026-08-29",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -84,12 +85,13 @@
       "pod-ep01-shared",
       "bj-angi",
       "bj-reviews",
-      "bj-trade"
+      "bj-trade",
+      "bj-slow"
     ],
-    "last_iso": "2026-08-29T16:52:05",
+    "last_iso": "2026-08-29T19:21:20",
     "day": {
       "date": "2026-08-29",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -106,12 +108,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-08-29T16:52:05",
+    "last_iso": "2026-08-29T19:21:20",
     "day": {
       "date": "2026-08-29",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
@@ -196,12 +199,13 @@
       "bj-rev-hvac",
       "bj-rev-plumb",
       "bj-rev-roof",
-      "bj-rev-elec"
+      "bj-rev-elec",
+      "bj-rev-paint"
     ],
-    "last_iso": "2026-08-29T16:52:05",
+    "last_iso": "2026-08-29T19:21:20",
     "day": {
       "date": "2026-08-29",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -249,12 +253,13 @@
       "bj-speed",
       "bj-ftc",
       "bj-cpl",
-      "bj-favor"
+      "bj-favor",
+      "bj-stars"
     ],
-    "last_iso": "2026-08-29T16:52:05",
+    "last_iso": "2026-08-29T19:21:20",
     "day": {
       "date": "2026-08-29",
-      "count": 3
+      "count": 4
     }
   }
 }
