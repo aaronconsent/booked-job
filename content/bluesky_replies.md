@@ -2,6 +2,53 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
+
+https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
+
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
+- **@nityahuntley.bsky.social**: Do you think this money was earmarked at court? How many parents were murdered with secret service for Shotwell’s Israeli slush fund. Take it home. Her money is no good in the USA. That’s not how we d
+  → https://bsky.app/profile/nityahuntley.bsky.social/post/3mucmpfwces25
+
+- **@texascontractorseo.bsky.social**: Finally, as the campaign expanded service depth from residential attics to commercial spray foam, leads stayed consistent thanks to an expert local SEO strategy. 🏗️ Ready to simplify your life? https:
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bdezns2v
+
+- **@texascontractorseo.bsky.social**: That’s why service-area SEO is critical: it targets the exact neighborhoods and searches your customers are using so you show up where they click. Want to be the go-to plumber in their ZIP code?
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5mdbsf42v
+
+- **@texascontractorseo.bsky.social**: Ready to dominate the Austin plumbing market? Discover how we can power your growth with expert SEO strategies designed just for contractors: texascontractorseo.com/locations/austin-plumbing-seo/.
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5mhm6yj2k
+
+- **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
+
+- **@texascontractorseo.bsky.social**: Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? Book a consultation or request a free audit. Learn more: https://texascontractorseo.com/resources/spray-foam-se
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6ao3xlt27
+
+- **@texascontractorseo.bsky.social**: By targeting multiple Texas cities, one spray foam contractor expanded their service reach and grew inbound calls by 35%. Local proof builds trust city by city, and that momentum started with the Hous
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75pi2zo2b
+
+- **@texascontractorseo.bsky.social**: Low-budget SEO gave one contractor initial visibility, but mid-tier investment sustained steady leads even as competitors ramped up. The city-by-city approach needs ongoing investment to keep momentum
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75quue627
+
+- **@texascontractorseo.bsky.social**: One customer’s ongoing SEO campaign condensed timelines, with steady lead increases appearing within 3 months instead of 6+. Ready to accelerate growth? https://texascontractorseo.com/resources/spray-
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75syimt2s
+
 - **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guid
   → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtlxo3gnjd26
 
@@ -124,68 +171,3 @@ I dislike Dean's implication that plumbing/HVAC business owners can't be effecti
 Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
 #HamlinInsurance #WNCIns
   → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mtvhektx4q2w
-
-- **@arlingtondes.bsky.social**: STARTS AT NOON: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guidance on 
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtw5cqhmqo25
-
-- **@texascontractorseo.bsky.social**: We added fresh project galleries monthly to build trust, and that turned search clicks into real business on a reliable basis. 🎯 Ready to simplify your life? https://texascontractorseo.com/resources/s
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bbdrnz2k
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business deserves a website that actually brings calls. We build yours, add AI chatbots to answer questions 24/7, handle the SEO so locals find you first, and aut
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mtpisouf3s2v
-
-- **@libertyhauling.bsky.social**: Planning a home renovation, a garage cleanout, a roofing job, or a full-scale construction project in Ocoee, FL? One of the biggest headaches isn’t the work itself — it’s figuring out what to do with 
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3mttcqpc4h222
-
-- **@stylelib.org**: RinBuild – Construction Building Company WordPress Theme + RTL
-
- https://stylelib.org/?p=221740 
-
-#constructor #renovation #roofing #templatepath #themeforest #wordpress #architecture #business #build
-  → https://bsky.app/profile/stylelib.org/post/3mtton5grqr23
-
-- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
-
-How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
-
-- **@australiajobs-app.bsky.social**: White-collar burnout meets AI anxiety—and the result? A massive career pivot toward skilled trades. 🛠️💼 From former lawyers to tech professionals, thousands of Aussies are swapping spreadsheets for to
-  → https://bsky.app/profile/australiajobs-app.bsky.social/post/3mu75rbazs62m
-
-- **@kamloops.ca**: Is your home or business secured with an alarm system?
-Starting September 1, 2026, a new Security Alarm System Bylaw will take effect in Kamloops.
- 
-Key changes include:
-▪️ Increased service fees for 
-  → https://bsky.app/profile/kamloops.ca/post/3mtwhm6yqel2g
-
-- **@rustyeire.bsky.social**: Nichols must be pirouetting with joy.  This is centrists in a feckin' nutshell.  Wilson is right.  First order of business after the midterms is to get a Speaker with spine & a minimal idea of how not
-  → https://bsky.app/profile/rustyeire.bsky.social/post/3mtxcpi3ki22a
-
-- **@aitoolstoday.bsky.social**: 🏠 Contractors: what if AI could help you get more leads WITHOUT adding more hours to your day?
-
-AI Tools Today has a dedicated collection of AI tools for home service businesses 👇
-
-👉 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mtzpjq23e22p
-
-- **@aitoolstoday.bsky.social**: Your competition is using AI.
-
-Are you?
-
-From generating content to finding leads and automating repetitive marketing tasks, AI can help home service businesses save time and grow faster.
-
-Explore the
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mu433db42t2a
-
-- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
-
- https://stylelib.org/?p=973301 
-
-#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
-  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
-
-- **@veezystudios.bsky.social**: 🚨 **Attention Plumbing Business Owners & Managers: Emergency Calls Don’t Wait — and Neither Should You.**
-
-When disaster strikes — a midnight leak or a midday backup — homeowners aren’t scrolling thro
-  → https://bsky.app/profile/veezystudios.bsky.social/post/3mtzkdeolgd2y
