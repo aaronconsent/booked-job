@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@arlingtondes.bsky.social**: Tuesday, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guid
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtlxo3gnjd26
+
+- **@stylelib.org**: Reincon – Construction WordPress Theme
+
+ https://stylelib.org/?p=900343 
+
+#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
+  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
+
+- **@stylelib.org**: Tanj  – Construction WordPress Theme
+
+ https://stylelib.org/?p=164862 
+
+#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
+  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
+
+- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
+
+What business does government have deciding what relationships you can have, with whom, or what to call them?
+
+And why should
+  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
+
 - **@stylelib.org**: Construction – Industrial HTML5 Template
 
  https://themes.stylelib.org/?p=19090 
@@ -165,21 +189,3 @@ Explore the
 
 When disaster strikes — a midnight leak or a midday backup — homeowners aren’t scrolling thro
   → https://bsky.app/profile/veezystudios.bsky.social/post/3mtzkdeolgd2y
-
-- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
-
-The technology changed. The goal didn’t: find a local business you
-  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
-
-- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
-
- https://stylelib.org/?p=185862 
-
-#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
-  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
-
-- **@estarcontractor.bsky.social**: Doral warehouse, completely transformed. Our build-out at 2196 NW 82nd Ave proved what a licensed general contractor can do when they know Miami-Dade’s building codes. Your commercial space next? 954-
-  → https://bsky.app/profile/estarcontractor.bsky.social/post/3mu2z7xxsvo23
-
-- **@texascontractorseo.bsky.social**: When competitors paused their SEO, our ongoing reinforcement let us surge ahead and capture key spray foam opportunities in Austin’s busy market. 🚀 Ready to simplify your life? https://texascontractor
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bceeps2m
