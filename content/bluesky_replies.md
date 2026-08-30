@@ -2,6 +2,42 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@estarcontractor.bsky.social**: Before we touch your property, our general liability insurance certificate is already on file. Licensed, verified, and covered across Miami-Dade, Broward, and Palm Beach. What do you look for in a con
+  → https://bsky.app/profile/estarcontractor.bsky.social/post/3mucklkxffs25
+
+- **@glitchdeals.bsky.social**: Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) only $2.98 (Reg $7.01) or $2.53
+https://www.amazon.com/gp/product/B00004Z49P?smid=ATVPDKIKX0DER&th=1&linkCode=ll2&tag=bluesky0d
+  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mucxbagosw2o
+
+- **@arlingtondes.bsky.social**: STARTS AT NOON: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guidance on 
+  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtw5cqhmqo25
+
+- **@kamloops.ca**: Is your home or business secured with an alarm system?
+Starting September 1, 2026, a new Security Alarm System Bylaw will take effect in Kamloops.
+ 
+Key changes include:
+▪️ Increased service fees for 
+  → https://bsky.app/profile/kamloops.ca/post/3mtwhm6yqel2g
+
+- **@rustyeire.bsky.social**: Nichols must be pirouetting with joy.  This is centrists in a feckin' nutshell.  Wilson is right.  First order of business after the midterms is to get a Speaker with spine & a minimal idea of how not
+  → https://bsky.app/profile/rustyeire.bsky.social/post/3mtxcpi3ki22a
+
+- **@aitoolstoday.bsky.social**: 🏠 Contractors: what if AI could help you get more leads WITHOUT adding more hours to your day?
+
+AI Tools Today has a dedicated collection of AI tools for home service businesses 👇
+
+👉 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mtzpjq23e22p
+
+- **@aitoolstoday.bsky.social**: Your competition is using AI.
+
+Are you?
+
+From generating content to finding leads and automating repetitive marketing tasks, AI can help home service businesses save time and grow faster.
+
+Explore the
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mu433db42t2a
+
 - **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
  
 #Alerting #ITOps 
@@ -139,35 +175,3 @@ No lodging, gas, food, can’t use the bathroom. Get hurt? No medical care. If o
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@deety3.bsky.social**: willing to enforce it.
-
-"But have you heard of a single wealthy white farmer, general contractor, or other corporate employer of these “illegals” going to jail?
-
-"Of course not, because the show this 
-  → https://bsky.app/profile/deety3.bsky.social/post/3mu5iwjcu4k23
-
-- **@blueprintconsulting.ai**: Variations for trades + restaurants → blueprintconsulting.ai/blog/ai-becomes-plumbing
-
-Not sure where your business stands with AI? Take our 3-minute quiz → quiz.blueprintconsulting.ai
-
-#AITools #Smal
-  → https://bsky.app/profile/blueprintconsulting.ai/post/3mu3alwchpw2t
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mtvhektx4q2w
