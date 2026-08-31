@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Consistent local proof keeps you ahead, not behind. A Houston contractor reclaimed top spots by adding project galleries every month, which kept prospects coming back. 📈 Ready to simplify your life? h
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrl7brcu2o
+
+- **@texascontractorseo.bsky.social**: Adding city-specific pages matters if you cover multiple Texas cities. One client expanded from Dallas to Austin and doubled lead flow by targeting each city properly. 🌎 Ready to simplify your life? h
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlaqqdc2h
+
+- **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
+
+- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
+
+- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
+
+- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
+
+- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3mtgyx6uxah2k
 
@@ -159,27 +183,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@nityahuntley.bsky.social**: Do you think this money was earmarked at court? How many parents were murdered with secret service for Shotwell’s Israeli slush fund. Take it home. Her money is no good in the USA. That’s not how we d
   → https://bsky.app/profile/nityahuntley.bsky.social/post/3mucmpfwces25
-
-- **@texascontractorseo.bsky.social**: Finally, as the campaign expanded service depth from residential attics to commercial spray foam, leads stayed consistent thanks to an expert local SEO strategy. 🏗️ Ready to simplify your life? https:
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5bdezns2v
-
-- **@texascontractorseo.bsky.social**: That’s why service-area SEO is critical: it targets the exact neighborhoods and searches your customers are using so you show up where they click. Want to be the go-to plumber in their ZIP code?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5mdbsf42v
-
-- **@texascontractorseo.bsky.social**: Ready to dominate the Austin plumbing market? Discover how we can power your growth with expert SEO strategies designed just for contractors: texascontractorseo.com/locations/austin-plumbing-seo/.
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtn5mhm6yj2k
-
-- **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
-
-- **@texascontractorseo.bsky.social**: Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? Book a consultation or request a free audit. Learn more: https://texascontractorseo.com/resources/spray-foam-se
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6ao3xlt27
-
-- **@texascontractorseo.bsky.social**: By targeting multiple Texas cities, one spray foam contractor expanded their service reach and grew inbound calls by 35%. Local proof builds trust city by city, and that momentum started with the Hous
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75pi2zo2b
-
-- **@texascontractorseo.bsky.social**: Low-budget SEO gave one contractor initial visibility, but mid-tier investment sustained steady leads even as competitors ramped up. The city-by-city approach needs ongoing investment to keep momentum
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75quue627
-
-- **@texascontractorseo.bsky.social**: One customer’s ongoing SEO campaign condensed timelines, with steady lead increases appearing within 3 months instead of 6+. Ready to accelerate growth? https://texascontractorseo.com/resources/spray-
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75syimt2s
