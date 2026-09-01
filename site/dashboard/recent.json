@@ -1,57 +1,33 @@
 {
-  "updated": "2026-09-01T10:03",
+  "updated": "2026-09-01T13:38",
   "posts": [
     {
-      "ts": "2026-09-01T10:00:37",
-      "channel": "facebook",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T10:00:34",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T09:59:55",
+      "ts": "2026-09-01T13:35:55",
       "channel": "mastodon",
-      "item": "card-reviews",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-09-01T09:59:50",
+      "ts": "2026-09-01T13:35:51",
       "channel": "tumblr",
-      "item": "bj-cheapbid",
+      "item": "bj-wordpress",
       "url": null
     },
     {
-      "ts": "2026-09-01T09:59:48",
+      "ts": "2026-09-01T13:35:47",
       "channel": "bluesky",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     },
     {
-      "ts": "2026-09-01T09:59:43",
+      "ts": "2026-09-01T13:35:43",
       "channel": "linkedin",
-      "item": "bj-reviews",
+      "item": "bj-trade",
       "url": null
     },
     {
-      "ts": "2026-09-01T09:59:41",
+      "ts": "2026-09-01T13:35:38",
       "channel": "tiktok",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T09:59:40",
-      "channel": "ig",
-      "item": "clip2-game",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T09:59:06",
-      "channel": "facebook",
       "item": "bj-rev-hvac",
       "url": null
     }
