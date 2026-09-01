@@ -2,6 +2,40 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@castanet.net**: Thinking of leaving your desk job and entering the trades? Here's your guide (Canada)
+  → https://bsky.app/profile/castanet.net/post/3mufdcficm52u
+
+- **@dracula-hourly.bsky.social**: “‘Are you in the business yourself?’ I says, tyking off my ’at, for a man what trades in wolves, anceterer, is a good friend to keepers.
+  → https://bsky.app/profile/dracula-hourly.bsky.social/post/3mufmf3xoko24
+
+- **@peterllewellyn.bsky.social**: Thinking of leaving your desk job and entering the trades? Here’s what you should know first
+
+www.ctvnews.ca/business/art...
+  → https://bsky.app/profile/peterllewellyn.bsky.social/post/3mufqhsqjf22d
+
+- **@umlegacypress.com**: Thinking of leaving your desk job and entering the trades? Here’s your guide
+
+After more than 25 years into his job as a business administrator, Simon Hardcastle felt there was nothing left for him to
+  → https://bsky.app/profile/umlegacypress.com/post/3muhzzaklva2w
+
+- **@scrubfire84.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide
+
+After more than 25 years into his job as a business administrator, Simon Hardcastle felt there was nothing left for him to
+  → https://bsky.app/profile/scrubfire84.bsky.social/post/3mui2a74rko2b
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@rankednews.bsky.social**: Lowe's launches major effort to help close America's skilled trades gap: Lowe's has launched a major new initiative to address America's skilled trades gap, forming the Building Futures Skilled Trades
   → https://bsky.app/profile/rankednews.bsky.social/post/3muhz4fnehq2j
 
@@ -142,44 +176,3 @@ https://get.b
 
 When disaster strikes — a midnight leak or a midday backup — homeowners aren’t scrolling thro
   → https://bsky.app/profile/veezystudios.bsky.social/post/3mtzkdeolgd2y
-
-- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
-
-The technology changed. The goal didn’t: find a local business you
-  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
-
-- **@stylelib.org**: RinBuild – Construction Building Company WordPress Theme + RTL
-
- https://stylelib.org/?p=221740 
-
-#constructor #renovation #roofing #templatepath #themeforest #wordpress #architecture #business #build
-  → https://bsky.app/profile/stylelib.org/post/3mtton5grqr23
-
-- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
-
-How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
-
-- **@dig-a-hole.bsky.social**: 7/ You can audit classes on labor history through most colleges and universities. I highly recommend taking one if you're actually interested in the topic. Alternately, you can join a college accredit
-  → https://bsky.app/profile/dig-a-hole.bsky.social/post/3muh4zgxjus2h
-
-- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=888904 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
-
-- **@robertscotthorton.bsky.social**: Gary is a largely Black city with a GOP administration in a GOP-ruled. What is the lesson to take home from the massive, sustained power failure? They don't give a shit about Black citizens. blockclub
-  → https://bsky.app/profile/robertscotthorton.bsky.social/post/3mtppcvrxms2v
-
-- **@arlingtondes.bsky.social**: Tomorrow, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for gui
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtt2bmnc4223
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mtvhektx4q2w
-
-- **@arlingtondes.bsky.social**: STARTS AT NOON: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guidance on 
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtw5cqhmqo25
