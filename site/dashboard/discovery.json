@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:58:10Z",
+  "updated": "2026-08-31T23:45:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 38,
+        "uses": 39,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,14 +92,14 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#roofing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
         "tag": "#contractor",
         "uses": 5,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#plumbingservices",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466054,
+        "followers": 466111,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -201,21 +201,21 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4062,
+      "followers": 4063,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3825,
+      "followers": 3826,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2232,
+      "followers": 2233,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1566,
+      "followers": 1569,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
