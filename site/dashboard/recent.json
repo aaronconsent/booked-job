@@ -1,47 +1,4 @@
 {
-  "updated": "2026-08-31T19:00",
-  "posts": [
-    {
-      "ts": "2026-08-31T18:57:54",
-      "channel": "facebook",
-      "item": "card-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-08-31T18:57:47",
-      "channel": "mastodon",
-      "item": "card-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-08-31T18:57:42",
-      "channel": "tumblr",
-      "item": "bj-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-08-31T18:57:41",
-      "channel": "bluesky",
-      "item": "bj-stormchaser",
-      "url": null
-    },
-    {
-      "ts": "2026-08-31T18:57:38",
-      "channel": "linkedin",
-      "item": "bj-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-08-31T18:57:37",
-      "channel": "tiktok",
-      "item": "bj-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-08-31T18:57:36",
-      "channel": "ig",
-      "item": "clip1-turd",
-      "url": null
-    }
-  ]
+  "updated": "2026-08-31T23:59",
+  "posts": []
 }
