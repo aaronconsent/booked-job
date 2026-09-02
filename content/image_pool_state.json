@@ -5,12 +5,13 @@
       "card-angi",
       "card-reviews",
       "card-rev-plumb",
-      "card-rev-roof"
+      "card-rev-roof",
+      "card-rev-elec"
     ],
-    "last_iso": "2026-09-01T16:57:01",
+    "last_iso": "2026-09-01T19:12:58",
     "day": {
       "date": "2026-09-01",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
@@ -30,12 +31,13 @@
       "card-reviews",
       "card-rev-plumb",
       "card-rev-roof",
-      "card-rev-elec"
+      "card-rev-elec",
+      "card-rev-paint"
     ],
-    "last_iso": "2026-09-01T09:59:53",
+    "last_iso": "2026-09-01T19:12:58",
     "day": {
       "date": "2026-09-01",
-      "count": 1
+      "count": 2
     }
   }
 }
