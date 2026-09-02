@@ -7,12 +7,13 @@
       "card-rev-plumb",
       "card-rev-roof",
       "card-rev-elec",
-      "card-rev-paint"
+      "card-rev-paint",
+      "card-speed"
     ],
-    "last_iso": "2026-09-02T09:35:20",
+    "last_iso": "2026-09-02T13:48:53",
     "day": {
       "date": "2026-09-02",
-      "count": 1
+      "count": 2
     }
   },
   "ig": {

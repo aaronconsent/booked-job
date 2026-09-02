@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T14:22:56Z",
+  "updated": "2026-09-02T18:36:24Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -93,12 +93,12 @@
       },
       {
         "tag": "#roofing",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#contractor",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466112,
+        "followers": 466114,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23237,
+        "followers": 23239,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -170,12 +170,12 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7191,
+        "followers": 7192,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2342,
+        "followers": 2343,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10031,
+      "followers": 10030,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4072,
+      "followers": 4075,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -278,16 +278,16 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 848,
+      "followers": 849,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     },
     {
-      "handle": "@thebarehandyman.bsky.social",
-      "display": "The Bare Handyman",
-      "followers": 709,
-      "desc": "he/any - professional handyman",
-      "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
+      "handle": "@hvacdave.bsky.social",
+      "display": "Time Out",
+      "followers": 708,
+      "desc": "If we don't solve climate change then nothing else matters.",
+      "link": "https://bsky.app/profile/hvacdave.bsky.social"
     }
   ]
 }

@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @minibubbly.bsky.social: “Thinking of leaving your desk job and entering the trades? Here's your guide #Canada  Some…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/minibubbly.bsky.social/post/3mujykxpunc25",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @innevatoedu.bsky.social: “What could career exploration look like if students could ask the questions they really wa…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/innevatoedu.bsky.social/post/3mujzerzcmk2i",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @osna-fm.bsky.social: “With approximately 20,000 apprenticeship positions remaining unfilled in the skilled trade…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/osna-fm.bsky.social/post/3muj5efeoo62t",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @lordboise.bsky.social: “Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualifie…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @ghunkinking.bsky.social: “Who cares about scholarships? Her college is paid for no matter what school she chooses. S…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @collinwoodard.bsky.social: “oh so being a moderately successful car blogger isn't \"typical\"???…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @obs62.bsky.social: “I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I'…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24",
       "est": "2 min"
     },
     {

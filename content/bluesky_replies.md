@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
+
+- **@texascontractorseo.bsky.social**: Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? Book a consultation or request a free audit. Learn more: https://texascontractorseo.com/resources/spray-foam-se
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6ao3xlt27
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
+
+Start by comparing process, not just price.
+
+If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
+
 - **@minibubbly.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide #Canada
 
 Some career counsellors say they see more mid-career workers wanting to switch to skilled trades
@@ -155,20 +168,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@libertyhauling.bsky.social**: Planning a home renovation, a garage cleanout, a roofing job, or a full-scale construction project in Ocoee, FL? One of the biggest headaches isn’t the work itself — it’s figuring out what to do with 
   → https://bsky.app/profile/libertyhauling.bsky.social/post/3mttcqpc4h222
-
-- **@stylelib.org**: RinBuild – Construction Building Company WordPress Theme + RTL
-
- https://stylelib.org/?p=221740 
-
-#constructor #renovation #roofing #templatepath #themeforest #wordpress #architecture #business #build
-  → https://bsky.app/profile/stylelib.org/post/3mtton5grqr23
-
-- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
-
-How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
-
-- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
-
-The technology changed. The goal didn’t: find a local business you
-  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
