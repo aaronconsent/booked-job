@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
+
+- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
+
+ https://stylelib.org/?p=973301 
+
+#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
+  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
+
+- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
+
+ https://stylelib.org/?p=185862 
+
+#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
+  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
+
+- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=888904 
+
+#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
+  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
+
 - **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
 
@@ -150,21 +174,3 @@ When disaster strikes — a midnight leak or a midday backup — homeowners aren
 
 - **@theflyersprism.bsky.social**: With some unresolved business around the league (Larkin, Hellebuyck) could we see a little wave of pre-preseason trades?
   → https://bsky.app/profile/theflyersprism.bsky.social/post/3muitpnkmr22x
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@libertyhauling.bsky.social**: Planning a home renovation, a garage cleanout, a roofing job, or a full-scale construction project in Ocoee, FL? One of the biggest headaches isn’t the work itself — it’s figuring out what to do with 
-  → https://bsky.app/profile/libertyhauling.bsky.social/post/3mttcqpc4h222

@@ -60,12 +60,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-09-02T09:34:18",
+    "last_iso": "2026-09-02T16:57:01",
     "day": {
       "date": "2026-09-02",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -106,12 +107,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-09-02T13:48:31",
+    "last_iso": "2026-09-02T16:57:01",
     "day": {
       "date": "2026-09-02",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -142,12 +144,13 @@
       "bj-slow",
       "bj-cpbj",
       "bj-speed",
-      "bj-ftc"
+      "bj-ftc",
+      "bj-cpl"
     ],
-    "last_iso": "2026-09-02T13:48:31",
+    "last_iso": "2026-09-02T16:57:01",
     "day": {
       "date": "2026-09-02",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -186,12 +189,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-09-02T09:34:18",
+    "last_iso": "2026-09-02T16:57:01",
     "day": {
       "date": "2026-09-02",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -253,12 +257,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-09-02T13:48:31",
+    "last_iso": "2026-09-02T16:57:01",
     "day": {
       "date": "2026-09-02",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -320,12 +325,13 @@
       "bj-first10k",
       "bj-yelp",
       "bj-anon98",
-      "bj-missedcall"
+      "bj-missedcall",
+      "bj-stormchaser"
     ],
-    "last_iso": "2026-09-02T13:48:31",
+    "last_iso": "2026-09-02T16:57:01",
     "day": {
       "date": "2026-09-02",
-      "count": 2
+      "count": 3
     }
   }
 }
