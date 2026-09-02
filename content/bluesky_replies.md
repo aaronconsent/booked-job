@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@osna-fm.bsky.social**: With approximately 20,000 apprenticeship positions remaining unfilled in the skilled trades at the start of the new training year, the Central Association of Ge... https://news.osna.fm/?p=62013  | #ne
+  → https://bsky.app/profile/osna-fm.bsky.social/post/3muj5efeoo62t
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
 - **@stylelib.org**: Construction – Industrial HTML5 Template
 
  https://themes.stylelib.org/?p=19090 
@@ -156,22 +172,3 @@ The technology changed. The goal didn’t: find a local business you
 
 #architecture #building #business #company #construction #constructor #contractor #corporate #industry
   → https://bsky.app/profile/stylelib.org/post/3muei73emf22j
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
-
-- **@texascontractorseo.bsky.social**: Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? Book a consultation or request a free audit. Learn more: https://texascontractorseo.com/resources/spray-foam-se
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6ao3xlt27
-
-- **@arlingtondes.bsky.social**: Tomorrow, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for gui
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtt2bmnc4223
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mtvhektx4q2w
