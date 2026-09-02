@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@minibubbly.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide #Canada
+
+Some career counsellors say they see more mid-career workers wanting to switch to skilled trades
+
+www.cbc.ca/news/
+  → https://bsky.app/profile/minibubbly.bsky.social/post/3mujykxpunc25
+
+- **@innevatoedu.bsky.social**: What could career exploration look like if students could ask the questions they really want answered? From healthcare and skilled trades to IT, students can explore what's possible at their own pace.
+  → https://bsky.app/profile/innevatoedu.bsky.social/post/3mujzerzcmk2i
+
 - **@osna-fm.bsky.social**: With approximately 20,000 apprenticeship positions remaining unfilled in the skilled trades at the start of the new training year, the Central Association of Ge... https://news.osna.fm/?p=62013  | #ne
   → https://bsky.app/profile/osna-fm.bsky.social/post/3muj5efeoo62t
 
@@ -162,13 +172,3 @@ How long does it take to map a massive commercial roof? With our advanced digita
 
 The technology changed. The goal didn’t: find a local business you
   → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mucjmjw5yf26
-
-- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
-
- https://themes.stylelib.org/?p=16504 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry
-  → https://bsky.app/profile/stylelib.org/post/3muei73emf22j
