@@ -1,47 +1,4 @@
 {
-  "updated": "2026-09-01T19:14",
-  "posts": [
-    {
-      "ts": "2026-09-01T19:13:04",
-      "channel": "facebook",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T19:13:00",
-      "channel": "mastodon",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T19:12:57",
-      "channel": "tumblr",
-      "item": "bj-yelp",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T19:12:55",
-      "channel": "bluesky",
-      "item": "bj-reviews50",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T19:12:52",
-      "channel": "linkedin",
-      "item": "bj-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T19:12:51",
-      "channel": "tiktok",
-      "item": "bj-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-09-01T19:12:50",
-      "channel": "ig",
-      "item": "clip3-onestar",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-01T23:22",
+  "posts": []
 }

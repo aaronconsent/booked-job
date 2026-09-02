@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-09-01T23:21",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from 010001a05feae8d1-68f95bf8-c710-4886-ba66-0045078107be-000000@bounces.updates.resend.com — needs Aaron"
+    },
+    {
+      "ts": "2026-09-01T23:21",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 010001a05feae8d1-68f95bf8-c710-4886-ba66-0045078107be-000000@bounces.updates.resend.com: Bigger free tier, metrics API, and MCP spec support"
+    },
+    {
+      "ts": "2026-09-01T23:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: ba nobody sees"
+    },
+    {
+      "ts": "2026-09-01T23:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz gbp stale"
+    },
+    {
+      "ts": "2026-09-01T23:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy flextape"
+    },
+    {
       "ts": "2026-09-01T19:12",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-25T08:18",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: I Wore the Special Mormon Underwear | Long After the Thrill"
-    },
-    {
-      "ts": "2026-08-25T08:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz fire customer"
-    },
-    {
-      "ts": "2026-08-25T08:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: homeowner drain"
-    },
-    {
-      "ts": "2026-08-25T06:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: homeowner lie"
-    },
-    {
-      "ts": "2026-08-25T06:37",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
     }
   ]
 }
