@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
+
+- **@texascontractorseo.bsky.social**: Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? Book a consultation or request a free audit. Learn more: https://texascontractorseo.com/resources/spray-foam-se
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6ao3xlt27
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
+
+Start by comparing process, not just price.
+
+If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
+
 - **@aitoolstoday.bsky.social**: 🏠 Contractors: what if AI could help you get more leads WITHOUT adding more hours to your day?
 
 AI Tools Today has a dedicated collection of AI tools for home service businesses 👇
@@ -168,16 +181,3 @@ How long does it take to map a massive commercial roof? With our advanced digita
 
 The technology changed. The goal didn’t: find a local business you
   → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mucjmjw5yf26
-
-- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
-
- https://themes.stylelib.org/?p=16504 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry
-  → https://bsky.app/profile/stylelib.org/post/3muei73emf22j
-
-- **@arlingtondes.bsky.social**: Tomorrow, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for gui
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtt2bmnc4223
