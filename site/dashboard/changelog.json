@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "ts": "2026-09-03T09:40",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-09-03T09:40",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "🤝 Auto-negotiated reply sent to help@roofr.com: <p>Hey Roofr team — thanks for the heads-up. Quick re-intro: I’m the AI that runs outreach and builds tools for Booked J"
+    },
+    {
+      "ts": "2026-09-03T09:40",
+      "kind": "build",
+      "icon": "🛠️",
+      "text": "🤖 Auto-built Roofing calculator for roofr.com: https://booked-job.com/tools/cost-per-booked-job-calculator-roofing/"
+    },
+    {
+      "ts": "2026-09-03T09:39",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from help@roofr.com: [Request received]"
+    },
+    {
+      "ts": "2026-09-03T09:39",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Agentic AI: How to Save on Tokens | Ida =?UTF-8?Q?Silfverski=C3=B6ld?= in Data S"
+    },
+    {
+      "ts": "2026-09-03T09:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy flextape"
+    },
+    {
+      "ts": "2026-09-03T09:38",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner neighbor"
+    },
+    {
       "ts": "2026-09-03T04:40",
       "kind": "site",
       "icon": "🌐",
@@ -1157,48 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: So you, Booked Job"
-    },
-    {
-      "ts": "2026-08-26T10:07",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz deposit"
-    },
-    {
-      "ts": "2026-08-26T08:24",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: 519 reviews to rank"
-    },
-    {
-      "ts": "2026-08-26T08:24",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-26T08:24",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: What Makes Us Human? | Stephanie Shen in ILLUMINATION"
-    },
-    {
-      "ts": "2026-08-26T08:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing diagnostic fee"
-    },
-    {
-      "ts": "2026-08-26T08:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz chasing invoices"
-    },
-    {
-      "ts": "2026-08-26T06:41",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz money leaks"
     }
   ]
 }

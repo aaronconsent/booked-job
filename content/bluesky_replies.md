@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aitoolstoday.bsky.social**: 🏠 Contractors: what if AI could help you get more leads WITHOUT adding more hours to your day?
+
+AI Tools Today has a dedicated collection of AI tools for home service businesses 👇
+
+👉 aitoolstoday.blog
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mtzpjq23e22p
+
+- **@aitoolstoday.bsky.social**: Your competition is using AI.
+
+Are you?
+
+From generating content to finding leads and automating repetitive marketing tasks, AI can help home service businesses save time and grow faster.
+
+Explore the
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mu433db42t2a
+
+- **@nityahuntley.bsky.social**: Do you think this money was earmarked at court? How many parents were murdered with secret service for Shotwell’s Israeli slush fund. Take it home. Her money is no good in the USA. That’s not how we d
+  → https://bsky.app/profile/nityahuntley.bsky.social/post/3mucmpfwces25
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3muexlt3swu2p
+
 - **@stylelib.org**: Lumoria –  Architect, Construction WordPress Theme
 
  https://themes.stylelib.org/?p=849232 
@@ -157,21 +181,3 @@ The technology changed. The goal didn’t: find a local business you
 
 - **@arlingtondes.bsky.social**: Tomorrow, Aug. 25, noon: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for gui
   → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtt2bmnc4223
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3mtvhektx4q2w
-
-- **@arlingtondes.bsky.social**: STARTS AT NOON: Solar United webinar on home system maintenance and repair. Especially valuable for residents whose original installer has gone out of business, or just anyone looking for guidance on 
-  → https://bsky.app/profile/arlingtondes.bsky.social/post/3mtw5cqhmqo25
-
-- **@kamloops.ca**: Is your home or business secured with an alarm system?
-Starting September 1, 2026, a new Security Alarm System Bylaw will take effect in Kamloops.
- 
-Key changes include:
-▪️ Increased service fees for 
-  → https://bsky.app/profile/kamloops.ca/post/3mtwhm6yqel2g
-
-- **@rustyeire.bsky.social**: Nichols must be pirouetting with joy.  This is centrists in a feckin' nutshell.  Wilson is right.  First order of business after the midterms is to get a Speaker with spine & a minimal idea of how not
-  → https://bsky.app/profile/rustyeire.bsky.social/post/3mtxcpi3ki22a

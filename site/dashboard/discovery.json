@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T09:39:24Z",
+  "updated": "2026-09-03T14:25:49Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 28,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -92,19 +92,24 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#contractor",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
         "tag": "#plumbing",
         "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#contractor",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
         "tag": "#handyman",
         "uses": 3,
         "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#HVACSabotage",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/HVACSabotage"
       },
       {
         "tag": "#RoofingInsights",
@@ -127,11 +132,6 @@
         "link": "https://mastodon.social/tags/HVACOperations"
       },
       {
-        "tag": "#HVACProfitability",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACProfitability"
-      },
-      {
         "tag": "#plumbingservices",
         "uses": 0,
         "link": "https://mastodon.social/tags/plumbingservices"
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466169,
+        "followers": 466168,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -170,12 +170,12 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7192,
+        "followers": 7196,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2343,
+        "followers": 2342,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10031,
+      "followers": 10030,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4078,
+      "followers": 4080,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1574,
+      "followers": 1576,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
