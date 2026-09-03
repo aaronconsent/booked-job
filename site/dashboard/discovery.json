@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:33:45Z",
+  "updated": "2026-09-03T21:40:43Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 31,
+        "uses": 35,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/HVACOperations"
       },
       {
-        "tag": "#plumbingservices",
+        "tag": "#PlumbingExperts",
         "uses": 0,
-        "link": "https://mastodon.social/tags/plumbingservices"
+        "link": "https://mastodon.social/tags/PlumbingExperts"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23241,
+        "followers": 23249,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8489,
+        "followers": 8490,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -201,14 +201,14 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4080,
+      "followers": 4078,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3825,
+      "followers": 3826,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },

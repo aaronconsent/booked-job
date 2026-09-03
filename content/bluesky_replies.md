@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@yancyfx.bsky.social**: Did You Lose 3 Trades in a Row?
+
+
+#YancyFX #YFX #forex #fx #foreignexchange #forexmarket #forextrader #forextrading #forexeducation #forexnews #forexanalysis #forexstrategy #money #finance #daytrader 
+  → https://bsky.app/profile/yancyfx.bsky.social/post/3mukcy6xq7c25
+
+- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
+I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
+  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
 - **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
 
@@ -163,21 +185,3 @@ www.you
 
 https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
   → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
-
-How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets maybe 3-5 calls a week. A website + SEO + AI chatbot that answers "when can you come out?" at 2am? That turns into 15-20. We build it. You just show
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mul5lcztoh22
-
-- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
-
-The technology changed. The goal didn’t: find a local business you
-  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
