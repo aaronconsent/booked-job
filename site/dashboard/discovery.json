@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T04:20:38Z",
+  "updated": "2026-09-04T09:31:55Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -82,6 +82,11 @@
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
+        "tag": "#hvac",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#roofing",
         "uses": 6,
         "link": "https://mastodon.social/tags/roofing"
@@ -90,11 +95,6 @@
         "tag": "#contractor",
         "uses": 6,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
@@ -127,20 +127,20 @@
         "link": "https://mastodon.social/tags/HVACOperations"
       },
       {
-        "tag": "#plumbingservices",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/plumbingservices"
-      },
-      {
         "tag": "#PlumbingExperts",
         "uses": 0,
         "link": "https://mastodon.social/tags/PlumbingExperts"
+      },
+      {
+        "tag": "#plumbingservices",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/plumbingservices"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466167,
+        "followers": 466168,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23249,
+        "followers": 23251,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4080,
+      "followers": 4081,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
