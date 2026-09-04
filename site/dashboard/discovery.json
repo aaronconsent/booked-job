@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T18:19:16Z",
+  "updated": "2026-09-04T21:23:16Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 30,
+        "uses": 33,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/HVACTrends"
       },
       {
-        "tag": "#PlumbingExperts",
+        "tag": "#plumbingservices",
         "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingExperts"
+        "link": "https://mastodon.social/tags/plumbingservices"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23253,
+        "followers": 23254,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10033,
+      "followers": 10034,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4083,
+      "followers": 4084,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },

@@ -2,6 +2,56 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
+
+ https://stylelib.org/?p=973301 
+
+#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
+  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
+
+- **@veezystudios.bsky.social**: 🚨 **Attention Plumbing Business Owners & Managers: Emergency Calls Don’t Wait — and Neither Should You.**
+
+When disaster strikes — a midnight leak or a midday backup — homeowners aren’t scrolling thro
+  → https://bsky.app/profile/veezystudios.bsky.social/post/3mtzkdeolgd2y
+
+- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
+
+ https://stylelib.org/?p=185862 
+
+#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
+  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
+
+- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
+
+ https://themes.stylelib.org/?p=16504 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry
+  → https://bsky.app/profile/stylelib.org/post/3muei73emf22j
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
+
+- **@stylelib.org**: Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=4706 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumber #responsive #themef
+  → https://bsky.app/profile/stylelib.org/post/3muo4nmdkzs2f
+
+- **@rivercade.bsky.social**: Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on it is sponsored.
+
+No auction. No bid. No rep to call.
+
+The only input is what a machine can read about a busi
+  → https://bsky.app/profile/rivercade.bsky.social/post/3muoahl5il42q
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
 - **@minibubbly.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide #Canada
 
 Some career counsellors say they see more mid-career workers wanting to switch to skilled trades
@@ -154,31 +204,3 @@ https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespres
 
 - **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
-
-- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@premierroofing.bsky.social**: COMMERCIAL ROOF MAPPED IN UNDER 10 MINUTES
-
-How long does it take to map a massive commercial roof? With our advanced digital drone tech, Premier Roofing and Contracting does it in under 10 minutes wi
-  → https://bsky.app/profile/premierroofing.bsky.social/post/3mtyl7vx4on2w
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets maybe 3-5 calls a week. A website + SEO + AI chatbot that answers "when can you come out?" at 2am? That turns into 15-20. We build it. You just show
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mul5lcztoh22
-
-- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
-
-The technology changed. The goal didn’t: find a local business you
-  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mucjmjw5yf26
