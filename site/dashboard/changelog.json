@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-09-04T09:30",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: Angi costs $542 per job"
+    },
+    {
+      "ts": "2026-09-04T09:30",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-09-04T09:30",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: 5 AI Security Projects That Will Get You Hired in 2026 (and beyond) .. | Taimur "
+    },
+    {
+      "ts": "2026-09-04T09:29",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner youtube"
+    },
+    {
+      "ts": "2026-09-04T09:29",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor clean shirt"
+    },
+    {
       "ts": "2026-09-04T04:33",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounces+108678471-7343-hello=booked-job.com@em7172.mail.medium.com: Introducing the State of Writing Report at Medium Day"
-    },
-    {
-      "ts": "2026-08-27T15:33",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio49840.mail.hunter.io: NEW: Find Similar from Hunter.io"
-    },
-    {
-      "ts": "2026-08-27T15:33",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Your vision is unmatched"
-    },
-    {
-      "ts": "2026-08-27T15:33",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: So you, Booked Job"
-    },
-    {
-      "ts": "2026-08-27T15:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: homeowner quick"
-    },
-    {
-      "ts": "2026-08-27T15:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: homeowner drain"
     }
   ]
 }

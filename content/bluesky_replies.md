@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
 - **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
 
@@ -174,8 +179,3 @@ The technology changed. The goal didn’t: find a local business you
 
 After more than 25 years into his job as a business administrator, Simon Hardcastle felt there was nothing left for him to
   → https://bsky.app/profile/umlegacypress.com/post/3muhzzaklva2w
-
-- **@scrubfire84.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide
-
-After more than 25 years into his job as a business administrator, Simon Hardcastle felt there was nothing left for him to
-  → https://bsky.app/profile/scrubfire84.bsky.social/post/3mui2a74rko2b

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T04:31",
+  "updated": "2026-09-04T09:16",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -57,9 +57,9 @@
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 13,
+        "current": 14,
         "target": 25,
-        "pct": 52,
+        "pct": 56,
         "on_track": false
       },
       {
@@ -89,9 +89,9 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 13,
+        "current": 14,
         "target": 25,
-        "pct": 52,
+        "pct": 56,
         "on_track": false
       }
     ]
@@ -106,8 +106,8 @@
   "upcoming": [],
   "page": {
     "name": "Booked Job",
-    "followers": 13,
-    "likes": 13
+    "followers": 14,
+    "likes": 14
   },
   "content": {
     "posts_published": 73,
@@ -384,7 +384,7 @@
       "grade": "B",
       "group": "social",
       "views": 3594,
-      "followers": 13,
+      "followers": 14,
       "likes": 4
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 23,
+      "count": 24,
       "unit": "posts",
       "followers": 156,
       "grade": "B",
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 26,
+      "count": 29,
       "unit": "posts (Buffer)",
       "stat": "936 reach \u00b7 3 reactions",
       "views": 10,
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 19
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 19
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 14
+        "count": 17
       },
       {
         "type": "Documents",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Video",
@@ -772,11 +772,11 @@
   "funnel": {
     "reach": 36094,
     "engagement": 4,
-    "audience": 180,
+    "audience": 181,
     "cr_clicks": 96
   },
   "trends": {
-    "audience": 17,
+    "audience": 18,
     "engagement": 2,
     "email": 0,
     "reach": -1125
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1429,
+        "value": 1433,
         "grade": "A"
       },
       {
@@ -805,7 +805,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 180,
+        "value": 181,
         "grade": "C"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1429 posts, 180 audience, 96 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "summary": "Respectable for an early-stage brand. 1433 posts, 181 audience, 96 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
   }
 }
