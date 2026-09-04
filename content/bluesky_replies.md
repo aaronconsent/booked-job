@@ -2,6 +2,24 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@minibubbly.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide #Canada
+
+Some career counsellors say they see more mid-career workers wanting to switch to skilled trades
+
+www.cbc.ca/news/
+  → https://bsky.app/profile/minibubbly.bsky.social/post/3mujykxpunc25
+
+- **@yancyfx.bsky.social**: Did You Lose 3 Trades in a Row?
+
+
+#YancyFX #YFX #forex #fx #foreignexchange #forexmarket #forextrader #forextrading #forexeducation #forexnews #forexanalysis #forexstrategy #money #finance #daytrader 
+  → https://bsky.app/profile/yancyfx.bsky.social/post/3mukcy6xq7c25
+
+- **@mengli512.bsky.social**: CCXI trades at $13.82, a 38% premium to insiders, but Agility lacks audited revenue and faces unproven unit economics. Is this a bet or a business?
+$CCXI $TSLA $OUST 
+robopub.substack.com/p/agility-ro
+  → https://bsky.app/profile/mengli512.bsky.social/post/3muohblxaws2u
+
 - **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
 👇🏼
 @angieforfl.bsky.social
@@ -164,18 +182,3 @@ The technology changed. The goal didn’t: find a local business you
 
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3mucjmjw5yf26
-
-- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
-
- https://themes.stylelib.org/?p=16504 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry
-  → https://bsky.app/profile/stylelib.org/post/3muei73emf22j
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
-
-- **@umlegacypress.com**: Thinking of leaving your desk job and entering the trades? Here’s your guide
-
-After more than 25 years into his job as a business administrator, Simon Hardcastle felt there was nothing left for him to
-  → https://bsky.app/profile/umlegacypress.com/post/3muhzzaklva2w

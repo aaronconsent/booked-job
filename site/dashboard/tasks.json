@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @organizingpower.bsky.social: “Angie Nixon seems pretty cool? And she’s on BlueSky!  👇🏼 @angieforfl.bsky.social…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @texascontractorseo.bsky.social: “No gimmicks, just measurable tactics that increase visibility and generate qualified leads…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @texascontractorseo.bsky.social: “Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? B…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @texascontractorseo.bsky.social: “By targeting multiple Texas cities, one spray foam contractor expanded their service reach…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @phxhomeremodeling.bsky.social: “Who is the best remodeling contractor in Ahwatukee?  Start by comparing process, not just …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @curses.zone: “today on the listserv: a follow up from a March recommendation for a general contractor; a…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/curses.zone/post/3mukvysvn5k2g",
       "est": "2 min"
     },
     {
