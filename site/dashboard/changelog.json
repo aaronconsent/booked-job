@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-09-03T19:10",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor that guy"
+    },
+    {
       "ts": "2026-09-03T16:53",
       "kind": "engage",
       "icon": "💬",
@@ -1193,12 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@inspire.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-26T18:34",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@inspire.pinterest.com: You do you"
     }
   ]
 }
