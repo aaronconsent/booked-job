@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-09-04T23:18",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools borrowed"
+    },
+    {
       "ts": "2026-09-04T19:09",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@ideas.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-08-28T00:20",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces-1138496118209375426@ideas.pinterest.com: You do you"
     }
   ]
 }

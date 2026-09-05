@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:57:52Z",
+  "updated": "2026-09-05T04:16:20Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,18 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 34,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#roofing",
@@ -97,14 +87,19 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#contractor",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#hvac",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#plumbing",
         "uses": 4,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#plumbingtips",
@@ -120,6 +115,11 @@
         "tag": "#HVACSabotage",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACSabotage"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#HVACMyth",
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 727,
+        "followers": 726,
         "link": "https://mastodon.social/@Noshir"
       },
       {
@@ -250,7 +250,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1415,
+      "followers": 1414,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
