@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T04:16:20Z",
+  "updated": "2026-09-05T08:59:08Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 29,
+        "uses": 30,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#roofing",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/HVACTrends"
       },
       {
-        "tag": "#PlumbingExperts",
+        "tag": "#plumbingservices",
         "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingExperts"
+        "link": "https://mastodon.social/tags/plumbingservices"
       }
     ],
     "accounts": [
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@home_garden_and_diy@threads.net",
-        "followers": 97575,
+        "followers": 97573,
         "link": "https://threads.net/@home_garden_and_diy/"
       },
       {
@@ -155,17 +155,17 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23254,
+        "followers": 23258,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
         "handle": "@homeimprovement@lemmy.world",
-        "followers": 10849,
+        "followers": 10848,
         "link": "https://lemmy.world/c/homeimprovement"
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8491,
+        "followers": 8490,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4084,
+      "followers": 4083,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe. Be prepared for a lot of cunt here ⭕ | ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1820,
+      "followers": 1821,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
