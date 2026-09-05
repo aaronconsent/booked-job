@@ -2,6 +2,36 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kootenaygreg.bsky.social**: The jobs report is out. What part of Trade War is not sinking in? We are doing far better than trump thinks we should be, but the long term projects do employ people overnight. We need skilled people 
+  → https://bsky.app/profile/kootenaygreg.bsky.social/post/3mupmafcl7s23
+
+- **@bartlojo.bsky.social**: www.youtube.com/watch?v=y4Gf...
+  → https://bsky.app/profile/bartlojo.bsky.social/post/3mur4t4gat22l
+
+- **@texascontractorseo.bsky.social**: No gimmicks, just measurable tactics that increase visibility and generate qualified leads over time. Want predictable growth? Learn more: https://texascontractorseo.com/resources/spray-foam-seo/seo-c
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6amv6by2k
+
+- **@texascontractorseo.bsky.social**: Ready to stop chasing trends and start winning more spray foam jobs with consistent SEO? Book a consultation or request a free audit. Learn more: https://texascontractorseo.com/resources/spray-foam-se
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mts6ao3xlt27
+
+- **@texascontractorseo.bsky.social**: By targeting multiple Texas cities, one spray foam contractor expanded their service reach and grew inbound calls by 35%. Local proof builds trust city by city, and that momentum started with the Hous
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mtx75pi2zo2b
+
+- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
+
+Start by comparing process, not just price.
+
+If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
+
+- **@rivercade.bsky.social**: We checked the /llms.txt of 550 plumbing, HVAC, roofing and electric firms. 153 have one, and 80 of them did not write it.
+
+54 of those files tell an AI agent how to talk to the business. Wix or Shopi
+  → https://bsky.app/profile/rivercade.bsky.social/post/3mupovxphja2a
+
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/junk removal business gets found on Google, answers customer questions 24/7 with AI, and books more jobs automatically. That's a done-for-you website + SEO + chatbot. Ready to
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3muq6dzb5s526
 
@@ -171,35 +201,3 @@ What business does government have deciding what relationships you can have, wit
 
 And why should
   → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@kempmarketing.bsky.social**: Need a plumber, pizza, or someone to fix the AC? We used to grab the Yellow Pages. Now we Google, check reviews, and compare photos.
-
-The technology changed. The goal didn’t: find a local business you
-  → https://bsky.app/profile/kempmarketing.bsky.social/post/3mu2p5jps4b2b
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mucjmjw5yf26
-
-- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27

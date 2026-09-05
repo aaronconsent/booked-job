@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T12:37:27Z",
+  "updated": "2026-09-05T15:58:59Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/HVACTrends"
       },
       {
-        "tag": "#PlumbingExperts",
+        "tag": "#plumbingservices",
         "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingExperts"
+        "link": "https://mastodon.social/tags/plumbingservices"
       }
     ],
     "accounts": [
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8490,
+        "followers": 8489,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 726,
+        "followers": 727,
         "link": "https://mastodon.social/@Noshir"
       },
       {
