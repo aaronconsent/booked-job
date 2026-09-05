@@ -65,12 +65,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-09-04T16:34:29",
+    "last_iso": "2026-09-05T07:38:42",
     "day": {
-      "date": "2026-09-04",
-      "count": 2
+      "date": "2026-09-05",
+      "count": 1
     }
   },
   "tiktok": {
@@ -121,12 +122,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-09-04T19:09:09",
+    "last_iso": "2026-09-05T07:38:42",
     "day": {
-      "date": "2026-09-04",
-      "count": 4
+      "date": "2026-09-05",
+      "count": 1
     }
   },
   "linkedin": {
@@ -167,12 +169,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-09-04T19:09:09",
+    "last_iso": "2026-09-05T07:38:42",
     "day": {
-      "date": "2026-09-04",
-      "count": 4
+      "date": "2026-09-05",
+      "count": 1
     }
   },
   "facebook": {
@@ -216,12 +219,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-09-04T16:34:29",
+    "last_iso": "2026-09-05T07:38:42",
     "day": {
-      "date": "2026-09-04",
-      "count": 2
+      "date": "2026-09-05",
+      "count": 1
     }
   },
   "pinterest": {
@@ -293,12 +297,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-09-04T19:09:09",
+    "last_iso": "2026-09-05T07:38:42",
     "day": {
-      "date": "2026-09-04",
-      "count": 4
+      "date": "2026-09-05",
+      "count": 1
     }
   },
   "telegram": {
@@ -370,12 +375,13 @@
       "bj-track",
       "ad-arctic",
       "ad-pauls",
-      "ad-summit"
+      "ad-summit",
+      "clip-speed"
     ],
-    "last_iso": "2026-09-04T19:09:09",
+    "last_iso": "2026-09-05T07:38:42",
     "day": {
-      "date": "2026-09-04",
-      "count": 4
+      "date": "2026-09-05",
+      "count": 1
     }
   }
 }

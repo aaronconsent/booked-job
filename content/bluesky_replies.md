@@ -2,6 +2,66 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/junk removal business gets found on Google, answers customer questions 24/7 with AI, and books more jobs automatically. That's a done-for-you website + SEO + chatbot. Ready to
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3muq6dzb5s526
+
+- **@veezystudios.bsky.social**: 🚨 **Attention Plumbing Business Owners & Managers: Emergency Calls Don’t Wait — and Neither Should You.**
+
+When disaster strikes — a midnight leak or a midday backup — homeowners aren’t scrolling thro
+  → https://bsky.app/profile/veezystudios.bsky.social/post/3mtzkdeolgd2y
+
+- **@stylelib.org**: TheBuilt – Construction and Architecture WordPress theme
+
+ https://themes.stylelib.org/?p=16504 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry
+  → https://bsky.app/profile/stylelib.org/post/3muei73emf22j
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
+
+- **@stylelib.org**: Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=4706 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumber #responsive #themef
+  → https://bsky.app/profile/stylelib.org/post/3muo4nmdkzs2f
+
+- **@rivercade.bsky.social**: Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on it is sponsored.
+
+No auction. No bid. No rep to call.
+
+The only input is what a machine can read about a busi
+  → https://bsky.app/profile/rivercade.bsky.social/post/3muoahl5il42q
+
+- **@minibubbly.bsky.social**: Thinking of leaving your desk job and entering the trades? Here's your guide #Canada
+
+Some career counsellors say they see more mid-career workers wanting to switch to skilled trades
+
+www.cbc.ca/news/
+  → https://bsky.app/profile/minibubbly.bsky.social/post/3mujykxpunc25
+
+- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
+
+ https://stylelib.org/?p=973301 
+
+#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
+  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
+
+- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
+
+ https://stylelib.org/?p=185862 
+
+#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
+  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
 - **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
 I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
   → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
@@ -143,51 +203,3 @@ The technology changed. The goal didn’t: find a local business you
 
 - **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=888904 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
-
-- **@kootenaygreg.bsky.social**: The jobs report is out. What part of Trade War is not sinking in? We are doing far better than trump thinks we should be, but the long term projects do employ people overnight. We need skilled people 
-  → https://bsky.app/profile/kootenaygreg.bsky.social/post/3mupmafcl7s23
-
-- **@aitoolstoday.bsky.social**: 🏠 Contractors: what if AI could help you get more leads WITHOUT adding more hours to your day?
-
-AI Tools Today has a dedicated collection of AI tools for home service businesses 👇
-
-👉 aitoolstoday.blog
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mtzpjq23e22p
-
-- **@aitoolstoday.bsky.social**: Your competition is using AI.
-
-Are you?
-
-From generating content to finding leads and automating repetitive marketing tasks, AI can help home service businesses save time and grow faster.
-
-Explore the
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3mu433db42t2a
-
-- **@nityahuntley.bsky.social**: Do you think this money was earmarked at court? How many parents were murdered with secret service for Shotwell’s Israeli slush fund. Take it home. Her money is no good in the USA. That’s not how we d
-  → https://bsky.app/profile/nityahuntley.bsky.social/post/3mucmpfwces25
-
-- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
-Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
-#HamlinInsurance #WNCIns
-  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3muexlt3swu2p
-
-- **@sdgroupservice.bsky.social**: 🚗✨ Looking for a reliable insurance quote? At SD Group Service, we offer coverage for auto, business, commercial, home, and life. Let us help you find the best fit for your needs! Book your appointmen
-  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mumtijdvtf2g
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets maybe 3-5 calls a week. A website + SEO + AI chatbot that answers "when can you come out?" at 2am? That turns into 15-20. We build it. You just show
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mul5lcztoh22
-
-- **@rivercade.bsky.social**: We checked the /llms.txt of 550 plumbing, HVAC, roofing and electric firms. 153 have one, and 80 of them did not write it.
-
-54 of those files tell an AI agent how to talk to the business. Wix or Shopi
-  → https://bsky.app/profile/rivercade.bsky.social/post/3mupovxphja2a
