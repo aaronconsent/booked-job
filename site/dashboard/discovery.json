@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T23:47:50Z",
+  "updated": "2026-09-06T04:25:58Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,28 +78,28 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 32,
+        "uses": 30,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#hvac",
         "uses": 5,
         "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/roofing"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#plumbingtips",
@@ -243,7 +243,7 @@
     {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
-      "followers": 1471,
+      "followers": 1472,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
     },
