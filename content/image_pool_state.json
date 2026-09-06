@@ -6,12 +6,13 @@
       "card-reviews",
       "card-rev-plumb",
       "card-rev-roof",
-      "card-rev-elec"
+      "card-rev-elec",
+      "card-rev-paint"
     ],
-    "last_iso": "2026-09-05T16:19:58",
+    "last_iso": "2026-09-05T18:59:49",
     "day": {
       "date": "2026-09-05",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
@@ -39,12 +40,13 @@
       "card-ai",
       "card-anon98",
       "card-missedcall",
-      "card-trade"
+      "card-trade",
+      "carousel-leadsites"
     ],
-    "last_iso": "2026-09-05T11:10:25",
+    "last_iso": "2026-09-05T18:59:49",
     "day": {
       "date": "2026-09-05",
-      "count": 1
+      "count": 2
     }
   }
 }
