@@ -1,35 +1,4 @@
 {
-  "updated": "2026-09-06T19:00",
-  "posts": [
-    {
-      "ts": "2026-09-06T18:59:02",
-      "channel": "mastodon",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-09-06T18:58:57",
-      "channel": "tumblr",
-      "item": "rip-reviews-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-09-06T18:58:55",
-      "channel": "bluesky",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-09-06T18:58:52",
-      "channel": "linkedin",
-      "item": "bj-fakemaps",
-      "url": null
-    },
-    {
-      "ts": "2026-09-06T18:58:50",
-      "channel": "tiktok",
-      "item": "clip1-turd",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-06T23:27",
+  "posts": []
 }
