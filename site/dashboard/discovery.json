@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T21:17:19Z",
+  "updated": "2026-09-06T23:47:04Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -122,14 +122,14 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
-        "tag": "#HVACMyth",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACMyth"
-      },
-      {
         "tag": "#HVACTrends",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACTrends"
+      },
+      {
+        "tag": "#HVACMyth",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACMyth"
       },
       {
         "tag": "#PlumbingRepairs",
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10039,
+      "followers": 10040,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,14 +215,14 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2232,
+      "followers": 2233,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2231,
+      "followers": 2232,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1579,
+      "followers": 1580,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
